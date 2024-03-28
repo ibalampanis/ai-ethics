@@ -1,6 +1,17 @@
+
 # Embracing a Greener Lifestyle: Simple and Sustainable Choices
 
+## Introduction
+
+Welcome to our _Green Living Guide!_ This document outlines sustainable practices you can adopt to minimize your environmental impact and promote a healthier planet.
+
+# What is Green Living?
+
+**Green Living** is a way of sustainable habits so that they work alongside the resources of nature instead of destroying them. It reduces one's environmental impact by involving choices that minimize harm to the environment.
+
 Living a greener lifestyle not only benefits the environment but also contributes to personal well-being and the health of future generations. Whether you're passionate about conservation, reducing waste, or simply want to make a positive impact, there are plenty of interesting and fulfilling ways to adopt eco-friendly practices into your daily routine.
+
+
 
 ## 1. Reduce, Reuse, Recycle
 
@@ -29,3 +40,7 @@ Practice mindful consumerism by making informed choices about the products you b
 ## 7. Environmental Education and Advocacy
 
 Stay informed about environmental issues and take action to advocate for positive change. Educate yourself and others about the importance of conservation, climate action, and environmental justice. Get involved in local community initiatives, volunteer for environmental organizations, and participate in advocacy campaigns. Use your voice to urge policymakers and businesses to adopt sustainable practices and policies that protect the planet for future generations.
+
+## References: 
+[What is Green Living? - Greenly Earth][1] 
+[1]: (https://greenly.earth/en-us/blog/company-guide/what-is-green-living)

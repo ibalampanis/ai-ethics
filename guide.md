@@ -24,7 +24,7 @@ Embrace the mantra of "reduce, reuse, recycle" to minimize waste and conserve re
 Reduce your carbon footprint by opting for eco-friendly modes of transportation. Walk, bike, carpool, or use public transportation instead of driving alone. Consider investing in electric vehicles or hybrid cars for a more sustainable commute. Plan your trips efficiently and combine errands to minimize unnecessary driving.
 
 <p align="center">
-  <img width="200" src="media/transpotation.png" alt="">
+  <img width="200" src="media/transportation.png" alt="">
 </p>
 
 ## 3. Eco-Friendly Eating

@@ -15,6 +15,10 @@ Living a greener lifestyle not only benefits the environment but also contribute
 
 Embrace the mantra of "reduce, reuse, recycle" to minimize waste and conserve resources. Opt for reusable products such as water bottles, shopping bags, and containers, and recycle materials like paper, plastic, glass, and metal whenever possible. Consider upcycling old items into new creations or donating unwanted items to charity instead of throwing them away.
 
+<div style="display: flex; justify-content: center; align-items: center; height: 70vh;">
+    <img src="media/recycle-symbol.png" alt="Image Alt Text">
+</div>
+
 ## 2. Sustainable Transportation
 
 Reduce your carbon footprint by opting for eco-friendly modes of transportation. Walk, bike, carpool, or use public transportation instead of driving alone. Consider investing in electric vehicles or hybrid cars for a more sustainable commute. Plan your trips efficiently and combine errands to minimize unnecessary driving.

@@ -75,9 +75,14 @@ In the agriculture industry most GHG emissions come from meat. Farming releases 
   <img width="200" src="media/GHG_meat_emissions.png" alt="">
 </p>
 
+## 13. Volunteering
+
+Engage in environmental volunteering that resonates with your passions and principles. Explore a plethora of organizations and endeavors committed to conserving the environment and fostering sustainability. Seek out local initiatives concentrating on diverse activities such as planting trees, tidying beaches, safeguarding wildlife, or lobbying for policy reforms. Through volunteering, you not only directly contribute to environmental causes but also embark on a journey of personal enrichment, honing skills, and forging connections with fellow advocates who share your vision.
+
 ## References 
 1. [Safdie, S. (2023, August 9). What is green living? Greenly. Retrieved March 28, 2024.](https://greenly.earth/en-us/blog/company-guide/what-is-green-living)
 2. [AMC Staff. Go Green: 10 Tips for a More Sustainable Lifestyle. Retrieved March 29, 2024.](https://www.outdoors.org/resources/amc-outdoors/conservation-and-climate/go-green-10-tips-for-a-more-sustainable-lifestyle/)
 3. [Wark, Ciaran (2024, March 28). 40 Ways to Be More Eco Friendly in 2024](https://www.greenmatch.co.uk/blog/how-to-be-more-eco-friendly)
 4. [Nadine Hummert. Embracing Sustainability: A Guide To Encouraging A Greener Lifestyle. Retrieved November 23, 2023](https://equilibrium-lifestyle.co.uk/embracing-sustainability-a-guide-to-encouraging-a-greener-lifestyle/)
 5. [Berrill, Anna, Card, Nell, et al. (2020, February 29). 50 simple ways to make your life greener](https://www.theguardian.com/environment/2020/feb/29/50-ways-to-green-up-your-life-save-the-planet)
+6. [Jay Nandu. 10 Simple Steps to Embrace a Greener Lifestyle Today. Retrieved June 3, 2023](https://www.linkedin.com/pulse/10-simple-steps-embrace-greener-lifestyle-today-jay-nandu/)

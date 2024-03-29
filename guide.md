@@ -67,6 +67,14 @@ Practice conscientious water management by promptly repairing any leaks, investi
 
 Eco-driving, as proven by the <a href="https://www.racfoundation.org/"> RAC Foundation </a>, leads to safer, cleaner and more affordable journeys. Fuel efficiency can be improved by as much as 10% via regular vehicle maintenance. This maintenance should include checking tyre pressure (since tyres underinflated by a quarter can cause a 2% increase in fuel consumption), as well as removing unused roof racks and anything that adds unnecessary weight (since every additional 45kg reduces fuel economy by 2%). If the used speed is less than 40mph, it is more fuel-efficient to avoid using air conditioning and prefer opening a window. Furthermore, when stuck in wait times of one minute or more, engines should be turned off. Lastly, sharp acceleration and heavy braking should be widely avoided, given that aggressive driving can significantly raise fuel consumption.
 
+## 12. Eat Less Meat
+
+In the agriculture industry most GHG emissions come from meat. Farming releases two quite harmful greenhouse gases: methane from livestock during digestion and nitrous oxide, an indirect product of organic and mineral nitrogen fertilizers. All emissions occur through the stages of production, processing, packaging, and delivery, with the highest emissions coming from producing and preparing meat. So, less meat means less GHG emissions! That doesn't mean that everybody should make drastic changes like being vegetarian or vegan, simply reducing meat intake can already have a big impact.
+
+<p align="center">
+  <img width="200" src="media/GHG_meat_emissions.png" alt="">
+</p>
+
 ## References 
 1. [Safdie, S. (2023, August 9). What is green living? Greenly. Retrieved March 28, 2024.](https://greenly.earth/en-us/blog/company-guide/what-is-green-living)
 2. [AMC Staff. Go Green: 10 Tips for a More Sustainable Lifestyle. Retrieved March 29, 2024.](https://www.outdoors.org/resources/amc-outdoors/conservation-and-climate/go-green-10-tips-for-a-more-sustainable-lifestyle/)

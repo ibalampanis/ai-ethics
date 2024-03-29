@@ -67,9 +67,14 @@ Practice conscientious water management by promptly repairing any leaks, investi
 
 Eco-driving, as proven by the <a href="https://www.racfoundation.org/"> RAC Foundation </a>, leads to safer, cleaner and more affordable journeys. Fuel efficiency can be improved by as much as 10% via regular vehicle maintenance. This maintenance should include checking tyre pressure (since tyres underinflated by a quarter can cause a 2% increase in fuel consumption), as well as removing unused roof racks and anything that adds unnecessary weight (since every additional 45kg reduces fuel economy by 2%). If the used speed is less than 40mph, it is more fuel-efficient to avoid using air conditioning and prefer opening a window. Furthermore, when stuck in wait times of one minute or more, engines should be turned off. Lastly, sharp acceleration and heavy braking should be widely avoided, given that aggressive driving can significantly raise fuel consumption.
 
+## 12. Volunteering
+
+Engage in environmental volunteering that resonates with your passions and principles. Explore a plethora of organizations and endeavors committed to conserving the environment and fostering sustainability. Seek out local initiatives concentrating on diverse activities such as planting trees, tidying beaches, safeguarding wildlife, or lobbying for policy reforms. Through volunteering, you not only directly contribute to environmental causes but also embark on a journey of personal enrichment, honing skills, and forging connections with fellow advocates who share your vision.
+
 ## References 
 1. [Safdie, S. (2023, August 9). What is green living? Greenly. Retrieved March 28, 2024.](https://greenly.earth/en-us/blog/company-guide/what-is-green-living)
 2. [AMC Staff. Go Green: 10 Tips for a More Sustainable Lifestyle. Retrieved March 29, 2024.](https://www.outdoors.org/resources/amc-outdoors/conservation-and-climate/go-green-10-tips-for-a-more-sustainable-lifestyle/)
 3. [Wark, Ciaran (2024, March 28). 40 Ways to Be More Eco Friendly in 2024](https://www.greenmatch.co.uk/blog/how-to-be-more-eco-friendly)
 4. [Nadine Hummert. Embracing Sustainability: A Guide To Encouraging A Greener Lifestyle. Retrieved November 23, 2023](https://equilibrium-lifestyle.co.uk/embracing-sustainability-a-guide-to-encouraging-a-greener-lifestyle/)
 5. [Berrill, Anna, Card, Nell, et al. (2020, February 29). 50 simple ways to make your life greener](https://www.theguardian.com/environment/2020/feb/29/50-ways-to-green-up-your-life-save-the-planet)
+6. [Jay Nandu. 10 Simple Steps to Embrace a Greener Lifestyle Today. Retrieved June 3, 2023](https://www.linkedin.com/pulse/10-simple-steps-embrace-greener-lifestyle-today-jay-nandu/)

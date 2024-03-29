@@ -72,7 +72,7 @@ Eco-driving, as proven by the <a href="https://www.racfoundation.org/"> RAC Foun
 In the agriculture industry most GHG emissions come from meat. Farming releases two quite harmful greenhouse gases: methane from livestock during digestion and nitrous oxide, an indirect product of organic and mineral nitrogen fertilizers. All emissions occur through the stages of production, processing, packaging, and delivery, with the highest emissions coming from producing and preparing meat. So, less meat means less GHG emissions! That doesn't mean that everybody should make drastic changes like being vegetarian or vegan, simply reducing meat intake can already have a big impact.
 
 <p align="center">
-  <img width="200" src="media/GHG_meat_emissions.png" alt="">
+  <img width="400" src="media/GHG_meat_emissions.png" alt="">
 </p>
 
 ## 13. Volunteering

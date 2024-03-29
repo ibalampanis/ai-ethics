@@ -55,6 +55,11 @@ Stay informed about environmental issues and take action to advocate for positiv
 
 Only in the U.S., 30%-40% of the food supply ends up as a waste! The largest category of wasted items ends up in landfills, according to the <a href="https://www.fda.gov/food/consumers/food-loss-and-waste"> U.S. Food & Drug Administration </a>. That is extremely bad for the environment, since rotting food produces methane that contributes to climate change, but also a lost opportunity to feed those in need. To help reduce food waste you could try to limit shopping for only what you need. You can also try composting. Composting can be done by building your own compost bin, dropping off waste at a designated collection site, or participating in your city or town’s program.
 
+## 9. Biodegradable Household Products
+
+To limit the impact of non-recyclable products' waste, you can choose to purchase items made of non-synthetic ingredients that are biodegradable. Biodegradable products dissolve due to contact with bacteria and fungi. So, when they come into contact with nature, they will dissolve quickly through a natural process and won't cause any harm. These products could be: recycled toilet paper, natural ingredient shampoo, natural deodorant, bamboo toothbrush and hairbrush, biodegradable shopping bags, or washcloths made from hemp or agave fibres.
+
 ## References 
 1. [Safdie, S. (2023, August 9). What is green living? Greenly. Retrieved March 28, 2024.](https://greenly.earth/en-us/blog/company-guide/what-is-green-living)
 2. [AMC Staff. Go Green: 10 Tips for a More Sustainable Lifestyle. Retrieved March 29, 2024.](https://www.outdoors.org/resources/amc-outdoors/conservation-and-climate/go-green-10-tips-for-a-more-sustainable-lifestyle/)
+3. [Wark, Ciaran (2024, March 28). 40 Ways to Be More Eco Friendly in 2024](https://www.greenmatch.co.uk/blog/how-to-be-more-eco-friendly)

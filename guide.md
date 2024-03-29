@@ -59,7 +59,12 @@ Only in the U.S., 30%-40% of the food supply ends up as a waste! The largest cat
 
 To limit the impact of non-recyclable products' waste, you can choose to purchase items made of non-synthetic ingredients that are biodegradable. Biodegradable products dissolve due to contact with bacteria and fungi. So, when they come into contact with nature, they will dissolve quickly through a natural process and won't cause any harm. These products could be: recycled toilet paper, natural ingredient shampoo, natural deodorant, bamboo toothbrush and hairbrush, biodegradable shopping bags, or washcloths made from hemp or agave fibres.
 
+## 10. Water Conservation
+
+Practice conscientious water management by promptly repairing any leaks, investing in water-efficient appliances, shortening shower durations, and being mindful to turn off the faucet while shampooing or brushing your teeth. These seemingly minor adjustments in our daily water usage habits can collectively make a substantial impact on conservation efforts.
+
 ## References 
 1. [Safdie, S. (2023, August 9). What is green living? Greenly. Retrieved March 28, 2024.](https://greenly.earth/en-us/blog/company-guide/what-is-green-living)
 2. [AMC Staff. Go Green: 10 Tips for a More Sustainable Lifestyle. Retrieved March 29, 2024.](https://www.outdoors.org/resources/amc-outdoors/conservation-and-climate/go-green-10-tips-for-a-more-sustainable-lifestyle/)
 3. [Wark, Ciaran (2024, March 28). 40 Ways to Be More Eco Friendly in 2024](https://www.greenmatch.co.uk/blog/how-to-be-more-eco-friendly)
+4. [Nadine Hummert. Embracing Sustainability: A Guide To Encouraging A Greener Lifestyle. Retrieved November 23, 2023](https://equilibrium-lifestyle.co.uk/embracing-sustainability-a-guide-to-encouraging-a-greener-lifestyle/)

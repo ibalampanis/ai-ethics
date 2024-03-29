@@ -51,5 +51,10 @@ Practice mindful consumerism by making informed choices about the products you b
 
 Stay informed about environmental issues and take action to advocate for positive change. Educate yourself and others about the importance of conservation, climate action, and environmental justice. Get involved in local community initiatives, volunteer for environmental organizations, and participate in advocacy campaigns. Use your voice to urge policymakers and businesses to adopt sustainable practices and policies that protect the planet for future generations.
 
+## 8. Reduce Food Waste
+
+Only in the U.S., 30%-40% of the food supply ends up as a waste! The largest category of wasted items ends up in landfills, according to the <a href="https://www.fda.gov/food/consumers/food-loss-and-waste"> U.S. Food & Drug Administration </a>. That is extremely bad for the environment, since rotting food produces methane that contributes to climate change, but also a lost opportunity to feed those in need. To help reduce food waste you could try to limit shopping for only what you need. You can also try composting. Composting can be done by building your own compost bin, dropping off waste at a designated collection site, or participating in your city or town’s program.
+
 ## References 
 1. [Safdie, S. (2023, August 9). What is green living? Greenly. Retrieved March 28, 2024.](https://greenly.earth/en-us/blog/company-guide/what-is-green-living)
+2. [AMC Staff. Go Green: 10 Tips for a More Sustainable Lifestyle. Retrieved March 29, 2024.](https://www.outdoors.org/resources/amc-outdoors/conservation-and-climate/go-green-10-tips-for-a-more-sustainable-lifestyle/)

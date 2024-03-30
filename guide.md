@@ -25,6 +25,7 @@
 * [Why is it hard for people to adopt greener habbits?](#why-is-it-hard-for-people-to-adopt-greener-habbits)
 * [Adopting a Greener Lifestyle for Visual Learners!](#adopting-a-greener-lifestyle-for-visual-learners)
 * [Specific examples of Green Living](#specific-examples-of-green-living)
+* [Ready for a Scandal?](#ready-for-a-scandal)
 * [References](#references)
 
 
@@ -172,6 +173,26 @@ Walking, biking, or using public transportation | Cultivating a garden with nati
 Switching to an electric car | Choosing locally sourced and organic foods | Collecting rainwater for watering plants.
 Ridesharing to reduce the number of vehicles in the road | Reducing meat consuption | Installing low-flow showerheads 
 
+# Ready for a Scandal?
+
+We are no strangers to fast fashion due to the variety of industries that mass produce clothes to accommodate the growing needs of our generations. 
+
+*But is that really helpful for the environment?*
+
+Surely, not! And that is the case with the Shein Industry. You have probably heard of it, as it became very popular through tik tok, the famous application of short videos and exciting content. 
+
+Shein is a brand that mass produces clothes and distributes them internationally and at a very cheap price. It has faced many allegations over the years regarding the insufferable working conditions it creates for its employees, the inadequate pay and many more other huge issues including *- but not limited to -* copying designers and extremely low quality of the materials used in production. 
+
+The most important aspect to take away from the Shein scandal is the environmental damages that this brand produces daily. Making so many clothes in such little time is not as wonderful as it may seem at first glance. Some of the problems that Shein actively contributes to are excessive resource consumption, waste generation, and pollution - such dangerous problems that create critical life conditions for our world!
+
+<p align="center">
+  <img width="500" height="300" src="media/fast-fashion.jpeg" alt="fast-fashion">
+</p>
+
+I hope this is a reminder for you to stop helping huge, manipulative indrustries to thrive and, instead, invest in cute, vintage stores *(they are very in fashion right now!)* and buy second-hand as much as you can. 
+
+> **One man's trash is another man's treasure!**
+
 ## References 
 1. [AMC Staff. (Retrieved March 29, 2024). Go Green: 10 Tips for a More Sustainable Lifestyle. AMC Outdoors.](https://www.outdoors.org/resources/amc-outdoors/conservation-and-climate/go-green-10-tips-for-a-more-sustainable-lifestyle/)
 2. [Berrill, A., Card, N., et al. (2020, February 29). 50 simple ways to make your life greener. The Guardian.](https://www.theguardian.com/environment/2020/feb/29/50-ways-to-green-up-your-life-save-the-planet)
@@ -184,3 +205,5 @@ Ridesharing to reduce the number of vehicles in the road | Reducing meat consupt
 9. [Farmers Markets promote sustainability, Farmers Market Coalition (accessed Mar. 30, 2024).](https://farmersmarketcoalition.org/education/farmers-markets-promote-sustainability/)
 10. [H. Carrillo, 101 Sustainability Tips & Ideas for a greener lifestyle, Sustainable Jungle (accessed Mar. 30, 2024).](https://www.sustainablejungle.com/sustainable-living/sustainability-tips/) 
 11. [Sustainability in everyday life | Sustainability by ACCIONA](https://www.youtube.com/watch?v=kZIrIQDf1nQ)
+12. [Ready for a Scandal? | Image from the web](https://richardsonbay.audubon.org/sites/default/files/styles/article_hero_inline/public/fast_fashion_trash_0.jpeg?itok=k51OT4Sw)
+13. [The Washington Post, 2023. The scandals of Shein's fast-fashion empire.](https://www.washingtonpost.com/podcasts/post-reports/the-scandals-of-sheins-fastfashion-empire/)

@@ -1,7 +1,7 @@
 
 # Embracing a Greener Lifestyle: Simple and Sustainable Choices
 
-## Introduction
+# Introduction
 
 Welcome to our _Green Living Guide!_ This document outlines sustainable practices you can adopt to minimize your environmental impact and promote a healthier planet.
 

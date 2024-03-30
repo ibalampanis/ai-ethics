@@ -101,6 +101,19 @@ Embracing sustainable shopping practices is pivotal for those committed to an ec
 
 3.Green Shopping: Prioritize locally sourced goods over imported alternatives, minimize the use of single-use plastics whenever feasible, choose refillable containers over disposable ones, and invest in energy-efficient appliances to reduce environmental impact
 
+## 17. Organic Farming and Local Sourcing
+
+**Organic Farming**: When you choose organic produce, you’re supporting farming practices that prioritize soil health, biodiversity, and natural pest control. Organic farmers avoid synthetic pesticides and fertilizers, which can harm both the environment and human health. By opting for organic fruits, vegetables, and grains, you reduce your exposure to harmful chemicals and promote a healthier ecosystem.
+
+**Local Sourcing**: Purchasing locally grown food has several benefits. First, it reduces the carbon footprint associated with transportation.The shorter the food chain, the less waste created before it reaches your kitchen.Locally-sourced produce travels about 27 times less distance than conventionally sourced produce[^9]. When food doesn’t travel long distances, fewer greenhouse gases are emitted. Second, buying local supports small-scale farmers and strengthens the local economy. Additionally, local produce is often fresher and tastier because it doesn’t spend days or weeks in transit.
+
+By choosing organic and local products, you actively participate in a more sustainable food system—one that nourishes both people and the planet. Let’s make conscious choices that have a positive impact on our environment and well-being .
+
+<p align="center">
+  <img width="500" height="300" src="media/organic.jpeg" alt="organic products">
+</p>
+
+
 # What are the benefits of Green Living?
 * Make a difference in pollution by following the above habits.
 * Products on market become cheaper.
@@ -124,4 +137,4 @@ Ridesharing to reduce the number of vehicles in the road | Reducing meat consupt
 6. [Wark, C. (2024, March 28). 40 Ways to Be More Eco Friendly in 2024.](https://www.greenmatch.co.uk/blog/how-to-be-more-eco-friendly)
 7. [Environment programme (2022, May 04). 10 ways you can help fight the climate crisis.](https://www.unep.org/news-and-stories/story/10-ways-you-can-help-fight-climate-crisis)
 8. [ (2023, March 23). Transform Your Life: The Ultimate Guide to Sustainable Lifestyle.](https://greenliving.guru/sustainable-lifestyle/)
-
+9. [Farmers Markets promote sustainability, Farmers Market Coalition (accessed Mar. 30, 2024)](https://farmersmarketcoalition.org/education/farmers-markets-promote-sustainability/). 

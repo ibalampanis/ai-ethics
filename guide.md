@@ -105,13 +105,16 @@ Embracing sustainable shopping practices is pivotal for those committed to an ec
 
 **Organic Farming**: When you choose organic produce, you’re supporting farming practices that prioritize soil health, biodiversity, and natural pest control. Organic farmers avoid synthetic pesticides and fertilizers, which can harm both the environment and human health. By opting for organic fruits, vegetables, and grains, you reduce your exposure to harmful chemicals and promote a healthier ecosystem.
 
-**Local Sourcing**: Purchasing locally grown food has several benefits. First, it reduces the carbon footprint associated with transportation.The shorter the food chain, the less waste created before it reaches your kitchen.Locally-sourced produce travels about 27 times less distance than conventionally sourced produce[^9]. When food doesn’t travel long distances, fewer greenhouse gases are emitted. Second, buying local supports small-scale farmers and strengthens the local economy. Additionally, local produce is often fresher and tastier because it doesn’t spend days or weeks in transit.
+**Local Sourcing**: Purchasing locally grown food has several benefits. First, it reduces the carbon footprint associated with transportation.The shorter the food chain, the less waste created before it reaches your kitchen.Locally-sourced produce travels about 27 times less distance than conventionally sourced produce [9]. When food doesn’t travel long distances, fewer greenhouse gases are emitted. Second, buying local supports small-scale farmers and strengthens the local economy. Additionally, local produce is often fresher and tastier because it doesn’t spend days or weeks in transit.
 
 By choosing organic and local products, you actively participate in a more sustainable food system—one that nourishes both people and the planet. Let’s make conscious choices that have a positive impact on our environment and well-being .
 
 <p align="center">
   <img width="500" height="300" src="media/organic.jpeg" alt="organic products">
 </p>
+
+## 18. Sustainability  For Pet-Owners
+Embrace a greener lifestyle by selecting environmentally conscious pet toys. Ditch the plastic and opt for eco-friendly dog toys crafted from natural materials such as rice husk, rubber, and hemp, or consider those ingeniously made from recycled materials like old t-shirts. Also, Shop for sustainable dog food and eco-friendly cat food. Choosing sustainable pet food options can significantly decrease the carbon footprint linked with pet food production, which currently contributes to approximately 106 million tons of CO2 emissions [10].
 
 
 # What are the benefits of Green Living?
@@ -137,4 +140,5 @@ Ridesharing to reduce the number of vehicles in the road | Reducing meat consupt
 6. [Wark, C. (2024, March 28). 40 Ways to Be More Eco Friendly in 2024.](https://www.greenmatch.co.uk/blog/how-to-be-more-eco-friendly)
 7. [Environment programme (2022, May 04). 10 ways you can help fight the climate crisis.](https://www.unep.org/news-and-stories/story/10-ways-you-can-help-fight-climate-crisis)
 8. [ (2023, March 23). Transform Your Life: The Ultimate Guide to Sustainable Lifestyle.](https://greenliving.guru/sustainable-lifestyle/)
-9. [Farmers Markets promote sustainability, Farmers Market Coalition (accessed Mar. 30, 2024)](https://farmersmarketcoalition.org/education/farmers-markets-promote-sustainability/). 
+9. [Farmers Markets promote sustainability, Farmers Market Coalition (accessed Mar. 30, 2024).](https://farmersmarketcoalition.org/education/farmers-markets-promote-sustainability/)
+10. [H. Carrillo, “101 Sustainability Tips & Ideas for a greener lifestyle,” Sustainable Jungle (accessed Mar. 30, 2024).](https://www.sustainablejungle.com/sustainable-living/sustainability-tips/) 

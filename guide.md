@@ -83,6 +83,10 @@ In the agriculture industry most GHG emissions come from meat. Farming releases 
 
 Engage in environmental volunteering that resonates with your passions and principles. Explore a plethora of organizations and endeavors committed to conserving the environment and fostering sustainability. Seek out local initiatives concentrating on diverse activities such as planting trees, tidying beaches, safeguarding wildlife, or lobbying for policy reforms. Through volunteering, you not only directly contribute to environmental causes but also embark on a journey of personal enrichment, honing skills, and forging connections with fellow advocates who share your vision.
 
+## 14. Green Building Practices
+
+Prioritize energy-efficient construction designs, such as passive solar methods, high-performance windows and other smart functionalities in building architecture, in order to maintain green practices. Incorporate special house equipment, like wind moderators and heating devices, in order to reduce the reliance on fossil fuels and environmental-burdening sources. With the inclusion of these practices, not only do the green buildings decrease pollution but also establish comfortable living conditions.
+
 
 # What are the benefits of Green Living?
 * Make a difference in pollution by following the above habits.

@@ -23,6 +23,7 @@
   * [18. Sustainability For Pet-Owners](#18-sustainability--for-pet-owners)
 * [What are the benefits of Green Living?](#what-are-the-benefits-of-green-living)
 * [Why is it hard for people to adopt greener habbits?](#why-is-it-hard-for-people-to-adopt-greener-habbits)
+* [Adopting a Greener Lifestyle for Visual Learners!](#adopting-a-greener-lifestyle-for-visual-learners)
 * [Specific examples of Green Living](#specific-examples-of-green-living)
 * [References](#references)
 
@@ -160,6 +161,10 @@ Embrace a greener lifestyle by selecting environmentally conscious pet toys. Dit
 
 > Though adopting greener habits is not an easy task, we should always strive to make even the smallest of changes. Remember *something* is better than nothing!
 
+# Adopting a Greener Lifestyle for Visual Learners!
+
+Are you a visual learner? [Here](https://www.youtube.com/watch?v=kZIrIQDf1nQ) is a short video explaining how you can adopt a greener lifestyle by just switching out a few things or doing a few small tasks each day!
+
 # Specific examples of Green Living
 **Transportation** | **Diet** | **Water**
 --- | --- | ---
@@ -178,3 +183,4 @@ Ridesharing to reduce the number of vehicles in the road | Reducing meat consupt
 8. [ (2023, March 23). Transform Your Life: The Ultimate Guide to Sustainable Lifestyle.](https://greenliving.guru/sustainable-lifestyle/)
 9. [Farmers Markets promote sustainability, Farmers Market Coalition (accessed Mar. 30, 2024).](https://farmersmarketcoalition.org/education/farmers-markets-promote-sustainability/)
 10. [H. Carrillo, 101 Sustainability Tips & Ideas for a greener lifestyle, Sustainable Jungle (accessed Mar. 30, 2024).](https://www.sustainablejungle.com/sustainable-living/sustainability-tips/) 
+11. [Sustainability in everyday life | Sustainability by ACCIONA](https://www.youtube.com/watch?v=kZIrIQDf1nQ)

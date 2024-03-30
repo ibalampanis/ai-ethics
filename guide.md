@@ -87,6 +87,19 @@ Engage in environmental volunteering that resonates with your passions and princ
 
 Prioritize energy-efficient construction designs, such as passive solar methods, high-performance windows and other smart functionalities in building architecture, in order to maintain green practices. Incorporate special house equipment, like wind moderators and heating devices, in order to reduce the reliance on fossil fuels and environmental-burdening sources. With the inclusion of these practices, not only do the green buildings decrease pollution but also establish comfortable living conditions.
 
+## 15. Shop local and buy sustainable
+
+To minimize the carbon footprint of your food consumption, opt for locally sourced and seasonal produce. By doing so, you not only support small-scale businesses and farms in your vicinity but also diminish the greenhouse gas emissions linked to transportation and refrigeration. Sustainable agriculture practices, which utilize up to 56 percent less energy and generate 64 percent fewer emissions compared to conventional methods, foster greater biodiversity. Take your eco-friendly efforts a step further by cultivating your own fruits, vegetables, and herbs. Whether in a garden, on a balcony, or even a window sill, you can embark on home gardening ventures. Consider initiating a community garden project in your area to engage and inspire others to join in the sustainability movement.
+
+## 16. Sustainable Shopping Habits
+
+Embracing sustainable shopping practices is pivotal for those committed to an eco-conscious lifestyle, as it plays a vital role in minimizing our environmental impact. Below are some valuable pointers to guide ethical and green shopping decisions:
+
+1.Sustainable Shopping: Opt for products crafted from natural materials such as organic cotton or bamboo, consider purchasing secondhand items when feasible, and seek out products packaged with minimal or biodegradable materials.
+
+2.Ethical Shopping: Support companies committed to fair labor practices, producing high-quality goods with minimal waste generation, and emphasizing sustainability as a priority over maximizing profit margins.
+
+3.Green Shopping: Prioritize locally sourced goods over imported alternatives, minimize the use of single-use plastics whenever feasible, choose refillable containers over disposable ones, and invest in energy-efficient appliances to reduce environmental impact
 
 # What are the benefits of Green Living?
 * Make a difference in pollution by following the above habits.
@@ -101,6 +114,7 @@ Prioritize energy-efficient construction designs, such as passive solar methods,
 Walking, biking, or using public transportation | Cultivating a garden with native plants | Fixing leaks in plumbing fixtures and pipes
 Switching to an electric car | Choosing locally sourced and organic foods | Collecting rainwater for watering plants.
 Ridesharing to reduce the number of vehicles in the road | Reducing meat consuption | Installing low-flow showerheads 
+
 
 # Green Living in Computer Science
 Global warming, exacerbated by the increasing use of electricity, presents a pressing challenge for our planet.  According to the International Energy Agency Data centers account for 1% of world's electricity use (ca 200 terawatt-hours per year). Consequently, more and more researchers stress the need for an immediate change. 
@@ -125,7 +139,6 @@ Important Practices:
 * <em>Reducing Software Bloat:</em> Avoiding unnecessary features, functionalities, and dependencies in software applications to reduce code complexity and minimize resource consumption helps create leaner, more efficient software that requires fewer resources to operate.
 
 
-
 ## References 
 1. [AMC Staff. (Retrieved March 29, 2024). Go Green: 10 Tips for a More Sustainable Lifestyle. AMC Outdoors.](https://www.outdoors.org/resources/amc-outdoors/conservation-and-climate/go-green-10-tips-for-a-more-sustainable-lifestyle/)
 2. [Berrill, A., Card, N., et al. (2020, February 29). 50 simple ways to make your life greener. The Guardian.](https://www.theguardian.com/environment/2020/feb/29/50-ways-to-green-up-your-life-save-the-planet)
@@ -133,7 +146,8 @@ Important Practices:
 4. [Nandu, J. (Retrieved June 3, 2023). 10 Simple Steps to Embrace a Greener Lifestyle Today.](https://www.linkedin.com/pulse/10-simple-steps-embrace-greener-lifestyle-today-jay-nandu/)
 5. [Safdie, S. (2023, August 9). What is green living? Greenly. Retrieved March 28, 2024.](https://greenly.earth/en-us/blog/company-guide/what-is-green-living)
 6. [Wark, C. (2024, March 28). 40 Ways to Be More Eco Friendly in 2024.](https://www.greenmatch.co.uk/blog/how-to-be-more-eco-friendly)
-7. [IBM Cloud Education (2022, April 19). What Is Green Computing?](https://www.ibm.com/blog/green-computing/)
-8. [IBM Cloud Education (2023, January 9).Why Green Coding is a Powerful Catalyst for Sustainability Initiatives](https://www.ibm.com/blog/green-coding/) 
-
+7. [Environment programme (2022, May 04). 10 ways you can help fight the climate crisis.](https://www.unep.org/news-and-stories/story/10-ways-you-can-help-fight-climate-crisis)
+8. [ (2023, March 23). Transform Your Life: The Ultimate Guide to Sustainable Lifestyle.](https://greenliving.guru/sustainable-lifestyle/)
+9. [IBM Cloud Education (2022, April 19). What Is Green Computing?](https://www.ibm.com/blog/green-computing/)
+10. [IBM Cloud Education (2023, January 9).Why Green Coding is a Powerful Catalyst for Sustainability Initiatives](https://www.ibm.com/blog/green-coding/) 
 

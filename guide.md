@@ -102,6 +102,30 @@ Walking, biking, or using public transportation | Cultivating a garden with nati
 Switching to an electric car | Choosing locally sourced and organic foods | Collecting rainwater for watering plants.
 Ridesharing to reduce the number of vehicles in the road | Reducing meat consuption | Installing low-flow showerheads 
 
+# Green Living in Computer Science
+Global warming, exacerbated by the increasing use of electricity, presents a pressing challenge for our planet.  According to the International Energy Agency Data centers account for 1% of world's electricity use (ca 200 terawatt-hours per year). Consequently, more and more researchers stress the need for an immediate change. 
+
+One key aspect of addressing this challenge lies in the realm of computer science. By developing and utilizing powerful, energy-efficient computers, we can not only advance scientific research but also enhance our ability to respond to climate change. However, the responsibility does not solely rest on technological advancements; it also involves reevaluating and improving established processes.
+
+As companies look to transform business and implement more sustainable practices, they are digging deep into established processes to find new efficiencies. This includes evaluating the building blocks of their business operations, from storing data more efficiently to examining how code is written.
+
+## Green Computing
+<em>Green Computing</em> (also referred to as green IT or sustainable IT) is a practice that seeks to limit technology’s environmental impact, including reducing the carbon footprint in high-intensity operations, such as in manufacturing lines and data centers.
+A large portion of green computing efforts are focused on reducing the energy consumption and emissions of data centers, which need lots of energy and water to run and cool.
+
+By embracing green computing principles and integrating sustainable practices into data center operations and technology infrastructure, organizations can significantly reduce their environmental footprint while simultaneously improving operational efficiency and cost-effectiveness. 
+
+## Green Coding
+<em>Green coding</em> is an aspect of Green Computing and is the practice of writing and developing software in an environmentally friendly and sustainable manner. Integrating green coding practices into software development processes helps developers and organizations reduce their environmental impact, contribute to sustainability efforts and build more efficient and eco-friendly software solutions.
+Important Practices: 
+* <em>Efficient Code:</em> Efficient and  optimized code consumes fewer system resources such as CPU cycles, memory, and disk space thus reducing energy consumption and improving the overall performance of software applications.
+* <em>Minimizing Server Load:</em> Designing applications to minimize server load and resource usage by implementing caching mechanisms, load balancing, and optimizing database queries reduces the energy required to power and cool servers in data centers.
+* <em>Cloud Computing Optimization:</em> Leveraging cloud computing platforms efficiently to scale resources based on demand, optimize server utilization, and minimize idle capacity helps reduce energy consumption and carbon emissions associated with maintaining physical server infrastructure.
+* <em>Green Hosting:</em> Choosing environmentally friendly hosting providers that use renewable energy sources and implement energy-efficient infrastructure. 
+* <em>Reducing Software Bloat:</em> Avoiding unnecessary features, functionalities, and dependencies in software applications to reduce code complexity and minimize resource consumption helps create leaner, more efficient software that requires fewer resources to operate.
+
+
+
 ## References 
 1. [AMC Staff. (Retrieved March 29, 2024). Go Green: 10 Tips for a More Sustainable Lifestyle. AMC Outdoors.](https://www.outdoors.org/resources/amc-outdoors/conservation-and-climate/go-green-10-tips-for-a-more-sustainable-lifestyle/)
 2. [Berrill, A., Card, N., et al. (2020, February 29). 50 simple ways to make your life greener. The Guardian.](https://www.theguardian.com/environment/2020/feb/29/50-ways-to-green-up-your-life-save-the-planet)
@@ -109,4 +133,7 @@ Ridesharing to reduce the number of vehicles in the road | Reducing meat consupt
 4. [Nandu, J. (Retrieved June 3, 2023). 10 Simple Steps to Embrace a Greener Lifestyle Today.](https://www.linkedin.com/pulse/10-simple-steps-embrace-greener-lifestyle-today-jay-nandu/)
 5. [Safdie, S. (2023, August 9). What is green living? Greenly. Retrieved March 28, 2024.](https://greenly.earth/en-us/blog/company-guide/what-is-green-living)
 6. [Wark, C. (2024, March 28). 40 Ways to Be More Eco Friendly in 2024.](https://www.greenmatch.co.uk/blog/how-to-be-more-eco-friendly)
+7. [IBM Cloud Education (2022, April 19). What Is Green Computing?](https://www.ibm.com/blog/green-computing/)
+8. [IBM Cloud Education (2023, January 9).Why Green Coding is a Powerful Catalyst for Sustainability Initiatives](https://www.ibm.com/blog/green-coding/) 
+
 

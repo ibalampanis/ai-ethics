@@ -39,6 +39,10 @@ Make conscious choices about what you eat and where it comes from. Support local
 
 Save energy and reduce emissions by adopting energy-efficient practices at home and work. Switch to LED light bulbs, unplug electronics when not in use, use programmable thermostats to regulate heating and cooling, and invest in renewable energy sources such as solar panels or wind turbines. Consider energy audits to identify areas where you can improve efficiency and reduce consumption.
 
+<p align="center">
+  <img width="200" src="media/bulb_left.png" alt="">
+</p>
+
 ## 5. Green Spaces and Gardening
 
 Connect with nature by cultivating green spaces in your home or community. Plant trees, flowers, and native vegetation to promote biodiversity and provide habitats for wildlife. Start a garden to grow your own fruits, vegetables, and herbs, and compost organic waste to enrich the soil naturally. Create a sustainable garden design that conserves water, reduces chemical use, and attracts beneficial pollinators.

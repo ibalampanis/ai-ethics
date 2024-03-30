@@ -83,6 +83,21 @@ In the agriculture industry most GHG emissions come from meat. Farming releases 
 
 Engage in environmental volunteering that resonates with your passions and principles. Explore a plethora of organizations and endeavors committed to conserving the environment and fostering sustainability. Seek out local initiatives concentrating on diverse activities such as planting trees, tidying beaches, safeguarding wildlife, or lobbying for policy reforms. Through volunteering, you not only directly contribute to environmental causes but also embark on a journey of personal enrichment, honing skills, and forging connections with fellow advocates who share your vision.
 
+
+# What are the benefits of Green Living?
+..* Make a difference in pollution by following the above habits.
+..* Products on market become cheaper.
+..* Connection with like-minded individuals.
+..* Improvement of physical and mental health. 
+
+
+# Specific examples of Green Living
+**Transportation** | **Diet** | **Water**
+--- | --- | ---
+Walking, biking, or using public transportation | Cultivating a garden with native plants | Fixing leaks in plumbing fixtures and pipes
+Switching to an electric car | Choosing locally sourced and organic foods | Collecting rainwater for watering plants.
+Ridesharing to reduce the number of vehicles in the road | Reducing meat consuption | Installing low-flow showerheads 
+
 ## References 
 1. [AMC Staff. (Retrieved March 29, 2024). Go Green: 10 Tips for a More Sustainable Lifestyle. AMC Outdoors.](https://www.outdoors.org/resources/amc-outdoors/conservation-and-climate/go-green-10-tips-for-a-more-sustainable-lifestyle/)
 2. [Berrill, A., Card, N., et al. (2020, February 29). 50 simple ways to make your life greener. The Guardian.](https://www.theguardian.com/environment/2020/feb/29/50-ways-to-green-up-your-life-save-the-planet)

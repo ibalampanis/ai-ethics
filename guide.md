@@ -141,4 +141,4 @@ Ridesharing to reduce the number of vehicles in the road | Reducing meat consupt
 7. [Environment programme (2022, May 04). 10 ways you can help fight the climate crisis.](https://www.unep.org/news-and-stories/story/10-ways-you-can-help-fight-climate-crisis)
 8. [ (2023, March 23). Transform Your Life: The Ultimate Guide to Sustainable Lifestyle.](https://greenliving.guru/sustainable-lifestyle/)
 9. [Farmers Markets promote sustainability, Farmers Market Coalition (accessed Mar. 30, 2024).](https://farmersmarketcoalition.org/education/farmers-markets-promote-sustainability/)
-10. [H. Carrillo, “101 Sustainability Tips & Ideas for a greener lifestyle,” Sustainable Jungle (accessed Mar. 30, 2024).](https://www.sustainablejungle.com/sustainable-living/sustainability-tips/) 
+10. [H. Carrillo, 101 Sustainability Tips & Ideas for a greener lifestyle, Sustainable Jungle (accessed Mar. 30, 2024).](https://www.sustainablejungle.com/sustainable-living/sustainability-tips/) 

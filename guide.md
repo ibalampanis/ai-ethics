@@ -85,10 +85,10 @@ Engage in environmental volunteering that resonates with your passions and princ
 
 
 # What are the benefits of Green Living?
-..* Make a difference in pollution by following the above habits.
-..* Products on market become cheaper.
-..* Connection with like-minded individuals.
-..* Improvement of physical and mental health. 
+* Make a difference in pollution by following the above habits.
+* Products on market become cheaper.
+* Connection with like-minded individuals.
+* Improvement of physical and mental health. 
 
 
 # Specific examples of Green Living

@@ -1,6 +1,31 @@
 
 # Embracing a Greener Lifestyle: Simple and Sustainable Choices
 
+*[Introduction](https://github.com/ibalampanis/ai-ethics/blob/main/guide.md#introduction)
+*[What is Green Living?](https://github.com/ibalampanis/ai-ethics/blob/main/guide.md#what-is-green-living)
+--*[1. Reduce, Reuse, Recycle](https://github.com/ibalampanis/ai-ethics/blob/main/guide.md#1-reduce-reuse-recycle)
+--*[2. Sustainable Transportation](https://github.com/ibalampanis/ai-ethics/blob/main/guide.md#2-sustainable-transportation)
+--*[3. Eco-Friendly Eating](https://github.com/ibalampanis/ai-ethics/blob/main/guide.md#3-eco-friendly-eating)
+--*[4. Energy Conservation](https://github.com/ibalampanis/ai-ethics/blob/main/guide.md#4-energy-conservation)
+--*[5. Green Spaces and Gardening](https://github.com/ibalampanis/ai-ethics/blob/main/guide.md#5-green-spaces-and-gardening)
+--*[6. Conscious Consumption](https://github.com/ibalampanis/ai-ethics/blob/main/guide.md#6-conscious-consumption)
+--*[7. Environmental Education and Advocacy](https://github.com/ibalampanis/ai-ethics/blob/main/guide.md#7-environmental-education-and-advocacy)
+--*[8. Reduce Food Waste](https://github.com/ibalampanis/ai-ethics/blob/main/guide.md#8-reduce-food-waste)
+--*[9. Biodegradable Household Products](https://github.com/ibalampanis/ai-ethics/blob/main/guide.md#9-biodegradable-household-products)
+--*[10. Water Conservation](https://github.com/ibalampanis/ai-ethics/blob/main/guide.md#10-water-conservation)
+--*[11. Eco-Driving](https://github.com/ibalampanis/ai-ethics/blob/main/guide.md#11-eco-driving)
+--*[12. Eat Less Meat](https://github.com/ibalampanis/ai-ethics/blob/main/guide.md#12-eat-less-meat)
+--*[13. Volunteering](https://github.com/ibalampanis/ai-ethics/blob/main/guide.md#13-volunteering)
+--*[14. Green Building Practices](https://github.com/ibalampanis/ai-ethics/blob/main/guide.md#14-green-building-practices)
+--*[15. Shop local and buy sustainable](https://github.com/ibalampanis/ai-ethics/blob/main/guide.md#15-shop-local-and-buy-sustainable)
+--*[16. Sustainable Shopping Habits](https://github.com/ibalampanis/ai-ethics/blob/main/guide.md#16-sustainable-shopping-habits)
+--*[17. Organic Farming and Local Sourcing](https://github.com/ibalampanis/ai-ethics/blob/main/guide.md#17-organic-farming-and-local-sourcing)
+--*[18. Sustainability For Pet-Owners](https://github.com/ibalampanis/ai-ethics/blob/main/guide.md#18-sustainability--for-pet-owners)
+*[What are the benefits of Green Living?](https://github.com/ibalampanis/ai-ethics/blob/main/guide.md#what-are-the-benefits-of-green-living)
+*[Specific examples of Green Living](https://github.com/ibalampanis/ai-ethics/blob/main/guide.md#specific-examples-of-green-living)
+*[References](https://github.com/ibalampanis/ai-ethics/blob/main/guide.md#references)
+
+
 # Introduction
 
 Welcome to our _Green Living Guide!_ This document outlines sustainable practices you can adopt to minimize your environmental impact and promote a healthier planet.

@@ -87,6 +87,9 @@ Engage in environmental volunteering that resonates with your passions and princ
 
 Prioritize energy-efficient construction designs, such as passive solar methods, high-performance windows and other smart functionalities in building architecture, in order to maintain green practices. Incorporate special house equipment, like wind moderators and heating devices, in order to reduce the reliance on fossil fuels and environmental-burdening sources. With the inclusion of these practices, not only do the green buildings decrease pollution but also establish comfortable living conditions.
 
+## 15. Shop local and buy sustainable
+
+To minimize the carbon footprint of your food consumption, opt for locally sourced and seasonal produce. By doing so, you not only support small-scale businesses and farms in your vicinity but also diminish the greenhouse gas emissions linked to transportation and refrigeration. Sustainable agriculture practices, which utilize up to 56 percent less energy and generate 64 percent fewer emissions compared to conventional methods, foster greater biodiversity. Take your eco-friendly efforts a step further by cultivating your own fruits, vegetables, and herbs. Whether in a garden, on a balcony, or even a window sill, you can embark on home gardening ventures. Consider initiating a community garden project in your area to engage and inspire others to join in the sustainability movement.
 
 # What are the benefits of Green Living?
 * Make a difference in pollution by following the above habits.
@@ -109,4 +112,5 @@ Ridesharing to reduce the number of vehicles in the road | Reducing meat consupt
 4. [Nandu, J. (Retrieved June 3, 2023). 10 Simple Steps to Embrace a Greener Lifestyle Today.](https://www.linkedin.com/pulse/10-simple-steps-embrace-greener-lifestyle-today-jay-nandu/)
 5. [Safdie, S. (2023, August 9). What is green living? Greenly. Retrieved March 28, 2024.](https://greenly.earth/en-us/blog/company-guide/what-is-green-living)
 6. [Wark, C. (2024, March 28). 40 Ways to Be More Eco Friendly in 2024.](https://www.greenmatch.co.uk/blog/how-to-be-more-eco-friendly)
+7. [Environment programme (2022, May 04). 10 ways you can help fight the climate crisis.](https://www.unep.org/news-and-stories/story/10-ways-you-can-help-fight-climate-crisis)
 

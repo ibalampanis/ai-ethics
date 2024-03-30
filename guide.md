@@ -22,6 +22,7 @@
   * [17. Organic Farming and Local Sourcing](#17-organic-farming-and-local-sourcing)
   * [18. Sustainability For Pet-Owners](#18-sustainability--for-pet-owners)
 * [What are the benefits of Green Living?](#what-are-the-benefits-of-green-living)
+* [Why is it hard for people to adopt greener habbits?](#why-is-it-hard-for-people-to-adopt-greener-habbits)
 * [Specific examples of Green Living](#specific-examples-of-green-living)
 * [References](#references)
 
@@ -148,6 +149,16 @@ Embrace a greener lifestyle by selecting environmentally conscious pet toys. Dit
 * Connection with like-minded individuals.
 * Improvement of physical and mental health. 
 
+# Why is it hard for people to adopt greener habbits?
+
+* Lack of Awareness
+* Cost
+* Convenience
+* Habits
+* Social Environment
+* Time constraints
+
+> Though adopting greener habits is not an easy task, we should always strive to make even the smallest of changes. Remember *something* is better than nothing!
 
 # Specific examples of Green Living
 **Transportation** | **Diet** | **Water**

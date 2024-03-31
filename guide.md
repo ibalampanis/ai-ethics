@@ -22,7 +22,7 @@
   * [17. Organic Farming and Local Sourcing](#17-organic-farming-and-local-sourcing)
   * [18. Sustainability For Pet-Owners](#18-sustainability--for-pet-owners)
 * [What are the benefits of Green Living?](#what-are-the-benefits-of-green-living)
-* [Why is it hard for people to adopt greener habbits?](#why-is-it-hard-for-people-to-adopt-greener-habits)
+* [Why is it hard for people to adopt greener habits?](#why-is-it-hard-for-people-to-adopt-greener-habits)
 * [Adopting a Greener Lifestyle for Visual Learners!](#adopting-a-greener-lifestyle-for-visual-learners)
 * [Specific examples of Green Living](#specific-examples-of-green-living)
 * [Ready for a Scandal?](#ready-for-a-scandal)
@@ -180,7 +180,7 @@ We are no strangers to fast fashion due to the variety of industries that mass p
 
 *But is that really helpful for the environment?*
 
-Surely, not! And that is the case with the Shein Industry. You have probably heard of it, as it became very popular through tik tok, the famous application of short videos and exciting content. 
+Surely, not! And that is the case with the Shein Industry. You have probably heard of it, as it became very popular through TikTok, the famous application of short videos and exciting content. 
 
 Shein is a brand that mass produces clothes and distributes them internationally and at a very cheap price. It has faced many allegations over the years regarding the insufferable working conditions it creates for its employees, the inadequate pay and many more other huge issues including *- but not limited to -* copying designers and extremely low quality of the materials used in production. 
 

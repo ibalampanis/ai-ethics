@@ -34,11 +34,23 @@ The vast amounts of data required for AI applications raise concerns about priva
 - **Consent**
   The question whether a user can give informed consent in a system that he himself may not understand. This category falls under the premise that users, when interacting with online content, make a choice regarding the share of their data. But can they make the same choice when they dont know the insides of the AI models used by the private company/ organization?
 
+<p align="center">
+  <img width="200" src="media/AI/privacy.png" alt="">
+</p>
+
+*Icon made by deemakdaksina from [www.flaticon.com](https://www.flaticon.com/)*
+
 ### Accountability and Transparency
 The opacity of AI decision-making processes poses challenges for accountability. It can be difficult to understand how and why AI systems make decisions, making it challenging to assign responsibility in case of errors or harm. Ensuring transparency and explainability in AI algorithms is crucial for accountability and trust.
 
 ### Job Displacement
 Automation driven by AI has the potential to disrupt labor markets, leading to job displacement. This raises ethical questions about ensuring the welfare and retraining of displaced workers, as well as addressing potential economic inequalities arising from AI-driven automation.
+
+<p align="center">
+  <img width="200" src="media/AI/job.png" alt="">
+</p>
+
+*Icon made by Freepik from [www.flaticon.com](https://www.flaticon.com/)*
 
 ### Autonomous Weapons
 The development of autonomous weapons powered by AI raises serious ethical questions about the delegation of lethal decision-making to machines. Concerns include the potential for unintended consequences, civilian harm, and the erosion of moral responsibility in warfare.
@@ -46,11 +58,29 @@ The development of autonomous weapons powered by AI raises serious ethical quest
 ### Algorithmic Transparency
 The frequent lack of transparency in algorithmic design, creates major concerns when it comes to the interests and the motives of the creators. The development of AI by various companies often contains the danger of system manipulation, in order to address external motives. This could potentially lead to incidents of discrimination, or inability to mitigate bias.
 
+<p align="center">
+  <img width="200" src="media/AI/algorithm.png" alt="">
+</p>
+
+*Icon made by Eucalyp from [www.flaticon.com](https://www.flaticon.com/)*
+
 ### Data Modification
 After the data fitting process, modifying or removing data in the training set can be a very complex request. An organization that discovers its model was trained on inaccurate data may face substantial repercussions that can be hard to undo.
 
+<p align="center">
+  <img width="200" src="media/AI/data.png" alt="">
+</p>
+
+*Icon made by monkik from [www.flaticon.com](https://www.flaticon.com/)*
+
 ### Environmental Impact
 Training AI models requires immense amounts of resources and significant computational power. The process leads to vast energy consumption and burning of fossil fuels. Subsequently, the carbon emissions result in significant environmental pollution, making the deployment of the models a resource-intensive procedure.
+
+<p align="center">
+  <img width="200" src="media/AI/green-earth.png" alt="">
+</p>
+
+*Icon made by juicy_fish from [www.flaticon.com](https://www.flaticon.com/)*
 
 ## Ethical Principles for AI Development
 

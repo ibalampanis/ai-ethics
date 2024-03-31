@@ -22,7 +22,7 @@
   * [17. Organic Farming and Local Sourcing](#17-organic-farming-and-local-sourcing)
   * [18. Sustainability For Pet-Owners](#18-sustainability--for-pet-owners)
 * [What are the benefits of Green Living?](#what-are-the-benefits-of-green-living)
-* [Why is it hard for people to adopt greener habbits?](#why-is-it-hard-for-people-to-adopt-greener-habbits)
+* [Why is it hard for people to adopt greener habbits?](#why-is-it-hard-for-people-to-adopt-greener-habits)
 * [Adopting a Greener Lifestyle for Visual Learners!](#adopting-a-greener-lifestyle-for-visual-learners)
 * [Specific examples of Green Living](#specific-examples-of-green-living)
 * [Ready for a Scandal?](#ready-for-a-scandal)
@@ -152,7 +152,7 @@ Embrace a greener lifestyle by selecting environmentally conscious pet toys. Dit
 * Connection with like-minded individuals.
 * Improvement of physical and mental health. 
 
-# Why is it hard for people to adopt greener habbits?
+# Why is it hard for people to adopt greener habits?
 
 * Lack of Awareness
 * Cost
@@ -168,11 +168,11 @@ Embrace a greener lifestyle by selecting environmentally conscious pet toys. Dit
 Are you a visual learner? [Here](https://www.youtube.com/watch?v=kZIrIQDf1nQ) is a short video explaining how you can adopt a greener lifestyle by just switching out a few things or doing a few small tasks each day!
 
 # Specific examples of Green Living
-| **Transportation**                                       | **Diet**                                   | **Water**                                   |
-|----------------------------------------------------------|--------------------------------------------|---------------------------------------------|
-| Walking, biking, or using public transportation          | Cultivating a garden with native plants    | Fixing leaks in plumbing fixtures and pipes |
-| Switching to an electric car                             | Choosing locally sourced and organic foods | Collecting rainwater for watering plants.   |
-| Ridesharing to reduce the number of vehicles in the road | Reducing meat consuption                   | Installing low-flow showerheads             |
+| **Transportation**                                        | **Diet**                                   | **Water**                                   |
+|-----------------------------------------------------------|--------------------------------------------|---------------------------------------------|
+| Walking, biking, or using public transportation           | Cultivating a garden with native plants    | Fixing leaks in plumbing fixtures and pipes |
+| Switching to an electric car                              | Choosing locally sourced and organic foods | Collecting rainwater for watering plants.   |
+| Ride-sharing to reduce the number of vehicles in the road | Reducing meat consuption                   | Installing low-flow showerheads             |
 
 # Ready for a Scandal?
 
@@ -190,13 +190,13 @@ The most important aspect to take away from the Shein scandal is the environment
   <img width="500" height="300" src="media/fast-fashion.jpeg" alt="fast-fashion">
 </p>
 
-I hope this is a reminder for you to stop helping huge, manipulative indrustries to thrive and, instead, invest in cute, vintage stores *(they are very in fashion right now!)* and buy second-hand as much as you can. 
+I hope this is a reminder for you to stop helping huge, manipulative industries to thrive and, instead, invest in cute, vintage stores *(they are very in fashion right now!)* and buy second-hand as much as you can. 
 
 > **One man's trash is another man's treasure!**
 
 # The Electric Car Myth
 
-Its widely supported that the solution to all our transport sustainability goals is the electrification of personal passenger cars. Many outlets support this clause and pursue a future where every car is switched from gas to electric and we all live happily ever after. This goal which is widely regarded as fact if completely baseless. Electric cars when taking in to account other environmental impacts (such as Manufacturing & Disposal, Roadway Creation, and Maintenance) and not just their operative emissions (which for electric mobility are essentially zero if powered by renewables sources) a really different picture is painted. Electric cars cannot beat a single mode of land based public transit (powered by electricity or not) in the carbon emissions equivalence per passenger per kilometer[14]. We have the means today to meet our emissions goals (public transit) but the only solution pushed is electric cars. That’s not to say that gas guzzling cars should not be replaces by electric ones; but with an average urban load capacity of 1.3 passengers per steel death trap (car)[15] maybe its time to push for the adoption of urban public transit as the real solution to the new greener world.
+Its widely supported that the solution to all our transport sustainability goals is the electrification of personal passenger cars. Many outlets support this clause and pursue a future where every car is switched from gas to electric, and we all live happily ever after. This goal which is widely regarded as fact if completely baseless. Electric cars when taking into account other environmental impacts (such as Manufacturing & Disposal, Roadway Creation, and Maintenance) and not just their operative emissions (which for electric mobility are essentially zero if powered by renewables sources) a really different picture is painted. Electric cars cannot beat a single mode of land based public transit (powered by electricity or not) in the carbon emissions equivalence per passenger per kilometer[14]. We have the means today to meet our emissions goals (public transit) but the only solution pushed is electric cars. That’s not to say that gas guzzling cars should not be replaces by electric ones; but with an average urban load capacity of 1.3 passengers per steel death trap (car)[15] maybe it's time to push for the adoption of urban public transit as the real solution to the new greener world.
 
 <p align="center">
   <img width="700" height="900" src="media/CO2-output-by-transport-type.png" alt="fast-fashion">

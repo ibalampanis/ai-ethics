@@ -75,6 +75,6 @@ AI models must possess the capability to elucidate their comprehensive decision-
 1. Doe, J. (2020). "Ethical Considerations in AI Development." *Journal of AI Ethics*, 12(3), 45-67.
 2. Smith, A. (2019). "Privacy Challenges in AI Applications." *AI Today*, 5(2), 112-125.
 3. Green, L. (2021). "Addressing Job Displacement in the Age of AI." *Workplace Futures*, 17(1), 78-91.
-4. Maria Luciana Axente and Ilana Golbin(2022). "Ten principles for ethical AI"
+4. Maria Luciana Axente and Ilana Golbin(2022). "Ten principles for ethical AI".
 5. Spair, R. (2023). "The Ethics of AI Surveillance: Balancing Security and Privacy".
 6. Pallardy, C (2023). "The proliferation of artificial intelligence comes with big questions about data privacy and risk". *Information Week*.

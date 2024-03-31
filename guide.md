@@ -9,6 +9,7 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [Job Displacement](#job-displacement)
   - [Autonomous Weapons](#autonomous-weapons)
   - [Algorithmic Transparency](#algorithmic-transparency)
+  - [Data Modification](#data-modification)
   - [Environmental Impact](#environmental-impact)
 - [Ethical Principles for AI Development](#ethical-principles-for-ai-development)
   - [Fairness and Equity](#fairness-and-equity)

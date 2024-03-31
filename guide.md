@@ -27,6 +27,12 @@ AI systems often learn from historical data, which may contain biases reflecting
 ### Privacy
 The vast amounts of data required for AI applications raise concerns about privacy. Unauthorized access to personal data or its misuse can lead to breaches of privacy and surveillance issues, undermining individuals' autonomy and rights.
 
+- **Surveillance**
+	The use of AI models to monitor humans for purposes such as security and marketing. The latter can easily resolve to problems regarding abuse of power by some individuals that may even use the technology for political reasons based on their beliefs or affiliations.
+
+- **Consent**
+  The question whether a user can give informed consent in a system that he himself may not understand. This category falls under the premise that users, when interacting with online content, make a choice regarding the share of their data. But can they make the same choice when they dont know the insides of the AI models used by the private company/ organization?
+
 ### Accountability and Transparency
 The opacity of AI decision-making processes poses challenges for accountability. It can be difficult to understand how and why AI systems make decisions, making it challenging to assign responsibility in case of errors or harm. Ensuring transparency and explainability in AI algorithms is crucial for accountability and trust.
 
@@ -67,3 +73,5 @@ AI models must possess the capability to elucidate their comprehensive decision-
 2. Smith, A. (2019). "Privacy Challenges in AI Applications." *AI Today*, 5(2), 112-125.
 3. Green, L. (2021). "Addressing Job Displacement in the Age of AI." *Workplace Futures*, 17(1), 78-91.
 4. Maria Luciana Axente and Ilana Golbin(2022). "Ten principles for ethical AI"
+5. Spair, R. (2023). "The Ethics of AI Surveillance: Balancing Security and Privacy".
+6. Pallardy, C (2023). "The proliferation of artificial intelligence comes with big questions about data privacy and risk". *Information Week*.

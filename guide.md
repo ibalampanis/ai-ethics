@@ -19,6 +19,9 @@ Automation driven by AI has the potential to disrupt labor markets, leading to j
 ### Autonomous Weapons
 The development of autonomous weapons powered by AI raises serious ethical questions about the delegation of lethal decision-making to machines. Concerns include the potential for unintended consequences, civilian harm, and the erosion of moral responsibility in warfare.
 
+### Algorithmic Transparency
+The frequent lack of transparency in algorithmic design, creates major concerns when it comes to the interests and the motives of the creators. The development of AI by various companies often contains the danger of system manipulation, in order to address external motives. This could potentially lead to incidents of discrimination, or inability to mitigate bias.
+
 ## Ethical Principles for AI Development
 
 ### Fairness and Equity

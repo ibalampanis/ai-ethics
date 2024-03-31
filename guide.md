@@ -198,6 +198,10 @@ I hope this is a reminder for you to stop helping huge, manipulative indrustries
 
 Its widely supported that the solution to all our transport sustainability goals is the electrification of personal passenger cars. Many outlets support this clause and pursue a future where every car is switched from gas to electric and we all live happily ever after. This goal which is widely regarded as fact if completely baseless. Electric cars when taking in to account other environmental impacts (such as Manufacturing & Disposal, Roadway Creation, and Maintenance) and not just their operative emissions (which for electric mobility are essentially zero if powered by renewables sources) a really different picture is painted. Electric cars cannot beat a single mode of land based public transit (powered by electricity or not) in the carbon emissions equivalence per passenger per kilometer[14]. We have the means today to meet our emissions goals (public transit) but the only solution pushed is electric cars. That’s not to say that gas guzzling cars should not be replaces by electric ones; but with an average urban load capacity of 1.3 passengers per steel death trap (car)[15] maybe its time to push for the adoption of urban public transit as the real solution to the new greener world.
 
+<p align="center">
+  <img width="700" height="900" src="media/CO2-output-by-transport-type.png" alt="fast-fashion">
+</p>
+
 ## References 
 1. [AMC Staff. (Retrieved March 29, 2024). Go Green: 10 Tips for a More Sustainable Lifestyle. AMC Outdoors.](https://www.outdoors.org/resources/amc-outdoors/conservation-and-climate/go-green-10-tips-for-a-more-sustainable-lifestyle/)
 2. [Berrill, A., Card, N., et al. (2020, February 29). 50 simple ways to make your life greener. The Guardian.](https://www.theguardian.com/environment/2020/feb/29/50-ways-to-green-up-your-life-save-the-planet)

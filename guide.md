@@ -32,7 +32,7 @@
 
 # Introduction
 
-Welcome to our _Green Living Guide!_ This document outlines sustainable practices you can adopt to minimize your environmental impact and promote a healthier planet.
+Welcome to our _Green Living Guide!_ This document outlines sustainable practices you can adopt in order to minimize your environmental impact and promote a healthier planet.
 
 # What is Green Living?
 
@@ -86,7 +86,7 @@ Stay informed about environmental issues and take action to advocate for positiv
 
 ## 8. Reduce Food Waste
 
-Only in the U.S., 30%-40% of the food supply ends up as a waste! The largest category of wasted items ends up in landfills, according to the <a href="https://www.fda.gov/food/consumers/food-loss-and-waste"> U.S. Food & Drug Administration </a>. That is extremely bad for the environment, since rotting food produces methane that contributes to climate change, but also a lost opportunity to feed those in need. To help reduce food waste you could try to limit shopping for only what you need. You can also try composting. Composting can be done by building your own compost bin, dropping off waste at a designated collection site, or participating in your city or town’s program.
+Only in the U.S., 30%-40% of the food supply ends up as a waste! The largest category of wasted items ends up in landfills, according to the <a href="https://www.fda.gov/food/consumers/food-loss-and-waste"> U.S. Food & Drug Administration </a>. That is terrible for the environment, since rotting food produces methane that contributes to climate change, but also a lost opportunity to feed those in need. To help reduce food waste you could try to limit shopping for only what you need. You can also try composting. Composting can be done by building your own compost bin, dropping off waste at a designated collection site, or participating in your city or town’s program.
 
 ## 9. Biodegradable Household Products
 
@@ -98,7 +98,7 @@ Practice conscientious water management by promptly repairing any leaks, investi
 
 ## 11. Eco-Driving
 
-Eco-driving, as proven by the <a href="https://www.racfoundation.org/"> RAC Foundation </a>, leads to safer, cleaner and more affordable journeys. Fuel efficiency can be improved by as much as 10% via regular vehicle maintenance. This maintenance should include checking tyre pressure (since tyres underinflated by a quarter can cause a 2% increase in fuel consumption), as well as removing unused roof racks and anything that adds unnecessary weight (since every additional 45kg reduces fuel economy by 2%). If the used speed is less than 40mph, it is more fuel-efficient to avoid using air conditioning and prefer opening a window. Furthermore, when stuck in wait times of one minute or more, engines should be turned off. Lastly, sharp acceleration and heavy braking should be widely avoided, given that aggressive driving can significantly raise fuel consumption.
+Eco-driving, as proven by the <a href="https://www.racfoundation.org/"> RAC Foundation </a>, leads to safer, cleaner and more affordable journeys. Fuel efficiency can be improved by as much as 10% via regular vehicle maintenance. This maintenance should include checking tyre pressure (since tyres underinflated by a quarter can cause a 2% increase in fuel consumption), as well as removing unused roof racks and anything that adds unnecessary weight (since every additional 45 kg reduces fuel economy by 2%). If the used speed is less than 40mph, it is more fuel-efficient to avoid using air conditioning and prefer opening a window. Furthermore, when stuck in wait times of one minute or more, engines should be turned off. Lastly, sharp acceleration and heavy braking should be widely avoided, given that aggressive driving can significantly raise fuel consumption.
 
 ## 12. Eat Less Meat
 
@@ -134,7 +134,7 @@ Embracing sustainable shopping practices is pivotal for those committed to an ec
 
 **Organic Farming**: When you choose organic produce, you’re supporting farming practices that prioritize soil health, biodiversity, and natural pest control. Organic farmers avoid synthetic pesticides and fertilizers, which can harm both the environment and human health. By opting for organic fruits, vegetables, and grains, you reduce your exposure to harmful chemicals and promote a healthier ecosystem.
 
-**Local Sourcing**: Purchasing locally grown food has several benefits. First, it reduces the carbon footprint associated with transportation.The shorter the food chain, the less waste created before it reaches your kitchen.Locally-sourced produce travels about 27 times less distance than conventionally sourced produce [9]. When food doesn’t travel long distances, fewer greenhouse gases are emitted. Second, buying local supports small-scale farmers and strengthens the local economy. Additionally, local produce is often fresher and tastier because it doesn’t spend days or weeks in transit.
+**Local Sourcing**: Purchasing locally grown food has several benefits. First, it reduces the carbon footprint associated with transportation.The shorter the food chain, the less waste created before it reaches your kitchen.Locally-sourced produce travels about 27 times less distance than conventionally sourced produce [9]. When food doesn't travel long distances, fewer greenhouse gases are emitted. Second, buying local supports small-scale farmers and strengthens the local economy. Additionally, local produce is often fresher and tastier because it doesn't spend days or weeks in transit.
 
 By choosing organic and local products, you actively participate in a more sustainable food system—one that nourishes both people and the planet. Let’s make conscious choices that have a positive impact on our environment and well-being .
 
@@ -172,7 +172,7 @@ Are you a visual learner? [Here](https://www.youtube.com/watch?v=kZIrIQDf1nQ) is
 |-----------------------------------------------------------|--------------------------------------------|---------------------------------------------|
 | Walking, biking, or using public transportation           | Cultivating a garden with native plants    | Fixing leaks in plumbing fixtures and pipes |
 | Switching to an electric car                              | Choosing locally sourced and organic foods | Collecting rainwater for watering plants.   |
-| Ride-sharing to reduce the number of vehicles in the road | Reducing meat consuption                   | Installing low-flow showerheads             |
+| Ride-sharing to reduce the number of vehicles in the road | Reducing meat consumption                  | Installing low-flow showerheads             |
 
 # Ready for a Scandal?
 
@@ -184,7 +184,7 @@ Surely, not! And that is the case with the Shein Industry. You have probably hea
 
 Shein is a brand that mass produces clothes and distributes them internationally and at a very cheap price. It has faced many allegations over the years regarding the insufferable working conditions it creates for its employees, the inadequate pay and many more other huge issues including *- but not limited to -* copying designers and extremely low quality of the materials used in production. 
 
-The most important aspect to take away from the Shein scandal is the environmental damages that this brand produces daily. Making so many clothes in such little time is not as wonderful as it may seem at first glance. Some of the problems that Shein actively contributes to are excessive resource consumption, waste generation, and pollution - such dangerous problems that create critical life conditions for our world!
+The most important aspect to take away from the Shein scandal is the environmental damages that this brand produces daily. Making so many clothes in such little time is not as wonderful as it may seem at first glance. Some problems that Shein actively contributes to are excessive resource consumption, waste generation, and pollution - such dangerous problems that create critical life conditions for our world!
 
 <p align="center">
   <img width="500" height="300" src="media/fast-fashion.jpeg" alt="fast-fashion">

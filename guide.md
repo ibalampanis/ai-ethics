@@ -16,6 +16,7 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [Transparency and Explainability](#transparency-and-explainability)
   - [Accountability](#accountability)
   - [Societal Impact](#societal-impact)
+  - [Interpretability](#interpretability)
 - [References](#references)
 
 ## Ethical Concerns
@@ -58,7 +59,11 @@ Clear lines of accountability should be established for AI systems, ensuring tha
 ### Societal Impact
 Developers should consider the broader societal impact of AI systems, including their potential to exacerbate existing inequalities. By conducting thorough impact assessments and engaging with diverse stakeholders, developers can mitigate negative consequences and promote positive societal outcomes.
 
+### Interpretability
+AI models must possess the capability to elucidate their comprehensive decision-making process. In critical scenarios, they should provide insights into how they arrived at particular predictions or selected actions.
+
 ## References
 1. Doe, J. (2020). "Ethical Considerations in AI Development." *Journal of AI Ethics*, 12(3), 45-67.
 2. Smith, A. (2019). "Privacy Challenges in AI Applications." *AI Today*, 5(2), 112-125.
 3. Green, L. (2021). "Addressing Job Displacement in the Age of AI." *Workplace Futures*, 17(1), 78-91.
+4. Maria Luciana Axente and Ilana Golbin(2022). "Ten principles for ethical AI"

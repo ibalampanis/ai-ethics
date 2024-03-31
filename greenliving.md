@@ -216,5 +216,5 @@ Its widely supported that the solution to all our transport sustainability goals
 11. [Sustainability in everyday life | Sustainability by ACCIONA](https://www.youtube.com/watch?v=kZIrIQDf1nQ)
 12. [Ready for a Scandal? | Image from the web](https://richardsonbay.audubon.org/sites/default/files/styles/article_hero_inline/public/fast_fashion_trash_0.jpeg?itok=k51OT4Sw)
 13. [The Washington Post, 2023. The scandals of Shein's fast-fashion empire.](https://www.washingtonpost.com/podcasts/post-reports/the-scandals-of-sheins-fastfashion-empire/)
-14. “The environmental impact of today’s transport types,” TNMT. https://tnmt.com/infographics/carbon-emissions-by-transport-type/
-15. European Environment Agency, “ Paving the way for EU enlargement - Indicators of transport and environment integration,” Nov. 2002. Available: https://www.eea.europa.eu/publications/environmental_issue_report_2002_24
+14. [The environmental impact of today’s transport types, TNMT.](https://tnmt.com/infographics/carbon-emissions-by-transport-type/)
+15. [European Environment Agency, “ Paving the way for EU enlargement - Indicators of transport and environment integration,” Nov. 2002.](https://www.eea.europa.eu/publications/environmental_issue_report_2002_24)

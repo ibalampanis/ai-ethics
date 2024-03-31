@@ -168,11 +168,11 @@ Embrace a greener lifestyle by selecting environmentally conscious pet toys. Dit
 Are you a visual learner? [Here](https://www.youtube.com/watch?v=kZIrIQDf1nQ) is a short video explaining how you can adopt a greener lifestyle by just switching out a few things or doing a few small tasks each day!
 
 # Specific examples of Green Living
-**Transportation** | **Diet** | **Water**
---- | --- | ---
-Walking, biking, or using public transportation | Cultivating a garden with native plants | Fixing leaks in plumbing fixtures and pipes
-Switching to an electric car | Choosing locally sourced and organic foods | Collecting rainwater for watering plants.
-Ridesharing to reduce the number of vehicles in the road | Reducing meat consuption | Installing low-flow showerheads 
+| **Transportation**                                       | **Diet**                                   | **Water**                                   |
+|----------------------------------------------------------|--------------------------------------------|---------------------------------------------|
+| Walking, biking, or using public transportation          | Cultivating a garden with native plants    | Fixing leaks in plumbing fixtures and pipes |
+| Switching to an electric car                             | Choosing locally sourced and organic foods | Collecting rainwater for watering plants.   |
+| Ridesharing to reduce the number of vehicles in the road | Reducing meat consuption                   | Installing low-flow showerheads             |
 
 # Ready for a Scandal?
 

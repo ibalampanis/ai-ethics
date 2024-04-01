@@ -103,6 +103,8 @@ Training AI models requires immense amounts of resources and significant computa
 ### Security
 AI systems can be vulnerable to attacks such as data poisoning, adversarial attacks, and model stealing. Ensuring robust cybersecurity measures is crucial to prevent malicious actors from exploiting AI systems for their gain, which can have wide-ranging consequences on privacy, safety, and trust.
 
+In addition to these risks, people are becoming more aware of weaknesses that exist within AI systems themselves. These weaknesses aren't just about typical online threats but also include new ways that attackers can target AI models directly. For instance, they might try to change how the AI learns by messing with the data it uses, which could lead to models that aren't safe or don't work correctly. Also, because we don't have good tools for spotting threats to AI systems, it's even harder to trust the decisions these systems make.
+
 <p align="center">
   <img width="200" src="media/AI/security.png" alt="">
 </p>
@@ -198,3 +200,4 @@ AI developers should prioritize the resilience and continuity of AI systems, ens
 8. UNESCO. (2023). "Recommendation on the Ethics of Artificial Intelligence: key facts"
 9. Staff, C. (2024). AI Ethics: What It Is and Why It Matters. 
 10. Li, F., Ruijs, N., & Lu, Y. (2022). Ethics & AI: A systematic review on ethical concerns and related strategies for designing with AI in Healthcare. 
+11. The World Economic Forum's article on "Why we need cybersecurity of AI: ethics and responsible innovation

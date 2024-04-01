@@ -6,7 +6,7 @@ The purpose of this repository is to get familiar with Git and GitHub's concepts
 ## Tasks
 
 - Clone this repository.
-- Add information about interesting things to do for a greener lifestyle to the **guide.md** file. (Create the file if it does not already exist.)
+- Add information about AI and Ethics to the **guide.md** file. (Create the file if it does not already exist.)
 - Contribute generously and in several categories.
 - In case you reuse other people's material, make sure to:
   1. rephrase the content, and

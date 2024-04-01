@@ -11,3 +11,13 @@ quotes = {"Monday": "Being green and clean is not just an aspiration but an acti
 "Sunday": "Green calm below, blue quietness above. - John Greenleaf Whittier"}
 
 print ("Quote for", current_day + ":", quotes[current_day])
+
+tips = {"Monday": "Be careful of the water you spill. Water is life",
+        "Tuesday": "Did you know that there are thrift shops and second-hand stores that have pricey brands at a very affordable price? Check them out",
+        "Wednesday": "Don't forget to turn of the lights on your way out today!",
+        "Thursday": "Thursday is the best day to make a lunch from all the scraps you have in your fridge. Don't let them go bad!",
+        "Friday": "It's friday, yeah! Make sure to recycle before that rave party you have going on!",
+        "Saturday": "You woke up late from yesterday's rave, but you sure won't forget of that beach cleaning you have planned at 4, will you?",
+        "Sunday": "Dude, your plants are screaming! Water them!"}
+
+print ("Daily Green tip:", tips[current_day])

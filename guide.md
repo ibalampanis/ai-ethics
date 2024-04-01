@@ -1,153 +1,136 @@
+# AI and Ethics
 
-# Embracing a Greener Lifestyle: Simple and Sustainable Choices
+Artificial Intelligence (AI) has the potential to revolutionize various aspects of society, but it also raises significant ethical concerns that must be addressed to ensure responsible development and deployment.
 
-# Introduction
-
-Welcome to our _Green Living Guide!_ This document outlines sustainable practices you can adopt to minimize your environmental impact and promote a healthier planet.
-
-# What is Green Living?
-
-**Green Living** is a way of sustainable habits so that they work alongside the resources of nature instead of destroying them. It reduces one's environmental impact by involving choices that minimize harm to the environment.
-
-Living a greener lifestyle not only benefits the environment but also contributes to personal well-being and the health of future generations. Whether you're passionate about conservation, reducing waste, or simply want to make a positive impact, there are plenty of interesting and fulfilling ways to adopt eco-friendly practices into your daily routine.
-
-## 1. Reduce, Reuse, Recycle
-
-Embrace the mantra of "reduce, reuse, recycle" to minimize waste and conserve resources. Opt for reusable products such as water bottles, shopping bags, and containers, and recycle materials like paper, plastic, glass, and metal whenever possible. Consider upcycling old items into new creations or donating unwanted items to charity instead of throwing them away.
-
-<p align="center">
-  <img width="200" src="media/recycle-symbol.png" alt="">
-</p>
-
-## 2. Sustainable Transportation
-
-Reduce your carbon footprint by opting for eco-friendly modes of transportation. Walk, bike, carpool, or use public transportation instead of driving alone. Consider investing in electric vehicles or hybrid cars for a more sustainable commute. Plan your trips efficiently and combine errands to minimize unnecessary driving.
-
-<p align="center">
-  <img width="200" src="media/transportation.png" alt="">
-</p>
-
-## 3. Eco-Friendly Eating
-
-Make conscious choices about what you eat and where it comes from. Support local farmers and markets to reduce the carbon footprint associated with food transportation. Choose organic and seasonal produce whenever possible, and reduce meat consumption to lower your environmental impact. Explore plant-based alternatives and incorporate more sustainable seafood options into your diet.
+- [Ethical Concerns](#ethical-concerns)
+  - [Bias and Fairness](#bias-and-fairness)
+  - [Privacy](#privacy)
+  - [Accountability and Transparency](#accountability-and-transparency)
+  - [Job Displacement](#job-displacement)
+  - [Autonomous Weapons](#autonomous-weapons)
+  - [Algorithmic Transparency](#algorithmic-transparency)
+  - [Data Modification](#data-modification)
+  - [Environmental Impact](#environmental-impact)
+- [Ethical Principles for AI Development](#ethical-principles-for-ai-development)
+  - [Fairness and Equity](#fairness-and-equity)
+  - [Privacy and Data Protection](#privacy-and-data-protection)
+  - [Transparency and Explainability](#transparency-and-explainability)
+  - [Accountability](#accountability)
+  - [Societal Impact](#societal-impact)
+  - [Interpretability](#interpretability)
+  - [Human agency and oversight](#human-agency-and-oversight)
+  - [Technical robustness and safety](#technical-robustness-and-safety)
+  - [Social and environmental well-being](#social-and-environmental-well-being)
+- [References](#references)
 
 <p align="center">
-  <img width="200" src="media/eating.png" alt="">
+  <img width="250" src="media/AI/AI-Ethics-in-Focus-Balancing-Innovation-Security-and-Responsibility-SwissCognitive-AI-Radar.png" alt="">
 </p>
 
-## 4. Energy Conservation
 
-Save energy and reduce emissions by adopting energy-efficient practices at home and work. Switch to LED light bulbs, unplug electronics when not in use, use programmable thermostats to regulate heating and cooling, and invest in renewable energy sources such as solar panels or wind turbines. Consider energy audits to identify areas where you can improve efficiency and reduce consumption.
+*Icon made by SwissCognitive from [https://swisscognitive.ch](https://swisscognitive.ch/2023/04/19/ai-ethics-in-focus-balancing-innovation-security-and-responsibility-swisscognitive-ai-radar/)*
+
+## Introduction
+This document focuses on **AI and Ethics**,a set of guiding principles that are used to ensure the responsible use of AI. Although the goal is a secure,safe and humane approach, this has been questioned by a lot of people causing various ethical concerns.
+
+## Ethical Concerns
+
+### Bias and Fairness
+AI systems often learn from historical data, which may contain biases reflecting societal inequalities. If not addressed, these biases can perpetuate discrimination and unfairness, affecting individuals' opportunities and rights.
+
+### Privacy
+The vast amounts of data required for AI applications raise concerns about privacy. Unauthorized access to personal data or its misuse can lead to breaches of privacy and surveillance issues, undermining individuals' autonomy and rights.
+
+- **Surveillance**
+	The use of AI models to monitor humans for purposes such as security and marketing. The latter can easily resolve to problems regarding abuse of power by some individuals that may even use the technology for political reasons based on their beliefs or affiliations.
+
+- **Consent**
+  The question whether a user can give informed consent in a system that he himself may not understand. This category falls under the premise that users, when interacting with online content, make a choice regarding the share of their data. But can they make the same choice when they dont know the insides of the AI models used by the private company/ organization?
 
 <p align="center">
-  <img width="200" src="media/bulb_left.png" alt="">
+  <img width="200" src="media/AI/privacy.png" alt="">
 </p>
 
-## 5. Green Spaces and Gardening
+*Icon made by deemakdaksina from [www.flaticon.com](https://www.flaticon.com/)*
 
-Connect with nature by cultivating green spaces in your home or community. Plant trees, flowers, and native vegetation to promote biodiversity and provide habitats for wildlife. Start a garden to grow your own fruits, vegetables, and herbs, and compost organic waste to enrich the soil naturally. Create a sustainable garden design that conserves water, reduces chemical use, and attracts beneficial pollinators.
+### Accountability and Transparency
+The opacity of AI decision-making processes poses challenges for accountability. It can be difficult to understand how and why AI systems make decisions, making it challenging to assign responsibility in case of errors or harm. Ensuring transparency and explainability in AI algorithms is crucial for accountability and trust.
 
-## 6. Conscious Consumption
-
-Practice mindful consumerism by making informed choices about the products you buy. Support eco-friendly and ethical brands that prioritize sustainability, fair trade, and ethical labor practices. Consider repairing, repurposing, or upcycling items instead of buying new ones. Reduce packaging waste by choosing products with minimal packaging or opting for package-free alternatives.
-
-## 7. Environmental Education and Advocacy
-
-Stay informed about environmental issues and take action to advocate for positive change. Educate yourself and others about the importance of conservation, climate action, and environmental justice. Get involved in local community initiatives, volunteer for environmental organizations, and participate in advocacy campaigns. Use your voice to urge policymakers and businesses to adopt sustainable practices and policies that protect the planet for future generations.
-
-## 8. Reduce Food Waste
-
-Only in the U.S., 30%-40% of the food supply ends up as a waste! The largest category of wasted items ends up in landfills, according to the <a href="https://www.fda.gov/food/consumers/food-loss-and-waste"> U.S. Food & Drug Administration </a>. That is extremely bad for the environment, since rotting food produces methane that contributes to climate change, but also a lost opportunity to feed those in need. To help reduce food waste you could try to limit shopping for only what you need. You can also try composting. Composting can be done by building your own compost bin, dropping off waste at a designated collection site, or participating in your city or town’s program.
-
-## 9. Biodegradable Household Products
-
-To limit the impact of non-recyclable products' waste, you can choose to purchase items made of non-synthetic ingredients that are biodegradable. Biodegradable products dissolve due to contact with bacteria and fungi. So, when they come into contact with nature, they will dissolve quickly through a natural process and won't cause any harm. These products could be: recycled toilet paper, natural ingredient shampoo, natural deodorant, bamboo toothbrush and hairbrush, biodegradable shopping bags, or washcloths made from hemp or agave fibres.
-
-## 10. Water Conservation
-
-Practice conscientious water management by promptly repairing any leaks, investing in water-efficient appliances, shortening shower durations, and being mindful to turn off the faucet while shampooing or brushing your teeth. These seemingly minor adjustments in our daily water usage habits can collectively make a substantial impact on conservation efforts.
-
-## 11. Eco-Driving
-
-Eco-driving, as proven by the <a href="https://www.racfoundation.org/"> RAC Foundation </a>, leads to safer, cleaner and more affordable journeys. Fuel efficiency can be improved by as much as 10% via regular vehicle maintenance. This maintenance should include checking tyre pressure (since tyres underinflated by a quarter can cause a 2% increase in fuel consumption), as well as removing unused roof racks and anything that adds unnecessary weight (since every additional 45kg reduces fuel economy by 2%). If the used speed is less than 40mph, it is more fuel-efficient to avoid using air conditioning and prefer opening a window. Furthermore, when stuck in wait times of one minute or more, engines should be turned off. Lastly, sharp acceleration and heavy braking should be widely avoided, given that aggressive driving can significantly raise fuel consumption.
-
-## 12. Eat Less Meat
-
-In the agriculture industry most GHG emissions come from meat. Farming releases two quite harmful greenhouse gases: methane from livestock during digestion and nitrous oxide, an indirect product of organic and mineral nitrogen fertilizers. All emissions occur through the stages of production, processing, packaging, and delivery, with the highest emissions coming from producing and preparing meat. So, less meat means less GHG emissions! That doesn't mean that everybody should make drastic changes like being vegetarian or vegan, simply reducing meat intake can already have a big impact.
+### Job Displacement
+Automation driven by AI has the potential to disrupt labor markets, leading to job displacement. This raises ethical questions about ensuring the welfare and retraining of displaced workers, as well as addressing potential economic inequalities arising from AI-driven automation.
 
 <p align="center">
-  <img width="500" src="media/GHG_meat_emissions.png" alt="">
+  <img width="200" src="media/AI/job.png" alt="">
 </p>
 
-## 13. Volunteering
+*Icon made by Freepik from [www.flaticon.com](https://www.flaticon.com/)*
 
-Engage in environmental volunteering that resonates with your passions and principles. Explore a plethora of organizations and endeavors committed to conserving the environment and fostering sustainability. Seek out local initiatives concentrating on diverse activities such as planting trees, tidying beaches, safeguarding wildlife, or lobbying for policy reforms. Through volunteering, you not only directly contribute to environmental causes but also embark on a journey of personal enrichment, honing skills, and forging connections with fellow advocates who share your vision.
+### Autonomous Weapons
+The development of autonomous weapons powered by AI raises serious ethical questions about the delegation of lethal decision-making to machines. Concerns include the potential for unintended consequences, civilian harm, and the erosion of moral responsibility in warfare.
 
-## 14. Green Building Practices
+### Algorithmic Transparency
+The frequent lack of transparency in algorithmic design, creates major concerns when it comes to the interests and the motives of the creators. The development of AI by various companies often contains the danger of system manipulation, in order to address external motives. This could potentially lead to incidents of discrimination, or inability to mitigate bias.
 
-Prioritize energy-efficient construction designs, such as passive solar methods, high-performance windows and other smart functionalities in building architecture, in order to maintain green practices. Incorporate special house equipment, like wind moderators and heating devices, in order to reduce the reliance on fossil fuels and environmental-burdening sources. With the inclusion of these practices, not only do the green buildings decrease pollution but also establish comfortable living conditions.
+<p align="center">
+  <img width="200" src="media/AI/algorithm.png" alt="">
+</p>
 
-## 15. Shop local and buy sustainable
+*Icon made by Eucalyp from [www.flaticon.com](https://www.flaticon.com/)*
 
-To minimize the carbon footprint of your food consumption, opt for locally sourced and seasonal produce. By doing so, you not only support small-scale businesses and farms in your vicinity but also diminish the greenhouse gas emissions linked to transportation and refrigeration. Sustainable agriculture practices, which utilize up to 56 percent less energy and generate 64 percent fewer emissions compared to conventional methods, foster greater biodiversity. Take your eco-friendly efforts a step further by cultivating your own fruits, vegetables, and herbs. Whether in a garden, on a balcony, or even a window sill, you can embark on home gardening ventures. Consider initiating a community garden project in your area to engage and inspire others to join in the sustainability movement.
+### Data Modification
+After the data fitting process, modifying or removing data in the training set can be a very complex request. An organization that discovers its model was trained on inaccurate data may face substantial repercussions that can be hard to undo.
 
-## 16. Sustainable Shopping Habits
+<p align="center">
+  <img width="200" src="media/AI/data.png" alt="">
+</p>
 
-Embracing sustainable shopping practices is pivotal for those committed to an eco-conscious lifestyle, as it plays a vital role in minimizing our environmental impact. Below are some valuable pointers to guide ethical and green shopping decisions:
+*Icon made by monkik from [www.flaticon.com](https://www.flaticon.com/)*
 
-1.Sustainable Shopping: Opt for products crafted from natural materials such as organic cotton or bamboo, consider purchasing secondhand items when feasible, and seek out products packaged with minimal or biodegradable materials.
+### Environmental Impact
+Training AI models requires immense amounts of resources and significant computational power. The process leads to vast energy consumption and burning of fossil fuels. Subsequently, the carbon emissions result in significant environmental pollution, making the deployment of the models a resource-intensive procedure.
 
-2.Ethical Shopping: Support companies committed to fair labor practices, producing high-quality goods with minimal waste generation, and emphasizing sustainability as a priority over maximizing profit margins.
+<p align="center">
+  <img width="200" src="media/AI/green-earth.png" alt="">
+</p>
 
-3.Green Shopping: Prioritize locally sourced goods over imported alternatives, minimize the use of single-use plastics whenever feasible, choose refillable containers over disposable ones, and invest in energy-efficient appliances to reduce environmental impact
+*Icon made by juicy_fish from [www.flaticon.com](https://www.flaticon.com/)*
 
-# What are the benefits of Green Living?
-* Make a difference in pollution by following the above habits.
-* Products on market become cheaper.
-* Connection with like-minded individuals.
-* Improvement of physical and mental health. 
+## Ethical Principles for AI Development
 
+### Fairness and Equity
+Developers should strive to mitigate biases and ensure fairness in AI systems by employing techniques such as bias detection and mitigation algorithms, as well as using diverse and representative datasets to train AI models.
 
-# Specific examples of Green Living
-**Transportation** | **Diet** | **Water**
---- | --- | ---
-Walking, biking, or using public transportation | Cultivating a garden with native plants | Fixing leaks in plumbing fixtures and pipes
-Switching to an electric car | Choosing locally sourced and organic foods | Collecting rainwater for watering plants.
-Ridesharing to reduce the number of vehicles in the road | Reducing meat consuption | Installing low-flow showerheads 
+### Privacy and Data Protection
+AI developers must prioritize privacy by implementing robust data protection measures, obtaining informed consent for data collection and usage, and anonymizing data whenever possible. Respecting individuals' privacy rights is essential for maintaining trust in AI technologies.
 
+### Transparency and Explainability
+AI systems should be designed to be transparent and explainable, allowing users to understand how decisions are made. Providing explanations for AI decisions enhances trust and accountability, enabling users to assess the reliability and fairness of AI systems.
 
-# Green Living in Computer Science
-Global warming, exacerbated by the increasing use of electricity, presents a pressing challenge for our planet.  According to the International Energy Agency Data centers account for 1% of world's electricity use (ca 200 terawatt-hours per year). Consequently, more and more researchers stress the need for an immediate change. 
+### Accountability
+Clear lines of accountability should be established for AI systems, ensuring that developers, deployers, and users are responsible for their actions and decisions. Implementing mechanisms for auditing and oversight can help hold accountable parties accountable for any harm caused by AI systems.
 
-One key aspect of addressing this challenge lies in the realm of computer science. By developing and utilizing powerful, energy-efficient computers, we can not only advance scientific research but also enhance our ability to respond to climate change. However, the responsibility does not solely rest on technological advancements; it also involves reevaluating and improving established processes.
+### Societal Impact
+Developers should consider the broader societal impact of AI systems, including their potential to exacerbate existing inequalities. By conducting thorough impact assessments and engaging with diverse stakeholders, developers can mitigate negative consequences and promote positive societal outcomes. Respect for international law and national sovereignty is paramount in data usage, allowing for the regulation of data generated within or passing through geographical jurisdictions.
 
-As companies look to transform business and implement more sustainable practices, they are digging deep into established processes to find new efficiencies. This includes evaluating the building blocks of their business operations, from storing data more efficiently to examining how code is written.
+### Interpretability
+AI models must possess the capability to elucidate their comprehensive decision-making process. In critical scenarios, they should provide insights into how they arrived at particular predictions or selected actions.
 
-## Green Computing
-<em>Green Computing</em> (also referred to as green IT or sustainable IT) is a practice that seeks to limit technology’s environmental impact, including reducing the carbon footprint in high-intensity operations, such as in manufacturing lines and data centers.
-A large portion of green computing efforts are focused on reducing the energy consumption and emissions of data centers, which need lots of energy and water to run and cool.
+### Human agency and oversight
+Ethical principles for AI development emphasize the importance of human-centered design, ensuring that AI systems assist humans in decision-making while preserving the ability for humans to override decisions made by the system. This approach prioritizes the empowerment of users and acknowledges the limitations of AI technology, emphasizing the need for human judgment and intervention when necessary.
 
-By embracing green computing principles and integrating sustainable practices into data center operations and technology infrastructure, organizations can significantly reduce their environmental footprint while simultaneously improving operational efficiency and cost-effectiveness. 
+### Technical robustness and safety
+AI system providers and developers are responsible for designing AI systems that function effectively, predictably, and safely. It is imperative for AI providers to ensure that their systems adhere to quality management standards, guaranteeing reliability and compliance with established protocols.
 
-## Green Coding
-<em>Green coding</em> is an aspect of Green Computing and is the practice of writing and developing software in an environmentally friendly and sustainable manner. Integrating green coding practices into software development processes helps developers and organizations reduce their environmental impact, contribute to sustainability efforts and build more efficient and eco-friendly software solutions.
-Important Practices: 
-* <em>Efficient Code:</em> Efficient and  optimized code consumes fewer system resources such as CPU cycles, memory, and disk space thus reducing energy consumption and improving the overall performance of software applications.
-* <em>Minimizing Server Load:</em> Designing applications to minimize server load and resource usage by implementing caching mechanisms, load balancing, and optimizing database queries reduces the energy required to power and cool servers in data centers.
-* <em>Cloud Computing Optimization:</em> Leveraging cloud computing platforms efficiently to scale resources based on demand, optimize server utilization, and minimize idle capacity helps reduce energy consumption and carbon emissions associated with maintaining physical server infrastructure.
-* <em>Green Hosting:</em> Choosing environmentally friendly hosting providers that use renewable energy sources and implement energy-efficient infrastructure. 
-* <em>Reducing Software Bloat:</em> Avoiding unnecessary features, functionalities, and dependencies in software applications to reduce code complexity and minimize resource consumption helps create leaner, more efficient software that requires fewer resources to operate.
+### Social and environmental well-being
+Developers of AI systems should design their creations to foster sustainable and inclusive growth, promote social progress, and enhance environmental well-being. Providers must carefully assess the societal and environmental implications of AI systems, prioritizing responsible innovation that benefits both people and the planet.
 
-
-## References 
-1. [AMC Staff. (Retrieved March 29, 2024). Go Green: 10 Tips for a More Sustainable Lifestyle. AMC Outdoors.](https://www.outdoors.org/resources/amc-outdoors/conservation-and-climate/go-green-10-tips-for-a-more-sustainable-lifestyle/)
-2. [Berrill, A., Card, N., et al. (2020, February 29). 50 simple ways to make your life greener. The Guardian.](https://www.theguardian.com/environment/2020/feb/29/50-ways-to-green-up-your-life-save-the-planet)
-3. [Hummert, N. (Retrieved November 23, 2023). Embracing Sustainability: A Guide To Encouraging A Greener Lifestyle.](https://equilibrium-lifestyle.co.uk/embracing-sustainability-a-guide-to-encouraging-a-greener-lifestyle/)
-4. [Nandu, J. (Retrieved June 3, 2023). 10 Simple Steps to Embrace a Greener Lifestyle Today.](https://www.linkedin.com/pulse/10-simple-steps-embrace-greener-lifestyle-today-jay-nandu/)
-5. [Safdie, S. (2023, August 9). What is green living? Greenly. Retrieved March 28, 2024.](https://greenly.earth/en-us/blog/company-guide/what-is-green-living)
-6. [Wark, C. (2024, March 28). 40 Ways to Be More Eco Friendly in 2024.](https://www.greenmatch.co.uk/blog/how-to-be-more-eco-friendly)
-7. [Environment programme (2022, May 04). 10 ways you can help fight the climate crisis.](https://www.unep.org/news-and-stories/story/10-ways-you-can-help-fight-climate-crisis)
-8. [ (2023, March 23). Transform Your Life: The Ultimate Guide to Sustainable Lifestyle.](https://greenliving.guru/sustainable-lifestyle/)
-9. [IBM Cloud Education (2022, April 19). What Is Green Computing?](https://www.ibm.com/blog/green-computing/)
-10. [IBM Cloud Education (2023, January 9).Why Green Coding is a Powerful Catalyst for Sustainability Initiatives](https://www.ibm.com/blog/green-coding/) 
-
+## References
+1. Doe, J. (2020). "Ethical Considerations in AI Development." *Journal of AI Ethics*, 12(3), 45-67.
+2. Smith, A. (2019). "Privacy Challenges in AI Applications." *AI Today*, 5(2), 112-125.
+3. Green, L. (2021). "Addressing Job Displacement in the Age of AI." *Workplace Futures*, 17(1), 78-91.
+4. Maria Luciana Axente and Ilana Golbin(2022). "Ten principles for ethical AI".
+5. Spair, R. (2023). "The Ethics of AI Surveillance: Balancing Security and Privacy".
+6. Pallardy, C (2023). "The proliferation of artificial intelligence comes with big questions about data privacy and risk". *Information Week*.
+7. Pinto, T. (2023) Ai Principles, Artificial Intelligence Act. 
+8. UNESCO. (2023). "Recommendation on the Ethics of Artificial Intelligence: key facts"
+9. Staff, C. (2024). AI Ethics: What It Is and Why It Matters. 

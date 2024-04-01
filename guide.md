@@ -11,6 +11,8 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [Algorithmic Transparency](#algorithmic-transparency)
   - [Data Modification](#data-modification)
   - [Environmental Impact](#environmental-impact)
+  - [Security](#security)
+  - [Cultural and Social Impact](#cultural-and-social-impact) 
 - [Ethical Principles for AI Development](#ethical-principles-for-ai-development)
   - [Fairness and Equity](#fairness-and-equity)
   - [Privacy and Data Protection](#privacy-and-data-protection)

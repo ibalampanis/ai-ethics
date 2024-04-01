@@ -123,16 +123,16 @@ The deployment of AI systems can have significant cultural and social implicatio
 
 The concern about **responsibility** related to AI systems, refers to the issue of who is really accountable when AI machines take decisions in the healthcare domain. When an error occurs, it is difficult or almost impossible, to define to what extent the human clinicians can be held accountable for patient harm. Another variable in the function is the role of AI developers and how much would they also be affected if a serious damage is caused by their work. 
 
-### AI in Mental Health Care
-
-One concern is the risk of bias in AI algorithms, as they rely on biased data, leading to unequal treatment of patients and perpetuating healthcare disparities. Another issue is the need for accountability and transparency in AI-driven mental health diagnoses, ensuring clinicians understand the limitations and biases in AI diagnoses. Privacy and confidentiality are major worries, as AI systems process sensitive personal information, raising the risk of unauthorized access or misuse. Lastly, integrating AI into psychiatric practice raises ethical questions about automating care and its impact on the therapeutic relationship between patients and providers.
-
 <p align="center">
   <img width="200" src="media/AI/social.png" alt="">
 </p>
 
 *Icon made by Flat Icons from [www.flaticon.com](https://www.flaticon.com/)* <br>
 *Responsibility icons created by Sir.Vector - Flaticon*
+
+### AI in Mental Health Care
+
+One concern is the risk of bias in AI algorithms, as they rely on biased data, leading to unequal treatment of patients and perpetuating healthcare disparities. Another issue is the need for accountability and transparency in AI-driven mental health diagnoses, ensuring clinicians understand the limitations and biases in AI diagnoses. Privacy and confidentiality are major worries, as AI systems process sensitive personal information, raising the risk of unauthorized access or misuse. Lastly, integrating AI into psychiatric practice raises ethical questions about automating care and its impact on the therapeutic relationship between patients and providers.
 
 ## Recommendation on the Ethics of Artificial Intelligence
 In November 2021 UNESCO produced the first-ever global standard on AI ethics the "Recommendation on the Ethics of Artificial Intelligence".UNESCO's Recommendation on the Ethics of Artificial Intelligence is a significant step towards ensuring that AI development is guided by strong ethical principles. The Recommendation interprets AI broadly as systems with the ability to process data in a way which resembles intelligent behaviour. What makes the Recommendation exceptionally applicable are its extensive Policy Action Areas, which allow policymakers to translate the core values and principles into action with respect to data governance, environment and ecosystems, gender, education and research, and health and social wellbeing, among many other spheres. 

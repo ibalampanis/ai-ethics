@@ -30,6 +30,9 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
 
 *Icon made by SwissCognitive from [https://swisscognitive.ch](https://swisscognitive.ch/2023/04/19/ai-ethics-in-focus-balancing-innovation-security-and-responsibility-swisscognitive-ai-radar/)*
 
+## Introduction
+This document focuses on **AI and Ethics**,a set of guiding principles that are used to ensure the responsible use of AI. Although the goal is a secure,safe and humane approach, this has been questioned by a lot of people causing various ethical concerns.
+
 ## Ethical Concerns
 
 ### Bias and Fairness
@@ -130,3 +133,4 @@ Developers of AI systems should design their creations to foster sustainable and
 6. Pallardy, C (2023). "The proliferation of artificial intelligence comes with big questions about data privacy and risk". *Information Week*.
 7. Pinto, T. (2023) Ai Principles, Artificial Intelligence Act. 
 8. UNESCO. (2023). "Recommendation on the Ethics of Artificial Intelligence: key facts"
+9. Staff, C. (2024). AI Ethics: What It Is and Why It Matters. 

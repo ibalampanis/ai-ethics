@@ -175,9 +175,9 @@ Embrace a greener lifestyle by selecting environmentally conscious pet toys. Dit
 
 Minimalism embodies a mindset that advocates for living a simpler, more intentional life. It revolves around the notion of prioritizing quality over quantity, where the focus lies on what truly enhances our well-being and purpose. This lifestyle emphasizes the deliberate reduction of unnecessary possessions, distractions, and clutter, aiming to create space for what truly matters.
 
-Following there are some practical tips to adopt a minimalist lifestyle
+Following there are some practical tips to adopt a minimalist lifestyle:
 
-1. **Use it or lose it**: 
+1. **Use it or lose it**
 2. **One in, one out**
 3. **Declutter first, organize afterward**
 4. **Wait before buying non-essentials**

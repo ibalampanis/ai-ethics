@@ -18,6 +18,9 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [Accountability](#accountability)
   - [Societal Impact](#societal-impact)
   - [Interpretability](#interpretability)
+  - [Human agency and oversight](#human-agency-and-oversight)
+  - [Technical robustness and safety](#technical-robustness-and-safety)
+  - [Social and environmental well-being](#social-and-environmental-well-being)
 - [References](#references)
 
 ## Ethical Concerns
@@ -102,6 +105,15 @@ Developers should consider the broader societal impact of AI systems, including 
 ### Interpretability
 AI models must possess the capability to elucidate their comprehensive decision-making process. In critical scenarios, they should provide insights into how they arrived at particular predictions or selected actions.
 
+### Human agency and oversight
+Ethical principles for AI development emphasize the importance of human-centered design, ensuring that AI systems assist humans in decision-making while preserving the ability for humans to override decisions made by the system. This approach prioritizes the empowerment of users and acknowledges the limitations of AI technology, emphasizing the need for human judgment and intervention when necessary.
+
+### Technical robustness and safety
+AI system providers and developers are responsible for designing AI systems that function effectively, predictably, and safely. It is imperative for AI providers to ensure that their systems adhere to quality management standards, guaranteeing reliability and compliance with established protocols.
+
+### Social and environmental well-being
+Developers of AI systems should design their creations to foster sustainable and inclusive growth, promote social progress, and enhance environmental well-being. Providers must carefully assess the societal and environmental implications of AI systems, prioritizing responsible innovation that benefits both people and the planet.
+
 ## References
 1. Doe, J. (2020). "Ethical Considerations in AI Development." *Journal of AI Ethics*, 12(3), 45-67.
 2. Smith, A. (2019). "Privacy Challenges in AI Applications." *AI Today*, 5(2), 112-125.
@@ -109,3 +121,4 @@ AI models must possess the capability to elucidate their comprehensive decision-
 4. Maria Luciana Axente and Ilana Golbin(2022). "Ten principles for ethical AI".
 5. Spair, R. (2023). "The Ethics of AI Surveillance: Balancing Security and Privacy".
 6. Pallardy, C (2023). "The proliferation of artificial intelligence comes with big questions about data privacy and risk". *Information Week*.
+7. Pinto, T. (2023) Ai Principles, Artificial Intelligence Act. 

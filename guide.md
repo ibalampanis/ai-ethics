@@ -174,13 +174,15 @@ AI developers must prioritize privacy by implementing robust data protection mea
 ### Transparency and Explainability
 AI systems should be designed to be transparent and explainable, allowing users to understand how decisions are made. Providing explanations for AI decisions enhances trust and accountability, enabling users to assess the reliability and fairness of AI systems.
 
-> For AI models, transparency isn't a simple feature, it's a virtue. Prioritize explainability to build trust, enabling users to navigate in an environment of reliability and fairness.
+> For AI models, transparency isn't a simple feature, it's a virtue. Prioritize explainability to build trust, enabling users to navigate in an environment of reliability and equity.
 
 ### Accountability
 Clear lines of accountability should be established for AI systems, ensuring that developers, deployers, and users are responsible for their actions and decisions. Implementing mechanisms for auditing and oversight can help hold accountable parties accountable for any harm caused by AI systems.
 
 ### Societal Impact
 Developers should consider the broader societal impact of AI systems, including their potential to exacerbate existing inequalities. By conducting thorough impact assessments and engaging with diverse stakeholders, developers can mitigate negative consequences and promote positive societal outcomes. Respect for international law and national sovereignty is paramount in data usage, allowing for the regulation of data generated within or passing through geographical jurisdictions.
+
+> Assess AI's societal impact and uphold international law for equitable development. Prioritize inclusivity and regulatory compliance across borders for responsible AI deployment.
 
 ### Interpretability
 AI models must possess the capability to elucidate their comprehensive decision-making process. In critical scenarios, they should provide insights into how they arrived at particular predictions or selected actions.

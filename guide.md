@@ -213,5 +213,6 @@ AI developers should prioritize the resilience and continuity of AI systems, ens
 8. UNESCO. (2023). "Recommendation on the Ethics of Artificial Intelligence: key facts"
 9. Staff, C. (2024). AI Ethics: What It Is and Why It Matters. 
 10. Li, F., Ruijs, N., & Lu, Y. (2022). Ethics & AI: A systematic review on ethical concerns and related strategies for designing with AI in Healthcare. 
-11.Schneble, C.O., Elger, B.S. and Shaw, D.M. (2020). Google’s Project Nightingale highlights the necessity of data science ethics review.
-12.Sinha, D. (2021). Top 5 Most Controversial Scandals in AI and Big Data.
+11. Schneble, C.O., Elger, B.S. and Shaw, D.M. (2020). Google’s Project Nightingale highlights the necessity of data science ethics review.
+12. Sinha, D. (2021). Top 5 Most Controversial Scandals in AI and Big Data."
+

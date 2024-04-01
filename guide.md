@@ -95,6 +95,15 @@ Training AI models requires immense amounts of resources and significant computa
 
 *Icon made by juicy_fish from [www.flaticon.com](https://www.flaticon.com/)*
 
+### Security
+AI systems can be vulnerable to attacks such as data poisoning, adversarial attacks, and model stealing. Ensuring robust cybersecurity measures is crucial to prevent malicious actors from exploiting AI systems for their gain, which can have wide-ranging consequences on privacy, safety, and trust.
+
+<p align="center">
+  <img width="200" src="media/AI/security.png" alt="">
+</p>
+
+*Icon made by Freepik from [www.flaticon.com](https://www.flaticon.com/)*
+
 ## Recommendation on the Ethics of Artificial Intelligence
 In November 2021 UNESCO produced the first-ever global standard on AI ethics the "Recommendation on the Ethics of Artificial Intelligence".UNESCO's Recommendation on the Ethics of Artificial Intelligence is a significant step towards ensuring that AI development is guided by strong ethical principles. The Recommendation interprets AI broadly as systems with the ability to process data in a way which resembles intelligent behaviour. What makes the Recommendation exceptionally applicable are its extensive Policy Action Areas, which allow policymakers to translate the core values and principles into action with respect to data governance, environment and ecosystems, gender, education and research, and health and social wellbeing, among many other spheres. 
 

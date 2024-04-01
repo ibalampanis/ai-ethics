@@ -8,6 +8,8 @@ You can always navigate to the [`guide.md`](./guide.md) file in our repository. 
   <img width="200" src="media/contribution.jpg" alt="">
 </p>
 
+When contributing media content such as images or videos related to AI and Ethics, please ensure to place them in the media/AI/ directory. Follow naming conventions that reflect the content, use common formats for images (e.g., JPEG, PNG, SVG), and preferred formats for videos (e.g., MP4, WebM). Don't forget to provide proper attribution for external content and optimize media files for web use while maintaining visual clarity.
+
 # Commit Changes 
 Commit your changes using `git commit -m "Descriptive message about your changes"`. It is *important* for your messages to be consistent with your changes. For more, check [Robert Painsi, Commit Message Guidelines](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53).
 

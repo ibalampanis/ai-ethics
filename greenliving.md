@@ -138,7 +138,7 @@ Engage in environmental volunteering that resonates with your passions and princ
 Prioritize energy-efficient construction designs, such as passive solar methods, high-performance windows and other smart functionalities in building architecture, in order to maintain green practices. Incorporate special house equipment, like wind moderators and heating devices, in order to reduce the reliance on fossil fuels and environmental-burdening sources. With the inclusion of these practices, not only do the green buildings decrease pollution but also establish comfortable living conditions.
 
 <p align="center">
-  <img width="200" src="media/solar_home.jpg" alt="">
+  <img width="500" height="300" src="media/solar_home.jpg" alt="">
 </p>
 
 ## 15. Shop local and buy sustainable

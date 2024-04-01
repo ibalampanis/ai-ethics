@@ -25,6 +25,7 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [Technical robustness and safety](#technical-robustness-and-safety)
   - [Social and environmental well-being](#social-and-environmental-well-being)
   - [Dealing with responsibility](#dealing-with-responsibility)
+  - [Resilience and Continuity](#resilience-and-continuity)
 - [References](#references)
 
 <p align="center">
@@ -182,6 +183,9 @@ To deal with the issue of responsibility, the literature proposes the following 
 * Define clear guidelines related with the ethics and legal issues when AI machines are involved in the decision making process.
 * Distribute responsibilities on the actors involved before integrating AI technologies.
 * Obligate AI engineers and developers to contribute in safety and moral issues assessments.
+
+### Resilience and Continuity
+AI developers should prioritize the resilience and continuity of AI systems, ensuring they can adapt to unforeseen circumstances, disruptions, or adversarial attacks. This involves implementing robust fail-safe mechanisms, redundancy measures, and contingency plans to minimize the risk of system failure or exploitation. Additionally, developers should strive to ensure the continuous availability and functionality of AI systems, especially in critical applications such as healthcare, transportation, and emergency response. By prioritizing resilience and continuity, developers can enhance the reliability, safety, and effectiveness of AI technologies, ultimately contributing to greater trust and confidence in their deployment.
 
 ## References
 1. Doe, J. (2020). "Ethical Considerations in AI Development." *Journal of AI Ethics*, 12(3), 45-67.

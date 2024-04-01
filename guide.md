@@ -23,6 +23,13 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [Social and environmental well-being](#social-and-environmental-well-being)
 - [References](#references)
 
+<p align="center">
+  <img width="250" src="media/AI/AI-Ethics-in-Focus-Balancing-Innovation-Security-and-Responsibility-SwissCognitive-AI-Radar.png" alt="">
+</p>
+
+
+*Icon made by SwissCognitive from [https://swisscognitive.ch](https://swisscognitive.ch/2023/04/19/ai-ethics-in-focus-balancing-innovation-security-and-responsibility-swisscognitive-ai-radar/)*
+
 ## Ethical Concerns
 
 ### Bias and Fairness

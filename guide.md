@@ -30,6 +30,15 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
 
 *Icon made by SwissCognitive from [https://swisscognitive.ch](https://swisscognitive.ch/2023/04/19/ai-ethics-in-focus-balancing-innovation-security-and-responsibility-swisscognitive-ai-radar/)*
 
+## Controversial Usage of AI
+> Photo-scraping scandal of IBM
+
+In 2019 IBM,a multinational hi-tech company, faced a controversial scandal regarding photo-scraping. In order to enhance their face recognision AI-based algorithm IBM used 1 million pictures.These pictures were extracted from an online photo-hosting site called Flickr. The usage of the photos from this platform raised awareness regarding how personal data are used. Controversy arosed due to the unauthorized usage of photos.
+
+> Google Nightingale Data Controversy
+
+In 2019 Google was accused of misconduct regarding the usage of sensitive health data. Personal medical data of approximately 50 million customers of  Ascension,an American healthcare system, were stored and processed from Google. The data contained diagnoses,lab results,personal information and hospital records. The lack of consent from the doctors and the patients caused concerns regarding the security and the privacy of personal data.
+
 ## Ethical Concerns
 
 ### Bias and Fairness

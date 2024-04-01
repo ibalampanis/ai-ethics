@@ -23,6 +23,7 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [Human agency and oversight](#human-agency-and-oversight)
   - [Technical robustness and safety](#technical-robustness-and-safety)
   - [Social and environmental well-being](#social-and-environmental-well-being)
+  - [Resilience and Continuity](#resilience-and-continuity)
 - [References](#references)
 
 <p align="center">

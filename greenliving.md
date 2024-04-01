@@ -24,6 +24,7 @@
   * [19. Minimalism](#19-minimalism)
 * [What are the benefits of Green Living?](#what-are-the-benefits-of-green-living)
 * [Why is it hard for people to adopt greener habits?](#why-is-it-hard-for-people-to-adopt-greener-habits)
+* [Budget-Friendly Tips for Green Living](#budget-friendly-tips-for-green-living)
 * [Adopting a Greener Lifestyle for Visual Learners!](#adopting-a-greener-lifestyle-for-visual-learners)
 * [Specific examples of Green Living](#specific-examples-of-green-living)
 * [Ready for a Scandal?](#ready-for-a-scandal)
@@ -209,6 +210,24 @@ Following there are some practical tips to adopt a minimalist lifestyle
 
 > Though adopting greener habits is not an easy task, we should always strive to make even the smallest of changes. Remember *something* is better than nothing!
 
+
+# Budget-Friendly Tips for Green Living
+
+1. **Energy Efficiency Upgrades:** Replace bulbs with LED lights, unplug electronics when not in use, and weatherproof doors and windows.
+
+2. **DIY Cleaning Products:** Make eco-friendly cleaners using vinegar, baking soda, and lemon.
+
+3. **Thrift Shopping and Swapping:** Explore thrift stores and online swapping platforms for affordable, sustainable items.
+
+4. **Public Transportation and Carpooling:** Opt for public transit, biking, or carpooling to save on fuel and emissions.
+
+5. **Upcycling and Repurposing:** Transform old items into new ones through creative upcycling projects.
+
+6. **Unplug and Conserve Water:** Fix leaks, take shorter showers, and collect rainwater for watering plants.
+
+7. **Second-Hand and Refurbished Electronics:** Purchase second-hand or refurbished electronics instead of buying new ones to save money and extend the lifespan of products.
+
+
 # Adopting a Greener Lifestyle for Visual Learners!
 
 Are you a visual learner? [Here](https://www.youtube.com/watch?v=kZIrIQDf1nQ) is a short video explaining how you can adopt a greener lifestyle by just switching out a few things or doing a few small tasks each day!
@@ -219,6 +238,7 @@ Are you a visual learner? [Here](https://www.youtube.com/watch?v=kZIrIQDf1nQ) is
 | Walking, biking, or using public transportation           | Cultivating a garden with native plants    | Fixing leaks in plumbing fixtures and pipes |
 | Switching to an electric car                              | Choosing locally sourced and organic foods | Collecting rainwater for watering plants.   |
 | Ride-sharing to reduce the number of vehicles in the road | Reducing meat consumption                  | Installing low-flow showerheads             |
+
 
 # Ready for a Scandal?
 

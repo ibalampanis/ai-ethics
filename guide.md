@@ -107,7 +107,7 @@ AI systems should be designed to be transparent and explainable, allowing users 
 Clear lines of accountability should be established for AI systems, ensuring that developers, deployers, and users are responsible for their actions and decisions. Implementing mechanisms for auditing and oversight can help hold accountable parties accountable for any harm caused by AI systems.
 
 ### Societal Impact
-Developers should consider the broader societal impact of AI systems, including their potential to exacerbate existing inequalities. By conducting thorough impact assessments and engaging with diverse stakeholders, developers can mitigate negative consequences and promote positive societal outcomes. Respect for international law and national sovereignty is paramount in data usage, allowing for the regulation of data generated within or passing through geographical jurisdictions. Furthermore, fostering inclusive approaches to AI governance requires the active participation of a diverse range of stakeholders.
+Developers should consider the broader societal impact of AI systems, including their potential to exacerbate existing inequalities. By conducting thorough impact assessments and engaging with diverse stakeholders, developers can mitigate negative consequences and promote positive societal outcomes. Respect for international law and national sovereignty is paramount in data usage, allowing for the regulation of data generated within or passing through geographical jurisdictions.
 
 ### Interpretability
 AI models must possess the capability to elucidate their comprehensive decision-making process. In critical scenarios, they should provide insights into how they arrived at particular predictions or selected actions.

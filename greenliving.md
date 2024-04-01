@@ -36,7 +36,7 @@
 Welcome to our _Green Living Guide!_ This document outlines sustainable practices you can adopt in order to minimize your environmental impact and promote a healthier planet.
 
 <p align="center">
-  <img width="200" src="media/green_living_1.png" alt="">
+  <img width="200" src="media/green_living_1.jpg" alt="">
 </p>
 
 # What is Green Living?
@@ -46,7 +46,7 @@ Welcome to our _Green Living Guide!_ This document outlines sustainable practice
 Living a greener lifestyle not only benefits the environment but also contributes to personal well-being and the health of future generations. Whether you're passionate about conservation, reducing waste, or simply want to make a positive impact, there are plenty of interesting and fulfilling ways to adopt eco-friendly practices into your daily routine.
 
 <p align="center">
-  <img width="200" src="media/green_living_2.png" alt="">
+  <img width="200" src="media/green_living_2.jpg" alt="">
 </p>
 
 ## 1. Reduce, Reuse, Recycle

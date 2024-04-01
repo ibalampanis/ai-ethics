@@ -11,7 +11,7 @@ Thank you for considering contributing to our project! Here are a few guidelines
 </p>
 
 # Media Content
-- If you're contributing media content like images or videos related to AI and Ethics, place them in the [`media/AI/`](.media/AI/) directory.
+- If you're contributing media content like images or videos related to AI and Ethics, place them in the [`media/AI/`](media/AI/) directory.
 - Follow naming conventions reflecting the content.
 - Use common formats for images (e.g., JPEG, PNG, SVG) and preferred formats for videos (e.g., MP4, WebM).
 - Provide proper attribution for external content.

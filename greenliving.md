@@ -36,7 +36,7 @@
 Welcome to our _Green Living Guide!_ This document outlines sustainable practices you can adopt in order to minimize your environmental impact and promote a healthier planet.
 
 <p align="center">
-  <img width="200" src="media/green_living_1.jpg" alt="">
+  <img width="500" height="300" src="media/green_living_1.jpg" alt="">
 </p>
 
 # What is Green Living?
@@ -46,7 +46,7 @@ Welcome to our _Green Living Guide!_ This document outlines sustainable practice
 Living a greener lifestyle not only benefits the environment but also contributes to personal well-being and the health of future generations. Whether you're passionate about conservation, reducing waste, or simply want to make a positive impact, there are plenty of interesting and fulfilling ways to adopt eco-friendly practices into your daily routine.
 
 <p align="center">
-  <img width="200" src="media/green_living_2.jpg" alt="">
+  <img width="500" height="300" src="media/green_living_2.jpg" alt="">
 </p>
 
 ## 1. Reduce, Reuse, Recycle
@@ -86,7 +86,7 @@ Save energy and reduce emissions by adopting energy-efficient practices at home 
 Connect with nature by cultivating green spaces in your home or community. Plant trees, flowers, and native vegetation to promote biodiversity and provide habitats for wildlife. Start a garden to grow your own fruits, vegetables, and herbs, and compost organic waste to enrich the soil naturally. Create a sustainable garden design that conserves water, reduces chemical use, and attracts beneficial pollinators.
 
 <p align="center">
-  <img width="200" src="media/salad.jpg" alt="">
+  <img width="500" height="300" src="media/salad.jpg" alt="">
 </p>
 
 ## 6. Conscious Consumption
@@ -98,7 +98,7 @@ Practice mindful consumerism by making informed choices about the products you b
 Stay informed about environmental issues and take action to advocate for positive change. Educate yourself and others about the importance of conservation, climate action, and environmental justice. Get involved in local community initiatives, volunteer for environmental organizations, and participate in advocacy campaigns. Use your voice to urge policymakers and businesses to adopt sustainable practices and policies that protect the planet for future generations.
 
 <p align="center">
-  <img width="200" src="media/bike.jpg" alt="">
+  <img width="500" height="300" src="media/bike.jpg" alt="">
 </p>
 
 ## 8. Reduce Food Waste
@@ -106,7 +106,7 @@ Stay informed about environmental issues and take action to advocate for positiv
 Only in the U.S., 30%-40% of the food supply ends up as a waste! The largest category of wasted items ends up in landfills, according to the <a href="https://www.fda.gov/food/consumers/food-loss-and-waste"> U.S. Food & Drug Administration </a>. That is terrible for the environment, since rotting food produces methane that contributes to climate change, but also a lost opportunity to feed those in need. To help reduce food waste you could try to limit shopping for only what you need. You can also try composting. Composting can be done by building your own compost bin, dropping off waste at a designated collection site, or participating in your city or town’s program.
 
 <p align="center">
-  <img width="200" src="media/food.jpg" alt="">
+  <img width="500" height="300" src="media/food.jpg" alt="">
 </p>
 
 ## 9. Biodegradable Household Products

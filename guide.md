@@ -136,6 +136,15 @@ The concern about **responsibility** related to AI systems, refers to the issue 
 
 One concern is the risk of bias in AI algorithms, as they rely on biased data, leading to unequal treatment of patients and perpetuating healthcare disparities. Another issue is the need for accountability and transparency in AI-driven mental health diagnoses, ensuring clinicians understand the limitations and biases in AI diagnoses. Privacy and confidentiality are major worries, as AI systems process sensitive personal information, raising the risk of unauthorized access or misuse. Lastly, integrating AI into psychiatric practice raises ethical questions about automating care and its impact on the therapeutic relationship between patients and providers.
 
+## Controversial Usage of AI
+> Photo-scraping scandal of IBM
+
+In 2019 IBM,a multinational hi-tech company, faced a controversial scandal regarding photo-scraping. In order to enhance their face recognision AI-based algorithm IBM used 1 million pictures.These pictures were extracted from an online photo-hosting site called Flickr. The usage of the photos from this platform raised awareness regarding how personal data are used. Controversy arosed due to the unauthorized usage of photos.
+
+> Google Nightingale Data Controversy
+
+In 2019 Google was accused of misconduct regarding the usage of sensitive health data. Personal medical data of approximately 50 million customers of  Ascension,an American healthcare system, were stored and processed from Google. The data contained diagnoses,lab results,personal information and hospital records. The lack of consent from the doctors and the patients caused concerns regarding the security and the privacy of personal data.
+
 ## Recommendation on the Ethics of Artificial Intelligence
 In November 2021 UNESCO produced the first-ever global standard on AI ethics the "Recommendation on the Ethics of Artificial Intelligence".UNESCO's Recommendation on the Ethics of Artificial Intelligence is a significant step towards ensuring that AI development is guided by strong ethical principles. The Recommendation interprets AI broadly as systems with the ability to process data in a way which resembles intelligent behaviour. What makes the Recommendation exceptionally applicable are its extensive Policy Action Areas, which allow policymakers to translate the core values and principles into action with respect to data governance, environment and ecosystems, gender, education and research, and health and social wellbeing, among many other spheres. 
 
@@ -204,3 +213,5 @@ AI developers should prioritize the resilience and continuity of AI systems, ens
 8. UNESCO. (2023). "Recommendation on the Ethics of Artificial Intelligence: key facts"
 9. Staff, C. (2024). AI Ethics: What It Is and Why It Matters. 
 10. Li, F., Ruijs, N., & Lu, Y. (2022). Ethics & AI: A systematic review on ethical concerns and related strategies for designing with AI in Healthcare. 
+11.Schneble, C.O., Elger, B.S. and Shaw, D.M. (2020). Google’s Project Nightingale highlights the necessity of data science ethics review.
+12.Sinha, D. (2021). Top 5 Most Controversial Scandals in AI and Big Data.

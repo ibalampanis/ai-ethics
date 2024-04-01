@@ -95,6 +95,24 @@ Training AI models requires immense amounts of resources and significant computa
 
 *Icon made by juicy_fish from [www.flaticon.com](https://www.flaticon.com/)*
 
+## Recommendation on the Ethics of Artificial Intelligence
+In November 2021 UNESCO produced the first-ever global standard on AI ethics the "Recommendation on the Ethics of Artificial Intelligence".UNESCO's Recommendation on the Ethics of Artificial Intelligence is a significant step towards ensuring that AI development is guided by strong ethical principles. The Recommendation interprets AI broadly as systems with the ability to process data in a way which resembles intelligent behaviour. What makes the Recommendation exceptionally applicable are its extensive Policy Action Areas, which allow policymakers to translate the core values and principles into action with respect to data governance, environment and ecosystems, gender, education and research, and health and social wellbeing, among many other spheres. 
+
+Central to the Recommendation that UNESCO has proposed are four core values which lay the foundations for AI systems that work for the good of humanity, individuals, societies and the environment.
+- <em> Human rights and human dignity:</em> This core value should not only emphasize respect, protection, and promotion of human rights but also highlight the need for accountability mechanisms in cases where AI systems may violate these rights. Additionally, it should stress the importance of upholding privacy rights and ensuring transparency in AI decision-making processes.
+- <em>Living in peaceful just, and interconnected societies:</em> In addition to promoting societal harmony and justice, this value should address the potential risks of AI exacerbating existing inequalities and social divisions. It should advocate for policies that mitigate such risks and foster inclusive participation in AI development and governance processes.
+- <em>Ensuring diversity and inclusiveness:</em> This core value should encompass not only demographic diversity but also diversity of perspectives, experiences, and expertise in AI development and deployment. It should emphasize the importance of representation and inclusion of marginalized groups in decision-making processes related to AI.
+- <em>Environment and ecosystem flourishing:</em> In addition to minimizing the environmental impact of AI technologies, this value should advocate for the use of AI in addressing environmental challenges such as climate change, biodiversity loss, and resource management. It should encourage the development of AI solutions that contribute positively to sustainable development goals.
+
+### Policy Action Areas
+- <em> Data Governance: </em>This area should focus on ensuring responsible data collection, storage, and use in AI systems, including addressing issues of data bias, privacy protection, and data ownership rights.
+
+- <em> Ethical Oversight and Accountability: </em>There should be mechanisms in place to ensure that AI systems adhere to ethical principles and legal standards, with clear lines of accountability for any harm caused by AI technologies.
+
+- <em> Education and Research: </em>Efforts should be made to promote AI literacy and awareness among the general public, as well as to support interdisciplinary research that explores the ethical, social, and cultural implications of AI.
+
+- <em> Health and Social Wellbeing: </em>This area should prioritize the development of AI applications that enhance healthcare access, quality, and equity, while safeguarding patient privacy and autonomy.
+
 ## Ethical Principles for AI Development
 
 ### Fairness and Equity

@@ -21,6 +21,7 @@
   * [16. Sustainable Shopping Habits](#16-sustainable-shopping-habits)
   * [17. Organic Farming and Local Sourcing](#17-organic-farming-and-local-sourcing)
   * [18. Sustainability For Pet-Owners](#18-sustainability--for-pet-owners)
+  * [19. Minimalism](#19-minimalism)
 * [What are the benefits of Green Living?](#what-are-the-benefits-of-green-living)
 * [Why is it hard for people to adopt greener habits?](#why-is-it-hard-for-people-to-adopt-greener-habits)
 * [Adopting a Greener Lifestyle for Visual Learners!](#adopting-a-greener-lifestyle-for-visual-learners)
@@ -145,6 +146,27 @@ By choosing organic and local products, you actively participate in a more susta
 ## 18. Sustainability  For Pet-Owners
 Embrace a greener lifestyle by selecting environmentally conscious pet toys. Ditch the plastic and opt for eco-friendly dog toys crafted from natural materials such as rice husk, rubber, and hemp, or consider those ingeniously made from recycled materials like old t-shirts. Also, Shop for sustainable dog food and eco-friendly cat food. Choosing sustainable pet food options can significantly decrease the carbon footprint linked with pet food production, which currently contributes to approximately 106 million tons of CO2 emissions [10].
 
+## 19. Minimalism
+
+Minimalism embodies a mindset that advocates for living a simpler, more intentional life. It revolves around the notion of prioritizing quality over quantity, where the focus lies on what truly enhances our well-being and purpose. This lifestyle emphasizes the deliberate reduction of unnecessary possessions, distractions, and clutter, aiming to create space for what truly matters.
+
+Following there are some practical tips to adopt a minimalist lifestyle
+
+1. **Use it or lose it**: 
+2. **One in, one out**
+3. **Declutter first, organize afterward**
+4. **Wait before buying non-essentials**
+5. **Don’t keep things that bring up negative memories**
+6. **Declutter your entire home at the end of each season**
+7. **Shop with a list and stick to it**
+8. **The 50% rule**
+9. **If it’s not a “hell yes”, it’s a “no”**
+10. **Don’t keep duplicates**
+11. **Give everything a home**
+12. **Only keep things you love**
+13. **If it can be digitized, don’t keep the physical copy**
+14. **The 20/20 rule**
+
 
 # What are the benefits of Green Living?
 * Make a difference in pollution by following the above habits.
@@ -218,3 +240,4 @@ Its widely supported that the solution to all our transport sustainability goals
 13. [The Washington Post, 2023. The scandals of Shein's fast-fashion empire.](https://www.washingtonpost.com/podcasts/post-reports/the-scandals-of-sheins-fastfashion-empire/)
 14. [The environmental impact of today’s transport types, TNMT.](https://tnmt.com/infographics/carbon-emissions-by-transport-type/)
 15. [European Environment Agency, “ Paving the way for EU enlargement - Indicators of transport and environment integration,” Nov. 2002.](https://www.eea.europa.eu/publications/environmental_issue_report_2002_24)
+16. [ASTOUL, E. (2024,March 19). 14 LIFE-CHANGING MINIMALIST RULES TO LIVE BY](https://greenwithless.com/minimalist-rules-to-live-by/)

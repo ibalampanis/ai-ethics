@@ -24,6 +24,7 @@
   * [19. Minimalism](#19-minimalism)
 * [What are the benefits of Green Living?](#what-are-the-benefits-of-green-living)
 * [Why is it hard for people to adopt greener habits?](#why-is-it-hard-for-people-to-adopt-greener-habits)
+* [Budget-Friendly Tips for Green Living](#budget-friendly-tips-for-green-living)
 * [Adopting a Greener Lifestyle for Visual Learners!](#adopting-a-greener-lifestyle-for-visual-learners)
 * [Specific examples of Green Living](#specific-examples-of-green-living)
 * [Ready for a Scandal?](#ready-for-a-scandal)
@@ -35,11 +36,19 @@
 
 Welcome to our _Green Living Guide!_ This document outlines sustainable practices you can adopt in order to minimize your environmental impact and promote a healthier planet.
 
+<p align="center">
+  <img width="500" height="300" src="media/green_living_1.jpg" alt="">
+</p>
+
 # What is Green Living?
 
 **Green Living** is a way of sustainable habits so that they work alongside the resources of nature instead of destroying them. It reduces one's environmental impact by involving choices that minimize harm to the environment.
 
 Living a greener lifestyle not only benefits the environment but also contributes to personal well-being and the health of future generations. Whether you're passionate about conservation, reducing waste, or simply want to make a positive impact, there are plenty of interesting and fulfilling ways to adopt eco-friendly practices into your daily routine.
+
+<p align="center">
+  <img width="500" height="300" src="media/green_living_2.jpg" alt="">
+</p>
 
 ## 1. Reduce, Reuse, Recycle
 
@@ -77,6 +86,10 @@ Save energy and reduce emissions by adopting energy-efficient practices at home 
 
 Connect with nature by cultivating green spaces in your home or community. Plant trees, flowers, and native vegetation to promote biodiversity and provide habitats for wildlife. Start a garden to grow your own fruits, vegetables, and herbs, and compost organic waste to enrich the soil naturally. Create a sustainable garden design that conserves water, reduces chemical use, and attracts beneficial pollinators.
 
+<p align="center">
+  <img width="500" height="300" src="media/salad.jpg" alt="">
+</p>
+
 ## 6. Conscious Consumption
 
 Practice mindful consumerism by making informed choices about the products you buy. Support eco-friendly and ethical brands that prioritize sustainability, fair trade, and ethical labor practices. Consider repairing, repurposing, or upcycling items instead of buying new ones. Reduce packaging waste by choosing products with minimal packaging or opting for package-free alternatives.
@@ -85,9 +98,17 @@ Practice mindful consumerism by making informed choices about the products you b
 
 Stay informed about environmental issues and take action to advocate for positive change. Educate yourself and others about the importance of conservation, climate action, and environmental justice. Get involved in local community initiatives, volunteer for environmental organizations, and participate in advocacy campaigns. Use your voice to urge policymakers and businesses to adopt sustainable practices and policies that protect the planet for future generations.
 
+<p align="center">
+  <img width="500" height="300" src="media/bike.jpg" alt="">
+</p>
+
 ## 8. Reduce Food Waste
 
 Only in the U.S., 30%-40% of the food supply ends up as a waste! The largest category of wasted items ends up in landfills, according to the <a href="https://www.fda.gov/food/consumers/food-loss-and-waste"> U.S. Food & Drug Administration </a>. That is terrible for the environment, since rotting food produces methane that contributes to climate change, but also a lost opportunity to feed those in need. To help reduce food waste you could try to limit shopping for only what you need. You can also try composting. Composting can be done by building your own compost bin, dropping off waste at a designated collection site, or participating in your city or town’s program.
+
+<p align="center">
+  <img width="500" height="300" src="media/food.jpg" alt="">
+</p>
 
 ## 9. Biodegradable Household Products
 
@@ -116,6 +137,10 @@ Engage in environmental volunteering that resonates with your passions and princ
 ## 14. Green Building Practices
 
 Prioritize energy-efficient construction designs, such as passive solar methods, high-performance windows and other smart functionalities in building architecture, in order to maintain green practices. Incorporate special house equipment, like wind moderators and heating devices, in order to reduce the reliance on fossil fuels and environmental-burdening sources. With the inclusion of these practices, not only do the green buildings decrease pollution but also establish comfortable living conditions.
+
+<p align="center">
+  <img width="500" height="300" src="media/solar_home.jpg" alt="">
+</p>
 
 ## 15. Shop local and buy sustainable
 
@@ -150,9 +175,9 @@ Embrace a greener lifestyle by selecting environmentally conscious pet toys. Dit
 
 Minimalism embodies a mindset that advocates for living a simpler, more intentional life. It revolves around the notion of prioritizing quality over quantity, where the focus lies on what truly enhances our well-being and purpose. This lifestyle emphasizes the deliberate reduction of unnecessary possessions, distractions, and clutter, aiming to create space for what truly matters.
 
-Following there are some practical tips to adopt a minimalist lifestyle
+Following there are some practical tips to adopt a minimalist lifestyle:
 
-1. **Use it or lose it**: 
+1. **Use it or lose it**
 2. **One in, one out**
 3. **Declutter first, organize afterward**
 4. **Wait before buying non-essentials**
@@ -185,6 +210,24 @@ Following there are some practical tips to adopt a minimalist lifestyle
 
 > Though adopting greener habits is not an easy task, we should always strive to make even the smallest of changes. Remember *something* is better than nothing!
 
+
+# Budget-Friendly Tips for Green Living
+
+1. **Energy Efficiency Upgrades:** Replace bulbs with LED lights, unplug electronics when not in use, and weatherproof doors and windows.
+
+2. **DIY Cleaning Products:** Make eco-friendly cleaners using vinegar, baking soda, and lemon.
+
+3. **Thrift Shopping and Swapping:** Explore thrift stores and online swapping platforms for affordable, sustainable items.
+
+4. **Public Transportation and Carpooling:** Opt for public transit, biking, or carpooling to save on fuel and emissions.
+
+5. **Upcycling and Repurposing:** Transform old items into new ones through creative upcycling projects.
+
+6. **Unplug and Conserve Water:** Fix leaks, take shorter showers, and collect rainwater for watering plants.
+
+7. **Second-Hand and Refurbished Electronics:** Purchase second-hand or refurbished electronics instead of buying new ones to save money and extend the lifespan of products.
+
+
 # Adopting a Greener Lifestyle for Visual Learners!
 
 Are you a visual learner? [Here](https://www.youtube.com/watch?v=kZIrIQDf1nQ) is a short video explaining how you can adopt a greener lifestyle by just switching out a few things or doing a few small tasks each day!
@@ -195,6 +238,7 @@ Are you a visual learner? [Here](https://www.youtube.com/watch?v=kZIrIQDf1nQ) is
 | Walking, biking, or using public transportation           | Cultivating a garden with native plants    | Fixing leaks in plumbing fixtures and pipes |
 | Switching to an electric car                              | Choosing locally sourced and organic foods | Collecting rainwater for watering plants.   |
 | Ride-sharing to reduce the number of vehicles in the road | Reducing meat consumption                  | Installing low-flow showerheads             |
+
 
 # Ready for a Scandal?
 

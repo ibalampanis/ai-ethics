@@ -142,6 +142,9 @@ AI system providers and developers are responsible for designing AI systems that
 ### Social and environmental well-being
 Developers of AI systems should design their creations to foster sustainable and inclusive growth, promote social progress, and enhance environmental well-being. Providers must carefully assess the societal and environmental implications of AI systems, prioritizing responsible innovation that benefits both people and the planet.
 
+### Resilience and Continuity
+AI developers should prioritize the resilience and continuity of AI systems, ensuring they can adapt to unforeseen circumstances, disruptions, or adversarial attacks. This involves implementing robust fail-safe mechanisms, redundancy measures, and contingency plans to minimize the risk of system failure or exploitation. Additionally, developers should strive to ensure the continuous availability and functionality of AI systems, especially in critical applications such as healthcare, transportation, and emergency response. By prioritizing resilience and continuity, developers can enhance the reliability, safety, and effectiveness of AI technologies, ultimately contributing to greater trust and confidence in their deployment.
+
 ## References
 1. Doe, J. (2020). "Ethical Considerations in AI Development." *Journal of AI Ethics*, 12(3), 45-67.
 2. Smith, A. (2019). "Privacy Challenges in AI Applications." *AI Today*, 5(2), 112-125.

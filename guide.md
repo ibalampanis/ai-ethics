@@ -38,10 +38,11 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
 
 
 ## Introduction
-This document focuses on **AI and Ethics**,a set of guiding principles that are used to ensure the responsible use of AI. Although the goal is a secure,safe and humane approach, this has been questioned by a lot of people causing various ethical concerns.
+This document focuses on **AI and Ethics**,a set of guiding principles that are used to ensure the responsible use of AI. Although the goal is a secure, safe and humane approach, this has been questioned by a lot of people causing various ethical concerns.
 
 
 ## Ethical Concerns
+In March 2023, more than 1,000 experts, including technology leaders like Elon Musk and Apple co-founder Steve Wozniak, signed an open letter urging a six-month pause in the development of new artificial intelligence (AI) systems. The letter emphasized the potential risks posed by AI experiments that are advancing rapidly and becoming increasingly powerful. The experts called for a halt to the creation of AI models beyond the capabilities of the most advanced publicly available system, GPT-4, developed by OpenAI. During this pause, researchers and AI labs should focus on creating new principles for designing AI systems that prioritize safety, transparency, and trustworthiness. Of course, this pivotal pause, advocated by experts across the globe, underscores the critical importance of ethical considerations in the ever-evolving world of artificial intelligence. 
 
 ### Bias and Fairness
 AI systems often learn from historical data, which may contain biases reflecting societal inequalities. If not addressed, these biases can perpetuate discrimination and unfairness, affecting individuals' opportunities and rights.
@@ -49,10 +50,10 @@ AI systems often learn from historical data, which may contain biases reflecting
 ### Privacy
 The vast amounts of data required for AI applications raise concerns about privacy. Unauthorized access to personal data or its misuse can lead to breaches of privacy and surveillance issues, undermining individuals' autonomy and rights.
 
-- **Surveillance**
+- **Surveillance**:
 	The use of AI models to monitor humans for purposes such as security and marketing. The latter can easily resolve to problems regarding abuse of power by some individuals that may even use the technology for political reasons based on their beliefs or affiliations.
 
-- **Consent**
+- **Consent**:
   The question whether a user can give informed consent in a system that he himself may not understand. This category falls under the premise that users, when interacting with online content, make a choice regarding the share of their data. But can they make the same choice when they dont know the insides of the AI models used by the private company/ organization?
 
 <p align="center">
@@ -136,6 +137,10 @@ The concern about **responsibility** related to AI systems, refers to the issue 
 
 One concern is the risk of bias in AI algorithms, as they rely on biased data, leading to unequal treatment of patients and perpetuating healthcare disparities. Another issue is the need for accountability and transparency in AI-driven mental health diagnoses, ensuring clinicians understand the limitations and biases in AI diagnoses. Privacy and confidentiality are major worries, as AI systems process sensitive personal information, raising the risk of unauthorized access or misuse. Lastly, integrating AI into psychiatric practice raises ethical questions about automating care and its impact on the therapeutic relationship between patients and providers.
 
+<p align="center">
+  <img width="200" src="media/AI/mental-health.jpg" alt="">
+</p>
+
 ## Controversial Usage of AI
 > Photo-scraping scandal of IBM
 
@@ -164,6 +169,7 @@ Central to the Recommendation that UNESCO has proposed are four core values whic
 - <em> Health and Social Wellbeing: </em>This area should prioritize the development of AI applications that enhance healthcare access, quality, and equity, while safeguarding patient privacy and autonomy.
 
 ## Ethical Principles for AI Development
+Ethical principles for AI development serve as a moral compass, guiding the creation, deployment, and utilization of artificial intelligence. These principles emphasize fairness, transparency, accountability, safety, and inclusivity to safeguard human values, rights, and societal well-being in an AI-driven world.
 
 ### Fairness and Equity
 Developers should strive to mitigate biases and ensure fairness in AI systems by employing techniques such as bias detection and mitigation algorithms, as well as using diverse and representative datasets to train AI models.
@@ -207,16 +213,18 @@ To deal with the issue of responsibility, the literature proposes the following 
 AI developers should prioritize the resilience and continuity of AI systems, ensuring they can adapt to unforeseen circumstances, disruptions, or adversarial attacks. This involves implementing robust fail-safe mechanisms, redundancy measures, and contingency plans to minimize the risk of system failure or exploitation. Additionally, developers should strive to ensure the continuous availability and functionality of AI systems, especially in critical applications such as healthcare, transportation, and emergency response. By prioritizing resilience and continuity, developers can enhance the reliability, safety, and effectiveness of AI technologies, ultimately contributing to greater trust and confidence in their deployment.
 
 ## References
-1. Doe, J. (2020). "Ethical Considerations in AI Development." *Journal of AI Ethics*, 12(3), 45-67.
-2. Smith, A. (2019). "Privacy Challenges in AI Applications." *AI Today*, 5(2), 112-125.
+1. BBC (2023). "Elon Musk among experts urging a halt to AI training".
+2. Doe, J. (2020). "Ethical Considerations in AI Development." *Journal of AI Ethics*, 12(3), 45-67.
 3. Green, L. (2021). "Addressing Job Displacement in the Age of AI." *Workplace Futures*, 17(1), 78-91.
-4. Maria Luciana Axente and Ilana Golbin(2022). "Ten principles for ethical AI".
-5. Spair, R. (2023). "The Ethics of AI Surveillance: Balancing Security and Privacy".
+4. Li, F., Ruijs, N., & Lu, Y. (2022). Ethics & AI: A systematic review on ethical concerns and related strategies for designing with AI in Healthcare. 
+5. Maria Luciana Axente and Ilana Golbin(2022). "Ten principles for ethical AI".
 6. Pallardy, C (2023). "The proliferation of artificial intelligence comes with big questions about data privacy and risk". *Information Week*.
 7. Pinto, T. (2023) Ai Principles, Artificial Intelligence Act. 
-8. UNESCO. (2023). "Recommendation on the Ethics of Artificial Intelligence: key facts"
-9. Staff, C. (2024). AI Ethics: What It Is and Why It Matters. 
-10. Li, F., Ruijs, N., & Lu, Y. (2022). Ethics & AI: A systematic review on ethical concerns and related strategies for designing with AI in Healthcare. 
-11. Schneble, C.O., Elger, B.S. and Shaw, D.M. (2020). Google’s Project Nightingale highlights the necessity of data science ethics review.
-12. Sinha, D. (2021). Top 5 Most Controversial Scandals in AI and Big Data."
+8. Schneble, C.O., Elger, B.S. and Shaw, D.M. (2020). Google’s Project Nightingale highlights the necessity of data science ethics review.
+9. Sinha, D. (2021). Top 5 Most Controversial Scandals in AI and Big Data."
+10. Smith, A. (2019). "Privacy Challenges in AI Applications." *AI Today*, 5(2), 112-125.
+11. Spair, R. (2023). "The Ethics of AI Surveillance: Balancing Security and Privacy".
+12. Staff, C. (2024). AI Ethics: What It Is and Why It Matters. 
+13. UNESCO. (2023). "Recommendation on the Ethics of Artificial Intelligence: key facts"
+
 

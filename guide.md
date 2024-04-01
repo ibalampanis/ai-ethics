@@ -104,6 +104,15 @@ AI systems can be vulnerable to attacks such as data poisoning, adversarial atta
 
 *Icon made by Freepik from [www.flaticon.com](https://www.flaticon.com/)*
 
+### Cultural and Social Impact
+The deployment of AI systems can have significant cultural and social implications, impacting norms, values, and human interactions. Issues such as cultural biases in AI, representation in datasets, and the effects of AI-driven decisions on marginalized communities need to be addressed to promote inclusivity and fairness.
+
+<p align="center">
+  <img width="200" src="media/AI/culture.png" alt="">
+</p>
+
+*Icon made by Flat Icons from [www.flaticon.com](https://www.flaticon.com/)*
+
 ## Recommendation on the Ethics of Artificial Intelligence
 In November 2021 UNESCO produced the first-ever global standard on AI ethics the "Recommendation on the Ethics of Artificial Intelligence".UNESCO's Recommendation on the Ethics of Artificial Intelligence is a significant step towards ensuring that AI development is guided by strong ethical principles. The Recommendation interprets AI broadly as systems with the ability to process data in a way which resembles intelligent behaviour. What makes the Recommendation exceptionally applicable are its extensive Policy Action Areas, which allow policymakers to translate the core values and principles into action with respect to data governance, environment and ecosystems, gender, education and research, and health and social wellbeing, among many other spheres. 
 

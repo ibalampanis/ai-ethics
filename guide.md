@@ -146,6 +146,10 @@ One concern is the risk of bias in AI algorithms, as they rely on biased data, l
   <img width="200" src="media/AI/mental-health.jpg" alt="">
 </p>
 
+### Misinformation
+
+Misinformation has a way of creating social divides and perpetuating untrue opinions to the detriment of organizations and others. A topic that gained scrutiny in the context of the political upheaval seen in recent years, misinformation can affect public opinion and cause severe reputational damage. Once misinformation becomes widely shared on social media, it can be difficult to determine where it originated and challenging to combat. AI tools have been used to spread misinformation, making it appear as though the information is legitimate, when it is in fact not.
+
 ## Controversial Usage of AI
 This section aims to provide real-life examples of applications and tools that are powered by AI accross industries and display morally gray or/and legally undefined territories. These examples showcase the pressing need for ethical considerations and clear regulations in the rapidly evolving and difficult to control field of artificial intelligence. It is important to emphasise that artificial intelligence should work for the common good and to help people and their lives rather than make them question the morality, law compliance or/and safety of its usage which is the case in the examples presented down below.  
 For more examples you can visit the useful Github repository [Awful AI](https://github.com/daviddao/awful-ai), which lists and presents various cases of morally gray AI applications and tools.

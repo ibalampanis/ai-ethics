@@ -16,6 +16,7 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [Responsibility](#responsibility) 
   - [AI in Mental Health Care](#ai-in-mental-health-care)
 - [Controversial Usage of AI](#controversial-usage-of-ai)
+  - [Examples](#examples-of-controversial-ai)
 - [Ethical Principles for AI Development](#ethical-principles-for-ai-development)
   - [Fairness and Equity](#fairness-and-equity)
   - [Privacy and Data Protection](#privacy-and-data-protection)
@@ -143,6 +144,11 @@ One concern is the risk of bias in AI algorithms, as they rely on biased data, l
 </p>
 
 ## Controversial Usage of AI
+This section aims to provide real-life examples of applications and tools that are powered by AI accross industries and display morally gray or/and legally undefined territories. These examples showcase the pressing need for ethical considerations and clear regulations in the rapidly evolving and difficult to control field of artificial intelligence. It is important to emphasise that artificial intelligence should work for the common good and to help people and their lives rather than make them question the morality, law compliance or/and safety of its usage which is the case in the examples presented down below.  
+<small>For more examples you can visit the useful Github repository [Awful AI](https://github.com/daviddao/awful-ai), which lists and presents various cases of morally gray AI applications and tools.</small>
+
+### Examples of Controversial AI 
+
 > Photo-scraping scandal of IBM
 
 In 2019 IBM,a multinational hi-tech company, faced a controversial scandal regarding photo-scraping. In order to enhance their face recognision AI-based algorithm IBM used 1 million pictures.These pictures were extracted from an online photo-hosting site called Flickr. The usage of the photos from this platform raised awareness regarding how personal data are used. Controversy arosed due to the unauthorized usage of photos.

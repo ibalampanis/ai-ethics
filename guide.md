@@ -14,6 +14,7 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [Security](#security)
   - [Cultural and Social Impact](#cultural-and-social-impact) 
   - [Responsibility](#responsibility) 
+  - [Misinformation](#misinformation)
   - [AI in Mental Health Care](#ai-in-mental-health-care)
 - [Controversial Usage of AI](#controversial-usage-of-ai)
   - [Examples](#examples-of-controversial-ai)

@@ -16,6 +16,7 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [Responsibility](#responsibility) 
   - [Misinformation](#misinformation)
   - [AI in Mental Health Care](#ai-in-mental-health-care)
+  - [AI in Education](#ai-in-education)
 - [Controversial Usage of AI](#controversial-usage-of-ai)
   - [Examples](#examples-of-controversial-ai)
 - [Ethical Principles for AI Development](#ethical-principles-for-ai-development)
@@ -147,6 +148,9 @@ One concern is the risk of bias in AI algorithms, as they rely on biased data, l
   <img width="200" src="media/AI/mental-health.jpg" alt="">
 </p>
 
+### AI in Education
+AI's impact on the education sector is profound. While it provides numerous benefits by aiding in academic and administrative tasks, concerns regarding its potential to diminish decision-making abilities, foster laziness, and compromise security cannot be overlooked. Studies indicate that integrating AI into education exacerbates the decline in human decision-making skills and promotes user passivity through task automation. Before implementing AI technology in education, it's crucial to take significant measures. Adopting AI without addressing major human concerns it's like asking for trouble. It's recommended to focus on justified design, deployment, and utilization of AI in education to effectively address these problems.
+
 ### Misinformation
 
 Misinformation has a way of creating social divides and perpetuating untrue opinions to the detriment of organizations and others. A topic that gained scrutiny in the context of the political upheaval seen in recent years, misinformation can affect public opinion and cause severe reputational damage. Once misinformation becomes widely shared on social media, it can be difficult to determine where it originated and challenging to combat. AI tools have been used to spread misinformation, making it appear as though the information is legitimate, when it is in fact not.
@@ -254,24 +258,25 @@ This section aims to provide useful courses that one can attend if they want to 
 * [AI courses in codecademy](https://www.codecademy.com/catalog/subject/artificial-intelligence)
 
 ## References
-1. Australian Government. (2019). Australia’s Artificial Intelligence Ethics Framework: Australia’s AI Ethics Principles
-2. BBC (2023). "Elon Musk among experts urging a halt to AI training".
-3. CodeTrade India. (2024). Explainable AI: A Hands-on Guide With Popular Frameworks.
-4. Davies, H., McKernan, B. & Sabbagh, D. (2023). "‘The Gospel’: how Israel uses AI to select bombing targets in Gaza". *The Guardian*
-5. Doe, J. (2020). "Ethical Considerations in AI Development." *Journal of AI Ethics*, 12(3), 45-67.
-6. Fox, V. (2023) "AI Art & the Ethical Concerns of Artists". *Beautiful Bizzare Magazine*
-7. Green, L. (2021). "Addressing Job Displacement in the Age of AI." *Workplace Futures*, 17(1), 78-91.
-8. Hagendorff, T. The Ethics of AI Ethics: An Evaluation of Guidelines. Minds & Machines 30, 99–120 (2020). https://doi.org/10.1007/s11023-020-09517-8
-9. Li, F., Ruijs, N., & Lu, Y. (2022). Ethics & AI: A systematic review on ethical concerns and related strategies for designing with AI in Healthcare. 
-10. Maria Luciana Axente and Ilana Golbin(2022). "Ten principles for ethical AI".
-11. Pallardy, C (2023). "The proliferation of artificial intelligence comes with big questions about data privacy and risk". *Information Week*.
-12. Pinto, T. (2023) Ai Principles, Artificial Intelligence Act. 
-13. Schneble, C.O., Elger, B.S. and Shaw, D.M. (2020). Google’s Project Nightingale highlights the necessity of data science ethics review.
-14. Sinha, D. (2021). Top 5 Most Controversial Scandals in AI and Big Data."
-15. Smith, A. (2019). "Privacy Challenges in AI Applications." *AI Today*, 5(2), 112-125.
-16. Spair, R. (2023). "The Ethics of AI Surveillance: Balancing Security and Privacy".
-17. Staff, C. (2024). AI Ethics: What It Is and Why It Matters.
-18. Terra, M., Baklola, M., Ali, S., & Karim El-Bastawisy. (2023). "Opportunities, applications, Challenges and Ethical Implications of Artificial Intelligence in psychiatry"
-19. UNESCO. (2023). "Recommendation on the Ethics of Artificial Intelligence: key facts"
+1. Ahmad, S.F., Han, H., Alam, M.M. et al. Impact of artificial intelligence on human loss in decision making, laziness and safety in education. Humanit Soc Sci Commun 10, 311 (2023). https://doi.org/10.1057/s41599-023-01787-8
+2. Australian Government. (2019). Australia’s Artificial Intelligence Ethics Framework: Australia’s AI Ethics Principles
+3. BBC (2023). "Elon Musk among experts urging a halt to AI training".
+4. CodeTrade India. (2024). Explainable AI: A Hands-on Guide With Popular Frameworks.
+5. Davies, H., McKernan, B. & Sabbagh, D. (2023). "‘The Gospel’: how Israel uses AI to select bombing targets in Gaza". *The Guardian*
+6. Doe, J. (2020). "Ethical Considerations in AI Development." *Journal of AI Ethics*, 12(3), 45-67.
+7. Fox, V. (2023) "AI Art & the Ethical Concerns of Artists". *Beautiful Bizzare Magazine*
+8. Green, L. (2021). "Addressing Job Displacement in the Age of AI." *Workplace Futures*, 17(1), 78-91.
+9. Hagendorff, T. The Ethics of AI Ethics: An Evaluation of Guidelines. Minds & Machines 30, 99–120 (2020). https://doi.org/10.1007/s11023-020-09517-8
+10. Li, F., Ruijs, N., & Lu, Y. (2022). Ethics & AI: A systematic review on ethical concerns and related strategies for designing with AI in Healthcare. 
+11. Maria Luciana Axente and Ilana Golbin(2022). "Ten principles for ethical AI".
+12. Pallardy, C (2023). "The proliferation of artificial intelligence comes with big questions about data privacy and risk". *Information Week*.
+13. Pinto, T. (2023) Ai Principles, Artificial Intelligence Act. 
+14. Schneble, C.O., Elger, B.S. and Shaw, D.M. (2020). Google’s Project Nightingale highlights the necessity of data science ethics review.
+15. Sinha, D. (2021). Top 5 Most Controversial Scandals in AI and Big Data."
+16. Smith, A. (2019). "Privacy Challenges in AI Applications." *AI Today*, 5(2), 112-125.
+17. Spair, R. (2023). "The Ethics of AI Surveillance: Balancing Security and Privacy".
+18. Staff, C. (2024). AI Ethics: What It Is and Why It Matters.
+19. Terra, M., Baklola, M., Ali, S., & Karim El-Bastawisy. (2023). "Opportunities, applications, Challenges and Ethical Implications of Artificial Intelligence in psychiatry"
+20. UNESCO. (2023). "Recommendation on the Ethics of Artificial Intelligence: key facts"
 
 

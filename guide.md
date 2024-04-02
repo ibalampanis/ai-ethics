@@ -222,6 +222,11 @@ Also, ethical issues conserning such a tool arise, since the ownership of the im
 
 In 2016, a Rembrandt painting, named “the Next Rembrandt”, was designed by a computer and created by a 3D printer, 351 years after the painter’s death. In order for such technological and artistic "skills" to be achieved, 346 Rembrandt paintings were analyzed pixel by pixel and upscaled by deep learning algorithms to create a unique database. After that, every detail of Rembrandt’s painting style and artistic identity could then be captured and set the foundation for an algorithm capable of creating a masterpiece. Then, a 3D printer recreated the texture of brushstrokes and layers of pain on the canvas for a breath-taking result that brought the painting to life and could trick any art expert.  
 
+>Financial Fraud with Deepfake
+
+In February 2024 a finance worker in Hong Kong was scammed $25 million in a video call conference where all attendees were deepfake creations, including the Chief Financial Officer. Initially the worker received a message from the CFO regarding a confidential transaction that was later confirmed on the video call, therefore leading to the authorization of the transfer. 
+Incidents like this indicate the threat posed by ai and deepfake technology regarding financial exploitation, identity theft and deception. As AI becomes more sophisticated and has the ability to create highly convincing video and audio content ethical concerns arise especially surrounding consent and the unauthorized use of one’s image and voice.   
+
 ## Recommendation on the Ethics of Artificial Intelligence
 In November 2021 UNESCO produced the first-ever global standard on AI ethics the "Recommendation on the Ethics of Artificial Intelligence".UNESCO's Recommendation on the Ethics of Artificial Intelligence is a significant step towards ensuring that AI development is guided by strong ethical principles. The Recommendation interprets AI broadly as systems with the ability to process data in a way which resembles intelligent behaviour. What makes the Recommendation exceptionally applicable are its extensive Policy Action Areas, which allow policymakers to translate the core values and principles into action with respect to data governance, environment and ecosystems, gender, education and research, and health and social wellbeing, among many other spheres. 
 
@@ -351,14 +356,15 @@ This section aims to provide useful courses that one can attend if they want to 
 11. IBM (2023). Shedding light on AI bias with real world examples.
 12. Li, F., Ruijs, N., & Lu, Y. (2022). Ethics & AI: A systematic review on ethical concerns and related strategies for designing with AI in Healthcare. 
 13. Maria Luciana Axente and Ilana Golbin(2022). "Ten principles for ethical AI".
-14. Pallardy, C (2023). "The proliferation of artificial intelligence comes with big questions about data privacy and risk". *Information Week*.
-15. Pinto, T. (2023) Ai Principles, Artificial Intelligence Act. 
-16. Schneble, C.O., Elger, B.S. and Shaw, D.M. (2020). Google’s Project Nightingale highlights the necessity of data science ethics review.
-17. Sinha, D. (2021). Top 5 Most Controversial Scandals in AI and Big Data."
-18. Smith, A. (2019). "Privacy Challenges in AI Applications." *AI Today*, 5(2), 112-125.
-19. Spair, R. (2023). "The Ethics of AI Surveillance: Balancing Security and Privacy".
-20. Staff, C. (2024). AI Ethics: What It Is and Why It Matters.
-21. Terra, M., Baklola, M., Ali, S., & Karim El-Bastawisy. (2023). "Opportunities, applications, Challenges and Ethical Implications of Artificial Intelligence in psychiatry".
-22. The World Economic Forum's article on "Why we need cybersecurity of AI: ethics and responsible innovation" 
-23. UNESCO. (2023). "Recommendation on the Ethics of Artificial Intelligence: key facts".
-24. UNESCO. (April 21, 2023). "Artificial Intelligence: examples of ethical dilemmas". https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases
+14. Magramo, Heather Chen, Kathleen (2024). “Finance Worker Pays out $25 Million after Video Call with Deepfake “Chief Financial Officer.”” CNN
+15. Pallardy, C (2023). "The proliferation of artificial intelligence comes with big questions about data privacy and risk". *Information Week*.
+16. Pinto, T. (2023) Ai Principles, Artificial Intelligence Act. 
+17. Schneble, C.O., Elger, B.S. and Shaw, D.M. (2020). Google’s Project Nightingale highlights the necessity of data science ethics review.
+18. Sinha, D. (2021). Top 5 Most Controversial Scandals in AI and Big Data."
+19. Smith, A. (2019). "Privacy Challenges in AI Applications." *AI Today*, 5(2), 112-125.
+20. Spair, R. (2023). "The Ethics of AI Surveillance: Balancing Security and Privacy".
+21. Staff, C. (2024). AI Ethics: What It Is and Why It Matters.
+22. Terra, M., Baklola, M., Ali, S., & Karim El-Bastawisy. (2023). "Opportunities, applications, Challenges and Ethical Implications of Artificial Intelligence in psychiatry".
+23. The World Economic Forum's article on "Why we need cybersecurity of AI: ethics and responsible innovation" 
+24. UNESCO. (2023). "Recommendation on the Ethics of Artificial Intelligence: key facts".
+25. UNESCO. (April 21, 2023). "Artificial Intelligence: examples of ethical dilemmas". https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases

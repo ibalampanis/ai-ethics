@@ -153,6 +153,10 @@ One concern is the risk of bias in AI algorithms, as they rely on biased data, l
 ### AI in Education
 AI's impact on the education sector is profound. While it provides numerous benefits by aiding in academic and administrative tasks, concerns regarding its potential to diminish decision-making abilities, foster laziness, and compromise security cannot be overlooked. Studies indicate that integrating AI into education exacerbates the decline in human decision-making skills and promotes user passivity through task automation. Before implementing AI technology in education, it's crucial to take significant measures. Adopting AI without addressing major human concerns it's like asking for trouble. It's recommended to focus on justified design, deployment, and utilization of AI in education to effectively address these problems.
 
+<p align="center">
+  <img width="200" src="media/AI/ai-education.png" alt="">
+</p>
+
 ### Misinformation
 
 Misinformation has a way of creating social divides and perpetuating untrue opinions to the detriment of organizations and others. A topic that gained scrutiny in the context of the political upheaval seen in recent years, misinformation can affect public opinion and cause severe reputational damage. Once misinformation becomes widely shared on social media, it can be difficult to determine where it originated and challenging to combat. AI tools have been used to spread misinformation, making it appear as though the information is legitimate, when it is in fact not.

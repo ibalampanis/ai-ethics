@@ -37,6 +37,7 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [Contestability](#contestability)
 - [Courses on AI and Ethics](#courses-on-ai-and-ethics)
   - [Online courses](#online-courses)
+  - [Masters Degrees](#masters-degrees)
 - [References](#references)
 
 <p align="center">

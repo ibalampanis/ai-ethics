@@ -18,6 +18,7 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [AI in Mental Health Care](#ai-in-mental-health-care)
   - [AI in Education](#ai-in-education)
   - [Social Governance](#social-governance)
+  - [AI in the Court of Law](#ai-in-the-court-of-law)
 - [Controversial Usage of AI](#controversial-usage-of-ai)
   - [Examples](#examples-of-controversial-ai)
 - [Ethical Principles for AI Development](#ethical-principles-for-ai-development)
@@ -176,10 +177,16 @@ of Greece, on October of 2023 an Advisory Committee on issues related to Artific
   <img width="200" src="media/AI/governance-ai.jpg" alt="">
 </p>
 
-
 ### Misinformation
 
 Misinformation has a way of creating social divides and perpetuating untrue opinions to the detriment of organizations and others. A topic that gained scrutiny in the context of the political upheaval seen in recent years, misinformation can affect public opinion and cause severe reputational damage. Once misinformation becomes widely shared on social media, it can be difficult to determine where it originated and challenging to combat. AI tools have been used to spread misinformation, making it appear as though the information is legitimate, when it is in fact not.
+
+### AI in the Court of Law
+Presumably, if judiciary systems use AI, cases could be evaluated and justice could be applied in a better, faster, and more efficient way. AI methods can potentially have a huge impact in many areas, from the legal professions and the judiciary to aiding the decision-making of legislative and administrative public bodies. Lawyer efficiency and accuracy can be increased in both counselling and litigation and existing software systems for judges can be complemented and enhanced through AI tools in order to support them in drafting new decisions. It is argued that AI could help create a fairer criminal judicial system by making informed decisions devoid of any bias and subjectivity. However, there are many ethical challenges. Firstly, there is the lack of transparency of AI tools. Then, there is the possibility that AI decisions are susceptible to inaccuracies, discriminatory outcomes, embedded or inserted bias. And, lastly, there are many concerns for fairness and risk for Human Rights and other fundamental values.
+
+<p align="center">
+  <img width="200" src="media/AI/ai_law.jpg" alt="">
+</p>
 
 ## Controversial Usage of AI
 This section aims to provide real-life examples of applications and tools that are powered by AI accross industries and display morally gray or/and legally undefined territories. These examples showcase the pressing need for ethical considerations and clear regulations in the rapidly evolving and difficult to control field of artificial intelligence. It is important to emphasise that artificial intelligence should work for the common good and to help people and their lives rather than make them question the morality, law compliance or/and safety of its usage which is the case in the examples presented down below.  
@@ -326,3 +333,4 @@ This section aims to provide useful courses that one can attend if they want to 
 21. Terra, M., Baklola, M., Ali, S., & Karim El-Bastawisy. (2023). "Opportunities, applications, Challenges and Ethical Implications of Artificial Intelligence in psychiatry".
 22. The World Economic Forum's article on "Why we need cybersecurity of AI: ethics and responsible innovation" 
 23. UNESCO. (2023). "Recommendation on the Ethics of Artificial Intelligence: key facts".
+24. UNESCO. (April 21, 2023). "Artificial Intelligence: examples of ethical dilemmas". https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases

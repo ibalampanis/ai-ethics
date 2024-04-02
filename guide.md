@@ -267,7 +267,7 @@ This section aims to provide useful courses that one can attend if they want to 
 14. Staff, C. (2024). AI Ethics: What It Is and Why It Matters. 
 15. UNESCO. (2023). "Recommendation on the Ethics of Artificial Intelligence: key facts"
 16. Australian Government. (2019). Australia’s Artificial Intelligence Ethics Framework: Australia’s AI Ethics Principles
-
+17. Terra, M., Baklola, M., Ali, S., & Karim El-Bastawisy. (2023). "Opportunities, applications, Challenges and Ethical Implications of Artificial Intelligence in psychiatry"
 
 
 

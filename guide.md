@@ -207,6 +207,9 @@ AI developers must prioritize privacy by implementing robust data protection mea
 ### Transparency and Explainability
 AI systems should be designed to be transparent and explainable, allowing users to understand how decisions are made. Providing explanations for AI decisions enhances trust and accountability, enabling users to assess the reliability and fairness of AI systems.
 
+#### Explainable AI 
+XAI is a branch within artificial intelligence that emphasizes the enhancement of AI models' clarity and transparency for human comprehension. Their value lies in the inherent complexity of numerous AI models, which often renders their decisions opaque and challenging for humans to trust and grasp. It achieves this by furnishing elucidations for AI decisions, thus uncovering potential biases and inaccuracies within AI models. 
+
 > For AI models, transparency isn't a simple feature, it's a virtue. Prioritize explainability to build trust, enabling users to navigate in an environment of reliability and equity.
 
 ### Accountability
@@ -251,23 +254,24 @@ This section aims to provide useful courses that one can attend if they want to 
 * [AI courses in codecademy](https://www.codecademy.com/catalog/subject/artificial-intelligence)
 
 ## References
-1. BBC (2023). "Elon Musk among experts urging a halt to AI training".
-2. Davies, H., McKernan, B. & Sabbagh, D. (2023). "‘The Gospel’: how Israel uses AI to select bombing targets in Gaza". *The Guardian*
-3. Doe, J. (2020). "Ethical Considerations in AI Development." *Journal of AI Ethics*, 12(3), 45-67.
-4. Fox, V. (2023) "AI Art & the Ethical Concerns of Artists". *Beautiful Bizzare Magazine*
-5. Green, L. (2021). "Addressing Job Displacement in the Age of AI." *Workplace Futures*, 17(1), 78-91.
-6. Li, F., Ruijs, N., & Lu, Y. (2022). Ethics & AI: A systematic review on ethical concerns and related strategies for designing with AI in Healthcare. 
-7. Maria Luciana Axente and Ilana Golbin(2022). "Ten principles for ethical AI".
-8. Pallardy, C (2023). "The proliferation of artificial intelligence comes with big questions about data privacy and risk". *Information Week*.
-9. Pinto, T. (2023) Ai Principles, Artificial Intelligence Act. 
-10. Schneble, C.O., Elger, B.S. and Shaw, D.M. (2020). Google’s Project Nightingale highlights the necessity of data science ethics review.
-11. Sinha, D. (2021). Top 5 Most Controversial Scandals in AI and Big Data."
-12. Smith, A. (2019). "Privacy Challenges in AI Applications." *AI Today*, 5(2), 112-125.
-13. Spair, R. (2023). "The Ethics of AI Surveillance: Balancing Security and Privacy".
-14. Staff, C. (2024). AI Ethics: What It Is and Why It Matters. 
-15. UNESCO. (2023). "Recommendation on the Ethics of Artificial Intelligence: key facts"
-16. Australian Government. (2019). Australia’s Artificial Intelligence Ethics Framework: Australia’s AI Ethics Principles
-17. Terra, M., Baklola, M., Ali, S., & Karim El-Bastawisy. (2023). "Opportunities, applications, Challenges and Ethical Implications of Artificial Intelligence in psychiatry"
-
+1. Australian Government. (2019). Australia’s Artificial Intelligence Ethics Framework: Australia’s AI Ethics Principles
+2. BBC (2023). "Elon Musk among experts urging a halt to AI training".
+3. CodeTrade India. (2024). Explainable AI: A Hands-on Guide With Popular Frameworks.
+4. Davies, H., McKernan, B. & Sabbagh, D. (2023). "‘The Gospel’: how Israel uses AI to select bombing targets in Gaza". *The Guardian*
+5. Doe, J. (2020). "Ethical Considerations in AI Development." *Journal of AI Ethics*, 12(3), 45-67.
+6. Fox, V. (2023) "AI Art & the Ethical Concerns of Artists". *Beautiful Bizzare Magazine*
+7. Green, L. (2021). "Addressing Job Displacement in the Age of AI." *Workplace Futures*, 17(1), 78-91.
+8. Hagendorff, T. The Ethics of AI Ethics: An Evaluation of Guidelines. Minds & Machines 30, 99–120 (2020). https://doi.org/10.1007/s11023-020-09517-8
+9. Li, F., Ruijs, N., & Lu, Y. (2022). Ethics & AI: A systematic review on ethical concerns and related strategies for designing with AI in Healthcare. 
+10. Maria Luciana Axente and Ilana Golbin(2022). "Ten principles for ethical AI".
+11. Pallardy, C (2023). "The proliferation of artificial intelligence comes with big questions about data privacy and risk". *Information Week*.
+12. Pinto, T. (2023) Ai Principles, Artificial Intelligence Act. 
+13. Schneble, C.O., Elger, B.S. and Shaw, D.M. (2020). Google’s Project Nightingale highlights the necessity of data science ethics review.
+14. Sinha, D. (2021). Top 5 Most Controversial Scandals in AI and Big Data."
+15. Smith, A. (2019). "Privacy Challenges in AI Applications." *AI Today*, 5(2), 112-125.
+16. Spair, R. (2023). "The Ethics of AI Surveillance: Balancing Security and Privacy".
+17. Staff, C. (2024). AI Ethics: What It Is and Why It Matters.
+18. Terra, M., Baklola, M., Ali, S., & Karim El-Bastawisy. (2023). "Opportunities, applications, Challenges and Ethical Implications of Artificial Intelligence in psychiatry"
+19. UNESCO. (2023). "Recommendation on the Ethics of Artificial Intelligence: key facts"
 
 

@@ -17,6 +17,7 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [Misinformation](#misinformation)
   - [AI in Mental Health Care](#ai-in-mental-health-care)
   - [AI in Education](#ai-in-education)
+  - [Social Governance](#social_governance)
 - [Controversial Usage of AI](#controversial-usage-of-ai)
   - [Examples](#examples-of-controversial-ai)
 - [Ethical Principles for AI Development](#ethical-principles-for-ai-development)
@@ -156,6 +157,15 @@ AI's impact on the education sector is profound. While it provides numerous bene
 <p align="center">
   <img width="200" src="media/AI/ai-education.png" alt="">
 </p>
+
+### Social Governance
+More and more countries and governments are interested in using Artificial Intelligence in order to better rule their countries. Focusing on the example 
+of Greece, on October of 2023 an Advisory Committee on issues related to Artificial Intelligence issues was establlished headed by Professor Konstantinos Daskalakis. The Commitee will provide evidence-based advice and proposals on how Greece can take advantage of the multiple possibilities and opportunities arising from the use of Artificial Intelligence. Moreover, its goal is to offer enhancements on the economy and society, improve productivity, increase innovation, strengthen infrastructure, better manage the effects of the climate crisis, support human resources and social cohesion, create quality jobs, defend national digital sovereignty and improve the operation of the country.
+
+<p align="center">
+  <img width="200" src="media/AI/governance-ai.png" alt="">
+</p>
+
 
 ### Misinformation
 

@@ -49,7 +49,7 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
 
 
 ## Introduction
-This document focuses on **AI and Ethics**,a set of guiding principles that are used to ensure the responsible use of AI. Although the goal is a secure, safe and humane approach, this has been questioned by a lot of people causing various ethical concerns.
+This document focuses on **AI and Ethics**, a set of guiding principles that are used to ensure the responsible use of AI. Although the goal is a secure, safe and humane approach, this has been questioned by a lot of people causing various ethical concerns.
 
 
 ## Ethical Concerns
@@ -67,6 +67,11 @@ In some fields, like healthcare, using AI algorithms that don't take into accoun
 *Image taken from [www.playhunt.io](https://playhunt.io/nl/for-candidates/artificial-intelligence-resume-screening)*
 
 For example, Amazon stopped using a hiring algorithm because it was biased towards male applicants. The algorithm favored certain terms like "executed" or "captured," which were more common in men's resumes.
+
+- **Bias in Data Sets**:
+ Another problem regarding bias is found in data sets used to train AI tools. That can be presented in cases for which the system has not been specifically trained for. A good example of the problem created is an AI system that is trained to classify text as English or German, if the tool was posed with a piece of text in a different language like French, it would still try to generate an answer. This can easily lead to "hidden" misinformation or mispredictions in the usage of AI.
+
+ A similar concern is presented with facial recognition data sets that do not include a diversity in ethnic groups, issues like this one can cause trained AI models to display inaccuracies across different races.
 
 ### Privacy
 The vast amounts of data required for AI applications raise concerns about privacy. Unauthorized access to personal data or its misuse can lead to breaches of privacy and surveillance issues, undermining individuals' autonomy and rights.

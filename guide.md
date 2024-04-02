@@ -298,7 +298,8 @@ This section aims to provide useful courses that one can attend if they want to 
 16. Smith, A. (2019). "Privacy Challenges in AI Applications." *AI Today*, 5(2), 112-125.
 17. Spair, R. (2023). "The Ethics of AI Surveillance: Balancing Security and Privacy".
 18. Staff, C. (2024). AI Ethics: What It Is and Why It Matters.
-19. Terra, M., Baklola, M., Ali, S., & Karim El-Bastawisy. (2023). "Opportunities, applications, Challenges and Ethical Implications of Artificial Intelligence in psychiatry"
-20. UNESCO. (2023). "Recommendation on the Ethics of Artificial Intelligence: key facts"
+19. Terra, M., Baklola, M., Ali, S., & Karim El-Bastawisy. (2023). "Opportunities, applications, Challenges and Ethical Implications of Artificial Intelligence in psychiatry".
+20. UNESCO. (2023). "Recommendation on the Ethics of Artificial Intelligence: key facts".
+21. Europeian commission. (2021). "Ethics Guidelines for Trustworthy AI".
 
 

@@ -268,6 +268,32 @@ Its widely supported that the solution to all our transport sustainability goals
   <img width="700" height="900" src="media/CO2-output-by-transport-type.png" alt="fast-fashion">
 </p>
 
+# Green Technology
+
+A set of methods, tools and knowledge used to make products and render services providing safe and favorable conditions for human life, as well as preservation and restoration of natural environment, rational use and restoration of natural resources, prevention of negative impact of economic and other activities on the environment and elimination if its consequences. 
+    **How to incorporate green tech into everyday life**
+    One of the greatest aspects of green technology is that it enables individuals to live their lives, but in a greener way that is not harmful to the environment. Since green technology covers a variety of appliances, making it within reach to be more green in everyday life. There are a plenty of ways to do that:
+- Turn off technology and/or appliances when not in use
+- Use power bricks that enable you to make sure many things are off
+- Recycle, sell or give away old devices/ components
+- Buy LED, CFL (compact fluorescent bulbs) or other long lasting bulbs
+- Try to repurpose old technology
+- Have heating and air conditioning on when needed, make sure it’s not going non-stop
+- Go paperless
+- Virtualisation and cloud computing 
+- Invest in rechargeable batteries
+- Do more things electronically (ex: voting, filing taxes, and various tickets, and meetings)
+- Ask boss about possibility of distant working
+- Get rid of screen savers and allow products to go into sleep mode
+- Order things online or walk / bike, instead of using up fuel
+- Install a meter app on your phone to monitor power usage and habits
+ - More involved:
+- Try to repair technology instead of replacing it entirely
+- Buy a hybrid / electric car
+- Use booster apps (closes open apps) to make phone batteries last longer
+- Use power saving modes for maximum efficiency on all devices
+- Check certifications for product purchases
+
 ## References 
 1. [AMC Staff. (Retrieved March 29, 2024). Go Green: 10 Tips for a More Sustainable Lifestyle. AMC Outdoors.](https://www.outdoors.org/resources/amc-outdoors/conservation-and-climate/go-green-10-tips-for-a-more-sustainable-lifestyle/)
 2. [Berrill, A., Card, N., et al. (2020, February 29). 50 simple ways to make your life greener. The Guardian.](https://www.theguardian.com/environment/2020/feb/29/50-ways-to-green-up-your-life-save-the-planet)
@@ -285,3 +311,5 @@ Its widely supported that the solution to all our transport sustainability goals
 14. [The environmental impact of today’s transport types, TNMT.](https://tnmt.com/infographics/carbon-emissions-by-transport-type/)
 15. [European Environment Agency, “ Paving the way for EU enlargement - Indicators of transport and environment integration,” Nov. 2002.](https://www.eea.europa.eu/publications/environmental_issue_report_2002_24)
 16. [ASTOUL, E. (2024,March 19). 14 LIFE-CHANGING MINIMALIST RULES TO LIVE BY](https://greenwithless.com/minimalist-rules-to-live-by/)
+17. [Green Technology and its effect on the modern world (2017)](https://www.theseus.fi/handle/10024/125459)
+18. [“Green” standards will ensure safe living environment](https://www.matec-conferences.org/articles/matecconf/pdf/2018/55/matecconf_rsp2018_04022.pdf)

@@ -256,6 +256,9 @@ Ethical principles for AI development emphasize the importance of human-centered
   <img width="200" src="media/AI/human-oversight.jpg" alt="">
 </p>
 
+<p align="center">
+  <img width="200" src="media/AI/mental-health.jpg" alt="">
+</p>
 ### Technical robustness and safety
 AI system providers and developers are responsible for designing AI systems that function effectively, predictably, and safely. It is imperative for AI providers to ensure that their systems adhere to quality management standards, guaranteeing reliability and compliance with established protocols.
 

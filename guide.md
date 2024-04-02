@@ -19,6 +19,7 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [AI in Education](#ai-in-education)
   - [Social Governance](#social-governance)
   - [AI in the Court of Law](#ai-in-the-court-of-law)
+  - [Creativity and Ownership](#creativity-and-ownership)
 - [Controversial Usage of AI](#controversial-usage-of-ai)
   - [Examples](#examples-of-controversial-ai)
 - [Ethical Principles for AI Development](#ethical-principles-for-ai-development)
@@ -187,6 +188,9 @@ Presumably, if judiciary systems use AI, cases could be evaluated and justice co
 <p align="center">
   <img width="200" src="media/AI/ai_law.jpg" alt="">
 </p>
+
+### Creativity and Ownership
+As we all know, AI has the ability to generate art. That specific type of artwork, though, requires a new definition of what it means to be an “author”, in order to do justice to the creative work of both the “original” author and the algorithms and technologies that produced the work of art itself. Given that AI is a powerful tool for creation, it raises important questions about the future of art, the rights of artists and the integrity of the creative value chain. Frameworks need to be developed to differentiate piracy and plagiarism from originality and creativity, and to recognize the value of human creative work in our interactions with AI. These frameworks pose a need to avoid the deliberate exploitation of the work and creativity of human beings, and to ensure adequate remuneration and recognition for artists, the integrity of the cultural value chain, and the cultural sector’s ability to provide vocational rehabilitation.
 
 ## Controversial Usage of AI
 This section aims to provide real-life examples of applications and tools that are powered by AI accross industries and display morally gray or/and legally undefined territories. These examples showcase the pressing need for ethical considerations and clear regulations in the rapidly evolving and difficult to control field of artificial intelligence. It is important to emphasise that artificial intelligence should work for the common good and to help people and their lives rather than make them question the morality, law compliance or/and safety of its usage which is the case in the examples presented down below.  

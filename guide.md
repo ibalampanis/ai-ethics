@@ -61,6 +61,7 @@ In some fields, like healthcare, using AI algorithms that don't take into accoun
   <img width="250" src="media/AI/ai-resume-screening.png" alt="">
 </p>
 
+*Image taken from [www.playhunt.io](https://playhunt.io/nl/for-candidates/artificial-intelligence-resume-screening)*
 
 For example, Amazon stopped using a hiring algorithm because it was biased towards male applicants. The algorithm favored certain terms like "executed" or "captured," which were more common in men's resumes.
 

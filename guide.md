@@ -29,6 +29,7 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [Social and environmental well-being](#social-and-environmental-well-being)
   - [Dealing with responsibility](#dealing-with-responsibility)
   - [Resilience and Continuity](#resilience-and-continuity)
+  - [Contestability](#contestability)
 - [Courses on AI and Ethics](#courses-on-ai-and-ethics)
   - [Online courses](#online-courses)
 - [References](#references)
@@ -233,6 +234,9 @@ To deal with the issue of responsibility, the literature proposes the following 
 ### Resilience and Continuity
 AI developers should prioritize the resilience and continuity of AI systems, ensuring they can adapt to unforeseen circumstances, disruptions, or adversarial attacks. This involves implementing robust fail-safe mechanisms, redundancy measures, and contingency plans to minimize the risk of system failure or exploitation. Additionally, developers should strive to ensure the continuous availability and functionality of AI systems, especially in critical applications such as healthcare, transportation, and emergency response. By prioritizing resilience and continuity, developers can enhance the reliability, safety, and effectiveness of AI technologies, ultimately contributing to greater trust and confidence in their deployment.
 
+### Contestability
+AI developers should establish effective and accessible mechanisms enabling individuals to contest the use or outcomes of AI systems when they have a significant impact on individuals, communities, groups, or the environment. Determining what constitutes a 'significant impact' must consider the context, impact, and application of the AI system. Ensuring the availability of redress for harm when errors occur is crucial for fostering public trust in AI. Special consideration must be given to vulnerable individuals or groups. To achieve contestability, developers must ensure adequate access to information regarding the algorithm's operations and the inferences made. In cases where decisions significantly affect rights, implementing an effective oversight system that incorporates human judgment appropriately is essential.
+
 ## Courses on AI and Ethics
 This section aims to provide useful courses that one can attend if they want to learn more about how to use AI in an ethical way.
 
@@ -257,6 +261,7 @@ This section aims to provide useful courses that one can attend if they want to 
 13. Spair, R. (2023). "The Ethics of AI Surveillance: Balancing Security and Privacy".
 14. Staff, C. (2024). AI Ethics: What It Is and Why It Matters. 
 15. UNESCO. (2023). "Recommendation on the Ethics of Artificial Intelligence: key facts"
+16. Australian Government. (2019). Australia’s Artificial Intelligence Ethics Framework: Australia’s AI Ethics Principles
 
 
 

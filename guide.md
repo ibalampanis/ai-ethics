@@ -55,6 +55,8 @@ In March 2023, more than 1,000 experts, including technology leaders like Elon M
 ### Bias and Fairness
 AI systems often learn from historical data, which may contain biases reflecting societal inequalities. If not addressed, these biases can perpetuate discrimination and unfairness, affecting individuals' opportunities and rights.
 
+In some fields, like healthcare, using AI algorithms that don't take into account the experiences of women and minority groups can lead to wrong results for those specific communities. Also, when companies use applicant tracking systems that analyze language, it can create biases that favor some candidates over others, based on the wording used in their resumes. For example, Amazon stopped using a hiring algorithm because it was biased towards male applicants. The algorithm favored certain terms like "executed" or "captured," which were more common in men's resumes.
+
 ### Privacy
 The vast amounts of data required for AI applications raise concerns about privacy. Unauthorized access to personal data or its misuse can lead to breaches of privacy and surveillance issues, undermining individuals' autonomy and rights.
 
@@ -302,17 +304,17 @@ This section aims to provide useful courses that one can attend if they want to 
 7. Fox, V. (2023) "AI Art & the Ethical Concerns of Artists". *Beautiful Bizzare Magazine*
 8. Green, L. (2021). "Addressing Job Displacement in the Age of AI." *Workplace Futures*, 17(1), 78-91.
 9. Hagendorff, T. The Ethics of AI Ethics: An Evaluation of Guidelines. Minds & Machines 30, 99–120 (2020). https://doi.org/10.1007/s11023-020-09517-8
-10. Li, F., Ruijs, N., & Lu, Y. (2022). Ethics & AI: A systematic review on ethical concerns and related strategies for designing with AI in Healthcare. 
-11. Maria Luciana Axente and Ilana Golbin(2022). "Ten principles for ethical AI".
-12. Pallardy, C (2023). "The proliferation of artificial intelligence comes with big questions about data privacy and risk". *Information Week*.
-13. Pinto, T. (2023) Ai Principles, Artificial Intelligence Act. 
-14. Schneble, C.O., Elger, B.S. and Shaw, D.M. (2020). Google’s Project Nightingale highlights the necessity of data science ethics review.
-15. Sinha, D. (2021). Top 5 Most Controversial Scandals in AI and Big Data."
-16. Smith, A. (2019). "Privacy Challenges in AI Applications." *AI Today*, 5(2), 112-125.
-17. Spair, R. (2023). "The Ethics of AI Surveillance: Balancing Security and Privacy".
-18. Staff, C. (2024). AI Ethics: What It Is and Why It Matters.
-19. Terra, M., Baklola, M., Ali, S., & Karim El-Bastawisy. (2023). "Opportunities, applications, Challenges and Ethical Implications of Artificial Intelligence in psychiatry".
-20. UNESCO. (2023). "Recommendation on the Ethics of Artificial Intelligence: key facts".
-21. Europeian commission. (2021). "Ethics Guidelines for Trustworthy AI".
-22. The World Economic Forum's article on "Why we need cybersecurity of AI: ethics and responsible innovation" 
-
+10. IBM (2023). Shedding light on AI bias with real world examples.
+11. Li, F., Ruijs, N., & Lu, Y. (2022). Ethics & AI: A systematic review on ethical concerns and related strategies for designing with AI in Healthcare. 
+12. Maria Luciana Axente and Ilana Golbin(2022). "Ten principles for ethical AI".
+13. Pallardy, C (2023). "The proliferation of artificial intelligence comes with big questions about data privacy and risk". *Information Week*.
+14. Pinto, T. (2023) Ai Principles, Artificial Intelligence Act. 
+15. Schneble, C.O., Elger, B.S. and Shaw, D.M. (2020). Google’s Project Nightingale highlights the necessity of data science ethics review.
+16. Sinha, D. (2021). Top 5 Most Controversial Scandals in AI and Big Data."
+17. Smith, A. (2019). "Privacy Challenges in AI Applications." *AI Today*, 5(2), 112-125.
+18. Spair, R. (2023). "The Ethics of AI Surveillance: Balancing Security and Privacy".
+19. Staff, C. (2024). AI Ethics: What It Is and Why It Matters.
+20. Terra, M., Baklola, M., Ali, S., & Karim El-Bastawisy. (2023). "Opportunities, applications, Challenges and Ethical Implications of Artificial Intelligence in psychiatry".
+21. UNESCO. (2023). "Recommendation on the Ethics of Artificial Intelligence: key facts".
+22. Europeian commission. (2021). "Ethics Guidelines for Trustworthy AI".
+23. The World Economic Forum's article on "Why we need cybersecurity of AI: ethics and responsible innovation" 

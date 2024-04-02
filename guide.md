@@ -29,6 +29,8 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [Social and environmental well-being](#social-and-environmental-well-being)
   - [Dealing with responsibility](#dealing-with-responsibility)
   - [Resilience and Continuity](#resilience-and-continuity)
+- [Courses on AI and Ethics](#courses-on-ai-and-ethics)
+  - [Online courses](#online-courses)
 - [References](#references)
 
 <p align="center">
@@ -230,6 +232,14 @@ To deal with the issue of responsibility, the literature proposes the following 
 
 ### Resilience and Continuity
 AI developers should prioritize the resilience and continuity of AI systems, ensuring they can adapt to unforeseen circumstances, disruptions, or adversarial attacks. This involves implementing robust fail-safe mechanisms, redundancy measures, and contingency plans to minimize the risk of system failure or exploitation. Additionally, developers should strive to ensure the continuous availability and functionality of AI systems, especially in critical applications such as healthcare, transportation, and emergency response. By prioritizing resilience and continuity, developers can enhance the reliability, safety, and effectiveness of AI technologies, ultimately contributing to greater trust and confidence in their deployment.
+
+## Courses on AI and Ethics
+This section aims to provide useful courses that one can attend if they want to learn more about how to use AI in an ethical way.
+
+### Online courses
+
+* [Get Started with Artificial Intelligence module in Salesforce](https://trailhead.salesforce.com/content/learn/trails/get-started-with-ai-data)
+* [AI courses in codecademy](https://www.codecademy.com/catalog/subject/artificial-intelligence)
 
 ## References
 1. BBC (2023). "Elon Musk among experts urging a halt to AI training".

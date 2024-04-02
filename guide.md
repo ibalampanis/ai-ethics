@@ -17,7 +17,7 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [Misinformation](#misinformation)
   - [AI in Mental Health Care](#ai-in-mental-health-care)
   - [AI in Education](#ai-in-education)
-  - [Social Governance](#social_governance)
+  - [Social Governance](#social-governance)
 - [Controversial Usage of AI](#controversial-usage-of-ai)
   - [Examples](#examples-of-controversial-ai)
 - [Ethical Principles for AI Development](#ethical-principles-for-ai-development)

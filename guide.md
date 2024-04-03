@@ -25,6 +25,8 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [AI in Media](#ai-in-media)
 - [Controversial Usage of AI](#controversial-usage-of-ai)
   - [Examples](#examples-of-controversial-ai)
+- [Recommendation on the Ethics of Artificial Intelligence](#recommendation-on-the-ethics-of-artificial-intelligence)
+  - [Policy Action Areas](#policy-action-areas)
 - [Ethical Principles for AI Development](#ethical-principles-for-ai-development)
   - [Fairness and Equity](#fairness-and-equity)
   - [Privacy and Data Protection](#privacy-and-data-protection)

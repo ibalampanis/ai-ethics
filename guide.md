@@ -42,6 +42,7 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [Contestability](#contestability)
   - [Inclusivity](#inclusivity)
   - [Equitable Access](#equitable-access)
+-[Can AI Help Us In Making This World More Ethical?](#can-ai-help-us-in-making-this-world-more-ethical)
 - [Courses on AI and Ethics](#courses-on-ai-and-ethics)
   - [Online courses](#online-courses)
     -[Free courses](#free)
@@ -394,6 +395,10 @@ Inclusivity emphasizes the importance of ensuring that AI systems are designed a
 
 ### Equitable Access
 AI technologies should be accessible to all individuals regardless of their social status, geographic location, or technology skills and abilities. Developers should make significant effort in order to bridge the digital chasm and prevent the exacerbation of inequalities spotted in artificial intelligence implementation.
+
+## Can AI Help Us In Making This World More Ethical?
+After mentioning above a lot of the "dark sides" of AI and the concerns that revolve around them maybe it is time to reflect on whether AI can contribute to making our society a bit more ethical. For the matter of fact, AI systems can be trained to provide us in our personal life and of course companies with isnights based on ethical principles and values.This as a concept could be use also in schools with providing interactive lessons and personalized feedback on how values should be used in our everyday life, in real life situations.As well as ethics so does the environment could be helped with AI tools in a larger extend as humans and consumers can be tought how to respect not only people around them but also the environment with providing them, for example information about a product's origin.The more AI is used the more inclusive and acceptive, furthermore this society can become to people with disabilities providing them with innovative solutions to overcome barriers that make their life less accessible.
+
 
 ## Courses on AI and Ethics
 This section aims to provide useful courses that one can attend if they want to learn more about how to use AI in an ethical way.

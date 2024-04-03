@@ -300,6 +300,24 @@ XAI is a branch within artificial intelligence that emphasizes the enhancement o
 ### Accountability
 Clear lines of accountability should be established for AI systems, ensuring that developers, deployers, and users are responsible for their actions and decisions. Implementing mechanisms for auditing and oversight can help hold accountable parties accountable for any harm caused by AI systems.
 
+### AI Ethics Committees and Boards
+
+AI Ethics Committees and Boards play a crucial role in overseeing the development, deployment, and use of AI technologies within organizations and industries. Here are a few key aspects:
+
+1. **Purpose**: The primary purpose of AI ethics committees and boards is to ensure that AI technologies are developed and used in a responsible, ethical, and socially beneficial manner. They help organizations navigate complex ethical considerations and make informed decisions about AI development and deployment.
+
+2. **Composition**: AI ethics committees and boards typically consist of a diverse group of experts from various disciplines, including AI research, ethics, law, policy, and stakeholder representation from impacted communities. This diversity ensures a comprehensive and balanced approach to ethical decision-making.
+
+3. **Responsibilities**: These committees and boards are responsible for establishing ethical guidelines, principles, and standards for AI development and deployment within their organization. They may also review and assess AI projects and applications to ensure compliance with ethical guidelines and regulatory requirements.
+
+4. **Ethical Review**: AI ethics committees may conduct ethical reviews of proposed AI projects and applications to identify potential risks, biases, and ethical concerns. They may also provide guidance and recommendations for mitigating these risks and ensuring ethical AI development and deployment.
+
+5. **Transparency and Accountability**: AI ethics committees and boards promote transparency and accountability by making their deliberations, decisions, and recommendations publicly accessible. They may also engage with stakeholders, including employees, customers, and the broader public, to solicit feedback and input on ethical issues related to AI.
+
+6. **Ongoing Monitoring and Evaluation**: These committees and boards are often tasked with ongoing monitoring and evaluation of AI technologies to assess their impact on society, identify emerging ethical issues, and recommend updates to ethical guidelines and standards as needed.
+
+Overall, AI ethics committees and boards play a critical role in fostering ethical AI development and deployment, promoting trust and accountability, and ensuring that AI technologies are used in a manner that aligns with societal values and interests.
+
 ### Societal Impact
 Developers should consider the broader societal impact of AI systems, including their potential to exacerbate existing inequalities. By conducting thorough impact assessments and engaging with diverse stakeholders, developers can mitigate negative consequences and promote positive societal outcomes. Respect for international law and national sovereignty is paramount in data usage, allowing for the regulation of data generated within or passing through geographical jurisdictions.
 

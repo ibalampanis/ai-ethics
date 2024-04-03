@@ -42,6 +42,7 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [Resilience and Continuity](#resilience-and-continuity)
   - [Contestability](#contestability)
   - [Inclusivity](#inclusivity)
+  - [Equitable Access](#equitable-acces)
 - [Courses on AI and Ethics](#courses-on-ai-and-ethics)
   - [Online courses](#online-courses)
     -[Free courses](#free)

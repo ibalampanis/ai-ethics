@@ -102,6 +102,12 @@ The vast amounts of data required for AI applications raise concerns about priva
 ### Accountability and Transparency
 The opacity of AI decision-making processes poses challenges for accountability. It can be difficult to understand how and why AI systems make decisions, making it challenging to assign responsibility in case of errors or harm. Ensuring transparency and explainability in AI algorithms is crucial for accountability and trust.
 
+<p align="center">
+  <img width="200" src="media/AI/transparency.png" alt="">
+</p>
+
+*Icon made by Witchai.wi from [www.flaticon.com](https://www.flaticon.com/)*
+
 ### Job Displacement
 Automation driven by AI has the potential to disrupt labor markets, leading to job displacement. This raises ethical questions about ensuring the welfare and retraining of displaced workers, as well as addressing potential economic inequalities arising from AI-driven automation.
 

@@ -415,3 +415,4 @@ This section aims to provide useful courses that one can attend if they want to 
 24. UNESCO. (2023). "Recommendation on the Ethics of Artificial Intelligence: key facts".
 25. UNESCO. (April 21, 2023). "Artificial Intelligence: examples of ethical dilemmas". https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases
 26. Marr, B. (2023). "The Intersection Of AI And Human Creativity: Can Machines Really Be Creative?" Forbes
+27. Blackman, R. (2022). Why You Need an AI Ethics Committee. Harvard Business Review (July–August).

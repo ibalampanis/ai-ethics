@@ -183,7 +183,7 @@ AI through the years, has started significantly to have an impact also in fields
 When it comes to music, AI can nowadays compose its own original music pieces as AI models are capable of learning patterns, structures and styles of different genres. Of course, AI algorithms enable musicians to ideate new music by not only producing but also remixing with creative ways already existing sounds/melodies.Another, known to everyone, example of AI in music is apps like Spotify that analye user's listening preferences to provide personalized recommendations, new artists etc.
 
 <p align="center">
-  <img width="200" src="media/AI/robot_with_bob_ross.webp" alt="">
+  <img width="350" src="media/AI/robot_with_bob_ross.webp" alt="">
 </p>
 
 ### AI in Education

@@ -23,6 +23,7 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [AI in the Court of Law](#ai-in-the-court-of-law)
   - [Creativity and Ownership](#creativity-and-ownership)
   - [AI in Media](#ai-in-media)
+  - [AI in Marketing](#ai-in-marketing)
 - [Controversial Usage of AI](#controversial-usage-of-ai)
   - [Examples](#examples-of-controversial-ai)
 - [Recommendation on the Ethics of Artificial Intelligence](#recommendation-on-the-ethics-of-artificial-intelligence)
@@ -231,6 +232,9 @@ AI has a big impact on modern societies when utilized to create fake media. More
 </p>
 
 *Icon made by Flat Icons from [www.flaticon.com](https://www.flaticon.com/)* <br>
+
+### AI in Marketing
+AI has been the latest breakthrough in marketing with an increasing number of companies leveraging AI tools for promotion, as they allow for unparalleled personalization and customer engagement. However this amelioration raises ethical concerns especially regarding privacy, manipulation and algorithmic bias. AI tools collect and analyze vast amounts of data, which are not always handled securely and ethically. Additionally, the use of AI and personalized messaging can be manipulative by preying on individuals' insecurities and vulnerabilities to influence consumer behavior. Lastly, algorithmic bias can lead to the unfair treatment of consumers especially those belonging to marginalized communities. Therefore it is imperative to adopt responsible AI approaches to protect consumer interests.
 
 ### The impact of AI on Economic Inequality
 

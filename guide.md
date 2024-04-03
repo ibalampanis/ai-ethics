@@ -20,6 +20,7 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [Social Governance](#social-governance)
   - [AI in the Court of Law](#ai-in-the-court-of-law)
   - [Creativity and Ownership](#creativity-and-ownership)
+  - [AI in Media](#ai-in-media)
 - [Controversial Usage of AI](#controversial-usage-of-ai)
   - [Examples](#examples-of-controversial-ai)
 - [Ethical Principles for AI Development](#ethical-principles-for-ai-development)
@@ -196,6 +197,9 @@ Presumably, if judiciary systems use AI, cases could be evaluated and justice co
 
 ### Creativity and Ownership
 As we all know, AI has the ability to generate art. That specific type of artwork, though, requires a new definition of what it means to be an “author”, in order to do justice to the creative work of both the “original” author and the algorithms and technologies that produced the work of art itself. Given that AI is a powerful tool for creation, it raises important questions about the future of art, the rights of artists and the integrity of the creative value chain. Frameworks need to be developed to differentiate piracy and plagiarism from originality and creativity, and to recognize the value of human creative work in our interactions with AI. These frameworks pose a need to avoid the deliberate exploitation of the work and creativity of human beings, and to ensure adequate remuneration and recognition for artists, the integrity of the cultural value chain, and the cultural sector’s ability to provide vocational rehabilitation.
+
+### AI in Media
+AI has a big impact on modern societies when utilized to create fake media. More specifically, AI can be used to fabricate content harming to a certain person or a group of people by creating deepfakes. The manipulation of voice images and video, done by malicious users of AI technologies, usually target an individual or an organization, causing them severe mental and reputational damage. Such content may include fake news, manipulation of public speeches, celebrity impersonations and explicit videos. Deepfakes can go viral, spreading misinformation and manipulating the public opinion. That's why many times it is used to orchestrate content about public figures and politicians.
 
 <p align="center">
   <img width="200" src="media/AI/creativity.jpg" alt="">

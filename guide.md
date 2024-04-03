@@ -113,6 +113,12 @@ Central to the Recommendation that UNESCO has proposed are four core values whic
 
 - <em> Health and Social Wellbeing: </em>This area should prioritize the development of AI applications that enhance healthcare access, quality, and equity, while safeguarding patient privacy and autonomy.
 
+<p align="center">
+  <img width="200" src="media/AI/aicourt.png" alt="">
+</p>
+
+*Icon made by GETTY IMAGES from [www.aibusiness.com](https://www.aibusiness.com/)*
+
 ## Ethical Principles for AI Development
 
 ### Fairness and Equity

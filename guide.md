@@ -37,6 +37,8 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [Contestability](#contestability)
 - [Courses on AI and Ethics](#courses-on-ai-and-ethics)
   - [Online courses](#online-courses)
+    -[Free courses](#free)
+    -[Paid courses](#paid)
   - [Masters Degrees](#masters-degrees)
 - [References](#references)
 
@@ -329,7 +331,8 @@ AI technologies should be accessible to all individuals regardless of their soci
 This section aims to provide useful courses that one can attend if they want to learn more about how to use AI in an ethical way.
 
 ### Online courses
-Free
+
+#### Free
 * [Ethics by Design](https://trailhead.salesforce.com/content/learn/modules/ethics-by-design)
 * [Get Started with Artificial Intelligence module in Salesforce](https://trailhead.salesforce.com/content/learn/trails/get-started-with-ai-data)
 * [AI courses in codecademy](https://www.codecademy.com/catalog/subject/artificial-intelligence)
@@ -341,7 +344,7 @@ Free
 * [Ethics of AI in University of Helsinki](https://www.classcentral.com/course/helsinki-ethics-of-ai-98596)
 * [Ethics and Governance of Artificial Intelligence for Health in OpenWHO](https://openwho.org/courses/ethics-ai)
 * [AI Ethics in DataCamp](https://www.datacamp.com/courses/ai-ethics)
-Paid
+#### Paid
 * [Big Data, Ai,and Ethics](https://www.tcd.ie/courses/hci-cpd/az-of-cpd-courses/big-data-ai-and-ethics/)
 * [Artificial Intelligence Ethics Micro-Credential](https://powered.athabascau.ca/product?catalog=AI-Micro-Credential)
 * [ARTIFICIAL INTELLIGENCE: IMPLICATIONS FOR BUSINESS STRATEGY in MIT](https://mit-online.getsmarter.com/presentations/lp/mit-artificial-intelligence-online-short-course/?cid=20399524292&utm_contentid=667017130697&ef_id=c%3A667017130697_d%3Ac_n%3Ag_ti%3Akwd-360100137834_p%3A_k%3Aai%20course_m%3Ap_a%3A154691324634&gad_source=1&gclid=Cj0KCQjw2a6wBhCVARIsABPeH1sjvpKnzP8Gg6uSn5CSzsxQ9WOGecEbnt2hg2qou6WDMOnlH-msRsQaAjb-EALw_wcB&gclsrc=aw.ds)

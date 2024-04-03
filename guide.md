@@ -207,6 +207,12 @@ As we all know, AI has the ability to generate art. That specific type of artwor
 ### AI in Media
 AI has a big impact on modern societies when utilized to create fake media. More specifically, AI can be used to fabricate content harming to a certain person or a group of people by creating deepfakes. The manipulation of voice images and video, done by malicious users of AI technologies, usually target an individual or an organization, causing them severe mental and reputational damage. Such content may include fake news, manipulation of public speeches, celebrity impersonations and explicit videos. Deepfakes can go viral, spreading misinformation and manipulating the public opinion. That's why many times it is used to orchestrate content about public figures and politicians.
 
+<p align="center">
+  <img width="200" src="media/AI/deepfake.png" alt="">
+</p>
+
+*Icon made by Flat Icons from [www.flaticon.com](https://www.flaticon.com/)* <br>
+
 ## Controversial Usage of AI
 This section aims to provide real-life examples of applications and tools that are powered by AI accross industries and display morally gray or/and legally undefined territories. These examples showcase the pressing need for ethical considerations and clear regulations in the rapidly evolving and difficult to control field of artificial intelligence. It is important to emphasise that artificial intelligence should work for the common good and to help people and their lives rather than make them question the morality, law compliance or/and safety of its usage which is the case in the examples presented down below.  
 For more examples you can visit the useful Github repository [Awful AI](https://github.com/daviddao/awful-ai), which lists and presents various cases of morally gray AI applications and tools.

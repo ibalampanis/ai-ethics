@@ -346,7 +346,8 @@ AI models must possess the capability to elucidate their comprehensive decision-
   <img width="200" src="media/AI/interpretability.png" alt="">
 </p>
 
-<br>Source: Interpretable Machine Learning by Christoph Molnar<\br>
+<br>Source: Interpretable Machine Learning by Christoph Molnar</br>
+
 ### Human agency and oversight
 Ethical principles for AI development emphasize the importance of human-centered design. Despite the remarkable advancements in AI, it remains imperative to integrate human oversight. This entails crafting AI systems assist humans in decision-making in accordance with their goals and objectives, while preserving the ability for humans to override decisions made by the system. This approach prioritizes the empowerment of users and acknowledges the limitations of AI technology, emphasizing the need for human judgment and intervention when necessary. This fusion of AI assistance with human judgment not only enhances the efficacy of AI systems but also safeguards against potential errors or biases that may arise.In other words, AI systems should not compromise human autonomy. Therefore, governance mechanisms should be in place alongside thorough and rigorous testing procedures.
 

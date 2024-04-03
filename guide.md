@@ -205,6 +205,10 @@ of Greece, on October of 2023 an Advisory Committee on issues related to Artific
 
 The dissemination of misinformation has the unfortunate effect of deepening social rifts and perpetuating false beliefs, to the detriment of both institutions and individuals. Particularly notable amidst recent political turbulence, misinformation has the potential to sway public sentiment and inflict significant harm on reputations. Once misinformation proliferates across social media platforms, tracing its origins becomes arduous, and countering its spread becomes an uphill battle. AI tools have even been harnessed to amplify misinformation, camouflaging it as credible information, further complicating efforts to combat its influence.
 
+<p align="center">
+  <img width="200" src="media/AI/misinformation.jpg" alt="">
+</p>
+
 ### AI in the Court of Law
 Presumably, if judiciary systems use AI, cases could be evaluated and justice could be applied in a better, faster, and more efficient way. AI methods can potentially have a huge impact in many areas, from the legal professions and the judiciary to aiding the decision-making of legislative and administrative public bodies. Lawyer efficiency and accuracy can be increased in both counselling and litigation and existing software systems for judges can be complemented and enhanced through AI tools in order to support them in drafting new decisions. It is argued that AI could help create a fairer criminal judicial system by making informed decisions devoid of any bias and subjectivity. However, there are many ethical challenges. Firstly, there is the lack of transparency of AI tools. Then, there is the possibility that AI decisions are susceptible to inaccuracies, discriminatory outcomes, embedded or inserted bias. And, lastly, there are many concerns for fairness and risk for Human Rights and other fundamental values.
 
@@ -231,6 +235,10 @@ AI has a big impact on modern societies when utilized to create fake media. More
 ### The impact of AI on Economic Inequality
 
 AI and Economic Inequality explores how the adoption and implementation of artificial intelligence technologies can impact economic disparities within societies. AI technologies can automate tasks and jobs, potentially leading to job displacement, particularly for lower-skilled workers. This displacement may exacerbate economic inequality. Access to education and resources to acquire the specific technical skills required for AI-driven automation may create disparities in opportunities, widening the economic gap. Furthermore, AI advancements can concentrate wealth in the hands of individuals or organizations controlling the technology and data, which, without proper regulation, can further deepen economic inequality. If not carefully designed, AI algorithms can perpetuate biases in decision-making processes, disproportionately affecting marginalized communities and contributing to economic disparities. Economic inequality may also lead to unequal access to AI technologies and their benefits, with affluent individuals and organizations having greater resources to invest in AI solutions, further widening the gap. Addressing economic inequality requires robust policies and regulations to ensure fair deployment of AI, mitigate negative impacts, and promote inclusive access to AI technologies.
+
+<p align="center">
+  <img width="200" src="media/AI/ai_economy_inequality.jpg" alt="">
+</p>
 
 ## Controversial Usage of AI
 This section aims to provide real-life examples of applications and tools that are powered by AI accross industries and display morally gray or/and legally undefined territories. These examples showcase the pressing need for ethical considerations and clear regulations in the rapidly evolving and difficult to control field of artificial intelligence. It is important to emphasise that artificial intelligence should work for the common good and to help people and their lives rather than make them question the morality, law compliance or/and safety of its usage which is the case in the examples presented down below.  

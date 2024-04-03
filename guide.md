@@ -50,6 +50,7 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
     -[Free courses](#free)
     -[Paid courses](#paid)
   - [Masters Degrees](#masters-degrees)
+- [AI Jokes](#ai-jokes)
 - [References](#references)
 
 <p align="center">
@@ -466,6 +467,13 @@ This section aims to provide useful courses that one can attend if they want to 
 * [MSt in AI Ethics and Society in University of Cambridge](https://www.ice.cam.ac.uk/course/mst-ai-ethics-and-society?utm_source=FAU&utm_medium=referral&utm_campaign=UKSRM_Promotion_PGOD23_August_23)
 * [MSc Artificial Intelligence and Ethics in Northeastern University of London](https://www.nulondon.ac.uk/degrees/postgraduate/ai-ethics/)
 * [MSc Law, Regulation and AI Ethics in University of Birmingham](https://www.birmingham.ac.uk/postgraduate/courses/taught/law/law-regulation-and-ai-ethics)
+
+## AI Jokes
+This is a section dedicated to bad AI jokes. Feel free to add anything you like. 
+
+<p align="center">
+  <img width="200" src="media/AI/comic-ai.png" alt="Comic AI Joke">
+</p>
 
 ## References
 1. Ahmad, S.F., Han, H., Alam, M.M. et al. Impact of artificial intelligence on human loss in decision making, laziness and safety in education. Humanit Soc Sci Commun 10, 311 (2023). https://doi.org/10.1057/s41599-023-01787-8

@@ -308,6 +308,13 @@ privacy rights. Developers should collect only the data necessary for the intend
 ### Transparency and Explainability
 AI systems should be designed to be transparent and explainable, allowing users to understand how decisions are made. Providing explanations for AI decisions enhances trust and accountability, enabling users to assess the reliability and fairness of AI systems.
 
+<p align="center">
+  <img width="200" src="media/AI/Explainability_transparency.jpg" alt="">
+</p>
+
+<br>Source: STANDARD AI HUB</br>
+
+
 #### Explainable AI 
 XAI is a branch within artificial intelligence that emphasizes the enhancement of AI models' clarity and transparency for human comprehension. Their value lies in the inherent complexity of numerous AI models, which often renders their decisions opaque and challenging for humans to trust and grasp. It achieves this by furnishing elucidations for AI decisions, thus uncovering potential biases and inaccuracies within AI models. 
 

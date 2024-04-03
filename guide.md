@@ -25,6 +25,8 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [AI in Media](#ai-in-media)
 - [Controversial Usage of AI](#controversial-usage-of-ai)
   - [Examples](#examples-of-controversial-ai)
+- [Recommendation on the Ethics of Artificial Intelligence](#recommendation-on-the-ethics-of-artificial-intelligence)
+  - [Policy Action Areas](#policy-action-areas)
 - [Ethical Principles for AI Development](#ethical-principles-for-ai-development)
   - [Fairness and Equity](#fairness-and-equity)
   - [Privacy and Data Protection](#privacy-and-data-protection)
@@ -184,7 +186,7 @@ AI's impact on the education sector is profound. While it provides numerous bene
 
 ### Social Governance
 More and more countries and governments are interested in using Artificial Intelligence in order to better rule their countries. Focusing on the example 
-of Greece, on October of 2023 an Advisory Committee on issues related to Artificial Intelligence issues was establlished headed by Professor Konstantinos Daskalakis. The Commitee will provide evidence-based advice and proposals on how Greece can take advantage of the multiple possibilities and opportunities arising from the use of Artificial Intelligence. Moreover, its goal is to offer enhancements on the economy and society, improve productivity, increase innovation, strengthen infrastructure, better manage the effects of the climate crisis, support human resources and social cohesion, create quality jobs, defend national digital sovereignty and improve the operation of the country.
+of Greece, on October of 2023 an Advisory Committee on issues related to Artificial Intelligence issues was establlished headed by Professor Konstantinos Daskalakis. The Committee will provide evidence-based advice and proposals on how Greece can take advantage of the multiple possibilities and opportunities arising from the use of Artificial Intelligence. Moreover, its goal is to offer enhancements on the economy and society, improve productivity, increase innovation, strengthen infrastructure, better manage the effects of the climate crisis, support human resources and social cohesion, create quality jobs, defend national digital sovereignty and improve the operation of the country.
 
 <p align="center">
   <img width="200" src="media/AI/governance-ai.jpg" alt="">
@@ -273,6 +275,12 @@ Central to the Recommendation that UNESCO has proposed are four core values whic
 
 - <em> Health and Social Wellbeing: </em>This area should prioritize the development of AI applications that enhance healthcare access, quality, and equity, while safeguarding patient privacy and autonomy.
 
+<p align="center">
+  <img width="200" src="media/AI/aicourt.png" alt="">
+</p>
+
+*Icon made by GETTY IMAGES from [www.aibusiness.com](https://www.aibusiness.com/)*
+
 ## Ethical Principles for AI Development
 Ethical principles for AI development serve as a moral compass, guiding the creation, deployment, and utilization of artificial intelligence. These principles emphasize fairness, transparency, accountability, safety, and inclusivity to safeguard human values, rights, and societal well-being in an AI-driven world.
 
@@ -308,6 +316,24 @@ XAI is a branch within artificial intelligence that emphasizes the enhancement o
 ### Accountability
 Clear lines of accountability should be established for AI systems, ensuring that developers, deployers, and users are responsible for their actions and decisions. Implementing mechanisms for auditing and oversight can help hold accountable parties accountable for any harm caused by AI systems.
 
+### AI Ethics Committees and Boards
+
+AI Ethics Committees and Boards play a crucial role in overseeing the development, deployment, and use of AI technologies within organizations and industries. Here are a few key aspects:
+
+1. **Purpose**: The primary purpose of AI ethics committees and boards is to ensure that AI technologies are developed and used in a responsible, ethical, and socially beneficial manner. They help organizations navigate complex ethical considerations and make informed decisions about AI development and deployment.
+
+2. **Composition**: AI ethics committees and boards typically consist of a diverse group of experts from various disciplines, including AI research, ethics, law, policy, and stakeholder representation from impacted communities. This diversity ensures a comprehensive and balanced approach to ethical decision-making.
+
+3. **Responsibilities**: These committees and boards are responsible for establishing ethical guidelines, principles, and standards for AI development and deployment within their organization. They may also review and assess AI projects and applications to ensure compliance with ethical guidelines and regulatory requirements.
+
+4. **Ethical Review**: AI ethics committees may conduct ethical reviews of proposed AI projects and applications to identify potential risks, biases, and ethical concerns. They may also provide guidance and recommendations for mitigating these risks and ensuring ethical AI development and deployment.
+
+5. **Transparency and Accountability**: AI ethics committees and boards promote transparency and accountability by making their deliberations, decisions, and recommendations publicly accessible. They may also engage with stakeholders, including employees, customers, and the broader public, to solicit feedback and input on ethical issues related to AI.
+
+6. **Ongoing Monitoring and Evaluation**: These committees and boards are often tasked with ongoing monitoring and evaluation of AI technologies to assess their impact on society, identify emerging ethical issues, and recommend updates to ethical guidelines and standards as needed.
+
+Overall, AI ethics committees and boards play a critical role in fostering ethical AI development and deployment, promoting trust and accountability, and ensuring that AI technologies are used in a manner that aligns with societal values and interests.
+
 ### Societal Impact
 Developers should consider the broader societal impact of AI systems, including their potential to exacerbate existing inequalities. By conducting thorough impact assessments and engaging with diverse stakeholders, developers can mitigate negative consequences and promote positive societal outcomes. Respect for international law and national sovereignty is paramount in data usage, allowing for the regulation of data generated within or passing through geographical jurisdictions.
 
@@ -320,14 +346,13 @@ AI models must possess the capability to elucidate their comprehensive decision-
   <img width="200" src="media/AI/interpretability.png" alt="">
 </p>
 
+<br>Source: Interpretable Machine Learning by Christoph Molnar<\br>
 ### Human agency and oversight
 Ethical principles for AI development emphasize the importance of human-centered design. Despite the remarkable advancements in AI, it remains imperative to integrate human oversight. This entails crafting AI systems assist humans in decision-making in accordance with their goals and objectives, while preserving the ability for humans to override decisions made by the system. This approach prioritizes the empowerment of users and acknowledges the limitations of AI technology, emphasizing the need for human judgment and intervention when necessary. This fusion of AI assistance with human judgment not only enhances the efficacy of AI systems but also safeguards against potential errors or biases that may arise.In other words, AI systems should not compromise human autonomy. Therefore, governance mechanisms should be in place alongside thorough and rigorous testing procedures.
 
 <p align="center">
-  <img width="200" src="media/AI/interpretability.png" alt="">
+  <img width="200" src="media/AI/human-oversight.jpg" alt="">
 </p>
-
-<br>Source: Interpretable Machine Learning by Christoph Molnar</br>
 
 ### Technical robustness and safety
 AI system providers and developers are responsible for designing AI systems that function effectively, predictably, and safely. It is imperative for AI providers to ensure that their systems adhere to quality management standards, guaranteeing reliability and compliance with established protocols.
@@ -413,3 +438,4 @@ This section aims to provide useful courses that one can attend if they want to 
 26. Marr, B. (2023). "The Intersection Of AI And Human Creativity: Can Machines Really Be Creative?" Forbes
 27. USAID. (2023, July 9). Artificial Intelligence (AI) ethics guide. https://www.usaid.gov/sites/default/files/2023-12/_USAID%20AI%20Ethics%20Guide_1.pdf
 28. Schultz, J. (2019). Automating Discrimination: AI Hiring Practices and Gender Inequality. Cardozo Law Review. https://cardozolawreview.com/automating-discrimination-ai-hiring-practices-and-gender-inequality/
+29. Blackman, R. (2022). Why You Need an AI Ethics Committee. Harvard Business Review (July–August).

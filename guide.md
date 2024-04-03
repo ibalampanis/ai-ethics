@@ -44,6 +44,7 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [Inclusivity](#inclusivity)
   - [Equitable Access](#equitable-access)
 - [Can AI Help Us In Making This World More Ethical?](#can-ai-help-us-in-making-this-world-more-ethical)
+- [A Guide to AI](#a-guide-to-ai)
 - [Courses on AI and Ethics](#courses-on-ai-and-ethics)
   - [Online courses](#online-courses)
     -[Free courses](#free)
@@ -419,6 +420,18 @@ AI technologies should be accessible to all individuals regardless of their soci
 ## Can AI Help Us In Making This World More Ethical?
 After mentioning above a lot of the "dark sides" of AI and the concerns that revolve around them, it is maybe time to reflect on whether AI can contribute to making our society a bit more ethical. For a matter of fact, AI systems can be trained to provide us with insights on our personal life based on ethical principles and values. This is a concept which could also be used in schools by providing interactive lessons and personalized feedback on how values should be used in real life situations. Moreover, it is prudent to consider how the environment can be benefited from the use of AI tools. 
 
+## A Guide to AI
+
+> This section is meant to guide you through basic AI understanding by clearly and simply underlining the journey you should take. 
+
+1. Learn Python
+2. Understand the Basics of AI & Machine Learning 
+3. Choose a Learning Path
+4. Pick Online Tutorials or Virtual Classes on ML
+5. Get Hands-on Experience with AI models
+6. Read, read, read...
+7. Stay updated
+8. Connect with AI communities
 
 ## Courses on AI and Ethics
 This section aims to provide useful courses that one can attend if they want to learn more about how to use AI in an ethical way.

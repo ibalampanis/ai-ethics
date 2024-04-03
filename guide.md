@@ -329,21 +329,25 @@ AI technologies should be accessible to all individuals regardless of their soci
 This section aims to provide useful courses that one can attend if they want to learn more about how to use AI in an ethical way.
 
 ### Online courses
-
+Free
+* [Ethics by Design](https://trailhead.salesforce.com/content/learn/modules/ethics-by-design)
 * [Get Started with Artificial Intelligence module in Salesforce](https://trailhead.salesforce.com/content/learn/trails/get-started-with-ai-data)
 * [AI courses in codecademy](https://www.codecademy.com/catalog/subject/artificial-intelligence)
-* [ARTIFICIAL INTELLIGENCE: IMPLICATIONS FOR BUSINESS STRATEGY in MIT](https://mit-online.getsmarter.com/presentations/lp/mit-artificial-intelligence-online-short-course/?cid=20399524292&utm_contentid=667017130697&ef_id=c%3A667017130697_d%3Ac_n%3Ag_ti%3Akwd-360100137834_p%3A_k%3Aai%20course_m%3Ap_a%3A154691324634&gad_source=1&gclid=Cj0KCQjw2a6wBhCVARIsABPeH1sjvpKnzP8Gg6uSn5CSzsxQ9WOGecEbnt2hg2qou6WDMOnlH-msRsQaAjb-EALw_wcB&gclsrc=aw.ds)
 * [Ηθική της τεχνητής νοημοσύνης in Coursera](https://www.coursera.org/learn/ethics-of-artificial-intelligence)
-* [Ethics of AI in LSE](https://www.lse.ac.uk/study-at-lse/online-learning/courses/ethics-of-ai-masterclass)
-* [Certificate in Ethical Artificial Intelligence (AI) in CISI](https://www.cisi.org/cisiweb2/cisi-website/study-with-us/professional-assessments/Certificate-in-Ethical-Artificial-Intelligence)
 * [Τεχνητή νοημοσύνη: Ηθική & Κοινωνικές Προκλήσεις in Coursera](https://www.coursera.org/learn/ai-ethics)
 * [Operationalising Ethics in AI in The Alan Turing Institute](https://www.turing.ac.uk/courses/operationalising-ethics-ai-intermediate)
 * [AI Ethics: Global Perspectives by the European Union](https://digital-skills-jobs.europa.eu/en/opportunities/training/ai-ethics-global-perspectives)
-* [Artificial Intelligence Ethics in University of Oxford](https://www.conted.ox.ac.uk/courses/artificial-intelligence-ethics)
 * [Τεχνητή νοημοσύνη, ενσυναίσθηση και ηθική in Coursera](https://www.coursera.org/learn/ai-empathy-ethics?utm_medium=sem&utm_source=gg&utm_campaign=B2C_EMEA__coursera_FTCOF_career-academy_pmax-multiple-audiences-country-multi&campaignid=20858198824&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo&gad_source=1&gclid=Cj0KCQjw2a6wBhCVARIsABPeH1uJ2TPR42830b5aFpbr1IAGgurusKf3q7vBjamo04nd68XEAt677OMaAvUOEALw_wcB)
 * [Ethics of AI in University of Helsinki](https://www.classcentral.com/course/helsinki-ethics-of-ai-98596)
 * [Ethics and Governance of Artificial Intelligence for Health in OpenWHO](https://openwho.org/courses/ethics-ai)
 * [AI Ethics in DataCamp](https://www.datacamp.com/courses/ai-ethics)
+Paid
+* [Big Data, Ai,and Ethics](https://www.tcd.ie/courses/hci-cpd/az-of-cpd-courses/big-data-ai-and-ethics/)
+* [Artificial Intelligence Ethics Micro-Credential](https://powered.athabascau.ca/product?catalog=AI-Micro-Credential)
+* [ARTIFICIAL INTELLIGENCE: IMPLICATIONS FOR BUSINESS STRATEGY in MIT](https://mit-online.getsmarter.com/presentations/lp/mit-artificial-intelligence-online-short-course/?cid=20399524292&utm_contentid=667017130697&ef_id=c%3A667017130697_d%3Ac_n%3Ag_ti%3Akwd-360100137834_p%3A_k%3Aai%20course_m%3Ap_a%3A154691324634&gad_source=1&gclid=Cj0KCQjw2a6wBhCVARIsABPeH1sjvpKnzP8Gg6uSn5CSzsxQ9WOGecEbnt2hg2qou6WDMOnlH-msRsQaAjb-EALw_wcB&gclsrc=aw.ds)
+* [Ethics of AI in LSE](https://www.lse.ac.uk/study-at-lse/online-learning/courses/ethics-of-ai-masterclass)
+* [Certificate in Ethical Artificial Intelligence (AI) in CISI](https://www.cisi.org/cisiweb2/cisi-website/study-with-us/professional-assessments/Certificate-in-Ethical-Artificial-Intelligence)
+* [Artificial Intelligence Ethics in University of Oxford](https://www.conted.ox.ac.uk/courses/artificial-intelligence-ethics)
 * [Introduction to the Ethics of Artificial Intelligence in the University of Melbourne](https://study.unimelb.edu.au/find/microcredentials/introduction-to-the-ethics-of-artificial-intelligence/)
 * [ChatGPT / AI Ethics: Ethical Intelligence for 2024 in udemy](https://www.udemy.com/course/chatgpt-ai-ethics-ethical-intelligence/?couponCode=ST13MT40224)
 

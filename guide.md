@@ -179,8 +179,12 @@ One concern is the risk of bias in AI algorithms, as they rely on biased data, l
 </p>
 
 ### AI And Art
-AI through the years, has started significantly to have an impact also in fields of art such as painting and music. AI algorithms can now geneate paintings for scratch (Generative Art) after being trained with already existing artworks so that they can mimic certain styles/themes and patterns without making the composiiton of new aesthetics impossible. Besides that AI tools can assist artists in each stage of the creatice process since they can provide color palette and combos recommendations that can spark new ideas to the artist.
+AI through the years, has started significantly to have an impact also in fields of art such as painting and music. AI algorithms can now geneate paintings from scratch (Generative Art) after being trained with already existing artworks so that they can mimic certain styles/themes and patterns without also making the composiiton of new aesthetics impossible. Besides that, AI tools can assist artists in each stage of the creatice process since they can provide color palettes and combos recommendations that can spark new ideas to the artist.
 When it comes to music, AI can nowadays compose on its own original music pieces as AI models are capable of learning patterns, structures and styles of different genres. Of course, AI algorithms enable musicians to ideate new music by not only producing but also remixing with creative ways already existing sounds/melodies.Another, known to everyone, example of AI in music is apps like Spotify that analye user's listening preferences to provide personalized recommendations, new artists etc.
+
+<p align="center">
+  <img width="200" src="media/AI/robot_with_bob_ross" alt="">
+</p>
 
 ### AI in Education
 AI's impact on the education sector is profound. While it provides numerous benefits by aiding in academic and administrative tasks, concerns regarding its potential to diminish decision-making abilities, foster laziness, and compromise security cannot be overlooked. Studies indicate that integrating AI into education exacerbates the decline in human decision-making skills and promotes user passivity through task automation. Before implementing AI technology in education, it's crucial to take significant measures. Adopting AI without addressing major human concerns it's like asking for trouble. It's recommended to focus on justified design, deployment, and utilization of AI in education to effectively address these problems.

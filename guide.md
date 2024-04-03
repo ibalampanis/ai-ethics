@@ -475,6 +475,8 @@ This is a section dedicated to bad AI jokes. Feel free to add anything you like.
   <img width="200" src="media/AI/comic-ai.png" alt="Comic AI Joke">
 </p>
 
+Source: The Comic Accountant
+
 ## References
 1. Ahmad, S.F., Han, H., Alam, M.M. et al. Impact of artificial intelligence on human loss in decision making, laziness and safety in education. Humanit Soc Sci Commun 10, 311 (2023). https://doi.org/10.1057/s41599-023-01787-8
 2. Australian Government. (2019). Australia’s Artificial Intelligence Ethics Framework: Australia’s AI Ethics Principles
@@ -509,6 +511,7 @@ This is a section dedicated to bad AI jokes. Feel free to add anything you like.
 31. Blackman, R. (2022). Why You Need an AI Ethics Committee. Harvard Business Review (July–August).
 32. UNESCO (2020). *Steering AI and Advanced ICTs for Knowledge Societies*. https://unesdoc.unesco.org/ark:/48223/pf0000377798
 33. Brookings Institution (2019). *Automation and AI Are Disrupting Jobs*. https://www.brookings.edu/research/automation-and-artificial-intelligence-how-machines-affect-people-and-places/
+34. The Comic Accountant. (2022) https://thecomicaccountant.com/comic-ai-artificial-intelligence-is-the-future/ 
 
 
 

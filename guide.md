@@ -112,7 +112,7 @@ The opacity of AI decision-making processes poses challenges for accountability.
 *Icon made by Witchai.wi from [www.flaticon.com](https://www.flaticon.com/)*
 
 ### Job Displacement
-Automation driven by AI has the potential to disrupt labor markets, leading to job displacement. This raises ethical questions about ensuring the welfare and retraining of displaced workers, as well as addressing potential economic inequalities arising from AI-driven automation.
+Automation driven by AI has the potential to disrupt labor markets, leading to job displacement. This raises ethical questions about ensuring the welfare and retraining of displaced workers, as well as addressing potential economic inequalities arising from AI-driven automation. Some jobs are being threatened more than others according to the tasks they perform and the skills they require. Researches, however show that job displacement is not yet as widespread as people would expect. This mainly results from the fact that complete automation from AI may cost more to a company than a worker wage. Studies show that changes in the workforce will happen but they will be gradual and there will be the time needed to adapt.
 
 <p align="center">
   <img width="200" src="media/AI/job.png" alt="">
@@ -559,6 +559,7 @@ Source: The Comic Accountant
 34. The Comic Accountant. (2022) https://thecomicaccountant.com/comic-ai-artificial-intelligence-is-the-future/ 
 35. Oscar Schwartz IEEE Spectrum (2019) In 2016, Microsoft’s Racist Chatbot Revealed the Dangers of Online Conversation https://spectrum.ieee.org/in-2016-microsofts-racist-chatbot-revealed-the-dangers-of-online-conversation
 36. Haan, K (2023) “How Businesses Are Using Artificial Intelligence In 2024”.
+37. Perrigo, B  (2024)  “Will AI Take Your Job? Maybe Not Just Yet, One Study Says”.
 
 
 

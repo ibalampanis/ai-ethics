@@ -43,6 +43,8 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [Contestability](#contestability)
   - [Inclusivity](#inclusivity)
   - [Equitable Access](#equitable-access)
+  - [Continuous Learning and Improvement](#continuous-learning-and-improvement)
+
 - [Can AI Help Us In Making This World More Ethical?](#can-ai-help-us-in-making-this-world-more-ethical)
 - [A Guide to AI](#a-guide-to-ai)
 - [Courses on AI and Ethics](#courses-on-ai-and-ethics)
@@ -430,6 +432,10 @@ Inclusivity emphasizes the importance of ensuring that AI systems are designed a
 ### Equitable Access
 AI technologies should be accessible to all individuals regardless of their social status, geographic location, or technology skills and abilities. Developers should make significant effort in order to bridge the digital chasm and prevent the exacerbation of inequalities spotted in artificial intelligence implementation.
 
+### Continuous learning and Improvement 
+AI developers should focus on continuous learning and improvement. AI technologies are based on data collection and data processing. Hence, is very essential to systematically seek feedback from diverse stakeholders, collect divergent data and check the validity and integrity of the data in order to achieve improvement of sysytems. Practices and processes should be continuously adapted in response to ethical challenges and emerging risks and changes of the market environment.
+
+
 ## Can AI Help Us In Making This World More Ethical?
 After mentioning above a lot of the "dark sides" of AI and the concerns that revolve around them, it is maybe time to reflect on whether AI can contribute to making our society a bit more ethical. For a matter of fact, AI systems can be trained to provide us with insights on our personal life based on ethical principles and values. This is a concept which could also be used in schools by providing interactive lessons and personalized feedback on how values should be used in real life situations. Moreover, it is prudent to consider how the environment can be benefited from the use of AI tools. 
 
@@ -559,7 +565,7 @@ Source: The Comic Accountant
 34. The Comic Accountant. (2022) https://thecomicaccountant.com/comic-ai-artificial-intelligence-is-the-future/ 
 35. Oscar Schwartz IEEE Spectrum (2019) In 2016, Microsoft’s Racist Chatbot Revealed the Dangers of Online Conversation https://spectrum.ieee.org/in-2016-microsofts-racist-chatbot-revealed-the-dangers-of-online-conversation
 36. Haan, K (2023) “How Businesses Are Using Artificial Intelligence In 2024”.
-37. Perrigo, B  (2024)  “Will AI Take Your Job? Maybe Not Just Yet, One Study Says”.
+37. Perrigo, B (2024) “Will AI Take Your Job? Maybe Not Just Yet, One Study Says”.
 
 
 

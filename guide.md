@@ -82,6 +82,11 @@ AI represents a thrilling expansion of numerous human abilities, encompassing ob
 In March 2023, more than 1,000 experts, including technology leaders like Elon Musk and Apple co-founder Steve Wozniak, signed an open letter urging a six-month pause in the development of new artificial intelligence (AI) systems. The letter emphasized the potential risks posed by AI experiments that are advancing rapidly and becoming increasingly powerful. The experts called for a halt to the creation of AI models beyond the capabilities of the most advanced publicly available system, GPT-4, developed by OpenAI. During this pause, researchers and AI labs should focus on creating new principles for designing AI systems that prioritize safety, transparency, and trustworthiness. Of course, this pivotal pause, advocated by experts across the globe, underscores the critical importance of ethical considerations in the ever-evolving world of artificial intelligence. 
 
 ### Bias and Fairness
+
+- **Bias in Data Sets**: A significant problem regarding bias is found in data sets used to train AI tools.
+
+>Using Historical Data
+
 AI systems often learn from historical data, which may contain biases reflecting societal inequalities. If not addressed, these biases can perpetuate discrimination and unfairness, affecting individuals' opportunities and rights.
 
 In some fields, like healthcare, using AI algorithms that don't take into account the experiences of women and minority groups can lead to wrong results for those specific communities. Also, when companies use applicant tracking systems that analyze language, it can create biases that favor some candidates over others, based on the wording used in their resumes. 
@@ -94,9 +99,24 @@ In some fields, like healthcare, using AI algorithms that don't take into accoun
 
 For example, Amazon stopped using a hiring algorithm because it was biased towards male applicants. The algorithm favored certain terms like "executed" or "captured," which were more common in men's resumes.
 
-- **Bias in Data Sets**:
- Another problem regarding bias is found in data sets used to train AI tools. That can be presented in cases for which the system has not been specifically trained for. A good example of the problem created is an AI system that is trained to classify text as English or German, if the tool was posed with a piece of text in a different language like French, it would still try to generate an answer. This can easily lead to "hidden" misinformation or mispredictions in the usage of AI.
- A similar concern is presented with facial recognition data sets that do not include a diversity in ethnic groups, issues like this one can cause trained AI models to display inaccuracies across different races.
+>Unlearned and Unseen Cases
+
+An ethical issue can be presented in cases for which the system has not been specifically trained for. A good example of the problem created is an AI system that is trained to classify text as English or German, if the tool was posed with a piece of text in a different language like French, it would still try to generate an answer. This can easily lead to "hidden" misinformation or mispredictions in the usage of AI.
+A related concern is presented with facial recognition data sets that do not include a diversity in ethnic groups, issues like this one can cause trained AI models to display inaccuracies across different races.
+
+>Manipulated Data
+
+Manipulating training data can distort outcomes, as is demonstrated by the short existence of the chatbot Tay, which mimicked the offensive language used by its Twitter users. AI systems relying on limited, publicly available datasets are particularly susceptible to such manipulation. Similarly, the deliberate corruption of data presents a widely known security concern for AI systems.
+
+<p align="center">
+  <img width="250" src="media/AI/ai image.png" alt="">
+</p>
+
+*Image taken from [www.playhunt.io](https://playhunt.io/nl/for-candidates/artificial-intelligence-resume-screening)*
+
+>Irrelevant Interconnections
+
+If the data used for training shows connections between unimportant features and the outcome, it could lead to inaccurate predictions. For instance, Ribeiro et al. taught a computer program to tell wolves apart from dogs using pictures of wolves in snow and dogs without snow. After teaching, the program sometimes mistakes a dog in snow for a wolf. Unlike features that can't be applied widely, these irrelevant connections might not be unique to the training set but could also appear in real-world data. It's possible that wolves are more commonly seen in snowy conditions compared to dogs. However, it's incorrect for this factor to influence predictions; a wolf remains a wolf whether it's in snowy surroundings or not.
 
 ### Privacy
 The vast amounts of data required for AI applications raise concerns about privacy. Unauthorized access to personal data or its misuse can lead to breaches of privacy and surveillance issues, undermining individuals' autonomy and rights.

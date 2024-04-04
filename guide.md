@@ -350,6 +350,7 @@ privacy rights. Developers should collect only the data necessary for the intend
 ### Transparency and Explainability
 AI systems should be designed to be transparent and explainable, allowing users to understand how decisions are made. Providing explanations for AI decisions enhances trust and accountability, enabling users to assess the reliability and fairness of AI systems.
 
+
 <p align="center">
   <img width="200" src="media/AI/Explainability_transparency.jpg" alt="">
 </p>
@@ -389,9 +390,7 @@ Developers should consider the broader societal impact of AI systems, including 
 > Assess AI's societal impact and uphold international law for equitable development. Prioritize inclusivity and regulatory compliance across borders for responsible AI deployment.
 
 ### Interpretability
-AI models must possess the capability to elucidate their comprehensive decision-making process. In critical scenarios, they should provide insights into how they arrived at particular predictions or selected actions.
-
-Interpretability in AI operates on a variety of levels. These methods are intended to simplify AI algorithms and simulate the process of making decisions. The comprehensibility of intricate features and patterns, the explainability of forecasts and choices, and the transparency of AI models are noteworthy examples of interpretability.
+AI models must possess the capability to elucidate their comprehensive decision-making process. In critical scenarios, they should provide insights into how they arrived at particular predictions or selected actions. Interpretability in AI operates on a variety of levels. These methods are intended to simplify AI algorithms and simulate the process of making decisions. The comprehensibility of intricate features and patterns, the explainability of forecasts and choices, and the transparency of AI models are noteworthy examples of interpretability.
 
 <p align="center">
   <img width="200" src="media/AI/interpretability.png" alt="">

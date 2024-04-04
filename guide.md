@@ -349,6 +349,8 @@ Developers should consider the broader societal impact of AI systems, including 
 ### Interpretability
 AI models must possess the capability to elucidate their comprehensive decision-making process. In critical scenarios, they should provide insights into how they arrived at particular predictions or selected actions.
 
+Interpretability in AI operates on a variety of levels. These methods are intended to simplify AI algorithms and simulate the process of making decisions. The comprehensibility of intricate features and patterns, the explainability of forecasts and choices, and the transparency of AI models are noteworthy examples of interpretability.
+
 <p align="center">
   <img width="200" src="media/AI/interpretability.png" alt="">
 </p>
@@ -448,6 +450,8 @@ This section aims to provide useful courses that one can attend if they want to 
 28. Schultz, J. (2019). Automating Discrimination: AI Hiring Practices and Gender Inequality. Cardozo Law Review. https://cardozolawreview.com/automating-discrimination-ai-hiring-practices-and-gender-inequality/
 <<<<<<< HEAD
 29. Blackman, R. (2022). Why You Need an AI Ethics Committee. Harvard Business Review (July–August).
+30.Lark, www.larksuite.com/en_us/topics/ai-glossary/interpretability-in-ai-and-why-does-it-matter.
+
 =======
 29. Blackman, R. (2022). Why You Need an AI Ethics Committee. Harvard Business Review (July–August).
 >>>>>>> dc3cfb369981a088528fcfbb40d7d3c40d25460f

@@ -44,6 +44,8 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [Contestability](#contestability)
   - [Inclusivity](#inclusivity)
   - [Equitable Access](#equitable-access)
+  - [Continuous Learning and Improvement](#continuous-learning-and-improvement)
+
 - [Can AI Help Us In Making This World More Ethical?](#can-ai-help-us-in-making-this-world-more-ethical)
 - [A Guide to AI](#a-guide-to-ai)
 - [Courses on AI and Ethics](#courses-on-ai-and-ethics)
@@ -66,7 +68,15 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
 This document focuses on **AI and Ethics**, a set of guiding principles that are used to ensure the responsible use of AI. Although the goal is a secure, safe and humane approach, this has been questioned by a lot of people causing various ethical concerns.
 
 ## Why do we use AI?
-AI represents a thrilling expansion of numerous human abilities, encompassing observation, processing, and decision-making. Its outputs and impacts are virtually instantaneous, providing unprecedented efficiencies previously unimaginable. Leveraging computing power and sophisticated systems, AI technologies surpass human cognitive capacities, enabling continuous "machine learning" autonomously and recognizing intricate patterns beyond human perception (e.g., identifying individuals by their gait alone). Additionally, AI employs dynamic nudging to promptly incentivize compliance, exemplified in commercial settings by tailored benefit selections aimed at stimulating particular economic behaviors among customers.
+AI represents a thrilling expansion of numerous human abilities, encompassing observation, processing, and decision-making. Its outputs and impacts are virtually instantaneous, providing unprecedented efficiencies previously unimaginable. Leveraging computing power and sophisticated systems, AI technologies surpass human cognitive capacities, enabling continuous "machine learning" autonomously and recognizing intricate patterns beyond human perception (e.g., identifying individuals by their gait alone). Additionally, AI employs dynamic nudging to promptly incentivize compliance, exemplified in commercial settings by tailored benefit selections aimed at stimulating particular economic behaviors among customers. AI is a very important aspect of business innovation and is widely used inside organizations, because of the important value it can create. Companies use AI to perfect operations since it enables process automation, increases speed and scalability leading to higher profits. With the usage of AI companies can also secure higher accuracy and improve decision making. Moreover, AI technologies are contributing to an improved customer relationship since they provide personalization and hence they upgrade the customer service and increase customer’s satisfaction. 
+
+
+<p align="center">
+  <img width="200" src="media/AI/AI.jpeg" alt="">
+</p>
+
+
+
 
 ## Ethical Concerns
 In March 2023, more than 1,000 experts, including technology leaders like Elon Musk and Apple co-founder Steve Wozniak, signed an open letter urging a six-month pause in the development of new artificial intelligence (AI) systems. The letter emphasized the potential risks posed by AI experiments that are advancing rapidly and becoming increasingly powerful. The experts called for a halt to the creation of AI models beyond the capabilities of the most advanced publicly available system, GPT-4, developed by OpenAI. During this pause, researchers and AI labs should focus on creating new principles for designing AI systems that prioritize safety, transparency, and trustworthiness. Of course, this pivotal pause, advocated by experts across the globe, underscores the critical importance of ethical considerations in the ever-evolving world of artificial intelligence. 
@@ -113,7 +123,7 @@ The opacity of AI decision-making processes poses challenges for accountability.
 *Icon made by Witchai.wi from [www.flaticon.com](https://www.flaticon.com/)*
 
 ### Job Displacement
-Automation driven by AI has the potential to disrupt labor markets, leading to job displacement. This raises ethical questions about ensuring the welfare and retraining of displaced workers, as well as addressing potential economic inequalities arising from AI-driven automation.
+Automation driven by AI has the potential to disrupt labor markets, leading to job displacement. This raises ethical questions about ensuring the welfare and retraining of displaced workers, as well as addressing potential economic inequalities arising from AI-driven automation. Some jobs are being threatened more than others according to the tasks they perform and the skills they require. Researches, however show that job displacement is not yet as widespread as people would expect. This mainly results from the fact that complete automation from AI may cost more to a company than a worker wage. Studies show that changes in the workforce will happen but they will be gradual and there will be the time needed to adapt.
 
 <p align="center">
   <img width="200" src="media/AI/job.png" alt="">
@@ -437,6 +447,10 @@ Inclusivity emphasizes the importance of ensuring that AI systems are designed a
 ### Equitable Access
 AI technologies should be accessible to all individuals regardless of their social status, geographic location, or technology skills and abilities. Developers should make significant effort in order to bridge the digital chasm and prevent the exacerbation of inequalities spotted in artificial intelligence implementation.
 
+### Continuous learning and Improvement 
+AI developers should focus on continuous learning and improvement. AI technologies are based on data collection and data processing. Hence, is very essential to systematically seek feedback from diverse stakeholders, collect divergent data and check the validity and integrity of the data in order to achieve improvement of sysytems. Practices and processes should be continuously adapted in response to ethical challenges and emerging risks and changes of the market environment.
+
+
 ## Can AI Help Us In Making This World More Ethical?
 After mentioning above a lot of the "dark sides" of AI and the concerns that revolve around them, it is maybe time to reflect on whether AI can contribute to making our society a bit more ethical. For a matter of fact, AI systems can be trained to provide us with insights on our personal life based on ethical principles and values. This is a concept which could also be used in schools by providing interactive lessons and personalized feedback on how values should be used in real life situations. Moreover, it is prudent to consider how the environment can be benefited from the use of AI tools. 
 
@@ -566,7 +580,9 @@ Source: The Comic Accountant
 33. Brookings Institution (2019). *Automation and AI Are Disrupting Jobs*. https://www.brookings.edu/research/automation-and-artificial-intelligence-how-machines-affect-people-and-places/
 34. The Comic Accountant. (2022) https://thecomicaccountant.com/comic-ai-artificial-intelligence-is-the-future/ 
 35. Oscar Schwartz IEEE Spectrum (2019) In 2016, Microsoft’s Racist Chatbot Revealed the Dangers of Online Conversation https://spectrum.ieee.org/in-2016-microsofts-racist-chatbot-revealed-the-dangers-of-online-conversation
-
+36. Haan, K (2023) “How Businesses Are Using Artificial Intelligence In 2024”.
+37. Perrigo, B (2024) “Will AI Take Your Job? Maybe Not Just Yet, One Study Says”.
+38. Khan, I (2024) “An abstract render of AI in digital cyberspace.”  https://www.cnet.com/tech/computing/chatgpt-glossary-42-ai-terms-that-everyone-should-know/ 
 
 
 

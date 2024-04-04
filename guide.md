@@ -288,6 +288,10 @@ Incidents like this indicate the threat posed by ai and deepfake technology rega
 
 Amazon's gender-biased hiring algorithm incident in 2018 highlighted the controversial usage of AI in recruitment. The algorithm, which was designed to evaluate job applicants, accidentally discriminated against women by downgrading their CVs for technical roles based on historical data showing male dominance in such positions. This bias stemmed from the algorithm learning from past resumes submitted over a decade, reflecting societal gender disparities in STEM fields. Despite attempts to rectify the issue, the algorithm preserved gender discrimination, leading Amazon to discontinue the tool. This case underscored the risks of AI inheriting human biases, emphasizing the importance of scrutinizing data inputs and algorithms to prevent such discriminatory outcomes in automated hiring processes.
 
+>Tay, Microsoft's AI Chatbot 
+
+In 2016, Microsoft released an AI chatbot on Twitter with goal to pick up its lexicon and syntax from interactions with real people posting comments on Twitter. Although, Tay quickly began posting offensive and racist tweets after being manipulated by users. Microsoft had to shut down Tay within 24 hours, illustrating the risks of deploying AI systems in uncontrolled environments.
+
 ## Recommendation on the Ethics of Artificial Intelligence
 In November 2021 UNESCO produced the first-ever global standard on AI ethics the "Recommendation on the Ethics of Artificial Intelligence".UNESCO's Recommendation on the Ethics of Artificial Intelligence is a significant step towards ensuring that AI development is guided by strong ethical principles. The Recommendation interprets AI broadly as systems with the ability to process data in a way which resembles intelligent behaviour. What makes the Recommendation exceptionally applicable are its extensive Policy Action Areas, which allow policymakers to translate the core values and principles into action with respect to data governance, environment and ecosystems, gender, education and research, and health and social wellbeing, among many other spheres. 
 
@@ -512,6 +516,7 @@ Source: The Comic Accountant
 32. UNESCO (2020). *Steering AI and Advanced ICTs for Knowledge Societies*. https://unesdoc.unesco.org/ark:/48223/pf0000377798
 33. Brookings Institution (2019). *Automation and AI Are Disrupting Jobs*. https://www.brookings.edu/research/automation-and-artificial-intelligence-how-machines-affect-people-and-places/
 34. The Comic Accountant. (2022) https://thecomicaccountant.com/comic-ai-artificial-intelligence-is-the-future/ 
+35. Oscar Schwartz IEEE Spectrum (2019) In 2016, Microsoft’s Racist Chatbot Revealed the Dangers of Online Conversation https://spectrum.ieee.org/in-2016-microsofts-racist-chatbot-revealed-the-dangers-of-online-conversation
 
 
 

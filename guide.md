@@ -24,6 +24,7 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [Creativity and Ownership](#creativity-and-ownership)
   - [AI in Media](#ai-in-media)
   - [AI in Marketing](#ai-in-marketing)
+  - [AI in Automated Vehicles](#ai-in-automated-vehicles) 	
 - [Controversial Usage of AI](#controversial-usage-of-ai)
   - [Examples](#examples-of-controversial-ai)
 - [Recommendation on the Ethics of Artificial Intelligence](#recommendation-on-the-ethics-of-artificial-intelligence)
@@ -241,6 +242,12 @@ AI has been the latest breakthrough in marketing with an increasing number of co
 <p align="center">
   <img width="200" src="media/AI/ai-marketing.jpg" alt="">
 </p>
+
+### AI in Automated vehicles
+The use of automated vehicles (AVs) has the potential to greatly improve both transportation efficiency and safety. Anticipated are AVs to minimize road accidents by 90% that result from human mistake (driving while intoxicated, high on drugs, distracted, etc.). Automated cars do occasionally crash, though. Three deadly accidents involving level 2 autonomous vehicles (AVs) in 2018 alone involved Tesla and Uber. Because of unforeseen impediments like pedestrians, human-driven vehicles, bikers, and wild animals, even fully autonomous vehicles cannot guarantee a completely crash-free environment [It is evident that the AV paradise is nowhere close to reality. Since accidents cannot always be prevented, the computer should have the means to swiftly determine the safest method to crash given the circumstances and the likelihood of different outcomes.  This type of decision making quickly turns into a moral dilemma, especially when humans are involved. 
+
+>Ethical Rules and Automated vehicles
+Some researchers have argued that ethical guidelines ought to be built into autonomous vehicles (AVs) so that they can decide when to crash morally. On the other hand, not much study has been done on how the AVs algorithm is impacted by ethical norms when it comes to making crash decisions [14]. According to a US survey, public trust in autonomous vehicles plummeted as soon as a lady killed by a sports utility vehicle driven by an autonomous algorithm crossed the street in Tempe, Arizona. Asheley Nunes et al. [74] argued that individuals should maintain control over AVs and then cautioned that laws governing AV testing would need to take liability and safety issues into account. There isn't currently a universal remedy. In conclusion, people will not trust and accept Avs on the road if this ethical issue is not properly addressed.
 
 ### The impact of AI on Economic Inequality
 
@@ -522,6 +529,7 @@ Source: The Comic Accountant
 <<<<<<< HEAD
 29. Blackman, R. (2022). Why You Need an AI Ethics Committee. Harvard Business Review (July–August).
 30.Lark, www.larksuite.com/en_us/topics/ai-glossary/interpretability-in-ai-and-why-does-it-matter.
+31. IEEE Xplore, ieeexplore.ieee.org/Xplore/home.jsp
 
 =======
 29. Blackman, R. (2022). Why You Need an AI Ethics Committee. Harvard Business Review (July–August).

@@ -29,6 +29,7 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [AI in Marketing](#ai-in-marketing)
   - [AI in Automated Vehicles](#ai-in-automated-vehicles) 	
 - [Controversial Usage of AI](#controversial-usage-of-ai)
+- [Global leaders about AI](#global-leaders-about-ai)
   - [Examples](#examples-of-controversial-ai)
 - [Recommendation on the Ethics of Artificial Intelligence](#recommendation-on-the-ethics-of-artificial-intelligence)
   - [Policy Action Areas](#policy-action-areas)
@@ -374,6 +375,26 @@ Amazon's gender-biased hiring algorithm incident in 2018 highlighted the controv
 >Tay, Microsoft's AI Chatbot 
 
 In 2016, Microsoft released an AI chatbot on Twitter with goal to pick up its lexicon and syntax from interactions with real people posting comments on Twitter. Although, Tay quickly began posting offensive and racist tweets after being manipulated by users. Microsoft had to shut down Tay within 24 hours, illustrating the risks of deploying AI systems in uncontrolled environments.
+
+## Global leaders about AI
+
+>**Satya Nadella**, CEO of Microsoft 
+
+*"We need to ask ourselves not only what computers can do, but what they should do."*
+
+>**Elon Musk**, CEO of Tesla and SpaceX
+
+*"AI is a rare case where I think we need to be proactive in regulation instead of reactive."*
+
+>**Tim Cook**, CEO of Apple
+
+*"Technology's potential is, of course, limitless. But without values or direction, it could become a weapon."*
+
+
+
+
+
+
 
 ## Recommendation on the Ethics of Artificial Intelligence
 

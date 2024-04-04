@@ -380,41 +380,31 @@ In 2016, Microsoft released an AI chatbot on Twitter with goal to pick up its le
 
 >**Satya Nadella**, CEO of Microsoft
 
-<p align="center">
-  <img width="300" src="media/AI/leaders/Satya_Nadella.jpg" alt="Satya Nadella">
-</p>
+<img width="300" src="media/AI/leaders/Satya_Nadella.jpg" alt="Satya Nadella">
 
 *"We need to ask ourselves not only what computers can do, but what they should do."*
 
 >**Elon Musk**, CEO of Tesla and SpaceX
 
-<p align="center">
   <img width="300" src="media/AI/leaders/Elon_Musk.jpg" alt="Elon Musk">
-</p>
 
-*"AI is a rare case where I think we need to be proactive in regulation instead of reactive."*
+  *"AI is a rare case where I think we need to be proactive in regulation instead of reactive."*
 
 >**Tim Cook**, CEO of Apple
 
-<p align="center">
   <img width="300" src="media/AI/leaders/Tim_Cook.jpg" alt="Tim Cook">
-</p>
 
 *"Technology's potential is, of course, limitless. But without values or direction, it could become a weapon."*
 
 >**Ginni Rometty**, CEO of IBM
 
-<p align="center">
   <img width="300" src="media/AI/leaders/Ginni_Rometty.jpg" alt="Ginni Rometty">
-</p>
 
 *"Ethics and responsibility need to be at the core of the AI we build. We need to ensure AI is transparent, explainable, and free from bias."*
 
 >**Mark Zuckerberg**, CEO of Facebook
 
-<p align="center">
   <img width="300" src="media/AI/leaders/Mark_Zuckerberg.jpg" alt="Mark Zuckerberg">
-</p>
 
 *"I'm optimistic about AI, but we need to ensure it's used for good and doesn't harm people."*
 

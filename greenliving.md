@@ -38,7 +38,7 @@
 Welcome to our _Green Living Guide!_ This document outlines sustainable practices you can adopt in order to minimize your environmental impact and promote a healthier planet.
 
 <p align="center">
-  <img width="500" height="300" src="media/green_living_1.jpg" alt="">
+  <img width="500" height="300" src="media/green-living/green_living_1.jpg" alt="">
 </p>
 
 # What is Green Living?
@@ -48,7 +48,7 @@ Welcome to our _Green Living Guide!_ This document outlines sustainable practice
 Living a greener lifestyle not only benefits the environment but also contributes to personal well-being and the health of future generations. Whether you're passionate about conservation, reducing waste, or simply want to make a positive impact, there are plenty of interesting and fulfilling ways to adopt eco-friendly practices into your daily routine.
 
 <p align="center">
-  <img width="500" height="300" src="media/green_living_2.jpg" alt="">
+  <img width="500" height="300" src="media/green-living/green_living_2.jpg" alt="">
 </p>
 
 ## 1. Reduce, Reuse, Recycle
@@ -56,7 +56,7 @@ Living a greener lifestyle not only benefits the environment but also contribute
 Embrace the mantra of "reduce, reuse, recycle" to minimize waste and conserve resources. Opt for reusable products such as water bottles, shopping bags, and containers, and recycle materials like paper, plastic, glass, and metal whenever possible. Consider upcycling old items into new creations or donating unwanted items to charity instead of throwing them away.
 
 <p align="center">
-  <img width="200" src="media/recycle-symbol.png" alt="">
+  <img width="200" src="media/green-living/recycle-symbol.png" alt="">
 </p>
 
 ## 2. Sustainable Transportation
@@ -64,7 +64,7 @@ Embrace the mantra of "reduce, reuse, recycle" to minimize waste and conserve re
 Reduce your carbon footprint by opting for eco-friendly modes of transportation. Walk, bike, carpool, or use public transportation instead of driving alone. Consider investing in electric vehicles or hybrid cars for a more sustainable commute. Plan your trips efficiently and combine errands to minimize unnecessary driving.
 
 <p align="center">
-  <img width="200" src="media/transportation.png" alt="">
+  <img width="200" src="media/green-living/transportation.png" alt="">
 </p>
 
 ## 3. Eco-Friendly Eating
@@ -72,7 +72,7 @@ Reduce your carbon footprint by opting for eco-friendly modes of transportation.
 Make conscious choices about what you eat and where it comes from. Support local farmers and markets to reduce the carbon footprint associated with food transportation. Choose organic and seasonal produce whenever possible, and reduce meat consumption to lower your environmental impact. Explore plant-based alternatives and incorporate more sustainable seafood options into your diet.
 
 <p align="center">
-  <img width="200" src="media/eating.png" alt="">
+  <img width="200" src="media/green-living/eating.png" alt="">
 </p>
 
 ## 4. Energy Conservation
@@ -80,7 +80,7 @@ Make conscious choices about what you eat and where it comes from. Support local
 Save energy and reduce emissions by adopting energy-efficient practices at home and work. Switch to LED light bulbs, unplug electronics when not in use, use programmable thermostats to regulate heating and cooling, and invest in renewable energy sources such as solar panels or wind turbines. Consider energy audits to identify areas where you can improve efficiency and reduce consumption.
 
 <p align="center">
-  <img width="200" src="media/bulb_left.png" alt="">
+  <img width="200" src="media/green-living/bulb_left.png" alt="">
 </p>
 
 ## 5. Green Spaces and Gardening
@@ -88,7 +88,7 @@ Save energy and reduce emissions by adopting energy-efficient practices at home 
 Connect with nature by cultivating green spaces in your home or community. Plant trees, flowers, and native vegetation to promote biodiversity and provide habitats for wildlife. Start a garden to grow your own fruits, vegetables, and herbs, and compost organic waste to enrich the soil naturally. Create a sustainable garden design that conserves water, reduces chemical use, and attracts beneficial pollinators.
 
 <p align="center">
-  <img width="500" height="300" src="media/salad.jpg" alt="">
+  <img width="500" height="300" src="media/green-living/salad.jpg" alt="">
 </p>
 
 ## 6. Conscious Consumption
@@ -100,7 +100,7 @@ Practice mindful consumerism by making informed choices about the products you b
 Stay informed about environmental issues and take action to advocate for positive change. Educate yourself and others about the importance of conservation, climate action, and environmental justice. Get involved in local community initiatives, volunteer for environmental organizations, and participate in advocacy campaigns. Use your voice to urge policymakers and businesses to adopt sustainable practices and policies that protect the planet for future generations.
 
 <p align="center">
-  <img width="500" height="300" src="media/bike.jpg" alt="">
+  <img width="500" height="300" src="media/green-living/bike.jpg" alt="">
 </p>
 
 ## 8. Reduce Food Waste
@@ -108,7 +108,7 @@ Stay informed about environmental issues and take action to advocate for positiv
 Only in the U.S., 30%-40% of the food supply ends up as a waste! The largest category of wasted items ends up in landfills, according to the <a href="https://www.fda.gov/food/consumers/food-loss-and-waste"> U.S. Food & Drug Administration </a>. That is terrible for the environment, since rotting food produces methane that contributes to climate change, but also a lost opportunity to feed those in need. To help reduce food waste you could try to limit shopping for only what you need. You can also try composting. Composting can be done by building your own compost bin, dropping off waste at a designated collection site, or participating in your city or town’s program.
 
 <p align="center">
-  <img width="500" height="300" src="media/food.jpg" alt="">
+  <img width="500" height="300" src="media/green-living/food.jpg" alt="">
 </p>
 
 ## 9. Biodegradable Household Products
@@ -128,7 +128,7 @@ Eco-driving, as proven by the <a href="https://www.racfoundation.org/"> RAC Foun
 In the agriculture industry most GHG emissions come from meat. Farming releases two quite harmful greenhouse gases: methane from livestock during digestion and nitrous oxide, an indirect product of organic and mineral nitrogen fertilizers. All emissions occur through the stages of production, processing, packaging, and delivery, with the highest emissions coming from producing and preparing meat. So, less meat means less GHG emissions! That doesn't mean that everybody should make drastic changes like being vegetarian or vegan, simply reducing meat intake can already have a big impact.
 
 <p align="center">
-  <img width="500" src="media/GHG_meat_emissions.png" alt="">
+  <img width="500" src="media/green-living/GHG_meat_emissions.png" alt="">
 </p>
 
 ## 13. Volunteering
@@ -140,7 +140,7 @@ Engage in environmental volunteering that resonates with your passions and princ
 Prioritize energy-efficient construction designs, such as passive solar methods, high-performance windows and other smart functionalities in building architecture, in order to maintain green practices. Incorporate special house equipment, like wind moderators and heating devices, in order to reduce the reliance on fossil fuels and environmental-burdening sources. With the inclusion of these practices, not only do the green buildings decrease pollution but also establish comfortable living conditions.
 
 <p align="center">
-  <img width="500" height="300" src="media/solar_home.jpg" alt="">
+  <img width="500" height="300" src="media/green-living/solar_home.jpg" alt="">
 </p>
 
 ## 15. Shop local and buy sustainable
@@ -166,7 +166,7 @@ Embracing sustainable shopping practices is pivotal for those committed to an ec
 By choosing organic and local products, you actively participate in a more sustainable food system—one that nourishes both people and the planet. Let’s make conscious choices that have a positive impact on our environment and well-being .
 
 <p align="center">
-  <img width="500" height="300" src="media/organic.jpeg" alt="organic products">
+  <img width="500" height="300" src="media/green-living/organic.jpeg" alt="organic products">
 </p>
 
 ## 18. Sustainability  For Pet-Owners
@@ -254,7 +254,7 @@ Shein is a brand that mass produces clothes and distributes them internationally
 The most important aspect to take away from the Shein scandal is the environmental damages that this brand produces daily. Making so many clothes in such little time is not as wonderful as it may seem at first glance. Some problems that Shein actively contributes to are excessive resource consumption, waste generation, and pollution - such dangerous problems that create critical life conditions for our world!
 
 <p align="center">
-  <img width="500" height="300" src="media/fast-fashion.jpeg" alt="fast-fashion">
+  <img width="500" height="300" src="media/green-living/fast-fashion.jpeg" alt="fast-fashion">
 </p>
 
 I hope this is a reminder for you to stop helping huge, manipulative industries to thrive and, instead, invest in cute, vintage stores *(they are very in fashion right now!)* and buy second-hand as much as you can. 
@@ -266,14 +266,15 @@ I hope this is a reminder for you to stop helping huge, manipulative industries 
 Its widely supported that the solution to all our transport sustainability goals is the electrification of personal passenger cars. Many outlets support this clause and pursue a future where every car is switched from gas to electric, and we all live happily ever after. This goal which is widely regarded as fact if completely baseless. Electric cars when taking into account other environmental impacts (such as Manufacturing & Disposal, Roadway Creation, and Maintenance) and not just their operative emissions (which for electric mobility are essentially zero if powered by renewables sources) a really different picture is painted. Electric cars cannot beat a single mode of land based public transit (powered by electricity or not) in the carbon emissions equivalence per passenger per kilometer[14]. We have the means today to meet our emissions goals (public transit) but the only solution pushed is electric cars. That’s not to say that gas guzzling cars should not be replaces by electric ones; but with an average urban load capacity of 1.3 passengers per steel death trap (car)[15] maybe it's time to push for the adoption of urban public transit as the real solution to the new greener world.
 
 <p align="center">
-  <img width="700" height="900" src="media/CO2-output-by-transport-type.png" alt="fast-fashion">
+  <img width="700" height="900" src="media/green-living/CO2-output-by-transport-type.png" alt="fast-fashion">
 </p>
 
 # Green Technology
 
-A set of methods, tools and knowledge used to make products and render services providing safe and favorable conditions for human life, as well as preservation and restoration of natural environment, rational use and restoration of natural resources, prevention of negative impact of economic and other activities on the environment and elimination if its consequences. 
+A collection of techniques, resources, and expertise employed to manufacture goods and deliver services in a manner that ensures the safety and well-being of individuals, while also safeguarding and replenishing the natural environment. This includes responsible management of resources, mitigation of adverse effects from economic and other endeavors on ecosystems, and remediation of resulting impacts. 
     **How to incorporate green tech into everyday life**
-    One of the greatest aspects of green technology is that it enables individuals to live their lives, but in a greener way that is not harmful to the environment. Since green technology covers a variety of appliances, making it within reach to be more green in everyday life. There are a plenty of ways to do that:
+    One of the most significant benefits of green technology is its capacity to empower individuals to lead environmentally-friendly lives without compromising their daily routines. With a wide range of eco-friendly appliances and solutions falling under the umbrella of green technology, it becomes feasible for people to integrate greener practices into their everyday activities. This opens up numerous avenues for adopting a more environmentally conscious lifestyle. This can be achieved with plenty ways like:
+    
 - Turn off technology and/or appliances when not in use
 - Use power bricks that enable you to make sure many things are off
 - Recycle, sell or give away old devices/ components

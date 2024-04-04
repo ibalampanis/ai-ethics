@@ -7,7 +7,7 @@ Thank you for considering contributing to our project! Here are a few guidelines
 - You can update existing categories or create new ones if necessary.
   
 <p align="center">
-  <img width="200" src="media/contribution.jpg" alt="">
+  <img width="200" src="media/green-living/contribution.jpg" alt="">
 </p>
 
 # Media Content

@@ -23,6 +23,7 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [AI in the Court of Law](#ai-in-the-court-of-law)
   - [Creativity and Ownership](#creativity-and-ownership)
   - [AI in Media](#ai-in-media)
+  - [AI in Marketing](#ai-in-marketing)
 - [Controversial Usage of AI](#controversial-usage-of-ai)
   - [Examples](#examples-of-controversial-ai)
 - [Recommendation on the Ethics of Artificial Intelligence](#recommendation-on-the-ethics-of-artificial-intelligence)
@@ -40,11 +41,16 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [Dealing with responsibility](#dealing-with-responsibility)
   - [Resilience and Continuity](#resilience-and-continuity)
   - [Contestability](#contestability)
+  - [Inclusivity](#inclusivity)
+  - [Equitable Access](#equitable-access)
+- [Can AI Help Us In Making This World More Ethical?](#can-ai-help-us-in-making-this-world-more-ethical)
+- [A Guide to AI](#a-guide-to-ai)
 - [Courses on AI and Ethics](#courses-on-ai-and-ethics)
   - [Online courses](#online-courses)
     -[Free courses](#free)
     -[Paid courses](#paid)
   - [Masters Degrees](#masters-degrees)
+- [AI Jokes](#ai-jokes)
 - [References](#references)
 
 <p align="center">
@@ -98,6 +104,12 @@ The vast amounts of data required for AI applications raise concerns about priva
 
 ### Accountability and Transparency
 The opacity of AI decision-making processes poses challenges for accountability. It can be difficult to understand how and why AI systems make decisions, making it challenging to assign responsibility in case of errors or harm. Ensuring transparency and explainability in AI algorithms is crucial for accountability and trust.
+
+<p align="center">
+  <img width="200" src="media/AI/transparency.png" alt="">
+</p>
+
+*Icon made by Witchai.wi from [www.flaticon.com](https://www.flaticon.com/)*
 
 ### Job Displacement
 Automation driven by AI has the potential to disrupt labor markets, leading to job displacement. This raises ethical questions about ensuring the welfare and retraining of displaced workers, as well as addressing potential economic inequalities arising from AI-driven automation.
@@ -196,6 +208,10 @@ of Greece, on October of 2023 an Advisory Committee on issues related to Artific
 
 The dissemination of misinformation has the unfortunate effect of deepening social rifts and perpetuating false beliefs, to the detriment of both institutions and individuals. Particularly notable amidst recent political turbulence, misinformation has the potential to sway public sentiment and inflict significant harm on reputations. Once misinformation proliferates across social media platforms, tracing its origins becomes arduous, and countering its spread becomes an uphill battle. AI tools have even been harnessed to amplify misinformation, camouflaging it as credible information, further complicating efforts to combat its influence.
 
+<p align="center">
+  <img width="200" src="media/AI/misinformation.jpg" alt="">
+</p>
+
 ### AI in the Court of Law
 Presumably, if judiciary systems use AI, cases could be evaluated and justice could be applied in a better, faster, and more efficient way. AI methods can potentially have a huge impact in many areas, from the legal professions and the judiciary to aiding the decision-making of legislative and administrative public bodies. Lawyer efficiency and accuracy can be increased in both counselling and litigation and existing software systems for judges can be complemented and enhanced through AI tools in order to support them in drafting new decisions. It is argued that AI could help create a fairer criminal judicial system by making informed decisions devoid of any bias and subjectivity. However, there are many ethical challenges. Firstly, there is the lack of transparency of AI tools. Then, there is the possibility that AI decisions are susceptible to inaccuracies, discriminatory outcomes, embedded or inserted bias. And, lastly, there are many concerns for fairness and risk for Human Rights and other fundamental values.
 
@@ -218,6 +234,28 @@ AI has a big impact on modern societies when utilized to create fake media. More
 </p>
 
 *Icon made by Flat Icons from [www.flaticon.com](https://www.flaticon.com/)* <br>
+
+### AI in Marketing
+AI has been the latest breakthrough in marketing with an increasing number of companies leveraging AI tools for promotion, as they allow for unparalleled personalization and customer engagement. However this amelioration raises ethical concerns especially regarding privacy, manipulation and algorithmic bias. AI tools collect and analyze vast amounts of data, which are not always handled securely and ethically. Additionally, the use of AI and personalized messaging can be manipulative by preying on individuals' insecurities and vulnerabilities to influence consumer behavior. Lastly, algorithmic bias can lead to the unfair treatment of consumers especially those belonging to marginalized communities. Therefore it is imperative to adopt responsible AI approaches to protect consumer interests.
+
+<p align="center">
+  <img width="200" src="media/AI/ai-marketing.jpg" alt="">
+</p>
+
+### The impact of AI on Economic Inequality
+
+AI and Economic Inequality explores how the adoption and implementation of artificial intelligence technologies can impact economic disparities within societies. AI technologies can automate tasks and jobs, potentially leading to job displacement, particularly for lower-skilled workers. This displacement may exacerbate economic inequality. Access to education and resources to acquire the specific technical skills required for AI-driven automation may create disparities in opportunities, widening the economic gap. Furthermore, AI advancements can concentrate wealth in the hands of individuals or organizations controlling the technology and data, which, without proper regulation, can further deepen economic inequality. If not carefully designed, AI algorithms can perpetuate biases in decision-making processes, disproportionately affecting marginalized communities and contributing to economic disparities. Economic inequality may also lead to unequal access to AI technologies and their benefits, with affluent individuals and organizations having greater resources to invest in AI solutions, further widening the gap. Addressing economic inequality requires robust policies and regulations to ensure fair deployment of AI, mitigate negative impacts, and promote inclusive access to AI technologies.
+
+<p align="center">
+  <img width="200" src="media/AI/ai_economy_inequality.jpg" alt="">
+</p>
+
+### AI in Neuroscience
+There is an intimate link between AI and neuroscience. In order to develop AI, scientists turn to human brain function so that it can lead the process. For example, one important approach is called Artificial Neural Networks, which consists of units that are called artificial neurons. Such practices have made neuroethics communities mainly focus on issues like brain intervations and free will. An important field that raises concern is the development of brain-computer interfaces (BCIs) since they connect the human brain directly with external devices.
+
+<p align="center">  
+  <img width="200" src="media/AI/ai_in_neuroscience.jpg" alt="">
+</p>
 
 ## Controversial Usage of AI
 This section aims to provide real-life examples of applications and tools that are powered by AI accross industries and display morally gray or/and legally undefined territories. These examples showcase the pressing need for ethical considerations and clear regulations in the rapidly evolving and difficult to control field of artificial intelligence. It is important to emphasise that artificial intelligence should work for the common good and to help people and their lives rather than make them question the morality, law compliance or/and safety of its usage which is the case in the examples presented down below.  
@@ -256,6 +294,10 @@ Incidents like this indicate the threat posed by ai and deepfake technology rega
 >Amazon's Gender-Biased Algorithm Incident
 
 Amazon's gender-biased hiring algorithm incident in 2018 highlighted the controversial usage of AI in recruitment. The algorithm, which was designed to evaluate job applicants, accidentally discriminated against women by downgrading their CVs for technical roles based on historical data showing male dominance in such positions. This bias stemmed from the algorithm learning from past resumes submitted over a decade, reflecting societal gender disparities in STEM fields. Despite attempts to rectify the issue, the algorithm preserved gender discrimination, leading Amazon to discontinue the tool. This case underscored the risks of AI inheriting human biases, emphasizing the importance of scrutinizing data inputs and algorithms to prevent such discriminatory outcomes in automated hiring processes.
+
+>Tay, Microsoft's AI Chatbot 
+
+In 2016, Microsoft released an AI chatbot on Twitter with goal to pick up its lexicon and syntax from interactions with real people posting comments on Twitter. Although, Tay quickly began posting offensive and racist tweets after being manipulated by users. Microsoft had to shut down Tay within 24 hours, illustrating the risks of deploying AI systems in uncontrolled environments.
 
 ## Recommendation on the Ethics of Artificial Intelligence
 In November 2021 UNESCO produced the first-ever global standard on AI ethics the "Recommendation on the Ethics of Artificial Intelligence".UNESCO's Recommendation on the Ethics of Artificial Intelligence is a significant step towards ensuring that AI development is guided by strong ethical principles. The Recommendation interprets AI broadly as systems with the ability to process data in a way which resembles intelligent behaviour. What makes the Recommendation exceptionally applicable are its extensive Policy Action Areas, which allow policymakers to translate the core values and principles into action with respect to data governance, environment and ecosystems, gender, education and research, and health and social wellbeing, among many other spheres. 
@@ -383,8 +425,27 @@ AI developers should prioritize the resilience and continuity of AI systems, ens
 ### Contestability
 AI developers should establish effective and accessible mechanisms enabling individuals to contest the use or outcomes of AI systems when they have a significant impact on individuals, communities, groups, or the environment. Determining what constitutes a 'significant impact' must consider the context, impact, and application of the AI system. Ensuring the availability of redress for harm when errors occur is crucial for fostering public trust in AI. Special consideration must be given to vulnerable individuals or groups. To achieve contestability, developers must ensure adequate access to information regarding the algorithm's operations and the inferences made. In cases where decisions significantly affect rights, implementing an effective oversight system that incorporates human judgment appropriately is essential.
 
+## Inclusivity
+Inclusivity emphasizes the importance of ensuring that AI systems are designed and developed in a way that considers and accommodates the needs, perspectives, and experiences of diverse individuals and communities. This principle underscores the significance of creating AI technologies that are accessible and beneficial to all members of society, regardless of factors such as race, gender, ethnicity, socioeconomic status, disability, or geographical location. By prioritizing inclusivity, developers can work towards mitigating bias and discrimination in AI systems, promoting greater equity, and fostering a more inclusive and participatory approach to technological innovation.
+
 ### Equitable Access
 AI technologies should be accessible to all individuals regardless of their social status, geographic location, or technology skills and abilities. Developers should make significant effort in order to bridge the digital chasm and prevent the exacerbation of inequalities spotted in artificial intelligence implementation.
+
+## Can AI Help Us In Making This World More Ethical?
+After mentioning above a lot of the "dark sides" of AI and the concerns that revolve around them, it is maybe time to reflect on whether AI can contribute to making our society a bit more ethical. For a matter of fact, AI systems can be trained to provide us with insights on our personal life based on ethical principles and values. This is a concept which could also be used in schools by providing interactive lessons and personalized feedback on how values should be used in real life situations. Moreover, it is prudent to consider how the environment can be benefited from the use of AI tools. 
+
+## A Guide to AI
+
+> This section is meant to guide you through basic AI understanding by clearly and simply underlining the journey you should take. 
+
+1. Learn Python
+2. Understand the Basics of AI & Machine Learning 
+3. Choose a Learning Path
+4. Pick Online Tutorials or Virtual Classes on ML
+5. Get Hands-on Experience with AI models
+6. Read, read, read...
+7. Stay updated
+8. Connect with AI communities
 
 ## Courses on AI and Ethics
 This section aims to provide useful courses that one can attend if they want to learn more about how to use AI in an ethical way.
@@ -412,6 +473,7 @@ This section aims to provide useful courses that one can attend if they want to 
 * [Artificial Intelligence Ethics in University of Oxford](https://www.conted.ox.ac.uk/courses/artificial-intelligence-ethics)
 * [Introduction to the Ethics of Artificial Intelligence in the University of Melbourne](https://study.unimelb.edu.au/find/microcredentials/introduction-to-the-ethics-of-artificial-intelligence/)
 * [ChatGPT / AI Ethics: Ethical Intelligence for 2024 in udemy](https://www.udemy.com/course/chatgpt-ai-ethics-ethical-intelligence/?couponCode=ST13MT40224)
+* [Oxford Artifial Intelligence Programme](https://oxford-onlineprogrammes.getsmarter.com/presentations/lp/oxford-artificial-intelligence-programme/?cid=20158722392&utm_contentid=687878416681&ef_id=c:687878416681_d:c_n:g_ti:kwd-307735516934_p:_k:study%20ai_m:p_a:144495742970&gad_source=1&gclid=CjwKCAjw_LOwBhBFEiwAmSEQASLl82cmMGGDTqFkO5rROF4DSqT6M8U9t6VjD4k9I-4U7c4bNAS7eRoCsfUQAvD_BwE&gclsrc=aw.ds)
 
 ### Masters Degrees
 
@@ -419,11 +481,21 @@ This section aims to provide useful courses that one can attend if they want to 
 * [MSc Artificial Intelligence and Ethics in Northeastern University of London](https://www.nulondon.ac.uk/degrees/postgraduate/ai-ethics/)
 * [MSc Law, Regulation and AI Ethics in University of Birmingham](https://www.birmingham.ac.uk/postgraduate/courses/taught/law/law-regulation-and-ai-ethics)
 
+## AI Jokes
+This is a section dedicated to bad AI jokes. Feel free to add anything you like. 
+
+<p align="center">
+  <img width="200" src="media/AI/comic-ai.png" alt="Comic AI Joke">
+</p>
+
+Source: The Comic Accountant
+
 ## References
 1. Ahmad, S.F., Han, H., Alam, M.M. et al. Impact of artificial intelligence on human loss in decision making, laziness and safety in education. Humanit Soc Sci Commun 10, 311 (2023). https://doi.org/10.1057/s41599-023-01787-8
 2. Australian Government. (2019). Australia’s Artificial Intelligence Ethics Framework: Australia’s AI Ethics Principles
 3. BBC (2023). "Elon Musk among experts urging a halt to AI training".
 4. CodeTrade India. (2024). Explainable AI: A Hands-on Guide With Popular Frameworks.
+<<<<<<< HEAD
 5. Davies, H., McKernan, B. & Sabbagh, D. (2023). "‘The Gospel’: how Israel uses AI to select bombing targets in Gaza". *The Guardian*
 6. Doe, J. (2020). "Ethical Considerations in AI Development." *Journal of AI Ethics*, 12(3), 45-67.
 7. Europeian commission. (2021). "Ethics Guidelines for Trustworthy AI".
@@ -455,3 +527,40 @@ This section aims to provide useful courses that one can attend if they want to 
 =======
 29. Blackman, R. (2022). Why You Need an AI Ethics Committee. Harvard Business Review (July–August).
 >>>>>>> dc3cfb369981a088528fcfbb40d7d3c40d25460f
+=======
+5. Clark, Elijah(2024). “The Ethical Dilemma of AI in Marketing: A Slippery Slope.” Forbes.
+6. Davies, H., McKernan, B. & Sabbagh, D. (2023). "‘The Gospel’: how Israel uses AI to select bombing targets in Gaza". *The Guardian*
+7. Doe, J. (2020). "Ethical Considerations in AI Development." *Journal of AI Ethics*, 12(3), 45-67.
+8. Europeian commission. (2021). "Ethics Guidelines for Trustworthy AI".
+9. Fox, V. (2023) "AI Art & the Ethical Concerns of Artists". *Beautiful Bizzare Magazine*
+10. Green, L. (2021). "Addressing Job Displacement in the Age of AI." *Workplace Futures*, 17(1), 78-91.
+11. Hagendorff, T. The Ethics of AI Ethics: An Evaluation of Guidelines. Minds & Machines 30, 99–120 (2020). https://doi.org/10.1007/s11023-020-09517-8
+12. IBM (2023). Shedding light on AI bias with real world examples.
+13. Li, F., Ruijs, N., & Lu, Y. (2022). Ethics & AI: A systematic review on ethical concerns and related strategies for designing with AI in Healthcare. 
+14. Maria Luciana Axente and Ilana Golbin(2022). "Ten principles for ethical AI".
+15. Magramo, Heather Chen, Kathleen (2024). “Finance Worker Pays out $25 Million after Video Call with Deepfake “Chief Financial Officer.”” CNN
+16. Michuda, Megan(2023). “The Ethics of AI-Powered Marketing Technology.” MarTech.
+17. Pallardy, C (2023). "The proliferation of artificial intelligence comes with big questions about data privacy and risk". *Information Week*.
+18. Pinto, T. (2023) Ai Principles, Artificial Intelligence Act. 
+19. Schneble, C.O., Elger, B.S. and Shaw, D.M. (2020). Google’s Project Nightingale highlights the necessity of data science ethics review.
+20. Sinha, D. (2021). Top 5 Most Controversial Scandals in AI and Big Data."
+21. Smith, A. (2019). "Privacy Challenges in AI Applications." *AI Today*, 5(2), 112-125.
+22. Spair, R. (2023). "The Ethics of AI Surveillance: Balancing Security and Privacy".
+23. Staff, C. (2024). AI Ethics: What It Is and Why It Matters.
+24. Terra, M., Baklola, M., Ali, S., & Karim El-Bastawisy. (2023). "Opportunities, applications, Challenges and Ethical Implications of Artificial Intelligence in psychiatry".
+25. The World Economic Forum's article on "Why we need cybersecurity of AI: ethics and responsible innovation" 
+26. UNESCO. (2023). "Recommendation on the Ethics of Artificial Intelligence: key facts".
+27. UNESCO. (April 21, 2023). "Artificial Intelligence: examples of ethical dilemmas". https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases
+28. Marr, B. (2023). "The Intersection Of AI And Human Creativity: Can Machines Really Be Creative?" Forbes
+29. USAID. (2023, July 9). Artificial Intelligence (AI) ethics guide. https://www.usaid.gov/sites/default/files/2023-12/_USAID%20AI%20Ethics%20Guide_1.pdf
+30. Schultz, J. (2019). Automating Discrimination: AI Hiring Practices and Gender Inequality. Cardozo Law Review. https://cardozolawreview.com/automating-discrimination-ai-hiring-practices-and-gender-inequality/
+31. Blackman, R. (2022). Why You Need an AI Ethics Committee. Harvard Business Review (July–August).
+32. UNESCO (2020). *Steering AI and Advanced ICTs for Knowledge Societies*. https://unesdoc.unesco.org/ark:/48223/pf0000377798
+33. Brookings Institution (2019). *Automation and AI Are Disrupting Jobs*. https://www.brookings.edu/research/automation-and-artificial-intelligence-how-machines-affect-people-and-places/
+34. The Comic Accountant. (2022) https://thecomicaccountant.com/comic-ai-artificial-intelligence-is-the-future/ 
+35. Oscar Schwartz IEEE Spectrum (2019) In 2016, Microsoft’s Racist Chatbot Revealed the Dangers of Online Conversation https://spectrum.ieee.org/in-2016-microsofts-racist-chatbot-revealed-the-dangers-of-online-conversation
+
+
+
+
+>>>>>>> cbefefa833178c55b41bc30ff6ee80b7d25ebf5b

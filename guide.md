@@ -29,8 +29,8 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [AI in Marketing](#ai-in-marketing)
   - [AI in Automated Vehicles](#ai-in-automated-vehicles) 	
 - [Controversial Usage of AI](#controversial-usage-of-ai)
-- [Global leaders about AI](#global-leaders-about-ai)
   - [Examples](#examples-of-controversial-ai)
+- [Global leaders quotes about AI](#global-leaders-quotes-about-ai)
 - [Recommendation on the Ethics of Artificial Intelligence](#recommendation-on-the-ethics-of-artificial-intelligence)
   - [Policy Action Areas](#policy-action-areas)
 - [Ethical Principles for AI Development](#ethical-principles-for-ai-development)
@@ -376,7 +376,7 @@ Amazon's gender-biased hiring algorithm incident in 2018 highlighted the controv
 
 In 2016, Microsoft released an AI chatbot on Twitter with goal to pick up its lexicon and syntax from interactions with real people posting comments on Twitter. Although, Tay quickly began posting offensive and racist tweets after being manipulated by users. Microsoft had to shut down Tay within 24 hours, illustrating the risks of deploying AI systems in uncontrolled environments.
 
-## Global leaders about AI
+## Global leaders quotes about AI
 
 >**Satya Nadella**, CEO of Microsoft 
 
@@ -389,6 +389,16 @@ In 2016, Microsoft released an AI chatbot on Twitter with goal to pick up its le
 >**Tim Cook**, CEO of Apple
 
 *"Technology's potential is, of course, limitless. But without values or direction, it could become a weapon."*
+
+>**Ginni Rometty**, CEO of IBM
+
+*"Ethics and responsibility need to be at the core of the AI we build. We need to ensure AI is transparent, explainable, and free from bias."*
+
+>**Mark Zuckerberg**, CEO of Facebook
+
+"I'm optimistic about AI, but we need to ensure it's used for good and doesn't harm people."*
+
+
 
 
 

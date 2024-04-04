@@ -665,3 +665,7 @@ This section aims to provide useful courses that one can attend if they want to 
 42. Haan, K (2023) “How Businesses Are Using Artificial Intelligence In 2024”.
 43. Perrigo, B (2024) “Will AI Take Your Job? Maybe Not Just Yet, One Study Says”.
 44. Khan, I (2024) “An abstract render of AI in digital cyberspace.”  https://www.cnet.com/tech/computing/chatgpt-glossary-42-ai-terms-that-everyone-should-know/ 
+45. Samuel Gibbs (2017) Elon Musk: regulate AI to combat 'existential threat' before it's too late, The Guardian
+https://www.theguardian.com/technology/2017/jul/17/elon-musk-regulation-ai-combat-existential-threat-tesla-spacex-ceo
+
+

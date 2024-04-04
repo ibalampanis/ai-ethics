@@ -3,6 +3,9 @@
 Artificial Intelligence (AI) has the potential to revolutionize various aspects of society. However, alongside its potential benefits, AI also brings forth a host of ethical concerns that must be carefully addressed to ensure responsible development and deployment.
 
 - [Introduction](#introduction)
+  - [Defining Artificial Intelligence (AI)](#defining-artificial-intelligence-ai)
+  - [Understanding Ethics](#understanding-ethics)
+  - [Why AI and Ethics](#why-ai-and-ethics)
 - [Why do we use AI?](#why-do-we-use-ai)
 - [Ethical Concerns](#ethical-concerns)
   - [Bias and Fairness](#bias-and-fairness)
@@ -66,6 +69,26 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
 
 ## Introduction
 This document focuses on **AI and Ethics**, a set of guiding principles that are used to ensure the responsible use of AI. Although the goal is a secure, safe and humane approach, this has been questioned by a lot of people causing various ethical concerns.
+
+It is important to start the topic of AI and Ethics by defining and introducing these two main concepts seperately at a theoretical level.
+
+### Defining Artificial Intelligence (AI)
+Artificial Intelligence (AI) is a branch of computer science focused on the creation computer programs and machines that can be characterized as intelligent. The intelligence refered to here is same as human intelligence in the sense that someone that is intelligent :
+
+* orchestrates his actions in order to achieve a specific goal
+* acts within a specific environment
+* learns from his experience  
+
+The history of AI started after World War II, with the prominent figure being Alan Turing who emphasized the potential of intelligence in machines through his research and proposals in the field. One important contribution by Alan Turing is the Turing test, a way to test the intelligence of a machine by having human evaluators interact with it.  
+Since then, especially in the 21st century, the field of AI is evolving exponentially in both its methodologies (such as machine learning) and its applications (such as Chat-GPT).
+
+### Understanding Ethics
+Ethics is a concept that is tricky to define, yet very straightforward at its essence. It is the study of the distinction between good and bad, which, based on the notion of "the common good", guides people's actions and society as a whole. Ethics, according to Aristotle, involves the understanding of what it means for humans to be "excellent" in their actions and their behaviour against themselves and others. By leading our lives with ethics in mind, we create a society that constantly strives for improved ways of existance.  
+A fundamental distinction is the one between law and ethics as systems that control actions and behaviour. Law is the external control system whereas ethics come from within a person according to his character and the customs of society - in other words from his *ethos*.   
+At the core of ethics lies moral responsibility, which is the understanding that people are to be held accountable for the consquences of their actions - because of this people are refered to in the bibliography as *moral agents*. Moral responsibility is based on the fact that the person (moral agent) is able to make decisions having knowledge of the potential negative outcomes of their actions (or creations when it comes to computer programs and machines).  
+
+### Why AI and Ethics
+As AI becomes more and more prevalent in our every day life, changing multiple industries and reshaping the way we use technology, it is evident that moral responsibilities and the concept of ethics must be addressed in relation to this tehnology. Different uses of AI in different fields should be morally evaluated and be set under a regulatory set of rules. This way we can establish a basis where AI serves the collective good.
 
 ## Why do we use AI?
 AI represents a thrilling expansion of numerous human abilities, encompassing observation, processing, and decision-making. Its outputs and impacts are virtually instantaneous, providing unprecedented efficiencies previously unimaginable. Leveraging computing power and sophisticated systems, AI technologies surpass human cognitive capacities, enabling continuous "machine learning" autonomously and recognizing intricate patterns beyond human perception (e.g., identifying individuals by their gait alone). Additionally, AI employs dynamic nudging to promptly incentivize compliance, exemplified in commercial settings by tailored benefit selections aimed at stimulating particular economic behaviors among customers. AI is a very important aspect of business innovation and is widely used inside organizations, because of the important value it can create. Companies use AI to perfect operations since it enables process automation, increases speed and scalability leading to higher profits. With the usage of AI companies can also secure higher accuracy and improve decision making. Moreover, AI technologies are contributing to an improved customer relationship since they provide personalization and hence they upgrade the customer service and increase customer’s satisfaction. 
@@ -571,6 +594,7 @@ This section aims to provide useful courses that one can attend if they want to 
 2. Australian Government. (2019). Australia’s Artificial Intelligence Ethics Framework: Australia’s AI Ethics Principles
 3. BBC (2023). "Elon Musk among experts urging a halt to AI training".
 4. CodeTrade India. (2024). Explainable AI: A Hands-on Guide With Popular Frameworks.
+5. Stanford Encyclopedia of Philosophy (2012). Computing and Moral Responsibility. Retrieved from https://plato.stanford.edu/entries/computing-responsibility/
 5. Davies, H., McKernan, B. & Sabbagh, D. (2023). "‘The Gospel’: how Israel uses AI to select bombing targets in Gaza". *The Guardian*
 6. Doe, J. (2020). "Ethical Considerations in AI Development." *Journal of AI Ethics*, 12(3), 45-67.
 7. Europeian commission. (2021). "Ethics Guidelines for Trustworthy AI".

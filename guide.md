@@ -543,20 +543,34 @@ This section aims to provide useful courses that one can attend if they want to 
 * [MSc Law, Regulation and AI Ethics in University of Birmingham](https://www.birmingham.ac.uk/postgraduate/courses/taught/law/law-regulation-and-ai-ethics)
 
 ## AI Jokes
-This is a section dedicated to bad AI jokes. Feel free to add anything you like. 
+#### This is a section dedicated to bad AI jokes. Feel free to add anything you like. 
 
 <p align="center">
-  <img width="200" src="media/AI/comic-ai.png" alt="Comic AI Joke">
+  <img width="250" src="media/AI/comics/comic-ai.png" alt="Comic AI Joke">
 </p>
 
-Source: The Comic Accountant
+**Source: The Comic Accountant**
+<p align="center">
+  <img width="250" src="media/AI/comics/flowchartcomic.png" alt="Comic AI Joke">
+</p>
+
+**Source: smbc-comics**
+<p align="center">
+  <img width="200" src="media/AI/comics/aiethicscomic.png" alt="Comic AI Joke">
+</p>
+
+**Source: smbc-comics**
+<p align="center">
+  <img width="250" src="media/AI/comics/aiwintercomic.png" alt="Comic AI Joke">
+</p>
+
+**Source: smbc-comics**
 
 ## References
 1. Ahmad, S.F., Han, H., Alam, M.M. et al. Impact of artificial intelligence on human loss in decision making, laziness and safety in education. Humanit Soc Sci Commun 10, 311 (2023). https://doi.org/10.1057/s41599-023-01787-8
 2. Australian Government. (2019). Australia’s Artificial Intelligence Ethics Framework: Australia’s AI Ethics Principles
 3. BBC (2023). "Elon Musk among experts urging a halt to AI training".
 4. CodeTrade India. (2024). Explainable AI: A Hands-on Guide With Popular Frameworks.
-<<<<<<< HEAD
 5. Davies, H., McKernan, B. & Sabbagh, D. (2023). "‘The Gospel’: how Israel uses AI to select bombing targets in Gaza". *The Guardian*
 6. Doe, J. (2020). "Ethical Considerations in AI Development." *Journal of AI Ethics*, 12(3), 45-67.
 7. Europeian commission. (2021). "Ethics Guidelines for Trustworthy AI".
@@ -581,51 +595,16 @@ Source: The Comic Accountant
 26. Marr, B. (2023). "The Intersection Of AI And Human Creativity: Can Machines Really Be Creative?" Forbes
 27. USAID. (2023, July 9). Artificial Intelligence (AI) ethics guide. https://www.usaid.gov/sites/default/files/2023-12/_USAID%20AI%20Ethics%20Guide_1.pdf
 28. Schultz, J. (2019). Automating Discrimination: AI Hiring Practices and Gender Inequality. Cardozo Law Review. https://cardozolawreview.com/automating-discrimination-ai-hiring-practices-and-gender-inequality/
-<<<<<<< HEAD
 29. Blackman, R. (2022). Why You Need an AI Ethics Committee. Harvard Business Review (July–August).
 30. Lark, www.larksuite.com/en_us/topics/ai-glossary/interpretability-in-ai-and-why-does-it-matter.
 31. IEEE Xplore, ieeexplore.ieee.org/Xplore/home.jsp
 32. Drew Roselli, Jeanna Matthews and Nisha Talagala. 2019. Managing Bias in AI. In Proceedings of WWW '19: The Web Conference (WWW '19), May 13, 2019, San Francisco, USA. ACM, New York, NY, USA, 6 pages. https://doi.org/10.1145/3308560.3317590
-
-=======
-29. Blackman, R. (2022). Why You Need an AI Ethics Committee. Harvard Business Review (July–August).
->>>>>>> dc3cfb369981a088528fcfbb40d7d3c40d25460f
-=======
-5. Clark, Elijah(2024). “The Ethical Dilemma of AI in Marketing: A Slippery Slope.” Forbes.
-6. Davies, H., McKernan, B. & Sabbagh, D. (2023). "‘The Gospel’: how Israel uses AI to select bombing targets in Gaza". *The Guardian*
-7. Doe, J. (2020). "Ethical Considerations in AI Development." *Journal of AI Ethics*, 12(3), 45-67.
-8. Europeian commission. (2021). "Ethics Guidelines for Trustworthy AI".
-9. Fox, V. (2023) "AI Art & the Ethical Concerns of Artists". *Beautiful Bizzare Magazine*
-10. Green, L. (2021). "Addressing Job Displacement in the Age of AI." *Workplace Futures*, 17(1), 78-91.
-11. Hagendorff, T. The Ethics of AI Ethics: An Evaluation of Guidelines. Minds & Machines 30, 99–120 (2020). https://doi.org/10.1007/s11023-020-09517-8
-12. IBM (2023). Shedding light on AI bias with real world examples.
-13. Li, F., Ruijs, N., & Lu, Y. (2022). Ethics & AI: A systematic review on ethical concerns and related strategies for designing with AI in Healthcare. 
-14. Maria Luciana Axente and Ilana Golbin(2022). "Ten principles for ethical AI".
-15. Magramo, Heather Chen, Kathleen (2024). “Finance Worker Pays out $25 Million after Video Call with Deepfake “Chief Financial Officer.”” CNN
-16. Michuda, Megan(2023). “The Ethics of AI-Powered Marketing Technology.” MarTech.
-17. Pallardy, C (2023). "The proliferation of artificial intelligence comes with big questions about data privacy and risk". *Information Week*.
-18. Pinto, T. (2023) Ai Principles, Artificial Intelligence Act. 
-19. Schneble, C.O., Elger, B.S. and Shaw, D.M. (2020). Google’s Project Nightingale highlights the necessity of data science ethics review.
-20. Sinha, D. (2021). Top 5 Most Controversial Scandals in AI and Big Data."
-21. Smith, A. (2019). "Privacy Challenges in AI Applications." *AI Today*, 5(2), 112-125.
-22. Spair, R. (2023). "The Ethics of AI Surveillance: Balancing Security and Privacy".
-23. Staff, C. (2024). AI Ethics: What It Is and Why It Matters.
-24. Terra, M., Baklola, M., Ali, S., & Karim El-Bastawisy. (2023). "Opportunities, applications, Challenges and Ethical Implications of Artificial Intelligence in psychiatry".
-25. The World Economic Forum's article on "Why we need cybersecurity of AI: ethics and responsible innovation" 
-26. UNESCO. (2023). "Recommendation on the Ethics of Artificial Intelligence: key facts".
-27. UNESCO. (April 21, 2023). "Artificial Intelligence: examples of ethical dilemmas". https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases
-28. Marr, B. (2023). "The Intersection Of AI And Human Creativity: Can Machines Really Be Creative?" Forbes
-29. USAID. (2023, July 9). Artificial Intelligence (AI) ethics guide. https://www.usaid.gov/sites/default/files/2023-12/_USAID%20AI%20Ethics%20Guide_1.pdf
-30. Schultz, J. (2019). Automating Discrimination: AI Hiring Practices and Gender Inequality. Cardozo Law Review. https://cardozolawreview.com/automating-discrimination-ai-hiring-practices-and-gender-inequality/
-31. Blackman, R. (2022). Why You Need an AI Ethics Committee. Harvard Business Review (July–August).
-32. UNESCO (2020). *Steering AI and Advanced ICTs for Knowledge Societies*. https://unesdoc.unesco.org/ark:/48223/pf0000377798
-33. Brookings Institution (2019). *Automation and AI Are Disrupting Jobs*. https://www.brookings.edu/research/automation-and-artificial-intelligence-how-machines-affect-people-and-places/
-34. The Comic Accountant. (2022) https://thecomicaccountant.com/comic-ai-artificial-intelligence-is-the-future/ 
-35. Oscar Schwartz IEEE Spectrum (2019) In 2016, Microsoft’s Racist Chatbot Revealed the Dangers of Online Conversation https://spectrum.ieee.org/in-2016-microsofts-racist-chatbot-revealed-the-dangers-of-online-conversation
-36. Haan, K (2023) “How Businesses Are Using Artificial Intelligence In 2024”.
-37. Perrigo, B (2024) “Will AI Take Your Job? Maybe Not Just Yet, One Study Says”.
-38. Khan, I (2024) “An abstract render of AI in digital cyberspace.”  https://www.cnet.com/tech/computing/chatgpt-glossary-42-ai-terms-that-everyone-should-know/ 
-
-
-
->>>>>>> cbefefa833178c55b41bc30ff6ee80b7d25ebf5b
+33. Clark, Elijah(2024). “The Ethical Dilemma of AI in Marketing: A Slippery Slope.” Forbes.
+34. Michuda, Megan(2023). “The Ethics of AI-Powered Marketing Technology.” MarTech.
+35. UNESCO (2020). *Steering AI and Advanced ICTs for Knowledge Societies*. https://unesdoc.unesco.org/ark:/48223/pf0000377798
+36. Brookings Institution (2019). *Automation and AI Are Disrupting Jobs*. https://www.brookings.edu/research/automation-and-artificial-intelligence-how-machines-affect-people-and-places/
+37. The Comic Accountant. (2022) https://thecomicaccountant.com/comic-ai-artificial-intelligence-is-the-future/ 
+38. Oscar Schwartz IEEE Spectrum (2019) In 2016, Microsoft’s Racist Chatbot Revealed the Dangers of Online Conversation https://spectrum.ieee.org/in-2016-microsofts-racist-chatbot-revealed-the-dangers-of-online-conversation
+39. Haan, K (2023) “How Businesses Are Using Artificial Intelligence In 2024”.
+40. Perrigo, B (2024) “Will AI Take Your Job? Maybe Not Just Yet, One Study Says”.
+41. Khan, I (2024) “An abstract render of AI in digital cyberspace.”  https://www.cnet.com/tech/computing/chatgpt-glossary-42-ai-terms-that-everyone-should-know/ 

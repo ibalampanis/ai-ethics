@@ -52,6 +52,7 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [Equitable Access](#equitable-access)
   - [Continuous Learning and Improvement](#continuous-learning-and-improvement)
   - [Sustainability](#sustainability)
+- [The future of ethical AI]
 
 - [Can AI Help Us In Making This World More Ethical?](#can-ai-help-us-in-making-this-world-more-ethical)
 - [A Guide to AI](#a-guide-to-ai)
@@ -598,7 +599,16 @@ The long-term effects on society and the environment should be considered when d
 
 <br>Source: Achieving a sustainable future for AI,MIT Technology Review</br>
 
+##The future of ethical AI
+Some argue that an AI code of ethics can quickly become out of date and that a more proactive approach is required to adapt to a rapidly evolving field. Arijit Sengupta, founder and CEO of Aible, an AI development platform, said, "The fundamental problem with an AI code of ethics is that it's reactive, not proactive. We tend to define things like bias and go looking for bias and trying to eliminate it -- as if that's possible."
 
+A reactive approach can have trouble dealing with bias embedded in the data. For example, if women have not historically received loans at the appropriate rate, that will get woven into the data in multiple ways. "If you remove variables related to gender, AI will just pick up other variables that serve as a proxy for gender," Sengupta said.
+
+He believes the future of ethical AI needs to talk about defining fairness and societal norms. So, for example, at a lending bank, management and AI teams would need to decide whether they want to aim for equal consideration (e.g., loans processed at an equal rate for all races), proportional results (success rate for each race is relatively equal) or equal impact (ensuring a proportional amount of loans goes to each race). The focus needs to be on a guiding principle rather than on something to avoid, Sengupta argued.
+
+Most people would agree that it is easier and more effective to teach children what their guiding principles should be rather than to list out every possible decision they might encounter and tell them what to do and what not to do. "That's the approach we're taking with AI ethics," Sengupta said. "We are telling a child everything it can and cannot do instead of providing guiding principles and then allowing them to figure it out for themselves."
+
+For now, we have to turn to humans to develop rules and technologies that promote responsible AI. Shephard said this includes programming products and offers that protect human interests and are not biased against certain groups, such as minority groups, those with special needs and the poor. The latter is especially concerning as AI has the potential to spur massive social and economic warfare, furthering the divide between those who can afford technology (including human augmentation) and those who cannot.
 
 ## Can AI Help Us In Making This World More Ethical?
 After mentioning above a lot of the "dark sides" of AI and the concerns that revolve around them, it is maybe time to reflect on whether AI can contribute to making our society a bit more ethical. For a matter of fact, AI systems can be trained to provide us with insights on our personal life based on ethical principles and values. This is a concept which could also be used in schools by providing interactive lessons and personalized feedback on how values should be used in real life situations. Moreover, it is prudent to consider how the environment can be benefited from the use of AI tools. 

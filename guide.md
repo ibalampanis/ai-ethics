@@ -762,8 +762,6 @@ https://www.theguardian.com/technology/2017/jul/17/elon-musk-regulation-ai-comba
 46. Colema, J (2023) “AI’s Climate Impact Goes beyond Its Emissions”.
 47. Aimee van Wynsberghe (2021),” Sustainable AI: AI for sustainability and the sustainability of AI”
 
->>>>>>> e487e944126c8cddbd0b4b9fe84dbbffd6fa8a34
 
 
-=======
->>>>>>> 6f64938bfb8821ebc8a621c85106d2ab1469127e
+

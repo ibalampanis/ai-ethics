@@ -7,7 +7,6 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [Why do we use AI?](#why-do-we-use-ai)
   - [Understanding Ethics](#understanding-ethics)
   - [Why AI and Ethics](#why-ai-and-ethics)
-- [Why do we use AI?](#why-do-we-use-ai)
 - [Chronological overview of the development of AI](#Chronological-overview-of-the-development-of-AI)
 - [Ethical Concerns](#ethical-concerns)
   - [Bias and Fairness](#bias-and-fairness)

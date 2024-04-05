@@ -51,6 +51,7 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [Inclusivity](#inclusivity)
   - [Equitable Access](#equitable-access)
   - [Continuous Learning and Improvement](#continuous-learning-and-improvement)
+  - [Sustainability](#sustainability)
 
 - [Can AI Help Us In Making This World More Ethical?](#can-ai-help-us-in-making-this-world-more-ethical)
 - [A Guide to AI](#a-guide-to-ai)
@@ -588,6 +589,16 @@ AI technologies should be accessible to all individuals regardless of their soci
 ### Continuous learning and Improvement 
 AI developers should focus on continuous learning and improvement. AI technologies are based on data collection and data processing. Hence, is very essential to systematically seek feedback from diverse stakeholders, collect divergent data and check the validity and integrity of the data in order to achieve improvement of sysytems. Practices and processes should be continuously adapted in response to ethical challenges and emerging risks and changes of the market environment.
 
+### Sustainability
+The long-term effects on society and the environment should be considered when developing AI. It is imperative for developers to make sustainable usage of AI systems while minimizing their environmental impact.
+
+<p align="center">
+  <img width="200" src="media/AI/sustainability_AI.jpg" alt="">
+</p>
+
+<br>Source: Achieving a sustainable future for AI,MIT Technology Review</br>
+
+
 
 ## Can AI Help Us In Making This World More Ethical?
 After mentioning above a lot of the "dark sides" of AI and the concerns that revolve around them, it is maybe time to reflect on whether AI can contribute to making our society a bit more ethical. For a matter of fact, AI systems can be trained to provide us with insights on our personal life based on ethical principles and values. This is a concept which could also be used in schools by providing interactive lessons and personalized feedback on how values should be used in real life situations. Moreover, it is prudent to consider how the environment can be benefited from the use of AI tools. 
@@ -738,8 +749,9 @@ John Zerilli, et al. – MIT Press
 44. Samuel Gibbs (2017) Elon Musk: regulate AI to combat 'existential threat' before it's too late, The Guardian
 https://www.theguardian.com/technology/2017/jul/17/elon-musk-regulation-ai-combat-existential-threat-tesla-spacex-ceo
 45. Leverhulme Centre for the Future of Intelligence. 12 Books to read about AI Ethics. http://lcfi.ac.uk/news-and-events/news/2021/jun/28/ai-ethics-book-list/
-<<<<<<< HEAD
 46. Colema, J (2023) “AI’s Climate Impact Goes beyond Its Emissions”.
+47. Aimee van Wynsberghe (2021),” Sustainable AI: AI for sustainability and the sustainability of AI”
+
 >>>>>>> e487e944126c8cddbd0b4b9fe84dbbffd6fa8a34
 
 

@@ -52,7 +52,7 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [Equitable Access](#equitable-access)
   - [Continuous Learning and Improvement](#continuous-learning-and-improvement)
   - [Sustainability](#sustainability)
-- [The future of ethical AI] (#The future of ethical AI)
+- [The future of ethical AI](#The-future-of-ethical-AI)
 
 - [Can AI Help Us In Making This World More Ethical?](#can-ai-help-us-in-making-this-world-more-ethical)
 - [A Guide to AI](#a-guide-to-ai)

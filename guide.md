@@ -58,6 +58,7 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
     - [Paid courses](#paid)
   - [Masters Degrees](#masters-degrees)
 - [AI Jokes](#ai-jokes)
+- [Further Reading](#further-reading)
 - [References](#references)
 
 <p align="center">
@@ -626,6 +627,33 @@ This section aims to provide useful courses that one can attend if they want to 
 
 **Source: smbc-comics**
 
+## Further Reading
+To delve deeper into the ethical aspects of artificial intelligence, we highly recommend the following books:
+1. [Race After Technology: Abolitionist Tools for the New Jim Code](https://www.wiley.com/en-gb/Race+After+Technology:+Abolitionist+Tools+for+the+New+Jim+Code-p-9781509526437)  
+Ruha Benjamin - Polity
+2. [AI: Its nature and future](https://global.oup.com/academic/product/ai-9780198777984?cc=gb&lang=en&)  
+Margaret Boden - Oxford University Press
+3. [AI ethics](https://mitpress.mit.edu/9780262538190/)  
+Mark Coeckelbergh - MIT Press
+4. [The costs of connection – How data is colonizing human life and appropriating it for capitalism](https://www.sup.org/books/title/?id=28816)  
+Nick Couldry & Ulises A. Mejias – Stanford University Press
+5. [Design justice - Community-led practices to build the worlds we need](https://mitpress.mit.edu/9780262043458/)  
+Sasha Constanza-Chock – MIT Press
+6. [Atlas of AI](https://yalebooks.yale.edu/book/9780300209570/atlas-ai/)  
+Kate Crawford - Yale University Press
+7. [Data feminism](https://mitpress.mit.edu/9780262044004/)  
+Catherine D’Ignazio, & Lauren F. Klein - MIT Press
+8. [Automating inequality: how high-tech tools profile, police, and punish the poor](https://us.macmillan.com/books/9781250074317)  
+Virginia Eubanks - St. Martin’s Press
+9. [AI superpowers: China, Silicon Valley, and the new world order](https://www.aisuperpowers.com/)  
+Kai-Fu Lee - Houghton Mifflin Harcourt
+10. [Human compatible: Artificial intelligence and the problem of control](https://www.penguinrandomhouse.com/books/566677/human-compatible-by-stuart-russell/)  
+Stuart Russell – Penguin
+11. [Army of none: Autonomous weapons and the future of war](https://wwnorton.com/books/Army-of-None/)  
+Paul Scharre - WW Norton & Company
+12. [A citizen’s guide to artificial intelligence](https://mitpress.mit.edu/9780262044813/)  
+John Zerilli, et al. – MIT Press
+
 ## References
 1. Ahmad, S.F., Han, H., Alam, M.M. et al. Impact of artificial intelligence on human loss in decision making, laziness and safety in education. Humanit Soc Sci Commun 10, 311 (2023). https://doi.org/10.1057/s41599-023-01787-8
 2. Australian Government. (2019). Australia’s Artificial Intelligence Ethics Framework: Australia’s AI Ethics Principles
@@ -697,6 +725,7 @@ This section aims to provide useful courses that one can attend if they want to 
 35. Oscar Schwartz IEEE Spectrum (2019) In 2016, Microsoft’s Racist Chatbot Revealed the Dangers of Online Conversation https://spectrum.ieee.org/in-2016-microsofts-racist-chatbot-revealed-the-dangers-of-online-conversation
 36. Haan, K (2023) “How Businesses Are Using Artificial Intelligence In 2024”.
 37. Perrigo, B (2024) “Will AI Take Your Job? Maybe Not Just Yet, One Study Says”.
+38. Leverhulme Centre for the Future of Intelligence. 12 Books to read about AI Ethics. http://lcfi.ac.uk/news-and-events/news/2021/jun/28/ai-ethics-book-list/
 
 =======
 15. McCarthy, J. (2004). What is Artificial Intelligence?. *Stanford Formal Reasoning Group.* Retrieved from http://www-formal.stanford.edu/jmc/

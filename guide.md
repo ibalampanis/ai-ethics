@@ -52,7 +52,7 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [Equitable Access](#equitable-access)
   - [Continuous Learning and Improvement](#continuous-learning-and-improvement)
   - [Sustainability](#sustainability)
-- [The future of ethical AI]
+- [The future of ethical AI] (#The future of ethical AI)
 
 - [Can AI Help Us In Making This World More Ethical?](#can-ai-help-us-in-making-this-world-more-ethical)
 - [A Guide to AI](#a-guide-to-ai)
@@ -599,7 +599,7 @@ The long-term effects on society and the environment should be considered when d
 
 <br>Source: Achieving a sustainable future for AI,MIT Technology Review</br>
 
-##The future of ethical AI
+## The future of ethical AI
 Some argue that an AI code of ethics can quickly become out of date and that a more proactive approach is required to adapt to a rapidly evolving field. Arijit Sengupta, founder and CEO of Aible, an AI development platform, said, "The fundamental problem with an AI code of ethics is that it's reactive, not proactive. We tend to define things like bias and go looking for bias and trying to eliminate it -- as if that's possible."
 
 A reactive approach can have trouble dealing with bias embedded in the data. For example, if women have not historically received loans at the appropriate rate, that will get woven into the data in multiple ways. "If you remove variables related to gender, AI will just pick up other variables that serve as a proxy for gender," Sengupta said.

@@ -417,6 +417,16 @@ Amazon's gender-biased hiring algorithm incident in 2018 highlighted the controv
 
 In 2016, Microsoft released an AI chatbot on Twitter with goal to pick up its lexicon and syntax from interactions with real people posting comments on Twitter. Although, Tay quickly began posting offensive and racist tweets after being manipulated by users. Microsoft had to shut down Tay within 24 hours, illustrating the risks of deploying AI systems in uncontrolled environments.
 
+> Apple Credit Card Gender Discrimination
+
+<p align="center">
+  <img width="250" src="media/AI/applecard.jpg" alt="">
+</p>
+
+*Image taken from [www.techcrunch.com](https://techcrunch.com/2021/08/14/how-the-law-got-it-wrong-with-apple-card/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAABNgX1VyKSk0M12XDQVC3Kx1VOp68ZHQBBrNKE15jkdUWZZa9iL-GG37V69pMwDo8glrlS6zZV1AKYog4TuDZ9u5QkW5RrHR-JXAyWsujAbJ5UUlIQd3AS_CTiMF3b18gbCbH04t1C2IbmF1WETtt9DLXaps3D0KS3kV9my6Rex)*
+
+The Apple credit card, issued by Goldman Sachs, faced criticism for alleged gender-based discrepancies in credit limits, sparking outrage on social media and accusations of sexism. Despite assurances from Goldman Sachs that the algorithm was impartial and had undergone third-party scrutiny, doubts persisted regarding its transparency and fairness. Critics argued that algorithms, even when designed to be blind to gender, could still perpetuate biases through correlated variables or proxies. The controversy highlighted the need for active monitoring of protected attributes like gender and race to ensure algorithmic fairness, particularly in financial institutions where legal constraints further complicate bias detection due to regulatory restrictions on data collection. The incident underscores the importance of rigorous oversight and transparency in algorithmic decision-making to mitigate biases that undermine fairness and equality in consumer services.
+
 ## Global leaders quotes about AI
 
 >**Satya Nadella**, CEO of Microsoft

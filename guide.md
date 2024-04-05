@@ -29,8 +29,17 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [AI in Media](#ai-in-media)
   - [AI in Marketing](#ai-in-marketing)
   - [AI in Automated Vehicles](#ai-in-automated-vehicles) 	
-- [Controversial Usage of AI](#controversial-usage-of-ai)
-  - [Examples](#examples-of-controversial-ai)
+- [Examples of Controversial AI Applications](#examples-of-controversial-ai-applications)
+  - [Photo-scraping scandal of IBM](#photo-scraping-scandal-of-ibm)
+  - [Google Nightingale Data Controversy](#google-nightingale-data-controversy)
+  - [The Gospel: an AI-assisted war target "factory"](#the-gospel-an-ai-assisted-war-target-factory)
+  - [Copyright and ownership issues in Midjourney](#copyright-and-ownership-issues-in-midjourney)
+  - ["The Next Rembrandt" Painting](#the-next-rembrandt-painting)
+  - [Financial Fraud with Deepfake](#financial-fraud-with-deepfake)
+  - [Amazon's Gender-Biased Algorithm Incident](#amazons-gender-biased-algorithm-incident)
+  - [Tay, Microsoft's AI Chatbot](#tay-microsofts-ai-chatbot)
+  - [Apple Credit Card Gender Discrimination](#apple-credit-card-gender-discrimination)
+
 - [Global leaders quotes about AI](#global-leaders-quotes-about-ai)
 - [Recommendation on the Ethics of Artificial Intelligence](#recommendation-on-the-ethics-of-artificial-intelligence)
   - [Policy Action Areas](#policy-action-areas)
@@ -359,13 +368,11 @@ There is an intimate link between AI and neuroscience. In order to develop AI, s
   <img width="200" src="media/AI/ai_in_neuroscience.jpg" alt="">
 </p>
 
-## Controversial Usage of AI
+## Examples of Controversial AI Applications
 This section aims to provide real-life examples of applications and tools that are powered by AI accross industries and display morally gray or/and legally undefined territories. These examples showcase the pressing need for ethical considerations and clear regulations in the rapidly evolving and difficult to control field of artificial intelligence. It is important to emphasise that artificial intelligence should work for the common good and to help people and their lives rather than make them question the morality, law compliance or/and safety of its usage which is the case in the examples presented down below.  
 For more examples you can visit the useful Github repository [Awful AI](https://github.com/daviddao/awful-ai), which lists and presents various cases of morally gray AI applications and tools.
 
-### Examples of Controversial AI 
-
-> Photo-scraping scandal of IBM
+### Photo-scraping scandal of IBM
 
 <p align="center">
   <img width="200" src="media/AI/photoscraping.jpg" alt="">
@@ -373,7 +380,7 @@ For more examples you can visit the useful Github repository [Awful AI](https://
 
 In 2019 IBM,a multinational hi-tech company, faced a controversial scandal regarding photo-scraping. In order to enhance their face recognision AI-based algorithm IBM used 1 million pictures.These pictures were extracted from an online photo-hosting site called Flickr. The usage of the photos from this platform raised awareness regarding how personal data are used. Controversy arosed due to the unauthorized usage of photos.
 
-> Google Nightingale Data Controversy
+### Google Nightingale Data Controversy
 
 <p align="center">
   <img width="200" src="media/AI/nightingale.jpg" alt="">
@@ -381,7 +388,7 @@ In 2019 IBM,a multinational hi-tech company, faced a controversial scandal regar
 
 In 2019 Google was accused of misconduct regarding the usage of sensitive health data. Personal medical data of approximately 50 million customers of  Ascension,an American healthcare system, were stored and processed from Google. The data contained diagnoses,lab results,personal information and hospital records. The lack of consent from the doctors and the patients caused concerns regarding the security and the privacy of personal data.
 
-> The Gospel: an AI-assisted war target "factory"
+### The Gospel: an AI-assisted war target "factory"
 
 <p align="center">
   <img width="200" src="media/AI/thegospel.jpg" alt="">
@@ -390,7 +397,7 @@ In 2019 Google was accused of misconduct regarding the usage of sensitive health
 In 2023 the IDF (Israel Defense Forces) started using "The Gospel", an AI tool, in order to streamline the selection of targets during the bombardment of the Gaza Strip that started at October 7, 2023. The goal of this tool is to provide numerous targets at a short timeframe, based on data such as drone videos and intercepted messages among others.  
 The use of AI in warfare is by itself morally questionnable and surely an issue that needs to be addressed and examined more. Some ethics and humanitarian issues conserning "The Gospel" are that the tool may overlook critical factors such as the presence of civilians and the potential for collateral damage while trying to maximize target quantity.
 
-> Copyright and ownership issues in Midjourney
+### Copyright and ownership issues in Midjourney
 
 <p align="center">
   <img width="200" src="media/AI/midjourney.jpg" alt="">
@@ -400,24 +407,24 @@ In 2022, Midjourney, an AI-based image generation tool was created, providing, j
 This blurs the line between novel image generation and potential copyright infringement, since the image created could be considered a derivative of the artist's -whose name was in the prompt- original art pieces. This occurs without the artist's consent or knowledge.  
 Also, ethical issues conserning such a tool arise, since the ownership of the image generated is questionnable. It is unclear whether the image belongs to the user that provided the prompt, the artist whose work it is based on or Midjourney which generated it. Midjourney only permits the commercial use of images if the user has a paid account on the platform but legally the ownership issue is unresolved.
 
-> "The Next Rembrandt" Painting
+### "The Next Rembrandt" Painting
 
 In 2016, a Rembrandt painting, named “the Next Rembrandt”, was designed by a computer and created by a 3D printer, 351 years after the painter’s death. In order for such technological and artistic "skills" to be achieved, 346 Rembrandt paintings were analyzed pixel by pixel and upscaled by deep learning algorithms to create a unique database. After that, every detail of Rembrandt’s painting style and artistic identity could then be captured and set the foundation for an algorithm capable of creating a masterpiece. Then, a 3D printer recreated the texture of brushstrokes and layers of pain on the canvas for a breath-taking result that brought the painting to life and could trick any art expert.  
 
->Financial Fraud with Deepfake
+### Financial Fraud with Deepfake
 
 In February 2024 a finance worker in Hong Kong was scammed $25 million in a video call conference where all attendees were deepfake creations, including the Chief Financial Officer. Initially the worker received a message from the CFO regarding a confidential transaction that was later confirmed on the video call, therefore leading to the authorization of the transfer. 
 Incidents like this indicate the threat posed by ai and deepfake technology regarding financial exploitation, identity theft and deception. As AI becomes more sophisticated and has the ability to create highly convincing video and audio content ethical concerns arise especially surrounding consent and the unauthorized use of one’s image and voice.
 
->Amazon's Gender-Biased Algorithm Incident
+### Amazon's Gender-Biased Algorithm Incident
 
 Amazon's gender-biased hiring algorithm incident in 2018 highlighted the controversial usage of AI in recruitment. The algorithm, which was designed to evaluate job applicants, accidentally discriminated against women by downgrading their CVs for technical roles based on historical data showing male dominance in such positions. This bias stemmed from the algorithm learning from past resumes submitted over a decade, reflecting societal gender disparities in STEM fields. Despite attempts to rectify the issue, the algorithm preserved gender discrimination, leading Amazon to discontinue the tool. This case underscored the risks of AI inheriting human biases, emphasizing the importance of scrutinizing data inputs and algorithms to prevent such discriminatory outcomes in automated hiring processes.
 
->Tay, Microsoft's AI Chatbot 
+### Tay, Microsoft's AI Chatbot 
 
 In 2016, Microsoft released an AI chatbot on Twitter with goal to pick up its lexicon and syntax from interactions with real people posting comments on Twitter. Although, Tay quickly began posting offensive and racist tweets after being manipulated by users. Microsoft had to shut down Tay within 24 hours, illustrating the risks of deploying AI systems in uncontrolled environments.
 
-> Apple Credit Card Gender Discrimination
+### Apple Credit Card Gender Discrimination
 
 <p align="center">
   <img width="250" src="media/AI/applecard.jpg" alt="">
@@ -755,22 +762,22 @@ John Zerilli, et al. – MIT Press
 32. Michuda, Megan(2023). “The Ethics of AI-Powered Marketing Technology.” MarTech.
 33. UNESCO (2020). *Steering AI and Advanced ICTs for Knowledge Societies*. https://unesdoc.unesco.org/ark:/48223/pf0000377798
 34. Brookings Institution (2019). *Automation and AI Are Disrupting Jobs*. https://www.brookings.edu/research/automation-and-artificial-intelligence-how-machines-affect-people-and-places/
-34. The Comic Accountant. (2022) https://thecomicaccountant.com/comic-ai-artificial-intelligence-is-the-future/ 
-35. Oscar Schwartz IEEE Spectrum (2019) In 2016, Microsoft’s Racist Chatbot Revealed the Dangers of Online Conversation https://spectrum.ieee.org/in-2016-microsofts-racist-chatbot-revealed-the-dangers-of-online-conversation
-36. Haan, K (2023) “How Businesses Are Using Artificial Intelligence In 2024”.
-37. Perrigo, B (2024) “Will AI Take Your Job? Maybe Not Just Yet, One Study Says”.
-38. McCarthy, J. (2004). What is Artificial Intelligence?. *Stanford Formal Reasoning Group.* Retrieved from http://www-formal.stanford.edu/jmc/
-39. Stanford Encyclopedia of Philosophy. (2012). Computing and Moral Responsibility. Retrieved from https://plato.stanford.edu/entries/computing-responsibility/
-40. Stanford Encyclopedia of Philosophy. (2022).  Moral Theory. Retrieved from https://plato.stanford.edu/entries/moral-theory/
-41. IEEE Xplore, ieeexplore.ieee.org/Xplore/home.jsp
-42. Drew Roselli, Jeanna Matthews and Nisha Talagala. 2019. Managing Bias in AI. In Proceedings of WWW '19: The Web Conference (WWW '19), May 13, 2019, San Francisco, USA. ACM, New York, NY, USA, 6 pages. https://doi.org/10.1145/3308560.3317590
-43. Khan, I (2024) “An abstract render of AI in digital cyberspace.”  https://www.cnet.com/tech/computing/chatgpt-glossary-42-ai-terms-that-everyone-should-know/ 
-44. Samuel Gibbs (2017) Elon Musk: regulate AI to combat 'existential threat' before it's too late, The Guardian
+35. The Comic Accountant. (2022) https://thecomicaccountant.com/comic-ai-artificial-intelligence-is-the-future/ 
+36. Oscar Schwartz IEEE Spectrum (2019) In 2016, Microsoft’s Racist Chatbot Revealed the Dangers of Online Conversation https://spectrum.ieee.org/in-2016-microsofts-racist-chatbot-revealed-the-dangers-of-online-conversation
+37. Haan, K (2023) “How Businesses Are Using Artificial Intelligence In 2024”.
+38. Perrigo, B (2024) “Will AI Take Your Job? Maybe Not Just Yet, One Study Says”.
+39. McCarthy, J. (2004). What is Artificial Intelligence?. *Stanford Formal Reasoning Group.* Retrieved from http://www-formal.stanford.edu/jmc/
+40. Stanford Encyclopedia of Philosophy. (2012). Computing and Moral Responsibility. Retrieved from https://plato.stanford.edu/entries/computing-responsibility/
+41. Stanford Encyclopedia of Philosophy. (2022).  Moral Theory. Retrieved from https://plato.stanford.edu/entries/moral-theory/
+42. IEEE Xplore, ieeexplore.ieee.org/Xplore/home.jsp
+43. Drew Roselli, Jeanna Matthews and Nisha Talagala. 2019. Managing Bias in AI. In Proceedings of WWW '19: The Web Conference (WWW '19), May 13, 2019, San Francisco, USA. ACM, New York, NY, USA, 6 pages. https://doi.org/10.1145/3308560.3317590
+44. Khan, I (2024) “An abstract render of AI in digital cyberspace.”  https://www.cnet.com/tech/computing/chatgpt-glossary-42-ai-terms-that-everyone-should-know/ 
+45. Samuel Gibbs (2017) Elon Musk: regulate AI to combat 'existential threat' before it's too late, The Guardian
 https://www.theguardian.com/technology/2017/jul/17/elon-musk-regulation-ai-combat-existential-threat-tesla-spacex-ceo
-45. Leverhulme Centre for the Future of Intelligence. 12 Books to read about AI Ethics. http://lcfi.ac.uk/news-and-events/news/2021/jun/28/ai-ethics-book-list/
-46. Colema, J (2023) “AI’s Climate Impact Goes beyond Its Emissions”.
-47. Aimee van Wynsberghe (2021),” Sustainable AI: AI for sustainability and the sustainability of AI”
-
+46. Leverhulme Centre for the Future of Intelligence. 12 Books to read about AI Ethics. http://lcfi.ac.uk/news-and-events/news/2021/jun/28/ai-ethics-book-list/
+47. Colema, J (2023) “AI’s Climate Impact Goes beyond Its Emissions”.
+48. Aimee van Wynsberghe (2021),” Sustainable AI: AI for sustainability and the sustainability of AI”
+49. Knight, W. (2019, November 19). The Apple Card didn’t “See” gender—and that’s the problem. WIRED. https://www.wired.com/story/the-apple-card-didnt-see-genderand-thats-the-problem/
 
 
 

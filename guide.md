@@ -71,8 +71,11 @@ AI represents a thrilling expansion of numerous human abilities, encompassing ob
 
 
 <p align="center">
-  <img width="200" src="media/AI/AI.jpeg" alt="">
+  <img width="250" src="media/AI/AI.jpeg" alt="">
 </p>
+
+<br>Source: CNET</br>
+
 
 
 
@@ -574,7 +577,7 @@ Source: The Comic Accountant
 35. Oscar Schwartz IEEE Spectrum (2019) In 2016, Microsoft’s Racist Chatbot Revealed the Dangers of Online Conversation https://spectrum.ieee.org/in-2016-microsofts-racist-chatbot-revealed-the-dangers-of-online-conversation
 36. Haan, K (2023) “How Businesses Are Using Artificial Intelligence In 2024”.
 37. Perrigo, B (2024) “Will AI Take Your Job? Maybe Not Just Yet, One Study Says”.
-38. Khan, I (2024) “An abstract render of AI in digital cyberspace.”  https://www.cnet.com/tech/computing/chatgpt-glossary-42-ai-terms-that-everyone-should-know/ 
+
 
 
 

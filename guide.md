@@ -201,7 +201,8 @@ After the data fitting process, modifying or removing data in the training set c
 *Icon made by monkik from [www.flaticon.com](https://www.flaticon.com/)*
 
 ### Environmental Impact
-Training AI models requires immense amounts of resources and significant computational power. The process leads to vast energy consumption and burning of fossil fuels. Subsequently, the carbon emissions result in significant environmental pollution, making the deployment of the models a resource-intensive procedure.
+Training AI models requires immense amounts of resources and significant computational power. The process leads to vast energy consumption and burning of fossil fuels. Subsequently, the carbon emissions result in significant environmental pollution, making the deployment of the models a resource-intensive procedure. 
+It is however very challenging to calculate the exact impact of AI in the environment. This is because AI is used in a lot and divergent ways, serving different purposes, each requiring different amount of resources and power. However, it is believed that in the future AI could be a helpful tool for the protection of the environment. Artificial Intelligence becomes more efficient and capable and it could be utilized to gain environmental benefits.
 
 <p align="center">
   <img width="200" src="media/AI/green-earth.png" alt="">
@@ -732,6 +733,7 @@ This section aims to provide useful courses that one can attend if they want to 
 44. Khan, I (2024) “An abstract render of AI in digital cyberspace.”  https://www.cnet.com/tech/computing/chatgpt-glossary-42-ai-terms-that-everyone-should-know/ 
 45. Samuel Gibbs (2017) Elon Musk: regulate AI to combat 'existential threat' before it's too late, The Guardian
 https://www.theguardian.com/technology/2017/jul/17/elon-musk-regulation-ai-combat-existential-threat-tesla-spacex-ceo
+46. Colema, J (2023) “AI’s Climate Impact Goes beyond Its Emissions”.
 >>>>>>> e487e944126c8cddbd0b4b9fe84dbbffd6fa8a34
 
 

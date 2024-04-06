@@ -5,8 +5,6 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
 
 ## Table of Contents
 
-- [AI and Ethics](#ai-and-ethics)
-  - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
     - [Defining Artificial Intelligence (AI)](#defining-artificial-intelligence-ai)
     - [Why do we use AI?](#why-do-we-use-ai)

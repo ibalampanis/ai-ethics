@@ -700,6 +700,8 @@ This section aims to provide useful courses that one can attend if they want to 
 
 **Source: smbc-comics**
 
+
+
 ## Further Reading
 To delve deeper into the ethical aspects of artificial intelligence, we highly recommend the following books:
 1. [Race After Technology: Abolitionist Tools for the New Jim Code](https://www.wiley.com/en-gb/Race+After+Technology:+Abolitionist+Tools+for+the+New+Jim+Code-p-9781509526437)  

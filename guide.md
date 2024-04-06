@@ -701,7 +701,7 @@ This section aims to provide useful courses that one can attend if they want to 
 **Source: smbc-comics**
 
 <p align="center">
-  <img width="250" src="media/AI/comics/aijoke.jpg" alt="Comic AI Joke">
+  <img width="250" src="media/AI/comics/ai_joke.png" alt="Comic AI Joke">
 </p>
 
 

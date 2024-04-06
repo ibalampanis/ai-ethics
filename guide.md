@@ -114,7 +114,7 @@ A fundamental distinction is the one between law and ethics as systems that cont
 At the core of ethics lies moral responsibility, which is the understanding that people are to be held accountable for the consequences of their actions - because of this people are referred to in the bibliography as *moral agents*. Moral responsibility is based on the fact that the person (moral agent) is able to make decisions having knowledge of the potential negative outcomes of their actions (or creations when it comes to computer programs and machines).  
 
 ### Why AI and Ethics
-As AI becomes more and more prevalent in our every day life, changing multiple industries and reshaping the way we use technology, it is evident that moral responsibilities and the concept of ethics must be addressed in relation to this technology. Different uses of AI in different fields should be morally evaluated and be set under a regulatory set of rules. This way we can establish a basis where AI serves the collective good.
+As AI becomes more and more prevalent in our every day life, changing multiple industries and reshaping the way we use technology, it is evident that moral responsibility and the concept of ethics must be addressed in relation to this technology. Different uses of AI in different fields should be morally evaluated and be set under a regulatory set of rules. This way we can establish a basis where AI serves the collective good.
 
 
 ## Chronological overview of the development of AI

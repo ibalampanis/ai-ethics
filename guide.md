@@ -479,23 +479,53 @@ Also, ethical issues concerning such a tool arise, since the ownership of the im
 
 ### "The Next Rembrandt" Painting
 
+<p align="center">
+  <img width="200" src="media/AI/the-next-rembrandt.jpg" alt="">
+</p>
+
+*Image showing the "Next Rembrandt Painting" taken from [www.medium.com](https://medium.com/@DutchDigital/the-next-rembrandt-bringing-the-old-master-back-to-life-35dfb1653597)*
+
 In 2016, a Rembrandt painting, named “the Next Rembrandt”, was designed by a computer and created by a 3D printer, 351 years after the painter’s death. In order for such technological and artistic "skills" to be achieved, 346 Rembrandt paintings were analyzed pixel by pixel and upscaled by deep learning algorithms to create a unique database. After that, every detail of Rembrandt’s painting style and artistic identity could then be captured and set the foundation for an algorithm capable of creating a masterpiece. Then, a 3D printer recreated the texture of brushstrokes and layers of pain on the canvas for a breath-taking result that brought the painting to life and could trick any art expert.  
 
 ### Financial Fraud with Deepfake
+
+<p align="center">
+  <img width="200" src="media/AI/deepfakes.jpg" alt="">
+</p>
+
+*Image taken from [www.spiceworks.com, How to Combat Deepfakes in the Workplace](https://www.spiceworks.com/it-security/identity-access-management/guest-article/how-to-combat-deepfakes-in-the-workplace/)*
 
 In February 2024 a finance worker in Hong Kong was scammed $25 million in a video call conference where all attendees were deepfake creations, including the Chief Financial Officer. Initially the worker received a message from the CFO regarding a confidential transaction that was later confirmed on the video call, therefore leading to the authorization of the transfer. 
 Incidents like this indicate the threat posed by ai and deepfake technology regarding financial exploitation, identity theft and deception. As AI becomes more sophisticated and has the ability to create highly convincing video and audio content ethical concerns arise especially surrounding consent and the unauthorized use of one’s image and voice.
 
 ### Air Canada’s Chatbot Controversy
 
+<p align="center">
+  <img width="200" src="media/AI/failing-chatbot.png" alt="">
+</p>
+
+*Image taken from [www.userlike.com](https://userlike.com/en/blog/chatbot-fails)*
+
 The known air company from Canada, Air Canada, was involved in an unusual controversy, regarding one of its chatbots, which is used for customer service. Specifically, the chatbot noted that grieving families could submit a proposal for a discount in funeral travel expenses. This was opposite with the explicit policies of Air Canada, which mentioned that no such action could be executed on already-reserved trips. The cases was taken to the US court, where Air Canada was ultimately defeated.
 
 
 ### Amazon's Gender-Biased Algorithm Incident
 
+<p align="center">
+  <img width="200" src="media/AI/gender-bias.png" alt="">
+</p>
+
+*Image taken from [www.linkedin.com](https://www.linkedin.com/pulse/gender-imbalances-recruitment-tips-meet-your-equality-carli-bowman)*
+
 Amazon's gender-biased hiring algorithm incident in 2018 highlighted the controversial usage of AI in recruitment. The algorithm, which was designed to evaluate job applicants, accidentally discriminated against women by downgrading their CVs for technical roles based on historical data showing male dominance in such positions. This bias stemmed from the algorithm learning from past resumes submitted over a decade, reflecting societal gender disparities in STEM fields. Despite attempts to rectify the issue, the algorithm preserved gender discrimination, leading Amazon to discontinue the tool. This case underscored the risks of AI inheriting human biases, emphasizing the importance of scrutinizing data inputs and algorithms to prevent such discriminatory outcomes in automated hiring processes.
 
 ### Tay, Microsoft's AI Chatbot 
+
+<p align="center">
+  <img width="200" src="media/AI/tay.jpg" alt="">
+</p>
+
+*Image showing Tay.ai account on Twitter taken from [www.zdnet.com](https://www.zdnet.com/article/microsofts-tay-ai-chatbot-goes-offline-after-being-taught-to-be-a-racist/)*
 
 In 2016, Microsoft released an AI chatbot on Twitter with goal to pick up its lexicon and syntax from interactions with real people posting comments on Twitter. Although, Tay quickly began posting offensive and racist tweets after being manipulated by users. Microsoft had to shut down Tay within 24 hours, illustrating the risks of deploying AI systems in uncontrolled environments.
 

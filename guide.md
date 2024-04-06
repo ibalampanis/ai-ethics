@@ -295,6 +295,8 @@ AI's impact on the education sector is profound. While it provides numerous bene
   <img width="200" src="media/AI/ai-education.png" alt="">
 </p>
 
+*Image taken from [https://theacademic.com/](https://theacademic.com/ai-in-teaching-and-learning/)*
+
 ### Social Governance
 More and more countries and governments are interested in using Artificial Intelligence in order to better rule their countries. Focusing on the example 
 of Greece, on October of 2023 an Advisory Committee on issues related to Artificial Intelligence issues was established headed by Professor Konstantinos Daskalakis. The Committee will provide evidence-based advice and proposals on how Greece can take advantage of the multiple possibilities and opportunities arising from the use of Artificial Intelligence. Moreover, its goal is to offer enhancements on the economy and society, improve productivity, increase innovation, strengthen infrastructure, better manage the effects of the climate crisis, support human resources and social cohesion, create quality jobs, defend national digital sovereignty and improve the operation of the country.
@@ -311,12 +313,16 @@ The dissemination of misinformation has the unfortunate effect of deepening soci
   <img width="200" src="media/AI/misinformation.jpg" alt="">
 </p>
 
+*Image taken from [https://insidetelecom.com/](https://insidetelecom.com/are-we-living-under-the-impact-of-stereotyping/)*
+
 ### AI in the Court of Law
 Presumably, if judiciary systems use AI, cases could be evaluated and justice could be applied in a better, faster, and more efficient way. AI methods can potentially have a huge impact in many areas, from the legal professions and the judiciary to aiding the decision-making of legislative and administrative public bodies. Lawyer efficiency and accuracy can be increased in both counseling and litigation and existing software systems for judges can be complemented and enhanced through AI tools in order to support them in drafting new decisions. It is argued that AI could help create a fairer criminal judicial system by making informed decisions devoid of any bias and subjectivity. However, there are many ethical challenges. Firstly, there is the lack of transparency of AI tools. Then, there is the possibility that AI decisions are susceptible to inaccuracies, discriminatory outcomes, embedded or inserted bias. And, lastly, there are many concerns for fairness and risk for Human Rights and other fundamental values.
 
 <p align="center">
   <img width="200" src="media/AI/ai_law.jpg" alt="">
 </p>
+
+*Image taken from [https://www.linkedin.com/](https://www.linkedin.com/pulse/ethical-implications-artificial-intelligence-decision-making/)*
 
 ### Creativity and Ownership
 As we all know, AI has the ability to generate art. That specific type of artwork, though, requires a new definition of what it means to be an “author”, in order to do justice to the creative work of both the “original” author and the algorithms and technologies that produced the work of art itself. Given that AI is a powerful tool for creation, it raises important questions about the future of art, the rights of artists and the integrity of the creative value chain. Frameworks need to be developed to differentiate piracy and plagiarism from originality and creativity, and to recognize the value of human creative work in our interactions with AI. These frameworks pose a need to avoid the deliberate exploitation of the work and creativity of human beings, and to ensure adequate remuneration and recognition for artists, the integrity of the cultural value chain, and the cultural sector’s ability to provide vocational rehabilitation.

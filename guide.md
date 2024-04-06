@@ -5,6 +5,8 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
 
 ## Table of Contents
 
+- [AI and Ethics](#ai-and-ethics)
+  - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
     - [Defining Artificial Intelligence (AI)](#defining-artificial-intelligence-ai)
     - [Why do we use AI?](#why-do-we-use-ai)
@@ -541,6 +543,12 @@ The Apple credit card, issued by Goldman Sachs, faced criticism for alleged gend
   <img width="300" src="media/AI/leaders/Mark_Zuckerberg.jpg" alt="Mark Zuckerberg">
 
 *"I'm optimistic about AI, but we need to ensure it's used for good and doesn't harm people."*
+
+>**Bill Gates**, Co-founder of Microsoft
+
+  <img width="300" src="media/AI/leaders/Bill_Gates.jpg" alt="Bill Gates">
+
+*"AI Can Be Our Friend."*
 
 
 ## Recommendation on the Ethics of Artificial Intelligence

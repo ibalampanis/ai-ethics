@@ -5,81 +5,85 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-  - [Defining Artificial Intelligence (AI)](#defining-artificial-intelligence-ai)
-  - [Why do we use AI?](#why-do-we-use-ai)
-  - [Understanding Ethics](#understanding-ethics)
-  - [Why AI and Ethics](#why-ai-and-ethics)
-- [Chronological overview of the development of AI](#Chronological-overview-of-the-development-of-AI)
-- [Ethical Concerns](#ethical-concerns)
-  - [Bias and Fairness](#bias-and-fairness)
-  - [Privacy](#privacy)
-  - [Accountability and Transparency](#accountability-and-transparency)
-  - [Job Displacement](#job-displacement)
-  - [Autonomous Weapons](#autonomous-weapons)
-  - [Algorithmic Transparency](#algorithmic-transparency)
-  - [Data Modification](#data-modification)
-  - [Environmental Impact](#environmental-impact)
-  - [Security](#security)
-  - [Cultural and Social Impact](#cultural-and-social-impact) 
-  - [Responsibility](#responsibility) 
-  - [Misinformation](#misinformation)
-  - [AI in Mental Health Care](#ai-in-mental-health-care)
-  - [AI in Education](#ai-in-education)
-  - [Social Governance](#social-governance)
-  - [AI in the Court of Law](#ai-in-the-court-of-law)
-  - [Creativity and Ownership](#creativity-and-ownership)
-  - [AI in Media](#ai-in-media)
-  - [AI in Marketing](#ai-in-marketing)
-  - [AI in Automated Vehicles](#ai-in-automated-vehicles)
-  - [The impact of AI on Economic Inequality](#impact-of-ai)
-  - [AI in Neuroscience](#ai-in-neuroscience)
-  - [AI in Ethical Decision-Making](#ai-in-ethical-decision-making) 
-  - [AI in Criminal Justice](#ai-in-criminal-justice)
-- [Examples of Controversial AI Applications](#examples-of-controversial-ai-applications)
-  - [Photo-scraping scandal of IBM](#photo-scraping-scandal-of-ibm)
-  - [Google Nightingale Data Controversy](#google-nightingale-data-controversy)
-  - [The Gospel: an AI-assisted war target "factory"](#the-gospel-an-ai-assisted-war-target-factory)
-  - [Copyright and ownership issues in Midjourney](#copyright-and-ownership-issues-in-midjourney)
-  - ["The Next Rembrandt" Painting](#the-next-rembrandt-painting)
-  - [Financial Fraud with Deepfake](#financial-fraud-with-deepfake)
-  - [Amazon's Gender-Biased Algorithm Incident](#amazons-gender-biased-algorithm-incident)
-  - [Tay, Microsoft's AI Chatbot](#tay-microsofts-ai-chatbot)
-  - [Apple Credit Card Gender Discrimination](#apple-credit-card-gender-discrimination)
-
-- [Global leaders quotes about AI](#global-leaders-quotes-about-ai)
-- [Recommendation on the Ethics of Artificial Intelligence](#recommendation-on-the-ethics-of-artificial-intelligence)
-  - [Policy Action Areas](#policy-action-areas)
-- [Ethical Principles for AI Development](#ethical-principles-for-ai-development)
-  - [Fairness and Equity](#fairness-and-equity)
-  - [Privacy and Data Protection](#privacy-and-data-protection)
-  - [Transparency and Explainability](#transparency-and-explainability)
-  - [Accountability](#accountability)
-  - [Societal Impact](#societal-impact)
-  - [Interpretability](#interpretability)
-  - [Human agency and oversight](#human-agency-and-oversight)
-  - [Technical robustness and safety](#technical-robustness-and-safety)
-  - [Social and environmental well-being](#social-and-environmental-well-being)
-  - [Dealing with responsibility](#dealing-with-responsibility)
-  - [Resilience and Continuity](#resilience-and-continuity)
-  - [Contestability](#contestability)
-  - [Inclusivity](#inclusivity)
-  - [Equitable Access](#equitable-access)
-  - [Continuous Learning and Improvement](#continuous-learning-and-improvement)
-  - [Sustainability](#sustainability)
-- [The future of ethical AI](#The-future-of-ethical-AI)
-
-- [Can AI Help Us In Making This World More Ethical?](#can-ai-help-us-in-making-this-world-more-ethical)
-- [A Guide to AI](#a-guide-to-ai)
-- [Courses on AI and Ethics](#courses-on-ai-and-ethics)
-  - [Online courses](#online-courses)
-    - [Free courses](#free)
-    - [Paid courses](#paid)
-  - [Masters Degrees](#masters-degrees)
-- [AI Jokes](#ai-jokes)
-- [Quiz](#quiz-ai-and-ethics-understanding)
-- [Further Reading](#further-reading)
-- [References](#references)
+  - [Introduction](#introduction)
+    - [Defining Artificial Intelligence (AI)](#defining-artificial-intelligence-ai)
+    - [Why do we use AI?](#why-do-we-use-ai)
+    - [Understanding Ethics](#understanding-ethics)
+    - [Why AI and Ethics](#why-ai-and-ethics)
+  - [Chronological overview of the development of AI](#chronological-overview-of-the-development-of-ai)
+  - [Ethical Concerns](#ethical-concerns)
+    - [Bias and Fairness](#bias-and-fairness)
+    - [Privacy](#privacy)
+    - [Accountability and Transparency](#accountability-and-transparency)
+    - [Job Displacement](#job-displacement)
+    - [Autonomous Weapons](#autonomous-weapons)
+    - [Algorithmic Transparency](#algorithmic-transparency)
+    - [Data Modification](#data-modification)
+    - [Environmental Impact](#environmental-impact)
+    - [Security](#security)
+    - [Cultural and Social Impact](#cultural-and-social-impact)
+    - [Responsibility](#responsibility)
+    - [AI in Mental Health Care](#ai-in-mental-health-care)
+    - [AI in Education](#ai-in-education)
+    - [Social Governance](#social-governance)
+    - [Misinformation](#misinformation)
+    - [AI in the Court of Law](#ai-in-the-court-of-law)
+    - [Creativity and Ownership](#creativity-and-ownership)
+    - [AI in Media](#ai-in-media)
+    - [AI in Marketing](#ai-in-marketing)
+    - [AI in Automated vehicles](#ai-in-automated-vehicles)
+      - [Technical issues and Responsibility](#technical-issues-and-responsibility)
+      - [Ethical Rules and Automated vehicles](#ethical-rules-and-automated-vehicles)
+    - [The impact of AI on Economic Inequality](#the-impact-of-ai-on-economic-inequality)
+    - [AI in Neuroscience](#ai-in-neuroscience)
+    - [AI in Ethical Decision-Making](#ai-in-ethical-decision-making)
+    - [AI in Criminal Justice](#ai-in-criminal-justice)
+  - [Examples of Controversial AI Applications](#examples-of-controversial-ai-applications)
+    - [Photo-scraping scandal of IBM](#photo-scraping-scandal-of-ibm)
+    - [Google Nightingale Data Controversy](#google-nightingale-data-controversy)
+    - [The Gospel: an AI-assisted war target "factory"](#the-gospel-an-ai-assisted-war-target-factory)
+    - [Copyright and ownership issues in Midjourney](#copyright-and-ownership-issues-in-midjourney)
+    - ["The Next Rembrandt" Painting](#the-next-rembrandt-painting)
+    - [Financial Fraud with Deepfake](#financial-fraud-with-deepfake)
+    - [Air Canada’s Chatbot Controversy](#air-canadas-chatbot-controversy)
+    - [Amazon's Gender-Biased Algorithm Incident](#amazons-gender-biased-algorithm-incident)
+    - [Tay, Microsoft's AI Chatbot](#tay-microsofts-ai-chatbot)
+    - [Apple Credit Card Gender Discrimination](#apple-credit-card-gender-discrimination)
+  - [Global leaders quotes about AI](#global-leaders-quotes-about-ai)
+  - [Recommendation on the Ethics of Artificial Intelligence](#recommendation-on-the-ethics-of-artificial-intelligence)
+    - [Policy Action Areas](#policy-action-areas)
+  - [Ethical Principles for AI Development](#ethical-principles-for-ai-development)
+    - [Fairness and Equity](#fairness-and-equity)
+    - [Privacy and Data Protection](#privacy-and-data-protection)
+    - [Transparency and Explainability](#transparency-and-explainability)
+      - [Explainable AI](#explainable-ai)
+    - [Accountability](#accountability)
+    - [AI Ethics Committees and Boards](#ai-ethics-committees-and-boards)
+    - [Societal Impact](#societal-impact)
+    - [Interpretability](#interpretability)
+    - [Human agency and oversight](#human-agency-and-oversight)
+    - [Technical robustness and safety](#technical-robustness-and-safety)
+    - [Social and environmental well-being](#social-and-environmental-well-being)
+    - [Dealing with responsibility](#dealing-with-responsibility)
+    - [Resilience and Continuity](#resilience-and-continuity)
+    - [Contestability](#contestability)
+    - [Inclusivity](#inclusivity)
+    - [Equitable Access](#equitable-access)
+    - [Continuous learning and Improvement](#continuous-learning-and-improvement)
+    - [Sustainability](#sustainability)
+  - [The future of ethical AI](#the-future-of-ethical-ai)
+  - [Can AI Help Us In Making This World More Ethical?](#can-ai-help-us-in-making-this-world-more-ethical)
+  - [A Guide to AI](#a-guide-to-ai)
+  - [Courses on AI and Ethics](#courses-on-ai-and-ethics)
+    - [Online courses](#online-courses)
+      - [Free](#free)
+      - [Paid](#paid)
+    - [Masters Degrees](#masters-degrees)
+  - [AI Jokes](#ai-jokes)
+      - [This is a section dedicated to bad AI jokes. Feel free to add anything you like.](#this-is-a-section-dedicated-to-bad-ai-jokes-feel-free-to-add-anything-you-like)
+  - [Quiz AI and Ethics Understanding](#quiz-ai-and-ethics-understanding)
+  - [Further Reading](#further-reading)
+  - [References](#references)
 
 <p align="center">
   <img width="250" src="media/AI/AI-Ethics-in-Focus-Balancing-Innovation-Security-and-Responsibility-SwissCognitive-AI-Radar.png" alt="">
@@ -396,6 +400,7 @@ AI and Economic Inequality explores how the adoption and implementation of artif
 </p>
 
 ### AI in Neuroscience
+
 There is an intimate link between AI and neuroscience. In order to develop AI, scientists turn to human brain function so that it can lead the process. For example, one important approach is called Artificial Neural Networks, which consists of units that are called artificial neurons. Such practices have made neuroethics communities mainly focus on issues like brain intervations and free will. An important field that raises concern is the development of brain-computer interfaces (BCIs) since they connect the human brain directly with external devices.
 
 <p align="center">  
@@ -403,10 +408,6 @@ There is an intimate link between AI and neuroscience. In order to develop AI, s
 </p>
 
 ### AI in Ethical Decision-Making
-
-<p align="center">  
-  <img width="200" src="media/AI/ai+scale.png" alt="">
-</p>
 
 AI technologies offer potential in facilitating ethical decision-making processes across various fields. These technologies leverage machine learning algorithms, natural language processing, and other AI techniques to analyze complex ethical dilemmas and provide insights to decision-makers. Ethical decision-making is crucial in healthcare, finance, governance, and other fields to ensure responsible behavior and adherence to ethical principles. Integrating AI into this process can enhance efficiency, accuracy, and consistency while offering new perspectives and considerations.
 
@@ -416,9 +417,14 @@ Despite its benefits, the use of AI in ethical decision-making poses challenges.
 
 To address these challenges, future efforts should focus on developing explainable AI models, fostering human-AI collaboration, and incorporating ethical considerations into the design and development of AI systems.
 
+<p align="center">  
+  <img width="200" src="media/AI/ai+scale.png" alt="">
+</p>
+
 ** Image source = "https://medium.com/notcentralised/balancing-the-scales-a-pragmatic-approach-to-ai-regulation-96c27b8e9e08"
 
 ### AI in Criminal Justice
+
 AI's role in the criminal justice system is significant. While it offers potential benefits by improving efficiency and decision-making processes, concerns about its impact on fairness, transparency, and human rights are paramount. Research suggests that the integration of AI in criminal justice may exacerbate existing biases and inequalities, leading to potential injustices in sentencing and policing practices. Furthermore, the opacity of AI algorithms and the lack of human oversight raise concerns about accountability and due process. Before widespread adoption of AI in criminal justice, careful consideration and robust safeguards are imperative. Ignoring these concerns could lead to unintended consequences and undermine public trust in the justice system. Therefore, it is essential to prioritize ethical design, rigorous testing, and ongoing monitoring to ensure that AI technologies in criminal justice uphold principles of fairness, transparency, and human rights.
 
 <p align="center"> 
@@ -427,6 +433,7 @@ AI's role in the criminal justice system is significant. While it offers potenti
 
 
 ## Examples of Controversial AI Applications
+
 This section aims to provide real-life examples of applications and tools that are powered by AI across industries and display morally gray or/and legally undefined territories. These examples showcase the pressing need for ethical considerations and clear regulations in the rapidly evolving and difficult to control field of artificial intelligence. It is important to emphasize that artificial intelligence should work for the common good and to help people and their lives rather than make them question the morality, law compliance or/and safety of its usage which is the case in the examples presented down below.  
 For more examples you can visit the useful Github repository [Awful AI](https://github.com/daviddao/awful-ai), which lists and presents various cases of morally gray AI applications and tools.
 

@@ -30,6 +30,7 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
     - [AI in the Court of Law](#ai-in-the-court-of-law)
     - [Creativity and Ownership](#creativity-and-ownership)
     - [AI in Media](#ai-in-media)
+      - [Social Media Content Moderation](#social-media-content-moderation)
     - [AI in Marketing](#ai-in-marketing)
     - [AI in Automated vehicles](#ai-in-automated-vehicles)
       - [Technical issues and Responsibility](#technical-issues-and-responsibility)
@@ -351,6 +352,10 @@ As we all know, AI has the ability to generate art. That specific type of artwor
 
 ### AI in Media
 AI has a big impact on modern societies when utilized to create fake media. More specifically, AI can be used to fabricate content harming to a certain person or a group of people by creating deepfakes. The manipulation of voice images and video, done by malicious users of AI technologies, usually target an individual or an organization, causing them severe mental and reputational damage. Such content may include fake news, manipulation of public speeches, celebrity impersonations and explicit videos. Deepfakes can go viral, spreading misinformation and manipulating the public opinion. That's why many times it is used to orchestrate content about public figures and politicians.
+
+#### Social Media Content Moderation
+
+The utilization of AI algorithms for content moderation on social media platforms has become a subject of intense scrutiny and controversy. While aimed at curtailing harmful or inappropriate content, these algorithms have faced criticism on multiple fronts. Concerns about censorship, fueled by instances of posts being erroneously flagged or removed, have raised fears of stifling free expression. Furthermore, the lack of transparency surrounding the inner workings of these algorithms and their decision-making processes exacerbates distrust among users and content creators. The inconsistent enforcement of community guidelines, coupled with allegations of bias in content moderation practices, underscores the challenges in achieving fairness and impartiality. As social media platforms grapple with the immense task of balancing content moderation with freedom of speech, the ethical implications of AI-driven moderation continue to be a focal point for debate and calls for greater accountability and transparency.
 
 <p align="center">
   <img width="200" src="media/AI/deepfake.png" alt="">

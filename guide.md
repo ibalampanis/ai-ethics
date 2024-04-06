@@ -746,6 +746,7 @@ This section aims to provide useful courses that one can attend if they want to 
 * [MSt in AI Ethics and Society in University of Cambridge](https://www.ice.cam.ac.uk/course/mst-ai-ethics-and-society?utm_source=FAU&utm_medium=referral&utm_campaign=UKSRM_Promotion_PGOD23_August_23)
 * [MSc Artificial Intelligence and Ethics in Northeastern University of London](https://www.nulondon.ac.uk/degrees/postgraduate/ai-ethics/)
 * [MSc Law, Regulation and AI Ethics in University of Birmingham](https://www.birmingham.ac.uk/postgraduate/courses/taught/law/law-regulation-and-ai-ethics)
+* [MSc Data and Artificial Intelligence Ethics in University of Edinburgh](https://efi.ed.ac.uk/programmes/data-and-artificial-intelligence-ethics/)
 
 ## AI Jokes
 #### This is a section dedicated to bad AI jokes. Feel free to add anything you like. 

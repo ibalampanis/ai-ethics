@@ -475,6 +475,12 @@ The Apple credit card, issued by Goldman Sachs, faced criticism for alleged gend
 
 *"Technology's potential is, of course, limitless. But without values or direction, it could become a weapon."*
 
+>**Kai-Fu Lee**, AI Expert, Chairman & CEO of Sinovation Ventures
+
+<img width="300" src="media/AI/leaders/Dr_Kaifu_Lee.jpg" alt="Kai-Fu Lee">
+
+*"I believe AI is going to change the world more than anything in the history of humanity. More than electricity. "*
+
 >**Ginni Rometty**, CEO of IBM
 
   <img width="300" src="media/AI/leaders/Ginni_Rometty.jpg" alt="Ginni Rometty">

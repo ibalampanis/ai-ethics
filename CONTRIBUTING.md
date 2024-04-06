@@ -40,6 +40,13 @@ If you're new to contributing, here are some steps to help you get started:
 - Provide references for any data included in your contributions to maintain credibility.
 - Ensure proper citation formatting according to academic or project standards.
 
+# Resources
+Here are some additional resources to help you on your journey as a contributor:
+
+- [GitHub Guides](https://guides.github.com/) - Learn how to use GitHub effectively for collaboration and version control.
+- [Open Source Guides](https://opensource.guide/) - Explore resources and best practices for contributing to open source projects.
+- [Markdown Guide](https://www.markdownguide.org/) - Learn Markdown syntax for formatting text in README.md files, issues, and pull requests.
+
 # Code of Conduct
 - We expect all contributors to adhere to our [Code of Conduct](./CODE_OF_CONDUCT.md) in all interactions within our community.
 

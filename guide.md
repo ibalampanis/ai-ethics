@@ -70,6 +70,7 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
     - [Paid courses](#paid)
   - [Masters Degrees](#masters-degrees)
 - [AI Jokes](#ai-jokes)
+- [Quiz](#quiz-ai-and-ethics-understanding)
 - [Further Reading](#further-reading)
 - [References](#references)
 
@@ -704,6 +705,147 @@ This section aims to provide useful courses that one can attend if they want to 
   <img width="250" src="media/AI/comics/ai_joke.png" alt="Comic AI Joke">
 </p>
 
+## Quiz AI and Ethics Understanding
+
+1. **What was a major contribution of Alan Turing to the field of AI?**
+   - A) Developing the first computer
+   - B) Creating the Turing Test
+   - C) Inventing machine learning algorithms
+   - D) Proposing the first AI ethics guidelines
+   <details><summary>Answer</summary>B) Creating the Turing Test</details>
+
+2. **What does the study of ethics primarily concern itself with?**
+   - A) Legal systems and regulations
+   - B) Distinction between good and bad to guide actions
+   - C) The history of moral philosophy
+   - D) Enforcement of moral behaviors
+   <details><summary>Answer</summary>B) Distinction between good and bad to guide actions</details>
+
+3. **Why is AI considered significant in business environments?**
+   - A) It reduces human interaction
+   - B) It is cheaper than most technological advances
+   - C) It increases efficiency and decision-making accuracy
+   - D) It is always unbiased
+   <details><summary>Answer</summary>C) It increases efficiency and decision-making accuracy</details>
+
+4. **What ethical concern does the use of biased AI algorithms in healthcare highlight?**
+   - A) Inefficiency in treatments
+   - B) Increased healthcare costs
+   - C) Discrimination against minority groups
+   - D) Over-reliance on technology
+   <details><summary>Answer</summary>C) Discrimination against minority groups</details>
+
+5. **Which is a key ethical issue with autonomous weapons?**
+   - A) High costs
+   - B) Ineffectiveness
+   - C) Erosion of moral responsibility
+   - D) Enhanced warfare precision
+   <details><summary>Answer</summary>C) Erosion of moral responsibility</details>
+
+6. **What principle is essential to address when designing AI systems, according to UNESCO's AI ethics recommendation?**
+   - A) Profit maximization
+   - B) Human rights and dignity
+   - C) Automation of all jobs
+   - D) Reduction of human oversight
+   <details><summary>Answer</summary>B) Human rights and dignity</details>
+
+7. **What does the principle of 'Transparency' in AI ethics emphasize?**
+   - A) AI systems should be secretive
+   - B) AI systems should be expensive
+   - C) AI systems should be understandable and decisions explainable
+   - D) AI systems should operate independently
+   <details><summary>Answer</summary>C) AI systems should be understandable and decisions explainable</details>
+
+8. **Why did experts call for a pause in AI development in March 2023?**
+   - A) AI was deemed perfect
+   - B) To speed up AI development
+   - C) To address ethical concerns and establish safety measures
+   - D) Because AI technology was no longer needed
+   <details><summary>Answer</summary>C) To address ethical concerns and establish safety measures</details>
+
+9. **What is a major concern about AI in education?**
+   - A) Improved learning efficiency
+   - B) Decline in human decision-making skills
+   - C) Lower costs for educational materials
+   - D) Increased student engagement
+   <details><summary>Answer</summary>B) Decline in human decision-making skills</details>
+
+10. **What role does bias play in data sets used for training AI?**
+    - A) It ensures accuracy
+    - B) It has no impact
+    - C) It can perpetuate inequality
+    - D) It diversifies the data
+    <details><summary>Answer</summary>C) It can perpetuate inequality</details>
+
+11. **How does AI impact job displacement according to research?**
+    - A) It has eliminated all jobs
+    - B) It creates as many jobs as it displaces
+    - C) It threatens certain jobs but not as widespread as expected
+    - D) It has no impact on jobs
+    <details><summary>Answer</summary>C) It threatens certain jobs but not as widespread as expected</details>
+
+12. **What ethical issue does the unauthorized use of data in AI systems like IBM's photo-scraping scandal highlight?**
+    - A) Efficiency of AI systems
+    - B) Privacy concerns
+    - C) Cost-effectiveness of data use
+    - D) Speed of data processing
+    <details><summary>Answer</summary>B) Privacy concerns</details>
+
+13. **What does AI in 'Social Governance' aim to improve?**
+    - A) Only governmental transparency
+    - B) Productivity, innovation, and societal benefits
+    - C) Entertainment purposes
+    - D) Restricting public access to technology
+    <details><summary>Answer</summary>B) Productivity, innovation, and societal benefits</details>
+
+14. **Why is the development of AI considered a dual-use technology?**
+    - A) Because it can only be used in two industries
+    - B) Because it offers both ethical challenges and benefits
+    - C) Because it is developed by two sectors
+    - D) Because it uses binary code
+    <details><summary>Answer</summary>B) Because it offers both ethical challenges and benefits</details>
+
+15. **What is the primary concern with AI-driven automated vehicles?**
+    - A) They drive too slowly
+    - B) They can't operate in cold weather
+    - C) Moral dilemmas in crash decisions
+    - D) They are too expensive for average consumers
+    <details><summary>Answer</summary>C) Moral dilemmas in crash decisions</details>
+
+16. **What does the term 'algorithmic transparency' imply?**
+    - A) Keeping algorithms as complex as possible
+    - B) Making algorithms understandable and their actions traceable
+    - C) Using algorithms only in computers
+    - D) Making algorithms only accessible to programmers
+    <details><summary>Answer</summary>B) Making algorithms understandable and their actions traceable</details>
+
+17. **What does the 'Turing Test' measure?**
+    - A) The strength of a computer
+    - B) The intelligence of a machine based on human interaction
+    - C) The speed of data processing
+    - D) The physical durability of machines
+    <details><summary>Answer</summary>B) The intelligence of a machine based on human interaction</details>
+
+18. **Why is continuous learning important in AI development?**
+    - A) To make AI systems less efficient
+    - B) To address and adapt to ethical challenges and changing environments
+    - C) To stop AI development entirely
+    - D) To reduce transparency and accountability
+    <details><summary>Answer</summary>B) To address and adapt to ethical challenges and changing environments</details>
+
+19. **Which ethical principle emphasizes the need for AI systems to allow human intervention?**
+    - A) Human agency and oversight
+    - B) Privacy and data protection
+    - C) Cost reduction
+    - D) Speed optimization
+    <details><summary>Answer</summary>A) Human agency and oversight</details>
+
+20. **What is a fundamental way to address biases in AI systems?**
+    - A) Ignore the biases as they are minor
+    - B) Use biased data to train models
+    - C) Use diverse and representative datasets
+    - D) Reduce the use of AI in decision-making
+    <details><summary>Answer</summary>C) Use diverse and representative datasets</details>
 
 ## Further Reading
 To delve deeper into the ethical aspects of artificial intelligence, we highly recommend the following books:

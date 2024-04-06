@@ -29,7 +29,7 @@ Thank you for considering contributing to our project! Here are a few guidelines
 - Provide references for any data included in your contributions to maintain credibility.
 - Ensure proper citation formatting according to academic or project standards.
 
-## Code of Conduct
+# Code of Conduct
 - We expect all contributors to adhere to our [Code of Conduct](./CODE_OF_CONDUCT.md) in all interactions within our community.
 
 # Need Help?

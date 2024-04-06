@@ -29,8 +29,8 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [Creativity and Ownership](#creativity-and-ownership)
   - [AI in Media](#ai-in-media)
   - [AI in Marketing](#ai-in-marketing)
-  - [AI in Automated Vehicles](#ai-in-automated-vehicles) 	
-- [Examples of Controversial AI Applications](#examples-of-controversial-ai-applications)
+  - [AI in Automated Vehicles](#ai-in-automated-vehicles)
+  - [AI in Criminal Justice](#ai-in-criminal-justice)
   - [Photo-scraping scandal of IBM](#photo-scraping-scandal-of-ibm)
   - [Google Nightingale Data Controversy](#google-nightingale-data-controversy)
   - [The Gospel: an AI-assisted war target "factory"](#the-gospel-an-ai-assisted-war-target-factory)
@@ -369,6 +369,7 @@ There is an intimate link between AI and neuroscience. In order to develop AI, s
 <p align="center">  
   <img width="200" src="media/AI/ai_in_neuroscience.jpg" alt="">
 </p>
+
 ### AI in Criminal Justice
 AI's role in the criminal justice system is significant. While it offers potential benefits by improving efficiency and decision-making processes, concerns about its impact on fairness, transparency, and human rights are paramount. Research suggests that the integration of AI in criminal justice may exacerbate existing biases and inequalities, leading to potential injustices in sentencing and policing practices. Furthermore, the opacity of AI algorithms and the lack of human oversight raise concerns about accountability and due process. Before widespread adoption of AI in criminal justice, careful consideration and robust safeguards are imperative. Ignoring these concerns could lead to unintended consequences and undermine public trust in the justice system. Therefore, it is essential to prioritize ethical design, rigorous testing, and ongoing monitoring to ensure that AI technologies in criminal justice uphold principles of fairness, transparency, and human rights.
 

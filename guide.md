@@ -349,7 +349,19 @@ AI has been the latest breakthrough in marketing with an increasing number of co
 
 ### AI in Automated vehicles
 
-The use of automated vehicles (AVs) has the potential to greatly improve both transportation efficiency and safety. Anticipated are AVs to minimize road accidents by 90% that result from human mistake (driving while intoxicated, high on drugs, distracted, etc.). Automated cars do occasionally crash, though. Three deadly accidents involving level 2 autonomous vehicles (AVs) in 2018 alone involved Tesla and Uber. Because of unforeseen impediments like pedestrians, human-driven vehicles, bikers, and wild animals, even fully autonomous vehicles cannot guarantee a completely crash-free environment [It is evident that the AV paradise is nowhere close to reality. Since accidents cannot always be prevented, the computer should have the means to swiftly determine the safest method to crash given the circumstances and the likelihood of different outcomes.  This type of decision making quickly turns into a moral dilemma, especially when humans are involved. 
+The use of automated vehicles (AVs) has the potential to greatly improve both transportation efficiency and safety. Anticipated are AVs to minimize road accidents by 90% that result from human mistake (driving while intoxicated, high on drugs, distracted, etc.).Furthermore, autonomous vehicles (AVs) can improve traffic management, reduce emissions, and enhance fuel economy through intelligent vehicle grids and advanced communication systems. 
+
+Automated cars do occasionally crash, though. Three deadly accidents involving level 2 autonomous vehicles (AVs) in 2018 alone involved Tesla and Uber. Because of unforeseen impediments like pedestrians, human-driven vehicles, bikers, and wild animals, even fully autonomous vehicles cannot guarantee a completely crash-free environment [It is evident that the AV paradise is nowhere close to reality. Since accidents cannot always be prevented, the computer should have the means to swiftly determine the safest method to crash given the circumstances and the likelihood of different outcomes.  This type of decision making quickly turns into a moral dilemma, especially when humans are involved. 
+
+#### Technical issues and Responsibility 
+
+The development of self-driving vehicles faces numerous technical, legal, and social challenges. Technically, perfecting a level 5 autonomous vehicle remains elusive. Road conditions are unpredictable, with potholes and faded lane markings posing challenges to vehicle sensors. Additionally, satellite positioning systems update every 12 hours, that might discrepancies or affect the accuracy, due to the time gap, which can be hazardous during navigation. Legal obstacles hinder the free market deployment of driverless cars. Ethical dilemmas arise from the idea that programmed decisions by software cannot replace human instinctive reactions. For instance, if faced with a scenario where an autonomous car must choose between colliding with another vehicle or hitting pedestrians or objects, who assumes responsibility for the outcome—the passengers, the vehicle's creators, or the software developers?
+
+The ethical implications of autonomous vehicles extend beyond technical complexities. Programming must anticipate various road scenarios and prioritize outcomes, raising questions about accountability in unavoidable accidents. While technologies like simulation software and real-world testing aid in refining autonomous systems, challenges persist in aligning legal frameworks and societal acceptance with the revolutionary changes in transportation brought about by self-driving technology. Addressing these multifaceted challenges is crucial to realizing the potential benefits of autonomous vehicles while ensuring safety and ethical considerations in future mobility solutions.
+
+<p align="center">
+  <img width="200" src="media/AI/autonomous_vehicles.jpg" alt="">
+</p>
 
 #### Ethical Rules and Automated vehicles
 

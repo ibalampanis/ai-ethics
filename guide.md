@@ -373,6 +373,11 @@ There is an intimate link between AI and neuroscience. In order to develop AI, s
 ### AI in Criminal Justice
 AI's role in the criminal justice system is significant. While it offers potential benefits by improving efficiency and decision-making processes, concerns about its impact on fairness, transparency, and human rights are paramount. Research suggests that the integration of AI in criminal justice may exacerbate existing biases and inequalities, leading to potential injustices in sentencing and policing practices. Furthermore, the opacity of AI algorithms and the lack of human oversight raise concerns about accountability and due process. Before widespread adoption of AI in criminal justice, careful consideration and robust safeguards are imperative. Ignoring these concerns could lead to unintended consequences and undermine public trust in the justice system. Therefore, it is essential to prioritize ethical design, rigorous testing, and ongoing monitoring to ensure that AI technologies in criminal justice uphold principles of fairness, transparency, and human rights.
 
+<p align="center"> 
+  <img width="200" src="media/AI/ai_justice.jpg" alt="">
+</p>
+
+
 ## Examples of Controversial AI Applications
 This section aims to provide real-life examples of applications and tools that are powered by AI across industries and display morally gray or/and legally undefined territories. These examples showcase the pressing need for ethical considerations and clear regulations in the rapidly evolving and difficult to control field of artificial intelligence. It is important to emphasize that artificial intelligence should work for the common good and to help people and their lives rather than make them question the morality, law compliance or/and safety of its usage which is the case in the examples presented down below.  
 For more examples you can visit the useful Github repository [Awful AI](https://github.com/daviddao/awful-ai), which lists and presents various cases of morally gray AI applications and tools.

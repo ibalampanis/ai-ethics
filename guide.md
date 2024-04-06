@@ -30,6 +30,8 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
   - [AI in Media](#ai-in-media)
   - [AI in Marketing](#ai-in-marketing)
   - [AI in Automated Vehicles](#ai-in-automated-vehicles)
+  - [The impact of AI on Economic Inequality](#impact-of-ai)
+  - [AI in Neuroscience](#ai-in-neuroscience)
   - [AI in Ethical Decision-Making](#ai-in-ethical-decision-making) 
   - [AI in Criminal Justice](#ai-in-criminal-justice)	
   - [Photo-scraping scandal of IBM](#photo-scraping-scandal-of-ibm)

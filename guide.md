@@ -3,6 +3,8 @@
 
 $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{blue}{f}\color{indigo}{i}\color{violet}{c}\color{red}{i}\color{orange}{a}\color{yellow}{l} \color{green}{I}\color{blue}{n}\color{indigo}{t}\color{violet}{e}\color{red}{l}\color{orange}{l}\color{yellow}{i}\color{green}{g}\color{blue}{e}\color{indigo}{n}\color{violet}{c}\color{red}{e} \color{orange}{(}\color{yellow}{A}\color{green}{I}\color{blue}{)}}$ has the potential to revolutionize various aspects of society. However, alongside its potential benefits, AI also brings forth a host of ethical concerns that must be carefully addressed to ensure responsible development and deployment.
 
+## Table of Contents
+
 - [Introduction](#introduction)
   - [Defining Artificial Intelligence (AI)](#defining-artificial-intelligence-ai)
   - [Why do we use AI?](#why-do-we-use-ai)

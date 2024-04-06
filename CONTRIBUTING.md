@@ -2,9 +2,20 @@
 Thank you for considering contributing to our project! Here are a few guidelines to follow:
 
 # Getting Started
-- Navigate to the [`guide.md`](./guide.md) file in our repository.
-- Feel free to add information regarding AI and Ethics in that file.
-- You can update existing categories or create new ones if necessary.
+
+If you're new to contributing, here are some steps to help you get started:
+
+1. **Familiarize Yourself with the Project**: Take some time to review the project's README.md file and explore the repository to understand its purpose, structure, and current contributions.
+
+2. **Read the Code of Conduct**: We expect all contributors to adhere to our [Code of Conduct](./CODE_OF_CONDUCT.md). Please review it carefully before participating in our community.
+
+3. **Read the guide.md file**: Navigate to the [`guide.md`](./guide.md) file in our repository.
+
+4. **Make Your Contribution**: Create a new branch from the `main` branch to make your changes. Write clear, concise code and documentation following the project's coding standards and guidelines. Feel free to add information regarding AI and Ethics. You can update existing categories or create new ones if necessary.
+
+6. **Submit Your Contribution**: When you're ready, submit your contribution by opening a pushing against the `main` branch or by making a Pull Request (PR). Provide a descriptive title and description for your PR, explaining the changes you've made and why they're valuable. Be prepared to respond to feedback and iterate on your contribution if necessary.
+
+7. **Celebrate Your Contribution**: Congratulations on making your first contribution! Your contributions help improve the project for everyone in the community. We appreciate your efforts and look forward to seeing more contributions from you in the future.
   
 <p align="center">
   <img width="200" src="media/green-living/contribution.jpg" alt="">

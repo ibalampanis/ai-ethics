@@ -27,7 +27,7 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
     - [AI in Education](#ai-in-education)
     - [Social Governance](#social-governance)
     - [Misinformation](#misinformation)
-    - [AI in the Court of Law](#ai-in-the-court-of-law)
+    - [AI in Criminal Justice](#ai-in-criminal-justice)
     - [Creativity and Ownership](#creativity-and-ownership)
     - [AI in Media](#ai-in-media)
       - [Social Media Content Moderation](#social-media-content-moderation)
@@ -38,7 +38,6 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
     - [The impact of AI on Economic Inequality](#the-impact-of-ai-on-economic-inequality)
     - [AI in Neuroscience](#ai-in-neuroscience)
     - [AI in Ethical Decision-Making](#ai-in-ethical-decision-making)
-    - [AI in Criminal Justice](#ai-in-criminal-justice)
   - [Examples of Controversial AI Applications](#examples-of-controversial-ai-applications)
     - [Photo-scraping scandal of IBM](#photo-scraping-scandal-of-ibm)
     - [Google Nightingale Data Controversy](#google-nightingale-data-controversy)
@@ -334,11 +333,11 @@ The dissemination of misinformation has the unfortunate effect of deepening soci
 
 *Image taken from [https://insidetelecom.com/](https://insidetelecom.com/are-we-living-under-the-impact-of-stereotyping/)*
 
-### AI in the Court of Law
-Presumably, if judiciary systems use AI, cases could be evaluated and justice could be applied in a better, faster, and more efficient way. AI methods can potentially have a huge impact in many areas, from the legal professions and the judiciary to aiding the decision-making of legislative and administrative public bodies. Lawyer efficiency and accuracy can be increased in both counseling and litigation and existing software systems for judges can be complemented and enhanced through AI tools in order to support them in drafting new decisions. It is argued that AI could help create a fairer criminal judicial system by making informed decisions devoid of any bias and subjectivity. However, there are many ethical challenges. Firstly, there is the lack of transparency of AI tools. Then, there is the possibility that AI decisions are susceptible to inaccuracies, discriminatory outcomes, embedded or inserted bias. And, lastly, there are many concerns for fairness and risk for Human Rights and other fundamental values.
+### AI in Criminal Justice
+Presumably, if judiciary systems use AI, cases could be evaluated and justice could be applied in a better, faster, and more efficient way. AI methods can potentially have a huge impact in many areas, from the legal professions and the judiciary to aiding the decision-making of legislative and administrative public bodies. Lawyer efficiency and accuracy can be increased in both counseling and litigation and existing software systems for judges can be complemented and enhanced through AI tools in order to support them in drafting new decisions. It is argued that AI could help create a fairer criminal judicial system by making informed decisions devoid of any bias and subjectivity. However, there are many ethical challenges. Firstly, research suggests that the integration of AI in criminal justice may exacerbate existing biases and inequalities, leading to potential injustices in sentencing and policing practices. Furthermore, the opacity of AI algorithms and the lack of human oversight raise concerns about accountability and due process. In other words, there is the possibility that AI decisions are susceptible to inaccuracies, discriminatory outcomes, embedded or inserted bias. And, lastly, there are many concerns for fairness and risk for Human Rights and other fundamental values. Before widespread adoption of AI in criminal justice, careful consideration and robust safeguards are imperative. Ignoring these concerns could lead to unintended consequences and undermine public trust in the justice system. Therefore, it is essential to prioritize ethical design, rigorous testing, and ongoing monitoring to ensure that AI technologies in criminal justice uphold principles of fairness, transparency, and human rights.
 
-<p align="center">
-  <img width="200" src="media/AI/ai_law.jpg" alt="">
+<p align="center"> 
+  <img width="200" src="media/AI/ai_justice.jpg" alt="">
 </p>
 
 *Image taken from [https://www.linkedin.com/](https://www.linkedin.com/pulse/ethical-implications-artificial-intelligence-decision-making/)*
@@ -427,14 +426,6 @@ To address these challenges, future efforts should focus on developing explainab
 </p>
 
 ** Image source = "https://medium.com/notcentralised/balancing-the-scales-a-pragmatic-approach-to-ai-regulation-96c27b8e9e08"
-
-### AI in Criminal Justice
-
-AI's role in the criminal justice system is significant. While it offers potential benefits by improving efficiency and decision-making processes, concerns about its impact on fairness, transparency, and human rights are paramount. Research suggests that the integration of AI in criminal justice may exacerbate existing biases and inequalities, leading to potential injustices in sentencing and policing practices. Furthermore, the opacity of AI algorithms and the lack of human oversight raise concerns about accountability and due process. Before widespread adoption of AI in criminal justice, careful consideration and robust safeguards are imperative. Ignoring these concerns could lead to unintended consequences and undermine public trust in the justice system. Therefore, it is essential to prioritize ethical design, rigorous testing, and ongoing monitoring to ensure that AI technologies in criminal justice uphold principles of fairness, transparency, and human rights.
-
-<p align="center"> 
-  <img width="200" src="media/AI/ai_justice.jpg" alt="">
-</p>
 
 
 ## Examples of Controversial AI Applications

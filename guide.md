@@ -432,6 +432,11 @@ In 2016, a Rembrandt painting, named “the Next Rembrandt”, was designed by a
 In February 2024 a finance worker in Hong Kong was scammed $25 million in a video call conference where all attendees were deepfake creations, including the Chief Financial Officer. Initially the worker received a message from the CFO regarding a confidential transaction that was later confirmed on the video call, therefore leading to the authorization of the transfer. 
 Incidents like this indicate the threat posed by ai and deepfake technology regarding financial exploitation, identity theft and deception. As AI becomes more sophisticated and has the ability to create highly convincing video and audio content ethical concerns arise especially surrounding consent and the unauthorized use of one’s image and voice.
 
+### Air Canada’s Chatbot Controversy
+
+The known air company from Canada, Air Canada, was involved in an unusual controversy, regarding one of its chatbots, which is used for customer service. Specifically, the chatbot noted that grieving families could submit a proposal for a discount in funeral travel expenses. This was opposite with the explicit policies of Air Canada, which mentioned that no such action could be executed on already-reserved trips. The cases was taken to the US court, where Air Canada was ultimately defeated.
+
+
 ### Amazon's Gender-Biased Algorithm Incident
 
 Amazon's gender-biased hiring algorithm incident in 2018 highlighted the controversial usage of AI in recruitment. The algorithm, which was designed to evaluate job applicants, accidentally discriminated against women by downgrading their CVs for technical roles based on historical data showing male dominance in such positions. This bias stemmed from the algorithm learning from past resumes submitted over a decade, reflecting societal gender disparities in STEM fields. Despite attempts to rectify the issue, the algorithm preserved gender discrimination, leading Amazon to discontinue the tool. This case underscored the risks of AI inheriting human biases, emphasizing the importance of scrutinizing data inputs and algorithms to prevent such discriminatory outcomes in automated hiring processes.
@@ -941,6 +946,7 @@ https://www.theguardian.com/technology/2017/jul/17/elon-musk-regulation-ai-comba
 47. Colema, J (2023) “AI’s Climate Impact Goes beyond Its Emissions”.
 48. Aimee van Wynsberghe (2021),” Sustainable AI: AI for sustainability and the sustainability of AI”
 49. Knight, W. (2019, November 19). The Apple Card didn’t “See” gender—and that’s the problem. WIRED. https://www.wired.com/story/the-apple-card-didnt-see-genderand-thats-the-problem/
+50. Drapkin, A (2024) “An abstract render of AI in digital cyberspace.” https://tech.co/news/list-ai-failures-mistakes-errors
 
 
 

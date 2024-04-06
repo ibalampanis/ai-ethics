@@ -340,7 +340,7 @@ Presumably, if judiciary systems use AI, cases could be evaluated and justice co
   <img width="200" src="media/AI/ai_justice.jpg" alt="">
 </p>
 
-*Image taken from [https://www.linkedin.com/](https://www.linkedin.com/pulse/ethical-implications-artificial-intelligence-decision-making/)*
+*Image taken from [https://pace.coe.int/en/news/8058/justice-by-algorithm-pace-urges-smart-regulation-of-ai-in-criminal-justice-to-avoid-unfairness)*
 
 ### Creativity and Ownership
 As we all know, AI has the ability to generate art. That specific type of artwork, though, requires a new definition of what it means to be an “author”, in order to do justice to the creative work of both the “original” author and the algorithms and technologies that produced the work of art itself. Given that AI is a powerful tool for creation, it raises important questions about the future of art, the rights of artists and the integrity of the creative value chain. Frameworks need to be developed to differentiate piracy and plagiarism from originality and creativity, and to recognize the value of human creative work in our interactions with AI. These frameworks pose a need to avoid the deliberate exploitation of the work and creativity of human beings, and to ensure adequate remuneration and recognition for artists, the integrity of the cultural value chain, and the cultural sector’s ability to provide vocational rehabilitation.

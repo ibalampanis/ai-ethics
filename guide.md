@@ -1,14 +1,14 @@
 # AI and Ethics
+![ai gif](media/AI/gifs/ai.webp)
 
-Artificial Intelligence (AI) has the potential to revolutionize various aspects of society. However, alongside its potential benefits, AI also brings forth a host of ethical concerns that must be carefully addressed to ensure responsible development and deployment.
+$\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{blue}{f}\color{indigo}{i}\color{violet}{c}\color{red}{i}\color{orange}{a}\color{yellow}{l} \color{green}{I}\color{blue}{n}\color{indigo}{t}\color{violet}{e}\color{red}{l}\color{orange}{l}\color{yellow}{i}\color{green}{g}\color{blue}{e}\color{indigo}{n}\color{violet}{c}\color{red}{e} \color{orange}{(}\color{yellow}{A}\color{green}{I}\color{blue}{)}}$ has the potential to revolutionize various aspects of society. However, alongside its potential benefits, AI also brings forth a host of ethical concerns that must be carefully addressed to ensure responsible development and deployment.
 
 - [Introduction](#introduction)
   - [Defining Artificial Intelligence (AI)](#defining-artificial-intelligence-ai)
   - [Why do we use AI?](#why-do-we-use-ai)
   - [Understanding Ethics](#understanding-ethics)
   - [Why AI and Ethics](#why-ai-and-ethics)
-- [Why do we use AI?](#why-do-we-use-ai)
-- [Chronological overview of the development of AI](#Chronological-overview-of-the-development-AI)
+- [Chronological overview of the development of AI](#Chronological-overview-of-the-development-of-AI)
 - [Ethical Concerns](#ethical-concerns)
   - [Bias and Fairness](#bias-and-fairness)
   - [Privacy](#privacy)
@@ -29,9 +29,22 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [Creativity and Ownership](#creativity-and-ownership)
   - [AI in Media](#ai-in-media)
   - [AI in Marketing](#ai-in-marketing)
-  - [AI in Automated Vehicles](#ai-in-automated-vehicles) 	
-- [Controversial Usage of AI](#controversial-usage-of-ai)
-  - [Examples](#examples-of-controversial-ai)
+  - [AI in Automated Vehicles](#ai-in-automated-vehicles)
+  - [The impact of AI on Economic Inequality](#impact-of-ai)
+  - [AI in Neuroscience](#ai-in-neuroscience)
+  - [AI in Ethical Decision-Making](#ai-in-ethical-decision-making) 
+  - [AI in Criminal Justice](#ai-in-criminal-justice)
+- [Examples of Controversial AI Applications](#examples-of-controversial-ai-applications)
+  - [Photo-scraping scandal of IBM](#photo-scraping-scandal-of-ibm)
+  - [Google Nightingale Data Controversy](#google-nightingale-data-controversy)
+  - [The Gospel: an AI-assisted war target "factory"](#the-gospel-an-ai-assisted-war-target-factory)
+  - [Copyright and ownership issues in Midjourney](#copyright-and-ownership-issues-in-midjourney)
+  - ["The Next Rembrandt" Painting](#the-next-rembrandt-painting)
+  - [Financial Fraud with Deepfake](#financial-fraud-with-deepfake)
+  - [Amazon's Gender-Biased Algorithm Incident](#amazons-gender-biased-algorithm-incident)
+  - [Tay, Microsoft's AI Chatbot](#tay-microsofts-ai-chatbot)
+  - [Apple Credit Card Gender Discrimination](#apple-credit-card-gender-discrimination)
+
 - [Global leaders quotes about AI](#global-leaders-quotes-about-ai)
 - [Recommendation on the Ethics of Artificial Intelligence](#recommendation-on-the-ethics-of-artificial-intelligence)
   - [Policy Action Areas](#policy-action-areas)
@@ -52,6 +65,7 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
   - [Equitable Access](#equitable-access)
   - [Continuous Learning and Improvement](#continuous-learning-and-improvement)
   - [Sustainability](#sustainability)
+- [The future of ethical AI](#The-future-of-ethical-AI)
 
 - [Can AI Help Us In Making This World More Ethical?](#can-ai-help-us-in-making-this-world-more-ethical)
 - [A Guide to AI](#a-guide-to-ai)
@@ -61,6 +75,7 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
     - [Paid courses](#paid)
   - [Masters Degrees](#masters-degrees)
 - [AI Jokes](#ai-jokes)
+- [Quiz](#quiz-ai-and-ethics-understanding)
 - [Further Reading](#further-reading)
 - [References](#references)
 
@@ -75,10 +90,10 @@ Artificial Intelligence (AI) has the potential to revolutionize various aspects 
 ## Introduction
 This document focuses on **AI and Ethics**, a set of guiding principles that are used to ensure the responsible use of AI. Although the goal is a secure, safe and humane approach, this has been questioned by a lot of people causing various ethical concerns.
 
-It is important to start the topic of AI and Ethics by defining and introducing these two main concepts seperately at a theoretical level.
+It is important to start the topic of AI and Ethics by defining and introducing these two main concepts separately at a theoretical level.
 
 ### Defining Artificial Intelligence (AI)
-Artificial Intelligence (AI) is a branch of computer science focused on the creation computer programs and machines that can be characterized as intelligent. The intelligence refered to here is same as human intelligence in the sense that someone that is intelligent :
+Artificial Intelligence (AI) is a branch of computer science focused on the creation computer programs and machines that can be characterized as intelligent. The intelligence referred to here is same as human intelligence in the sense that someone that is intelligent :
 
 * orchestrates his actions in order to achieve a specific goal
 * acts within a specific environment
@@ -98,12 +113,12 @@ AI represents a thrilling expansion of numerous human abilities, encompassing ob
 <br>Source: CNET</br>
 
 ### Understanding Ethics
-Ethics is a concept that is tricky to define, yet very straightforward at its essence. It is the study of the distinction between good and bad, which, based on the notion of "the common good", guides people's actions and society as a whole. Ethics, according to Aristotle, involves the understanding of what it means for humans to be "excellent" in their actions and their behaviour against themselves and others. By leading our lives with ethics in mind, we create a society that constantly strives for improved ways of existance.  
+Ethics is a concept that is tricky to define, yet very straightforward at its essence. It is the study of the distinction between good and bad, which, based on the notion of "the common good", guides people's actions and society as a whole. Ethics, according to Aristotle, involves the understanding of what it means for humans to be "excellent" in their actions and their behaviour against themselves and others. By leading our lives with ethics in mind, we create a society that constantly strives for improved ways of existence.  
 A fundamental distinction is the one between law and ethics as systems that control actions and behaviour. Law is the external control system whereas ethics come from within a person according to his character and the customs of society - in other words from his *ethos*.   
-At the core of ethics lies moral responsibility, which is the understanding that people are to be held accountable for the consquences of their actions - because of this people are refered to in the bibliography as *moral agents*. Moral responsibility is based on the fact that the person (moral agent) is able to make decisions having knowledge of the potential negative outcomes of their actions (or creations when it comes to computer programs and machines).  
+At the core of ethics lies moral responsibility, which is the understanding that people are to be held accountable for the consequences of their actions - because of this people are referred to in the bibliography as *moral agents*. Moral responsibility is based on the fact that the person (moral agent) is able to make decisions having knowledge of the potential negative outcomes of their actions (or creations when it comes to computer programs and machines).  
 
 ### Why AI and Ethics
-As AI becomes more and more prevalent in our every day life, changing multiple industries and reshaping the way we use technology, it is evident that moral responsibilities and the concept of ethics must be addressed in relation to this tehnology. Different uses of AI in different fields should be morally evaluated and be set under a regulatory set of rules. This way we can establish a basis where AI serves the collective good.
+As AI becomes more and more prevalent in our every day life, changing multiple industries and reshaping the way we use technology, it is evident that moral responsibility and the concept of ethics must be addressed in relation to this technology. Different uses of AI in different fields should be morally evaluated and be set under a regulatory set of rules. This way we can establish a basis where AI serves the collective good.
 
 
 ## Chronological overview of the development of AI
@@ -173,6 +188,14 @@ Manipulating training data can distort outcomes, as is demonstrated by the short
 
 If the data used for training shows connections between unimportant features and the outcome, it could lead to inaccurate predictions. For instance, Ribeiro et al. taught a computer program to tell wolves apart from dogs using pictures of wolves in snow and dogs without snow. After teaching, the program sometimes mistakes a dog in snow for a wolf. Unlike features that can't be applied widely, these irrelevant connections might not be unique to the training set but could also appear in real-world data. It's possible that wolves are more commonly seen in snowy conditions compared to dogs. However, it's incorrect for this factor to influence predictions; a wolf remains a wolf whether it's in snowy surroundings or not.
 
+>Non-Generalizable Features
+
+Because it's hard to make extensive, labeled training collections, developers might depend on training from carefully selected portions of their anticipated data sets. This could lead to giving significance to traits specific to the training set, rather than ones applicable to wider sets of data. For instance, one research indicates that text classifiers trained to categorize articles as "Christian" or "atheist" on typical newsgroup training sets prioritize unrelated words like "POST" in their classifications due to the prevalence of these words in the training set.
+
+>Mismatched Data Sets
+
+When the data used in real-world applications differs significantly from that used during training, the model is likely to perform poorly. Expanding on this, facial recognition systems designed for commercial use, trained predominantly on fair-skinned individuals, exhibit drastically different accuracies for various demographic groups: 0.8% for lighter-skinned men and 34.7% for darker-skinned women. Even if the model initially trains on a dataset reflecting real-world usage, changes in production data over time, influenced by factors like seasonal variations or external events, it can introduce unforeseen consequences due to inconsistencies in the datasets.
+
 ### Privacy
 The vast amounts of data required for AI applications raise concerns about privacy. Unauthorized access to personal data or its misuse can lead to breaches of privacy and surveillance issues, undermining individuals' autonomy and rights.
 
@@ -180,7 +203,7 @@ The vast amounts of data required for AI applications raise concerns about priva
 	The use of AI models to monitor humans for purposes such as security and marketing. The latter can easily resolve to problems regarding abuse of power by some individuals that may even use the technology for political reasons based on their beliefs or affiliations.
 
 - **Consent**:
-  The question whether a user can give informed consent in a system that he himself may not understand. This category falls under the premise that users, when interacting with online content, make a choice regarding the share of their data. But can they make the same choice when they dont know the insides of the AI models used by the private company/ organization?
+  The question whether a user can give informed consent in a system that he himself may not understand. This category falls under the premise that users, when interacting with online content, make a choice regarding the share of their data. But can they make the same choice when they don't know the insides of the AI models used by the private company/ organization?
 
 <p align="center">
   <img width="200" src="media/AI/privacy.png" alt="">
@@ -284,9 +307,11 @@ AI's impact on the education sector is profound. While it provides numerous bene
   <img width="200" src="media/AI/ai-education.png" alt="">
 </p>
 
+*Image taken from [https://theacademic.com/](https://theacademic.com/ai-in-teaching-and-learning/)*
+
 ### Social Governance
 More and more countries and governments are interested in using Artificial Intelligence in order to better rule their countries. Focusing on the example 
-of Greece, on October of 2023 an Advisory Committee on issues related to Artificial Intelligence issues was establlished headed by Professor Konstantinos Daskalakis. The Committee will provide evidence-based advice and proposals on how Greece can take advantage of the multiple possibilities and opportunities arising from the use of Artificial Intelligence. Moreover, its goal is to offer enhancements on the economy and society, improve productivity, increase innovation, strengthen infrastructure, better manage the effects of the climate crisis, support human resources and social cohesion, create quality jobs, defend national digital sovereignty and improve the operation of the country.
+of Greece, on October of 2023 an Advisory Committee on issues related to Artificial Intelligence issues was established headed by Professor Konstantinos Daskalakis. The Committee will provide evidence-based advice and proposals on how Greece can take advantage of the multiple possibilities and opportunities arising from the use of Artificial Intelligence. Moreover, its goal is to offer enhancements on the economy and society, improve productivity, increase innovation, strengthen infrastructure, better manage the effects of the climate crisis, support human resources and social cohesion, create quality jobs, defend national digital sovereignty and improve the operation of the country.
 
 <p align="center">
   <img width="200" src="media/AI/governance-ai.jpg" alt="">
@@ -300,12 +325,16 @@ The dissemination of misinformation has the unfortunate effect of deepening soci
   <img width="200" src="media/AI/misinformation.jpg" alt="">
 </p>
 
+*Image taken from [https://insidetelecom.com/](https://insidetelecom.com/are-we-living-under-the-impact-of-stereotyping/)*
+
 ### AI in the Court of Law
-Presumably, if judiciary systems use AI, cases could be evaluated and justice could be applied in a better, faster, and more efficient way. AI methods can potentially have a huge impact in many areas, from the legal professions and the judiciary to aiding the decision-making of legislative and administrative public bodies. Lawyer efficiency and accuracy can be increased in both counselling and litigation and existing software systems for judges can be complemented and enhanced through AI tools in order to support them in drafting new decisions. It is argued that AI could help create a fairer criminal judicial system by making informed decisions devoid of any bias and subjectivity. However, there are many ethical challenges. Firstly, there is the lack of transparency of AI tools. Then, there is the possibility that AI decisions are susceptible to inaccuracies, discriminatory outcomes, embedded or inserted bias. And, lastly, there are many concerns for fairness and risk for Human Rights and other fundamental values.
+Presumably, if judiciary systems use AI, cases could be evaluated and justice could be applied in a better, faster, and more efficient way. AI methods can potentially have a huge impact in many areas, from the legal professions and the judiciary to aiding the decision-making of legislative and administrative public bodies. Lawyer efficiency and accuracy can be increased in both counseling and litigation and existing software systems for judges can be complemented and enhanced through AI tools in order to support them in drafting new decisions. It is argued that AI could help create a fairer criminal judicial system by making informed decisions devoid of any bias and subjectivity. However, there are many ethical challenges. Firstly, there is the lack of transparency of AI tools. Then, there is the possibility that AI decisions are susceptible to inaccuracies, discriminatory outcomes, embedded or inserted bias. And, lastly, there are many concerns for fairness and risk for Human Rights and other fundamental values.
 
 <p align="center">
   <img width="200" src="media/AI/ai_law.jpg" alt="">
 </p>
+
+*Image taken from [https://www.linkedin.com/](https://www.linkedin.com/pulse/ethical-implications-artificial-intelligence-decision-making/)*
 
 ### Creativity and Ownership
 As we all know, AI has the ability to generate art. That specific type of artwork, though, requires a new definition of what it means to be an “author”, in order to do justice to the creative work of both the “original” author and the algorithms and technologies that produced the work of art itself. Given that AI is a powerful tool for creation, it raises important questions about the future of art, the rights of artists and the integrity of the creative value chain. Frameworks need to be developed to differentiate piracy and plagiarism from originality and creativity, and to recognize the value of human creative work in our interactions with AI. These frameworks pose a need to avoid the deliberate exploitation of the work and creativity of human beings, and to ensure adequate remuneration and recognition for artists, the integrity of the cultural value chain, and the cultural sector’s ability to provide vocational rehabilitation.
@@ -332,11 +361,23 @@ AI has been the latest breakthrough in marketing with an increasing number of co
 
 ### AI in Automated vehicles
 
-The use of automated vehicles (AVs) has the potential to greatly improve both transportation efficiency and safety. Anticipated are AVs to minimize road accidents by 90% that result from human mistake (driving while intoxicated, high on drugs, distracted, etc.). Automated cars do occasionally crash, though. Three deadly accidents involving level 2 autonomous vehicles (AVs) in 2018 alone involved Tesla and Uber. Because of unforeseen impediments like pedestrians, human-driven vehicles, bikers, and wild animals, even fully autonomous vehicles cannot guarantee a completely crash-free environment [It is evident that the AV paradise is nowhere close to reality. Since accidents cannot always be prevented, the computer should have the means to swiftly determine the safest method to crash given the circumstances and the likelihood of different outcomes.  This type of decision making quickly turns into a moral dilemma, especially when humans are involved. 
+The use of automated vehicles (AVs) has the potential to greatly improve both transportation efficiency and safety. Anticipated are AVs to minimize road accidents by 90% that result from human mistake (driving while intoxicated, high on drugs, distracted, etc.).Furthermore, autonomous vehicles (AVs) can improve traffic management, reduce emissions, and enhance fuel economy through intelligent vehicle grids and advanced communication systems. 
+
+Automated cars do occasionally crash, though. Three deadly accidents involving level 2 autonomous vehicles (AVs) in 2018 alone involved Tesla and Uber. Because of unforeseen impediments like pedestrians, human-driven vehicles, bikers, and wild animals, even fully autonomous vehicles cannot guarantee a completely crash-free environment [It is evident that the AV paradise is nowhere close to reality. Since accidents cannot always be prevented, the computer should have the means to swiftly determine the safest method to crash given the circumstances and the likelihood of different outcomes.  This type of decision making quickly turns into a moral dilemma, especially when humans are involved. 
+
+#### Technical issues and Responsibility 
+
+The development of self-driving vehicles faces numerous technical, legal, and social challenges. Technically, perfecting a level 5 autonomous vehicle remains elusive. Road conditions are unpredictable, with potholes and faded lane markings posing challenges to vehicle sensors. Additionally, satellite positioning systems update every 12 hours, that might discrepancies or affect the accuracy, due to the time gap, which can be hazardous during navigation. Legal obstacles hinder the free market deployment of driverless cars. Ethical dilemmas arise from the idea that programmed decisions by software cannot replace human instinctive reactions. For instance, if faced with a scenario where an autonomous car must choose between colliding with another vehicle or hitting pedestrians or objects, who assumes responsibility for the outcome—the passengers, the vehicle's creators, or the software developers?
+
+The ethical implications of autonomous vehicles extend beyond technical complexities. Programming must anticipate various road scenarios and prioritize outcomes, raising questions about accountability in unavoidable accidents. While technologies like simulation software and real-world testing aid in refining autonomous systems, challenges persist in aligning legal frameworks and societal acceptance with the revolutionary changes in transportation brought about by self-driving technology. Addressing these multifaceted challenges is crucial to realizing the potential benefits of autonomous vehicles while ensuring safety and ethical considerations in future mobility solutions.
+
+<p align="center">
+  <img width="200" src="media/AI/autonomous_vehicles.jpg" alt="">
+</p>
 
 #### Ethical Rules and Automated vehicles
 
-Some researchers have argued that ethical guidelines ought to be built into autonomous vehicles (AVs) so that they can decide when to crash morally. On the other hand, not much study has been done on how the AVs algorithm is impacted by ethical norms when it comes to making crash decisions [14]. According to a US survey, public trust in autonomous vehicles plummeted as soon as a lady killed by a sports utility vehicle driven by an autonomous algorithm crossed the street in Tempe, Arizona. Asheley Nunes et al. [74] argued that individuals should maintain control over AVs and then cautioned that laws governing AV testing would need to take liability and safety issues into account. There isn't currently a universal remedy. In conclusion, people will not trust and accept Avs on the road if this ethical issue is not properly addressed.
+Some researchers have argued that ethical guidelines ought to be built into autonomous vehicles (AVs) so that they can decide when to crash morally. On the other hand, not much study has been done on how the AVs algorithm is impacted by ethical norms when it comes to making crash decisions [14]. According to a US survey, public trust in autonomous vehicles plummeted as soon as a lady killed by a sports utility vehicle driven by an autonomous algorithm crossed the street in Tempe, Arizona. Ashley Nunes et al. [74] argued that individuals should maintain control over AVs and then cautioned that laws governing AV testing would need to take liability and safety issues into account. There isn't currently a universal remedy. In conclusion, people will not trust and accept Avs on the road if this ethical issue is not properly addressed.
 
 <p align="center">
   <img width="200" src="media/AI/auto_driving.jpeg" alt="">
@@ -359,21 +400,43 @@ There is an intimate link between AI and neuroscience. In order to develop AI, s
   <img width="200" src="media/AI/ai_in_neuroscience.jpg" alt="">
 </p>
 
-## Controversial Usage of AI
-This section aims to provide real-life examples of applications and tools that are powered by AI accross industries and display morally gray or/and legally undefined territories. These examples showcase the pressing need for ethical considerations and clear regulations in the rapidly evolving and difficult to control field of artificial intelligence. It is important to emphasise that artificial intelligence should work for the common good and to help people and their lives rather than make them question the morality, law compliance or/and safety of its usage which is the case in the examples presented down below.  
+### AI in Ethical Decision-Making
+
+<p align="center">  
+  <img width="200" src="media/AI/ai+scale.png" alt="">
+</p>
+
+AI technologies offer potential in facilitating ethical decision-making processes across various fields. These technologies leverage machine learning algorithms, natural language processing, and other AI techniques to analyze complex ethical dilemmas and provide insights to decision-makers. Ethical decision-making is crucial in healthcare, finance, governance, and other fields to ensure responsible behavior and adherence to ethical principles. Integrating AI into this process can enhance efficiency, accuracy, and consistency while offering new perspectives and considerations.
+
+For example AI is used in healthcare to assist professionals in treatment allocation and end-of-life care decisions. In finance, AI-powered tools detect fraudulent activities and conflicts of interest. In governance, AI-driven simulations predict policy outcomes.
+
+Despite its benefits, the use of AI in ethical decision-making poses challenges. Algorithmic bias can perpetuate or amplify existing biases, leading to unfair outcomes. The lack of transparency in AI algorithms raises concerns about accountability and trust. Additionally, ultimate responsibility still rests with human decision-makers, necessitating robust mechanisms for oversight and intervention.
+
+To address these challenges, future efforts should focus on developing explainable AI models, fostering human-AI collaboration, and incorporating ethical considerations into the design and development of AI systems.
+
+** Image source = "https://medium.com/notcentralised/balancing-the-scales-a-pragmatic-approach-to-ai-regulation-96c27b8e9e08"
+
+### AI in Criminal Justice
+AI's role in the criminal justice system is significant. While it offers potential benefits by improving efficiency and decision-making processes, concerns about its impact on fairness, transparency, and human rights are paramount. Research suggests that the integration of AI in criminal justice may exacerbate existing biases and inequalities, leading to potential injustices in sentencing and policing practices. Furthermore, the opacity of AI algorithms and the lack of human oversight raise concerns about accountability and due process. Before widespread adoption of AI in criminal justice, careful consideration and robust safeguards are imperative. Ignoring these concerns could lead to unintended consequences and undermine public trust in the justice system. Therefore, it is essential to prioritize ethical design, rigorous testing, and ongoing monitoring to ensure that AI technologies in criminal justice uphold principles of fairness, transparency, and human rights.
+
+<p align="center"> 
+  <img width="200" src="media/AI/ai_justice.jpg" alt="">
+</p>
+
+
+## Examples of Controversial AI Applications
+This section aims to provide real-life examples of applications and tools that are powered by AI across industries and display morally gray or/and legally undefined territories. These examples showcase the pressing need for ethical considerations and clear regulations in the rapidly evolving and difficult to control field of artificial intelligence. It is important to emphasize that artificial intelligence should work for the common good and to help people and their lives rather than make them question the morality, law compliance or/and safety of its usage which is the case in the examples presented down below.  
 For more examples you can visit the useful Github repository [Awful AI](https://github.com/daviddao/awful-ai), which lists and presents various cases of morally gray AI applications and tools.
 
-### Examples of Controversial AI 
-
-> Photo-scraping scandal of IBM
+### Photo-scraping scandal of IBM
 
 <p align="center">
   <img width="200" src="media/AI/photoscraping.jpg" alt="">
 </p>
 
-In 2019 IBM,a multinational hi-tech company, faced a controversial scandal regarding photo-scraping. In order to enhance their face recognision AI-based algorithm IBM used 1 million pictures.These pictures were extracted from an online photo-hosting site called Flickr. The usage of the photos from this platform raised awareness regarding how personal data are used. Controversy arosed due to the unauthorized usage of photos.
+In 2019 IBM,a multinational hi-tech company, faced a controversial scandal regarding photo-scraping. In order to enhance their face recognition AI-based algorithm IBM used 1 million pictures.These pictures were extracted from an online photo-hosting site called Flickr. The usage of the photos from this platform raised awareness regarding how personal data are used. Controversy arose due to the unauthorized usage of photos.
 
-> Google Nightingale Data Controversy
+### Google Nightingale Data Controversy
 
 <p align="center">
   <img width="200" src="media/AI/nightingale.jpg" alt="">
@@ -381,16 +444,16 @@ In 2019 IBM,a multinational hi-tech company, faced a controversial scandal regar
 
 In 2019 Google was accused of misconduct regarding the usage of sensitive health data. Personal medical data of approximately 50 million customers of  Ascension,an American healthcare system, were stored and processed from Google. The data contained diagnoses,lab results,personal information and hospital records. The lack of consent from the doctors and the patients caused concerns regarding the security and the privacy of personal data.
 
-> The Gospel: an AI-assisted war target "factory"
+### The Gospel: an AI-assisted war target "factory"
 
 <p align="center">
   <img width="200" src="media/AI/thegospel.jpg" alt="">
 </p>
 
 In 2023 the IDF (Israel Defense Forces) started using "The Gospel", an AI tool, in order to streamline the selection of targets during the bombardment of the Gaza Strip that started at October 7, 2023. The goal of this tool is to provide numerous targets at a short timeframe, based on data such as drone videos and intercepted messages among others.  
-The use of AI in warfare is by itself morally questionnable and surely an issue that needs to be addressed and examined more. Some ethics and humanitarian issues conserning "The Gospel" are that the tool may overlook critical factors such as the presence of civilians and the potential for collateral damage while trying to maximize target quantity.
+The use of AI in warfare is by itself morally questionable and surely an issue that needs to be addressed and examined more. Some ethics and humanitarian issues concerning "The Gospel" are that the tool may overlook critical factors such as the presence of civilians and the potential for collateral damage while trying to maximize target quantity.
 
-> Copyright and ownership issues in Midjourney
+### Copyright and ownership issues in Midjourney
 
 <p align="center">
   <img width="200" src="media/AI/midjourney.jpg" alt="">
@@ -398,24 +461,39 @@ The use of AI in warfare is by itself morally questionnable and surely an issue 
 
 In 2022, Midjourney, an AI-based image generation tool was created, providing, just like many others of its kind (like DALL-E) images generated by user provided prompts. These prompts may be anything describing a picture and they could even specify the artistic style of a specific artist.  
 This blurs the line between novel image generation and potential copyright infringement, since the image created could be considered a derivative of the artist's -whose name was in the prompt- original art pieces. This occurs without the artist's consent or knowledge.  
-Also, ethical issues conserning such a tool arise, since the ownership of the image generated is questionnable. It is unclear whether the image belongs to the user that provided the prompt, the artist whose work it is based on or Midjourney which generated it. Midjourney only permits the commercial use of images if the user has a paid account on the platform but legally the ownership issue is unresolved.
+Also, ethical issues concerning such a tool arise, since the ownership of the image generated is questionable. It is unclear whether the image belongs to the user that provided the prompt, the artist whose work it is based on or Midjourney which generated it. Midjourney only permits the commercial use of images if the user has a paid account on the platform but legally the ownership issue is unresolved.
 
-> "The Next Rembrandt" Painting
+### "The Next Rembrandt" Painting
 
 In 2016, a Rembrandt painting, named “the Next Rembrandt”, was designed by a computer and created by a 3D printer, 351 years after the painter’s death. In order for such technological and artistic "skills" to be achieved, 346 Rembrandt paintings were analyzed pixel by pixel and upscaled by deep learning algorithms to create a unique database. After that, every detail of Rembrandt’s painting style and artistic identity could then be captured and set the foundation for an algorithm capable of creating a masterpiece. Then, a 3D printer recreated the texture of brushstrokes and layers of pain on the canvas for a breath-taking result that brought the painting to life and could trick any art expert.  
 
->Financial Fraud with Deepfake
+### Financial Fraud with Deepfake
 
 In February 2024 a finance worker in Hong Kong was scammed $25 million in a video call conference where all attendees were deepfake creations, including the Chief Financial Officer. Initially the worker received a message from the CFO regarding a confidential transaction that was later confirmed on the video call, therefore leading to the authorization of the transfer. 
 Incidents like this indicate the threat posed by ai and deepfake technology regarding financial exploitation, identity theft and deception. As AI becomes more sophisticated and has the ability to create highly convincing video and audio content ethical concerns arise especially surrounding consent and the unauthorized use of one’s image and voice.
 
->Amazon's Gender-Biased Algorithm Incident
+### Air Canada’s Chatbot Controversy
+
+The known air company from Canada, Air Canada, was involved in an unusual controversy, regarding one of its chatbots, which is used for customer service. Specifically, the chatbot noted that grieving families could submit a proposal for a discount in funeral travel expenses. This was opposite with the explicit policies of Air Canada, which mentioned that no such action could be executed on already-reserved trips. The cases was taken to the US court, where Air Canada was ultimately defeated.
+
+
+### Amazon's Gender-Biased Algorithm Incident
 
 Amazon's gender-biased hiring algorithm incident in 2018 highlighted the controversial usage of AI in recruitment. The algorithm, which was designed to evaluate job applicants, accidentally discriminated against women by downgrading their CVs for technical roles based on historical data showing male dominance in such positions. This bias stemmed from the algorithm learning from past resumes submitted over a decade, reflecting societal gender disparities in STEM fields. Despite attempts to rectify the issue, the algorithm preserved gender discrimination, leading Amazon to discontinue the tool. This case underscored the risks of AI inheriting human biases, emphasizing the importance of scrutinizing data inputs and algorithms to prevent such discriminatory outcomes in automated hiring processes.
 
->Tay, Microsoft's AI Chatbot 
+### Tay, Microsoft's AI Chatbot 
 
 In 2016, Microsoft released an AI chatbot on Twitter with goal to pick up its lexicon and syntax from interactions with real people posting comments on Twitter. Although, Tay quickly began posting offensive and racist tweets after being manipulated by users. Microsoft had to shut down Tay within 24 hours, illustrating the risks of deploying AI systems in uncontrolled environments.
+
+### Apple Credit Card Gender Discrimination
+
+<p align="center">
+  <img width="250" src="media/AI/applecard.jpg" alt="">
+</p>
+
+*Image taken from [www.techcrunch.com](https://techcrunch.com/2021/08/14/how-the-law-got-it-wrong-with-apple-card/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAABNgX1VyKSk0M12XDQVC3Kx1VOp68ZHQBBrNKE15jkdUWZZa9iL-GG37V69pMwDo8glrlS6zZV1AKYog4TuDZ9u5QkW5RrHR-JXAyWsujAbJ5UUlIQd3AS_CTiMF3b18gbCbH04t1C2IbmF1WETtt9DLXaps3D0KS3kV9my6Rex)*
+
+The Apple credit card, issued by Goldman Sachs, faced criticism for alleged gender-based discrepancies in credit limits, sparking outrage on social media and accusations of sexism. Despite assurances from Goldman Sachs that the algorithm was impartial and had undergone third-party scrutiny, doubts persisted regarding its transparency and fairness. Critics argued that algorithms, even when designed to be blind to gender, could still perpetuate biases through correlated variables or proxies. The controversy highlighted the need for active monitoring of protected attributes like gender and race to ensure algorithmic fairness, particularly in financial institutions where legal constraints further complicate bias detection due to regulatory restrictions on data collection. The incident underscores the importance of rigorous oversight and transparency in algorithmic decision-making to mitigate biases that undermine fairness and equality in consumer services.
 
 ## Global leaders quotes about AI
 
@@ -436,6 +514,12 @@ In 2016, Microsoft released an AI chatbot on Twitter with goal to pick up its le
   <img width="300" src="media/AI/leaders/Tim_Cook.jpg" alt="Tim Cook">
 
 *"Technology's potential is, of course, limitless. But without values or direction, it could become a weapon."*
+
+>**Kai-Fu Lee**, AI Expert, Chairman & CEO of Sinovation Ventures
+
+<img width="300" src="media/AI/leaders/Dr_Kaifu_Lee.jpg" alt="Kai-Fu Lee">
+
+*"I believe AI is going to change the world more than anything in the history of humanity. More than electricity. "*
 
 >**Ginni Rometty**, CEO of IBM
 
@@ -587,10 +671,12 @@ Inclusivity emphasizes the importance of ensuring that AI systems are designed a
 AI technologies should be accessible to all individuals regardless of their social status, geographic location, or technology skills and abilities. Developers should make significant effort in order to bridge the digital chasm and prevent the exacerbation of inequalities spotted in artificial intelligence implementation.
 
 ### Continuous learning and Improvement 
-AI developers should focus on continuous learning and improvement. AI technologies are based on data collection and data processing. Hence, is very essential to systematically seek feedback from diverse stakeholders, collect divergent data and check the validity and integrity of the data in order to achieve improvement of sysytems. Practices and processes should be continuously adapted in response to ethical challenges and emerging risks and changes of the market environment.
+AI developers should focus on continuous learning and improvement. AI technologies are based on data collection and data processing. Hence, is very essential to systematically seek feedback from diverse stakeholders, collect divergent data and check the validity and integrity of the data in order to achieve improvement of systems. Practices and processes should be continuously adapted in response to ethical challenges and emerging risks and changes of the market environment.
 
 ### Sustainability
-The long-term effects on society and the environment should be considered when developing AI. It is imperative for developers to make sustainable usage of AI systems while minimizing their environmental impact.
+The long-term effects on society and the environment should be considered when developing AI. Reports suggest that global emissions from cloud computing surpass those of commercial airlines, and projections indicate that by 2027, the AI industry's energy consumption could rival that of a country the size of the Netherlands. It is imperative for developers to make sustainable usage of AI systems while minimizing their environmental impact.
+
+Not only should we focus on the sustainable usage of AI systems and tools on its own, but we should also focus on how AI can help with battling issues like that. The capacity for AI to analyse intricate databases is giving us a better understanding of our environmental impact, thus allowing us to make more informed decisions. Through AI-powered monitoring and analysis, organizations can optimize resource utilization, such as energy, water, and materials, minimizing waste and pinpointing high carbon-emitting products and services. AI technologies also play crucial roles in sustainable building design, precision agriculture, air pollution mitigation, and curbing climate-warming vapour trails.
 
 <p align="center">
   <img width="200" src="media/AI/sustainability_AI.jpg" alt="">
@@ -598,7 +684,16 @@ The long-term effects on society and the environment should be considered when d
 
 <br>Source: Achieving a sustainable future for AI,MIT Technology Review</br>
 
+## The future of ethical AI
+Some argue that an AI code of ethics can quickly become out of date and that a more proactive approach is required to adapt to a rapidly evolving field. Arijit Sengupta, founder and CEO of Aible, an AI development platform, said, "The fundamental problem with an AI code of ethics is that it's reactive, not proactive. We tend to define things like bias and go looking for bias and trying to eliminate it -- as if that's possible."
 
+A reactive approach can have trouble dealing with bias embedded in the data. For example, if women have not historically received loans at the appropriate rate, that will get woven into the data in multiple ways. "If you remove variables related to gender, AI will just pick up other variables that serve as a proxy for gender," Sengupta said.
+
+He believes the future of ethical AI needs to talk about defining fairness and societal norms. So, for example, at a lending bank, management and AI teams would need to decide whether they want to aim for equal consideration (e.g., loans processed at an equal rate for all races), proportional results (success rate for each race is relatively equal) or equal impact (ensuring a proportional amount of loans goes to each race). The focus needs to be on a guiding principle rather than on something to avoid, Sengupta argued.
+
+Most people would agree that it is easier and more effective to teach children what their guiding principles should be rather than to list out every possible decision they might encounter and tell them what to do and what not to do. "That's the approach we're taking with AI ethics," Sengupta said. "We are telling a child everything it can and cannot do instead of providing guiding principles and then allowing them to figure it out for themselves."
+
+For now, we have to turn to humans to develop rules and technologies that promote responsible AI. Shephard said this includes programming products and offers that protect human interests and are not biased against certain groups, such as minority groups, those with special needs and the poor. The latter is especially concerning as AI has the potential to spur massive social and economic warfare, furthering the divide between those who can afford technology (including human augmentation) and those who cannot.
 
 ## Can AI Help Us In Making This World More Ethical?
 After mentioning above a lot of the "dark sides" of AI and the concerns that revolve around them, it is maybe time to reflect on whether AI can contribute to making our society a bit more ethical. For a matter of fact, AI systems can be trained to provide us with insights on our personal life based on ethical principles and values. This is a concept which could also be used in schools by providing interactive lessons and personalized feedback on how values should be used in real life situations. Moreover, it is prudent to consider how the environment can be benefited from the use of AI tools. 
@@ -674,6 +769,153 @@ This section aims to provide useful courses that one can attend if they want to 
 
 **Source: smbc-comics**
 
+<p align="center">
+  <img width="250" src="media/AI/comics/ai_joke.png" alt="Comic AI Joke">
+</p>
+
+## Quiz AI and Ethics Understanding
+![ai gif](media/AI/gifs/ai.gif) ![ai2 gif](media/AI/gifs/ai2.gif) ![ai5 gif](media/AI/gifs/ai5.gif) ![ai3 gif](media/AI/gifs/ai3.gif) ![ai4 gif](media/AI/gifs/ai4.gif)
+1. **What was a major contribution of Alan Turing to the field of AI?** 
+   - A) Developing the $\color{orange}{\textbf{first}}$ computer
+   - B) Creating the $\color{yellow}{\text{Turing Test}}$
+   - C) Inventing $\color{green}{\text{machine learning}}$ algorithms 
+   - D) Proposing the first $\color{pink}{\text{AI ethics guidelines}}$
+   <details><summary>Answer </summary>B) Creating the Turing Test</details>
+
+2. **What does the study of ethics primarily concern itself with?**
+   - A) $\color{yellow}{\text{Legal}}$ systems and regulations
+   - B) $\color{cyan}{\text{Distinction between good and bad}}$ to guide actions
+   - C) The history of $\color{green}{\text{moral philosophy}}$
+   - D) Enforcement of $\color{pink}{\text{moral behaviors}}$
+   <details><summary>Answer</summary>B) Distinction between good and bad to guide actions</details>
+
+3. **Why is AI considered significant in business environments?**
+   - A) It reduces $\color{grey}{\textbf{human}}$ interaction
+   - B) It is cheaper than most $\color{orange}{\text{technological}}$ advances
+   - C) It increases $\color{teal}{\text{efficiency}}$ and decision-making accuracy
+   - D) It is always $\color{purple}{\text{unbiased}}$
+   <details><summary>Answer</summary>C) It increases efficiency and decision-making accuracy</details>
+
+4. **What ethical concern does the use of biased AI algorithms in healthcare highlight?**
+   - A) $\color{pink}{\textbf{Inefficiency}}$ in treatments
+   - B) Increased $\color{cyan}{\text{healthcare costs}}$
+   - C) $\color{orange}{\text{Discrimination}}$ against minority groups
+   - D) Over-reliance on $\color{yellow}{\text{technology}}$
+   <details><summary>Answer</summary>C) Discrimination against minority groups</details>
+
+5. **Which is a key ethical issue with autonomous weapons?**
+   - A) $\color{teal}{\textbf{High costs}}$
+   - B) $\color{lime}{\text{Ineffectiveness}}$
+   - C) $\color{green}{\text{Erosion of moral responsibility}}$
+   - D) Enhanced $\color{purple}{\text{warfare precision}}$
+   <details><summary>Answer</summary>C) Erosion of moral responsibility</details>
+
+6. **What principle is essential to address when designing AI systems, according to UNESCO's AI ethics recommendation?**
+   - A) $\color{brown}{\textbf{Profit maximization}}$
+   - B) $\color{blue}{\text{Human rights and dignity}}$
+   - C) Automation of all $\color{lime}{\text{jobs}}$
+   - D) Reduction of $\color{orange}{\text{human oversight}}$
+   <details><summary>Answer</summary>B) Human rights and dignity</details>
+
+7. **What does the principle of 'Transparency' in AI ethics emphasize?**
+   - A) AI systems should be $\color{pink}{\textbf{secretive}}$
+   - B) AI systems should be $\color{cyan}{\text{expensive}}$
+   - C) AI systems should be $\color{teal}{\text{understandable}}$ and decisions explainable
+   - D) AI systems should operate $\color{yellow}{\text{independently}}$
+   <details><summary>Answer</summary>C) AI systems should be understandable and decisions explainable</details>
+
+8. **Why did experts call for a pause in AI development in March 2023?**
+   - A) AI was deemed $\color{lime}{\textbf{perfect}}$
+   - B) To speed up $\color{pink}{\text{AI development}}$
+   - C) To address $\color{blue}{\text{ethical concerns}}$ and establish safety measures
+   - D) Because AI technology was no longer $\color{teal}{\text{needed}}$
+   <details><summary>Answer</summary>C) To address ethical concerns and establish safety measures</details>
+
+9. **What is a major concern about AI in education?**
+   - A) Improved $\color{yellow}{\textbf{learning efficiency}}$
+   - B) Decline in $\color{blue}{\text{human decision-making skills}}$
+   - C) Lower costs for $\color{red}{\text{educational materials}}$
+   - D) Increased $\color{lightgrey}{\text{student engagement}}$
+   <details><summary>Answer</summary>B) Decline in human decision-making skills</details>
+
+10. **What role does bias play in data sets used for training AI?**
+    - A) It ensures $\color{orange}{\textbf{accuracy}}$
+    - B) It has no $\color{cyan}{\text{impact}}$
+    - C) It can $\color{teal}{\text{perpetuate inequality}}$
+    - D) It diversifies the $\color{pink}{\text{data}}$
+    <details><summary>Answer</summary>C) It can perpetuate inequality</details>
+
+11. **How does AI impact job displacement according to research?**
+    - A) It has $\color{orange}{\textbf{eliminated}}$ all jobs
+    - B) It creates as many jobs as it $\color{lime}{\text{displaces}}$
+    - C) It $\color{yellow}{\text{threatens}}$ certain jobs but not as widespread as expected
+    - D) It has no $\color{pink}{\text{impact}}$ on jobs
+    <details><summary>Answer</summary>C) It threatens certain jobs but not as widespread as expected</details>
+
+12. **What ethical issue does the unauthorized use of data in AI systems like IBM's photo-scraping scandal highlight?**
+    - A) $\color{teal}{\text{Efficiency}}$ of AI systems
+    - B) $\color{cyan}{\text{Privacy concerns}}$
+    - C) Cost-effectiveness of $\color{lightgrey}{\text{data use}}$
+    - D) $\color{brown}{\text{Speed}}$ of data processing
+    <details><summary>Answer</summary>B) Privacy concerns</details>
+
+13. **What does AI in 'Social Governance' aim to improve?**
+    - A) Only $\color{orange}{\textbf{governmental transparency}}$
+    - B) $\color{lime}{\text{Productivity}}$, innovation, and societal benefits
+    - C) $\color{yellow}{\text{Entertainment}}$ purposes
+    - D) Restricting $\color{pink}{\text{public access}}$ to technology
+    <details><summary>Answer</summary>B) Productivity, innovation, and societal benefits</details>
+
+14. **Why is the development of AI considered a dual-use technology?**
+    - A) Because it can only be used in $\color{teal}{\text{two industries}}$
+    - B) Because it offers both $\color{cyan}{\text{ethical challenges}}$ and benefits
+    - C) Because it is developed by $\color{lightgrey}{\text{two sectors}}$
+    - D) Because it uses $\color{brown}{\text{binary code}}$
+    <details><summary>Answer</summary>B) Because it offers both ethical challenges and benefits</details>
+
+15. **What is the primary concern with AI-driven automated vehicles?**
+    - A) They drive too $\color{orange}{\textbf{slowly}}$
+    - B) They can't operate in $\color{lime}{\text{cold weather}}$
+    - C) $\color{yellow}{\text{Moral dilemmas}}$ in crash decisions
+    - D) They are too $\color{pink}{\text{expensive}}$ for average consumers
+    <details><summary>Answer</summary>C) Moral dilemmas in crash decisions</details>
+
+16. **What does the term 'algorithmic transparency' imply?**
+    - A) Keeping algorithms as $\color{teal}{\text{complex}}$ as possible
+    - B) Making algorithms $\color{cyan}{\text{understandable}}$ and their actions traceable
+    - C) Using algorithms only in $\color{lightgrey}{\text{computers}}$
+    - D) Making algorithms only accessible to $\color{brown}{\text{programmers}}$
+    <details><summary>Answer</summary>B) Making algorithms understandable and their actions traceable</details>
+
+17. **What does the 'Turing Test' measure?**
+    - A) The $\color{orange}{\textbf{strength}}$ of a computer
+    - B) The $\color{lime}{\text{intelligence}}$ of a machine based on human interaction
+    - C) The $\color{yellow}{\text{speed}}$ of data processing
+    - D) The $\color{pink}{\text{physical durability}}$ of machines
+    <details><summary>Answer</summary>B) The intelligence of a machine based on human interaction</details>
+
+18. **Why is continuous learning important in AI development?**
+    - A) To make AI systems less $\color{teal}{\text{efficient}}$
+    - B) To address and adapt to $\color{cyan}{\text{ethical challenges}}$ and changing environments
+    - C) To stop $\color{lightgrey}{\text{AI development}}$ entirely
+    - D) To reduce $\color{brown}{\text{transparency and accountability}}$
+    <details><summary>Answer</summary>B) To address and adapt to ethical challenges and changing environments</details>
+
+19. **Which ethical principle emphasizes the need for AI systems to allow human intervention?**
+    - A) $\color{orange}{\textbf{Human agency and oversight}}$
+    - B) $\color{lime}{\text{Privacy and data protection}}$
+    - C) $\color{yellow}{\text{Cost reduction}}$
+    - D) $\color{pink}{\text{Speed optimization}}$
+    <details><summary>Answer</summary>A) Human agency and oversight</details>
+
+20. **What is a fundamental way to address biases in AI systems?**
+    - A) Ignore the $\color{teal}{\text{biases}}$ as they are minor
+    - B) Use $\color{cyan}{\text{biased data}}$ to train models
+    - C) Use $\color{lightgrey}{\text{diverse and representative datasets}}$
+    - D) Reduce the use of $\color{brown}{\text{AI in decision-making}}$
+    <details><summary>Answer</summary>C) Use diverse and representative datasets</details>
+
+
 ## Further Reading
 To delve deeper into the ethical aspects of artificial intelligence, we highly recommend the following books:
 1. [Race After Technology: Abolitionist Tools for the New Jim Code](https://www.wiley.com/en-gb/Race+After+Technology:+Abolitionist+Tools+for+the+New+Jim+Code-p-9781509526437)  
@@ -736,24 +978,25 @@ John Zerilli, et al. – MIT Press
 32. Michuda, Megan(2023). “The Ethics of AI-Powered Marketing Technology.” MarTech.
 33. UNESCO (2020). *Steering AI and Advanced ICTs for Knowledge Societies*. https://unesdoc.unesco.org/ark:/48223/pf0000377798
 34. Brookings Institution (2019). *Automation and AI Are Disrupting Jobs*. https://www.brookings.edu/research/automation-and-artificial-intelligence-how-machines-affect-people-and-places/
-34. The Comic Accountant. (2022) https://thecomicaccountant.com/comic-ai-artificial-intelligence-is-the-future/ 
-35. Oscar Schwartz IEEE Spectrum (2019) In 2016, Microsoft’s Racist Chatbot Revealed the Dangers of Online Conversation https://spectrum.ieee.org/in-2016-microsofts-racist-chatbot-revealed-the-dangers-of-online-conversation
-36. Haan, K (2023) “How Businesses Are Using Artificial Intelligence In 2024”.
-37. Perrigo, B (2024) “Will AI Take Your Job? Maybe Not Just Yet, One Study Says”.
-38. McCarthy, J. (2004). What is Artificial Intelligence?. *Stanford Formal Reasoning Group.* Retrieved from http://www-formal.stanford.edu/jmc/
-39. Stanford Encyclopedia of Philosophy. (2012). Computing and Moral Responsibility. Retrieved from https://plato.stanford.edu/entries/computing-responsibility/
-40. Stanford Encyclopedia of Philosophy. (2022).  Moral Theory. Retrieved from https://plato.stanford.edu/entries/moral-theory/
-41. IEEE Xplore, ieeexplore.ieee.org/Xplore/home.jsp
-42. Drew Roselli, Jeanna Matthews and Nisha Talagala. 2019. Managing Bias in AI. In Proceedings of WWW '19: The Web Conference (WWW '19), May 13, 2019, San Francisco, USA. ACM, New York, NY, USA, 6 pages. https://doi.org/10.1145/3308560.3317590
-43. Khan, I (2024) “An abstract render of AI in digital cyberspace.”  https://www.cnet.com/tech/computing/chatgpt-glossary-42-ai-terms-that-everyone-should-know/ 
-44. Samuel Gibbs (2017) Elon Musk: regulate AI to combat 'existential threat' before it's too late, The Guardian
+35. The Comic Accountant. (2022) https://thecomicaccountant.com/comic-ai-artificial-intelligence-is-the-future/ 
+36. Oscar Schwartz IEEE Spectrum (2019) In 2016, Microsoft’s Racist Chatbot Revealed the Dangers of Online Conversation https://spectrum.ieee.org/in-2016-microsofts-racist-chatbot-revealed-the-dangers-of-online-conversation
+37. Haan, K (2023) “How Businesses Are Using Artificial Intelligence In 2024”.
+38. Perrigo, B (2024) “Will AI Take Your Job? Maybe Not Just Yet, One Study Says”.
+39. McCarthy, J. (2004). What is Artificial Intelligence?. *Stanford Formal Reasoning Group.* Retrieved from http://www-formal.stanford.edu/jmc/
+40. Stanford Encyclopedia of Philosophy. (2012). Computing and Moral Responsibility. Retrieved from https://plato.stanford.edu/entries/computing-responsibility/
+41. Stanford Encyclopedia of Philosophy. (2022).  Moral Theory. Retrieved from https://plato.stanford.edu/entries/moral-theory/
+42. IEEE Xplore, ieeexplore.ieee.org/Xplore/home.jsp
+43. Drew Roselli, Jeanna Matthews and Nisha Talagala. 2019. Managing Bias in AI. In Proceedings of WWW '19: The Web Conference (WWW '19), May 13, 2019, San Francisco, USA. ACM, New York, NY, USA, 6 pages. https://doi.org/10.1145/3308560.3317590
+44. Khan, I (2024) “An abstract render of AI in digital cyberspace.”  https://www.cnet.com/tech/computing/chatgpt-glossary-42-ai-terms-that-everyone-should-know/ 
+45. Samuel Gibbs (2017) Elon Musk: regulate AI to combat 'existential threat' before it's too late, The Guardian
 https://www.theguardian.com/technology/2017/jul/17/elon-musk-regulation-ai-combat-existential-threat-tesla-spacex-ceo
-45. Leverhulme Centre for the Future of Intelligence. 12 Books to read about AI Ethics. http://lcfi.ac.uk/news-and-events/news/2021/jun/28/ai-ethics-book-list/
-46. Colema, J (2023) “AI’s Climate Impact Goes beyond Its Emissions”.
-47. Aimee van Wynsberghe (2021),” Sustainable AI: AI for sustainability and the sustainability of AI”
+46. Leverhulme Centre for the Future of Intelligence. 12 Books to read about AI Ethics. http://lcfi.ac.uk/news-and-events/news/2021/jun/28/ai-ethics-book-list/
+47. Colema, J (2023) “AI’s Climate Impact Goes beyond Its Emissions”.
+48. Aimee van Wynsberghe (2021),” Sustainable AI: AI for sustainability and the sustainability of AI”
+49. Knight, W. (2019, November 19). The Apple Card didn’t “See” gender—and that’s the problem. WIRED. https://www.wired.com/story/the-apple-card-didnt-see-genderand-thats-the-problem/
+50. Drapkin, A (2024) “An abstract render of AI in digital cyberspace.” https://tech.co/news/list-ai-failures-mistakes-errors
+51. The importance of sustainable AI, 2023-12-07, IEC Editorial Team https://www.iec.ch/blog/importance-sustainable-ai
 
->>>>>>> e487e944126c8cddbd0b4b9fe84dbbffd6fa8a34
 
 
-=======
->>>>>>> 6f64938bfb8821ebc8a621c85106d2ab1469127e
+

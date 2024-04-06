@@ -302,13 +302,13 @@ A collection of techniques, resources, and expertise employed to manufacture goo
 One might put it simply: the idea of "green growth" has one main meaning. Significant environmental protection is also accomplished through economic expansion, or GDP growth. Early usage of the phrase (Huberty et al., 2011) focused only on mitigating the effects of climate change; however, it currently more commonly refers to a wider variety of environmental resources (soil, water, fish populations, habitats, and so forth). The specific level of environmental protection is left unclear by certain definitions; according to the World Bank (2012b), green growth is, “growth that is efficient in its use of natural resources, clean in that it minimizes pollution and environmental impacts, and resilient in that it accounts for natural hazards and the role of environmental management and natural capital in preventing physical disasters.”
 
 Specifically, here some examples of initiatives and practices that contribute to green growth:
-•	Renewable Energy Development
-•	Energy Efficiency Measures
-•	Sustainable Agriculture
-•	Circular Economy
-•	Eco-friendly Transportation
-•	Green Finance and Investment
-•	Sustainable Consumption and Production
+*	Renewable Energy Development
+*	Energy Efficiency Measures
+*	Sustainable Agriculture
+*	Circular Economy
+*	Eco-friendly Transportation
+*	Green Finance and Investment
+*	Sustainable Consumption and Production
 
 
 ## References 

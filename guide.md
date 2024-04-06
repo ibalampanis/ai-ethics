@@ -184,6 +184,14 @@ Manipulating training data can distort outcomes, as is demonstrated by the short
 
 If the data used for training shows connections between unimportant features and the outcome, it could lead to inaccurate predictions. For instance, Ribeiro et al. taught a computer program to tell wolves apart from dogs using pictures of wolves in snow and dogs without snow. After teaching, the program sometimes mistakes a dog in snow for a wolf. Unlike features that can't be applied widely, these irrelevant connections might not be unique to the training set but could also appear in real-world data. It's possible that wolves are more commonly seen in snowy conditions compared to dogs. However, it's incorrect for this factor to influence predictions; a wolf remains a wolf whether it's in snowy surroundings or not.
 
+>Non-Generalizable Features
+
+Because it's hard to make extensive, labeled training collections, developers might depend on training from carefully selected portions of their anticipated data sets. This could lead to giving significance to traits specific to the training set, rather than ones applicable to wider sets of data. For instance, one research indicates that text classifiers trained to categorize articles as "Christian" or "atheist" on typical newsgroup training sets prioritize unrelated words like "POST" in their classifications due to the prevalence of these words in the training set.
+
+>Mismatched Data Sets
+
+When the data used in real-world applications differs significantly from that used during training, the model is likely to perform poorly. Expanding on this, facial recognition systems designed for commercial use, trained predominantly on fair-skinned individuals, exhibit drastically different accuracies for various demographic groups: 0.8% for lighter-skinned men and 34.7% for darker-skinned women. Even if the model initially trains on a dataset reflecting real-world usage, changes in production data over time, influenced by factors like seasonal variations or external events, it can introduce unforeseen consequences due to inconsistencies in the datasets.
+
 ### Privacy
 The vast amounts of data required for AI applications raise concerns about privacy. Unauthorized access to personal data or its misuse can lead to breaches of privacy and surveillance issues, undermining individuals' autonomy and rights.
 
@@ -646,7 +654,9 @@ AI technologies should be accessible to all individuals regardless of their soci
 AI developers should focus on continuous learning and improvement. AI technologies are based on data collection and data processing. Hence, is very essential to systematically seek feedback from diverse stakeholders, collect divergent data and check the validity and integrity of the data in order to achieve improvement of systems. Practices and processes should be continuously adapted in response to ethical challenges and emerging risks and changes of the market environment.
 
 ### Sustainability
-The long-term effects on society and the environment should be considered when developing AI. It is imperative for developers to make sustainable usage of AI systems while minimizing their environmental impact.
+The long-term effects on society and the environment should be considered when developing AI. Reports suggest that global emissions from cloud computing surpass those of commercial airlines, and projections indicate that by 2027, the AI industry's energy consumption could rival that of a country the size of the Netherlands. It is imperative for developers to make sustainable usage of AI systems while minimizing their environmental impact.
+
+Not only should we focus on the sustainable usage of AI systems and tools on its own, but we should also focus on how AI can help with battling issues like that. The capacity for AI to analyse intricate databases is giving us a better understanding of our environmental impact, thus allowing us to make more informed decisions. Through AI-powered monitoring and analysis, organizations can optimize resource utilization, such as energy, water, and materials, minimizing waste and pinpointing high carbon-emitting products and services. AI technologies also play crucial roles in sustainable building design, precision agriculture, air pollution mitigation, and curbing climate-warming vapour trails.
 
 <p align="center">
   <img width="200" src="media/AI/sustainability_AI.jpg" alt="">
@@ -965,6 +975,8 @@ https://www.theguardian.com/technology/2017/jul/17/elon-musk-regulation-ai-comba
 48. Aimee van Wynsberghe (2021),” Sustainable AI: AI for sustainability and the sustainability of AI”
 49. Knight, W. (2019, November 19). The Apple Card didn’t “See” gender—and that’s the problem. WIRED. https://www.wired.com/story/the-apple-card-didnt-see-genderand-thats-the-problem/
 50. Drapkin, A (2024) “An abstract render of AI in digital cyberspace.” https://tech.co/news/list-ai-failures-mistakes-errors
+51. The importance of sustainable AI, 2023-12-07, IEC Editorial Team https://www.iec.ch/blog/importance-sustainable-ai
+
 
 
 

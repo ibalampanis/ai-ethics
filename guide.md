@@ -21,7 +21,6 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
     - [Data Modification](#data-modification)
     - [Environmental Impact](#environmental-impact)
     - [Security](#security)
-    - [Cyberthreats] (#cyberthreats)
     - [Cultural and Social Impact](#cultural-and-social-impact)
     - [Responsibility](#responsibility)
     - [AI in Mental Health Care](#ai-in-mental-health-care)
@@ -278,6 +277,8 @@ In addition to these risks, people are becoming more aware of weaknesses that ex
   <img width="200" src="media/AI/security.png" alt="">
 </p>
 
+*Icon made by Freepik from [www.flaticon.com](https://www.flaticon.com/)*
+
 ### Cyberthreats
 AI in cybersecurity is a double-edged sword.
 
@@ -286,8 +287,6 @@ On the first hand, AI seems to be a really convenient technology to implement in
 On the other hand, AI is a powerful technology that can be used for malicious purposes. When it comes to cyberattacks AI can be used to create tools more and more sophisticated malware such as AI-driven malware that can adapt to every structure and spread very fast.
 
 <br> Source : AI in Cybersecurity: A double-edged sword </br>
-
-*Icon made by Freepik from [www.flaticon.com](https://www.flaticon.com/)*
 
 ### Cultural and Social Impact
 The deployment of AI systems can have significant cultural and social implications, impacting norms, values, and human interactions. Issues such as cultural biases in AI, representation in datasets, and the effects of AI-driven decisions on marginalized communities need to be addressed to promote inclusivity and fairness.

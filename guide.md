@@ -1017,6 +1017,7 @@ https://www.theguardian.com/technology/2017/jul/17/elon-musk-regulation-ai-comba
 49. Knight, W. (2019, November 19). The Apple Card didn’t “See” gender—and that’s the problem. WIRED. https://www.wired.com/story/the-apple-card-didnt-see-genderand-thats-the-problem/
 50. Drapkin, A (2024) “An abstract render of AI in digital cyberspace.” https://tech.co/news/list-ai-failures-mistakes-errors
 51. The importance of sustainable AI, 2023-12-07, IEC Editorial Team https://www.iec.ch/blog/importance-sustainable-ai
+52. team, Aic. (2023). The role of AI in content moderation and censorship. https://aicontentfy.com/en/blog/role-of-ai-in-content-moderation-and-censorship
 
 
 

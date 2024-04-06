@@ -1,4 +1,5 @@
 # AI and Ethics
+![ai gif](media/AI/gifs/ai.webp)
 
 Artificial Intelligence (AI) has the potential to revolutionize various aspects of society. However, alongside its potential benefits, AI also brings forth a host of ethical concerns that must be carefully addressed to ensure responsible development and deployment.
 
@@ -706,13 +707,13 @@ This section aims to provide useful courses that one can attend if they want to 
 </p>
 
 ## Quiz AI and Ethics Understanding
-
-1. **What was a major contribution of Alan Turing to the field of AI?**
+![ai gif](media/AI/gifs/ai.gif) ![ai2 gif](media/AI/gifs/ai2.gif) ![ai5 gif](media/AI/gifs/ai5.gif) ![ai3 gif](media/AI/gifs/ai3.gif) ![ai4 gif](media/AI/gifs/ai4.gif)
+1. **What was a major contribution of Alan Turing to the field of AI?** 
    - A) Developing the first computer
    - B) Creating the Turing Test
-   - C) Inventing machine learning algorithms
-   - D) Proposing the first AI ethics guidelines
-   <details><summary>Answer</summary>B) Creating the Turing Test</details>
+   - C) Inventing machine learning algorithms 
+   - D) Proposing the first AI ethics guidelines 
+   <details><summary>Answer </summary>B) Creating the Turing Test</details>
 
 2. **What does the study of ethics primarily concern itself with?**
    - A) Legal systems and regulations

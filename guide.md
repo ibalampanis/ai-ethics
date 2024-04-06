@@ -30,7 +30,8 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
   - [AI in Media](#ai-in-media)
   - [AI in Marketing](#ai-in-marketing)
   - [AI in Automated Vehicles](#ai-in-automated-vehicles)
-  - [AI in Criminal Justice](#ai-in-criminal-justice)
+  - [AI in Ethical Decision-Making](#ai-in-ethical-decision-making) 
+  - [AI in Criminal Justice](#ai-in-criminal-justice)	
   - [Photo-scraping scandal of IBM](#photo-scraping-scandal-of-ibm)
   - [Google Nightingale Data Controversy](#google-nightingale-data-controversy)
   - [The Gospel: an AI-assisted war target "factory"](#the-gospel-an-ai-assisted-war-target-factory)
@@ -395,6 +396,22 @@ There is an intimate link between AI and neuroscience. In order to develop AI, s
 <p align="center">  
   <img width="200" src="media/AI/ai_in_neuroscience.jpg" alt="">
 </p>
+
+### AI in Ethical Decision-Making
+
+<p align="center">  
+  <img width="200" src="media/AI/ai+scale.png" alt="">
+</p>
+
+AI technologies offer potential in facilitating ethical decision-making processes across various fields. These technologies leverage machine learning algorithms, natural language processing, and other AI techniques to analyze complex ethical dilemmas and provide insights to decision-makers. Ethical decision-making is crucial in healthcare, finance, governance, and other fields to ensure responsible behavior and adherence to ethical principles. Integrating AI into this process can enhance efficiency, accuracy, and consistency while offering new perspectives and considerations.
+
+For example AI is used in healthcare to assist professionals in treatment allocation and end-of-life care decisions. In finance, AI-powered tools detect fraudulent activities and conflicts of interest. In governance, AI-driven simulations predict policy outcomes.
+
+Despite its benefits, the use of AI in ethical decision-making poses challenges. Algorithmic bias can perpetuate or amplify existing biases, leading to unfair outcomes. The lack of transparency in AI algorithms raises concerns about accountability and trust. Additionally, ultimate responsibility still rests with human decision-makers, necessitating robust mechanisms for oversight and intervention.
+
+To address these challenges, future efforts should focus on developing explainable AI models, fostering human-AI collaboration, and incorporating ethical considerations into the design and development of AI systems.
+
+** Image source = "https://medium.com/notcentralised/balancing-the-scales-a-pragmatic-approach-to-ai-regulation-96c27b8e9e08"
 
 ### AI in Criminal Justice
 AI's role in the criminal justice system is significant. While it offers potential benefits by improving efficiency and decision-making processes, concerns about its impact on fairness, transparency, and human rights are paramount. Research suggests that the integration of AI in criminal justice may exacerbate existing biases and inequalities, leading to potential injustices in sentencing and policing practices. Furthermore, the opacity of AI algorithms and the lack of human oversight raise concerns about accountability and due process. Before widespread adoption of AI in criminal justice, careful consideration and robust safeguards are imperative. Ignoring these concerns could lead to unintended consequences and undermine public trust in the justice system. Therefore, it is essential to prioritize ethical design, rigorous testing, and ongoing monitoring to ensure that AI technologies in criminal justice uphold principles of fairness, transparency, and human rights.

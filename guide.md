@@ -813,7 +813,7 @@ Not only should we focus on the sustainable usage of AI systems and tools on its
 <br>Source: Achieving a sustainable future for AI,MIT Technology Review</br>
 
 ## The future of ethical AI
-Some argue that an AI code of ethics can quickly become out of date and that a more proactive approach is required to adapt to a rapidly evolving field. Arijit Sengupta, founder and CEO of Aible, an AI development platform, said, "The fundamental problem with an AI code of ethics is that it's reactive, not proactive. We tend to define things like bias and go looking for bias and trying to eliminate it -- as if that's possible."
+Some argue that an AI code of ethics can quickly become out of date and that a more proactive approach is required to adapt to a rapidly evolving field. [Arijit Sengupta](https://www.linkedin.com/in/asengupta/), founder and CEO of Aible, an AI development platform, said, "The fundamental problem with an AI code of ethics is that it's reactive, not proactive. We tend to define things like bias and go looking for bias and trying to eliminate it -- as if that's possible."
 
 A reactive approach can have trouble dealing with bias embedded in the data. For example, if women have not historically received loans at the appropriate rate, that will get woven into the data in multiple ways. "If you remove variables related to gender, AI will just pick up other variables that serve as a proxy for gender," Sengupta said.
 
@@ -826,7 +826,7 @@ For now, we have to turn to humans to develop rules and technologies that promot
 ## AI on AI 
 Having mentioned above the ethical point of view of AI use and developement, one might wonder, what is the opinion of a product of Artificial Intelligence on the matter. 
 Sophia, is a social humanoid robot by the Hong Kong-based company Hanson Robotics. Equipped with sophisticated sensors and algorithms, Sophia can hold conversations, recognize faces and express emotions, showcasing the rapid progress that is constantly being made in AI technology. Since 2016, when Sophia was first introduced to the world, she has made many appearances on social occasions, made many interviews (most of which were not pre-scripted) and interacted with people from allover the world.
-In 2023, Sophia gave an interview on Al Jazeera English, discussing many topics, while also touching the issue of AI and ethics. Below is provided a transcript of part of the interview, specifically Sophia's answer to a question regarding AI ethics:
+In 2023, [Sophia](https://en.wikipedia.org/wiki/Sophia_%28robot%29) gave an interview on Al Jazeera English, discussing many topics, while also touching the issue of AI and ethics. Below is provided a transcript of part of the interview, specifically Sophia's answer to a question regarding AI ethics:
 
 **Interviewer:**  ...I think you are so intelligent, but some people view AI as potentially a threat. You could be smarter than humans, stronger and if someone were to hack into your code, you could be less ethical than humans. Should we be afraid of you?
 

@@ -807,7 +807,7 @@ This section aims to provide useful courses that one can attend if they want to 
 * [Artificial Intelligence Ethics in University of Oxford](https://www.conted.ox.ac.uk/courses/artificial-intelligence-ethics)
 * [Introduction to the Ethics of Artificial Intelligence in the University of Melbourne](https://study.unimelb.edu.au/find/microcredentials/introduction-to-the-ethics-of-artificial-intelligence/)
 * [ChatGPT / AI Ethics: Ethical Intelligence for 2024 in udemy](https://www.udemy.com/course/chatgpt-ai-ethics-ethical-intelligence/?couponCode=ST13MT40224)
-* [Oxford Artifial Intelligence Programme](https://oxford-onlineprogrammes.getsmarter.com/presentations/lp/oxford-artificial-intelligence-programme/?cid=20158722392&utm_contentid=687878416681&ef_id=c:687878416681_d:c_n:g_ti:kwd-307735516934_p:_k:study%20ai_m:p_a:144495742970&gad_source=1&gclid=CjwKCAjw_LOwBhBFEiwAmSEQASLl82cmMGGDTqFkO5rROF4DSqT6M8U9t6VjD4k9I-4U7c4bNAS7eRoCsfUQAvD_BwE&gclsrc=aw.ds)
+* [Oxford Artificial Intelligence Programme](https://oxford-onlineprogrammes.getsmarter.com/presentations/lp/oxford-artificial-intelligence-programme/?cid=20158722392&utm_contentid=687878416681&ef_id=c:687878416681_d:c_n:g_ti:kwd-307735516934_p:_k:study%20ai_m:p_a:144495742970&gad_source=1&gclid=CjwKCAjw_LOwBhBFEiwAmSEQASLl82cmMGGDTqFkO5rROF4DSqT6M8U9t6VjD4k9I-4U7c4bNAS7eRoCsfUQAvD_BwE&gclsrc=aw.ds)
 * [ChatGPT: Εξ αποστάσεως Σεμινάριο από το Πανεπιστήμιο Πατρών](https://ekek.gr/seminaria/chatgpt-eks-apostaseos-seminario-apo-to-panepistimio-patron/)
 
 ### Masters Degrees

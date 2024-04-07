@@ -77,7 +77,7 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
     - [Continuous learning and Improvement](#continuous-learning-and-improvement)
     - [Sustainability](#sustainability)
   - [Fiction VS Reality of AI](#fiction-vs-reality-of-ai)
-  - [HAL 9000 AI protrayed in movies](#hal-9000-AI-portraued-in-movies)
+  - [HAL 9000 AI protrayed in movies](#hal-9000-AI-portrayed-in-movies)
   - [The future of ethical AI](#the-future-of-ethical-ai)
   - [AI on AI](#ai-on-ai)
   - [The EU AI first regulation act](#the-eu-ai-first-regulation-act)

@@ -212,6 +212,9 @@ The vast amounts of data required for AI applications raise concerns about priva
 - **Consent**:
   The question whether a user can give informed consent in a system that he himself may not understand. This category falls under the premise that users, when interacting with online content, make a choice regarding the share of their data. But can they make the same choice when they don't know the insides of the AI models used by the private company/ organization?
 
+- **Anonimazation**:
+	Whenever possible, personal data should be anonymized to protect individual's privacy. This involves techniques that remove or encrypte identifying information so that individuals cannot be directly or indirectly identified. Common techniques for anonymization include: Generalazation, Randomization, Masking
+
 <p align="center">
   <img width="200" src="media/AI/privacy.png" alt="">
 </p>

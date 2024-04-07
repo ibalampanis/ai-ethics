@@ -75,6 +75,7 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
     - [Continuous learning and Improvement](#continuous-learning-and-improvement)
     - [Sustainability](#sustainability)
   - [The future of ethical AI](#the-future-of-ethical-ai)
+  - [The EU AI first regulation act](#the-eu-first-regulation-ai-act)
   - [A Practical Guide to Building Ethical AI](#a-practical-guide-to-building-ethical-ai)
   - [Can AI Help Us In Making This World More Ethical?](#can-ai-help-us-in-making-this-world-more-ethical)
   - [A Guide to Parenting in the era of AI](#a-guide-to-parenting-in-the-ai-era)
@@ -810,6 +811,37 @@ He believes the future of ethical AI needs to talk about defining fairness and s
 Most people would agree that it is easier and more effective to teach children what their guiding principles should be rather than to list out every possible decision they might encounter and tell them what to do and what not to do. "That's the approach we're taking with AI ethics," Sengupta said. "We are telling a child everything it can and cannot do instead of providing guiding principles and then allowing them to figure it out for themselves."
 
 For now, we have to turn to humans to develop rules and technologies that promote responsible AI. Shephard said this includes programming products and offers that protect human interests and are not biased against certain groups, such as minority groups, those with special needs and the poor. The latter is especially concerning as AI has the potential to spur massive social and economic warfare, furthering the divide between those who can afford technology (including human augmentation) and those who cannot.
+
+## The EU AI first regulation act 
+The European Union (EU) has recently introduced the EU AI Act, marking a significant milestone in the regulation of artificial intelligence (AI) technologies. This  legislation aims to govern the development, deployment, and use of AI systems within the EU, addressing various ethical, legal, and technical aspects.
+
+The EU AI Act defines AI systems and lays out the scope of its application, ensuring that all relevant stakeholders understand the regulations. It distinguishes between different types of AI systems based on their risk levels, with higher-risk systems subject to stricter requirements.
+
+### Prohibition of Certain AI Practices
+
+Certain AI practices deemed unacceptable or high-risk are prohibited under the EU AI Act. These include AI systems that manipulate human behavior or exploit vulnerabilities, as well as those used for social scoring or biometric identification in public spaces.
+
+### Transparency and Accountability
+
+Developers and providers of AI systems must ensure transparency regarding the system's capabilities, limitations, and intended use. They are also required to maintain records of the system's development and performance to enable accountability.
+
+### Data Governance and Privacy
+
+It mandates that AI systems must be trained on high-quality data, free from biases and inaccuracies. Additionally, privacy-enhancing techniques must be implemented to safeguard individuals' personal data.
+
+### Human Oversight and Control
+
+Human oversight and control are essential components of AI governance under the EU AI Act. The legislation requires that humans retain ultimate authority over AI systems, especially in critical decision-making processes that may impact individuals' rights and freedoms.
+
+### Implications and Future Outlook
+
+The EU AI Act represents a significant step towards establishing a framework for responsible AI development and deployment. By setting clear rules and standards, the legislation aims to foster trust in AI technologies while mitigating potential risks and harms.
+
+However, implementing and enforcing the EU AI Act will pose various challenges, including compliance monitoring, enforcement mechanisms, and international alignment. Collaboration between policymakers, industry stakeholders, and civil society will be crucial in addressing these challenges and ensuring the effective regulation of AI in the EU.
+
+<p align="center">
+  <img width="200" src="media/AI/eu-artificial-intelligence-act.jpg" alt="">
+</p>
 
 ## A Practical Guide to Building Ethical AI
 

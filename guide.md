@@ -130,7 +130,8 @@ As AI becomes more and more prevalent in our every day life, changing multiple i
 <p align="center">
   <img width="250" src="media/AI/AI-ethics.jpg" alt="">
 </p>
- Source:Texas A&M University School
+<br>Source:Texas A&M University School</br>
+
 ## Chronological overview of the development of AI
 This chronology provides a broad overview of the evolution of AI, highlighting key developments and trends over time.
 

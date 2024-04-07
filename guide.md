@@ -105,9 +105,13 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
 
 
 ## Introduction
-This document focuses on **AI and Ethics**, a set of guiding principles that are used to ensure the responsible use of AI. Although the goal is a secure, safe and humane approach, this has been questioned by a lot of people causing various ethical concerns.
+This document focuses on **AI and Ethics**, a set of guiding principles that are used to ensure the responsible use of AI. These are rules we use to make sure AI (Artificial Intelligence) is used in good ways. Some people worry about whether we can really make AI safe and fair for everyone.
 
-It is important to start the topic of AI and Ethics by defining and introducing these two main concepts separately at a theoretical level.
+AI is about making computers do things that usually need human intelligence. Ethics is about what is right and wrong. Together, they make sure we use AI in ways that are good for everyone.
+
+Later in this guide, we talk more about what AI is and why ethics are important (you can find this in the section [Defining Artificial Intelligence (AI)](#defining-artificial-intelligence-ai) and [Understanding Ethics](#understanding-ethics)). We also look at some big challenges, like making sure AI doesn’t unfairly pick or treat people differently (check out the sections on [Ethical Conserns](#ethical-concerns).
+
+By starting with these ideas, we want to show how AI can be amazing if we use it carefully and think about how it affects everyone.
 
 ### Defining Artificial Intelligence (AI)
 Artificial Intelligence (AI) is a branch of computer science focused on the creation computer programs and machines that can be characterized as intelligent. The intelligence referred to here is same as human intelligence in the sense that someone that is intelligent :

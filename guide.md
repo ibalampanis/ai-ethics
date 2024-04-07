@@ -243,6 +243,12 @@ Automation driven by AI has the potential to disrupt labor markets, leading to j
 The development of autonomous weapons powered by AI raises serious ethical questions about the delegation of lethal decision-making to machines. Concerns include the potential for unintended consequences, civilian harm, and the erosion of moral responsibility in warfare.
 Additionally, the deployment of such weapons may exacerbate existing geopolitical tensions and increase the likelihood of arms races among nations striving for technological superiority. As debates surrounding autonomous weapons continue to evolve, interdisciplinary collaboration among ethicists, policymakers, technologists, and military experts is essential to develop regulatory frameworks that uphold ethical standards and mitigate the risks associated with these advanced technologies.
 
+<p align="center">
+  <img width="200" src="media/AI/rifle.png" alt="">
+</p>
+
+*Icon made by Freepik from [www.flaticon.com](https://www.flaticon.com/)*
+
 ### Algorithmic Transparency
 The frequent lack of transparency in algorithmic design, creates major concerns when it comes to the interests and the motives of the creators. The development of AI by various companies often contains the danger of system manipulation, in order to address external motives. This could potentially lead to incidents of discrimination, or inability to mitigate bias.
 

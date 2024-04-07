@@ -25,6 +25,7 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
     - [Responsibility](#responsibility)
     - [AI in Mental Health Care](#ai-in-mental-health-care)
     - [AI in Education](#ai-in-education)
+    - [AI in Healthcare](#ai-in-healthcare)
     - [Social Governance](#social-governance)
     - [Misinformation](#misinformation)
     - [AI in Criminal Justice](#ai-in-criminal-justice)

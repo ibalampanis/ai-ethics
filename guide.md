@@ -76,7 +76,7 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
     - [Sustainability](#sustainability)
   - [The future of ethical AI](#the-future-of-ethical-ai)
   - [AI on AI](#ai-on-ai)
-  - [The EU AI first regulation act](#the-eu-first-regulation-ai-act)
+  - [The EU AI first regulation act](#the-eu-ai-first-regulation-act)
   - [A Practical Guide to Building Ethical AI](#a-practical-guide-to-building-ethical-ai)
   - [Can AI Help Us In Making This World More Ethical?](#can-ai-help-us-in-making-this-world-more-ethical)
   - [A Guide to Parenting in the era of AI](#a-guide-to-parenting-in-the-ai-era)
@@ -825,7 +825,7 @@ In 2023, Sophia gave an interview on Al Jazeera English, discussing many topics,
 More on the issue can be found on the interview via this [link](https://www.youtube.com/watch?v=bJjXq6Pj0_c).
 
 
-## The EU AI first regulation act 
+## The EU AI first regulation act
 The European Union (EU) has recently introduced the EU AI Act, marking a significant milestone in the regulation of artificial intelligence (AI) technologies. This  legislation aims to govern the development, deployment, and use of AI systems within the EU, addressing various ethical, legal, and technical aspects.
 
 The EU AI Act defines AI systems and lays out the scope of its application, ensuring that all relevant stakeholders understand the regulations. It distinguishes between different types of AI systems based on their risk levels, with higher-risk systems subject to stricter requirements.

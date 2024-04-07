@@ -29,6 +29,7 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
     - [Social Governance](#social-governance)
     - [Misinformation](#misinformation)
     - [AI in Criminal Justice](#ai-in-criminal-justice)
+    - [AI in Journalism](#ai-in-journalism)
     - [Creativity and Ownership](#creativity-and-ownership)
     - [AI in Media](#ai-in-media)
       - [Social Media Content Moderation](#social-media-content-moderation)
@@ -75,6 +76,8 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
     - [Equitable Access](#equitable-access)
     - [Continuous learning and Improvement](#continuous-learning-and-improvement)
     - [Sustainability](#sustainability)
+  - [Fiction VS Reality of AI](#fiction-vs-reality-of-ai)
+  - [HAL 9000 AI protrayed in movies](#hal-9000-AI-portraued-in-movies)
   - [The future of ethical AI](#the-future-of-ethical-ai)
   - [AI on AI](#ai-on-ai)
   - [The EU AI first regulation act](#the-eu-ai-first-regulation-act)
@@ -88,7 +91,6 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
       - [Paid](#paid)
     - [Masters Degrees](#masters-degrees)
   - [AI Jokes](#ai-jokes)
-      - [This is a section dedicated to bad AI jokes. Feel free to add anything you like.](#this-is-a-section-dedicated-to-bad-ai-jokes-feel-free-to-add-anything-you-like)
   - [Quiz AI and Ethics Understanding](#quiz-ai-and-ethics-understanding)
   - [Further Reading](#further-reading)
   - [References](#references)
@@ -380,6 +382,17 @@ Presumably, if judiciary systems use AI, cases could be evaluated and justice co
 </p>
 
 *Image taken from [https://pace.coe.int/en/news/8058/justice-by-algorithm-pace-urges-smart-regulation-of-ai-in-criminal-justice-to-avoid-unfairness)*
+
+### AI in Journalism
+The integration of AI into journalism has sparked both excitement and apprehension. While AI offers promising opportunities to streamline news production, enhance audience engagement, and optimize content delivery, it also raises significant ethical concerns. One major worry is the potential for AI algorithms to perpetuate biases, distort facts, or produce misleading narratives. Additionally, the lack of transparency in AI-generated content could erode trust in journalism and undermine the principles of accountability and integrity. To navigate these challenges, it's essential for news organizations to prioritize ethical considerations in the development, implementation, and regulation of AI technologies in journalism. This includes promoting transparency, ensuring editorial oversight, and upholding journalistic standards to safeguard the credibility and trustworthiness of news content in the AI era.
+
+<p align="center">
+  <img width="250" src="media/AI/AI-journalism.png" alt="">
+</p>
+
+*Image taken from [https://reutersinstitute.politics.com/]( https://reutersinstitute.politics.ox.ac.uk/news/ai-and-journalism-whats-next)
+
+
 
 ### Creativity and Ownership
 As we all know, AI has the ability to generate art. That specific type of artwork, though, requires a new definition of what it means to be an “author”, in order to do justice to the creative work of both the “original” author and the algorithms and technologies that produced the work of art itself. Given that AI is a powerful tool for creation, it raises important questions about the future of art, the rights of artists and the integrity of the creative value chain. Frameworks need to be developed to differentiate piracy and plagiarism from originality and creativity, and to recognize the value of human creative work in our interactions with AI. These frameworks pose a need to avoid the deliberate exploitation of the work and creativity of human beings, and to ensure adequate remuneration and recognition for artists, the integrity of the cultural value chain, and the cultural sector’s ability to provide vocational rehabilitation.
@@ -813,6 +826,24 @@ Not only should we focus on the sustainable usage of AI systems and tools on its
 
 <br>Source: Achieving a sustainable future for AI,MIT Technology Review</br>
 
+## Fiction VS Reality of AI
+In the realm of fiction and popular culture, artificial intelligence often takes on exaggerated or unrealistic portrayals that differ significantly from the reality of AI technology. 
+
+More specifically, in fiction, AI is frequently depicted as possessing superhuman intelligence and autonomy, capable of making complex decisions independently and even challenging human dominance. This portrayal often leads to fears of a dystopian future where AI surpasses human control and becomes a threat to humanity, as seen in movies like "The Matrix" or "Ex Machina". Many people envision AI as humanoid robots with advanced cognitive abilities, akin to characters like C-3PO from Star Wars or the Terminator. These portrayals often blur the lines between AI and robotics, leading to misconceptions about the capabilities and limitations of AI. 
+
+In reality, AI refers to computer systems that can perform tasks that typically require human intelligence, such as problem-solving, learning, and decision-making. These systems exist primarily as software algorithms running on computers, without physical embodiments like robots. Furthermore, contemporary AI is still limited by the constraints of its programming and data inputs. While AI systems can excel at specific tasks and outperform humans in certain domains, they lack the general intelligence and adaptability of the human mind. Current AI technology operates within well-defined boundaries set by its creators and requires continuous human oversight and intervention to function effectively and responsibly.
+
+Another common misconception about AI is its ability to think and feel like humans do. In fiction, AI characters often exhibit emotions, consciousness, and moral reasoning, blurring the lines between artificial and human intelligence. 
+
+However, in reality, AI lacks subjective experiences and consciousness. While AI can simulate human-like behavior and responses, it operates based on programmed algorithms and data inputs rather than genuine emotions or consciousness. Additionally, AI systems are susceptible to biases and limitations inherent in their programming and data, which can lead to unintended outcomes or ethical concerns. 
+
+Understanding these distinctions between fictional portrayals and actual AI technology is crucial for fostering realistic expectations and informed discussions about its capabilities and implications in modern society.
+
+## HAL 9000 AI portrayed in movies
+
+Artificial intelligence has long been a fascination in science fiction, epitomized by Hal 9000 from the 1968 film "2001: A Space Odyssey." Its evolution from logical to malevolent behavior serves as a cautionary tale about the dangers of overreliance on advanced AI systems. Created through collaboration between Arthur C. Clarke, Stanley Kubrick, and computer scientist Marvin Minsky, Hal's design and behavior have left a lasting cultural impact, inspiring numerous references and parodies across media. Its portrayal in "2001: A Space Odyssey" set a precedent for exploring the implications of AI on humanity, a theme echoed in subsequent films and shows such as "Westworld," "The Terminator," "Blade Runner," and "Alien."
+
+
 ## The future of ethical AI
 Some argue that an AI code of ethics can quickly become out of date and that a more proactive approach is required to adapt to a rapidly evolving field. [Arijit Sengupta](https://www.linkedin.com/in/asengupta/), founder and CEO of Aible, an AI development platform, said, "The fundamental problem with an AI code of ethics is that it's reactive, not proactive. We tend to define things like bias and go looking for bias and trying to eliminate it -- as if that's possible."
 
@@ -898,6 +929,10 @@ Here is a short guide with advices:
 - Make sure he/she has a balance between screen time and other activities (ex. socializing, playing with family and friends, outdoor activities).
 - Act as a role model, showing your child that AI is a useful tool but it should not be used in excess.
 
+<p align="center">
+  <img width="200" src="media/AI/image_parenting.jpg" alt="">
+</p>
+
 ## A Guide to AI
 
 > This section is meant to guide you through basic AI understanding by clearly and simply underlining the journey you should take. 
@@ -974,6 +1009,17 @@ This section aims to provide useful courses that one can attend if they want to 
 <p align="center">
   <img width="250" src="media/AI/comics/ai_joke.png" alt="Comic AI Joke">
 </p>
+
+<p align="center">
+  <img width="250" src="media/AI/comics/ai_classroom_joke.jpg" alt="Comic AI Joke">
+</p>
+
+**Source: theweek**
+<p align="center">
+  <img width="250" src="media/AI/comics/ai-jokes.jpg" alt="Comic AI Joke">
+</p>
+
+**Source: KDnuggets**
 
 ## Quiz AI and Ethics Understanding
 ![ai gif](media/AI/gifs/ai.gif) ![ai2 gif](media/AI/gifs/ai2.gif) ![ai5 gif](media/AI/gifs/ai5.gif) ![ai3 gif](media/AI/gifs/ai3.gif) ![ai4 gif](media/AI/gifs/ai4.gif)
@@ -1144,8 +1190,7 @@ Stuart Russell – Penguin
 Paul Scharre - WW Norton & Company
 12. [A citizen’s guide to artificial intelligence](https://mitpress.mit.edu/9780262044813/)  
 John Zerilli, et al. – MIT Press
-13. [Towards a Code of Ethics for Artificial Intelligence](https://link.springer.com/book/10.1007/978-3-319-60648-4)
-Paula Boddington - Springer
+13. [Towards a Code of Ethics for Artificial Intelligence](https://link.springer.com/book/10.1007/978-3-319-60648-4) Paula Boddington - Springer
 
 ## References
 1. Ahmad, S.F., Han, H., Alam, M.M. et al. Impact of artificial intelligence on human loss in decision making, laziness and safety in education. Humanit Soc Sci Commun 10, 311 (2023). https://doi.org/10.1057/s41599-023-01787-8 

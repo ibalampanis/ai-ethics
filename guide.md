@@ -10,6 +10,7 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
     - [Why do we use AI?](#why-do-we-use-ai)
     - [Understanding Ethics](#understanding-ethics)
     - [Why AI and Ethics](#why-ai-and-ethics)
+    - [AI Terminology](#ai-terminology)
   - [Chronological overview of the development of AI](#chronological-overview-of-the-development-of-ai)
   - [Ethical Concerns](#ethical-concerns)
     - [Bias and Fairness](#bias-and-fairness)
@@ -145,6 +146,28 @@ As AI becomes more and more prevalent in our every day life, changing multiple i
   <img width="250" src="media/AI/AI-ethics.jpg" alt="">
 </p>
 <br>Source: Texas A&M University School</br>
+
+### AI Terminology
+    
+  * **Artificial Intelligence (AI):** The simulation of human intelligence processes by machines, especially computer systems. These processes include learning, reasoning, and self-correction.
+
+  * **Machine Learning (ML):** A subset of AI that involves training a machine to learn from data, allowing it to improve its performance on a specific task over time without being explicitly programmed.
+
+  * **Deep Learning:** An advanced subset of machine learning that uses layered neural networks to analyze various factors in large volumes of data. Deep learning is key to many AI capabilities, such as speech recognition and image analysis.
+
+  * **Neural Network:** A computer system modeled on the human brain's network of neurons. It consists of layers of nodes that process inputs and can learn to perform tasks by analyzing data.
+
+  * **Natural Language Processing (NLP):** A branch of AI that gives machines the ability to read, understand, and derive meaning from human languages.
+
+  * **Computer Vision:** An AI field that trains computers to interpret and understand the visual world. Machines can accurately identify and classify objects — and then react to what they "see" — through images from cameras, videos, and deep learning models.
+
+  * **Algorithm:** A set of rules or instructions given to an AI, ML model, or other computer programs to help it learn from data and make decisions or predictions.
+
+  * **Bias in AI:** Refers to systematic and unfair discrimination in the outcomes of AI systems. This can stem from biased training data or flawed algorithmic design, leading to unethical or unfair results.
+
+  * **Reinforcement Learning:** A type of machine learning technique that enables an algorithm to learn through trial and error using feedback from its own actions and experiences.
+
+  * **Ethics in AI:** The branch of ethics that examines the moral aspects of technology use, focusing on creating and using AI in ways that ensure fairness, accountability, and transparency.
 
 ## Chronological overview of the development of AI
 This chronology provides a broad overview of the evolution of AI, highlighting key developments and trends over time.

@@ -233,6 +233,16 @@ The vast amounts of data required for AI applications raise concerns about priva
 - **Anonimazation**:
 	Whenever possible, personal data should be anonymized to protect individual's privacy. This involves techniques that remove or encrypte identifying information so that individuals cannot be directly or indirectly identified. Common techniques for anonymization include: Generalazation, Randomization, Masking
 
+- **Unauthorized incorporation of user data**
+	On the usual scenario where a user feeds a generative AI some input-data in the form of a query, there's some chance, that the query will be used later  as a part of the training set of the AI. That means that the same data, can later be displayed on a entirely different user, issuing many problems. The problem scales even faster when the end-user isn't informed about the specific usage of his queries.
+
+- **Limited regulatory bodies and safeguards**
+	Many organizations that work on AI technologies, even when practising safe use policies, hold no responsibility when it comes to standards about their development and use of the AI tools. So the vendors get to decide their own storage and security rules without the slightles interference and in many cases causing IP violations.
+
+- **Limited built-in security features for AI models**
+	Because of the lack of regulations and global standards in the development of AI technologies, many models don't have native cybersecurity safeguards. This makes it easy for evil-users to access sensitive data such as PII
+
+
 <p align="center">
   <img width="200" src="media/AI/privacy.png" alt="">
 </p>
@@ -1282,7 +1292,6 @@ John Zerilli, et al. – MIT Press
 46. Khan, I (2024) “An abstract render of AI in digital cyberspace.”  https://www.cnet.com/tech/computing/chatgpt-glossary-42-ai-terms-that-everyone-should-know/ 
 47. Samuel Gibbs (2017) Elon Musk: regulate AI to combat 'existential threat' before it's too late, The Guardian
 https://www.theguardian.com/technology/2017/jul/17/elon-musk-regulation-ai-combat-existential-threat-tesla-spacex-ceo
-<<<<<<< HEAD
 46. Leverhulme Centre for the Future of Intelligence. 12 Books to read about AI Ethics. http://lcfi.ac.uk/news-and-events/news/2021/jun/28/ai-ethics-book-list/
 47. Colema, J (2023) “AI’s Climate Impact Goes beyond Its Emissions”.
 48. Aimee van Wynsberghe (2021),” Sustainable AI: AI for sustainability and the sustainability of AI”
@@ -1294,7 +1303,6 @@ https://www.theguardian.com/technology/2017/jul/17/elon-musk-regulation-ai-comba
 54. Generative AI in health care: Opportunities, challenges, and policy (January 8, 2024) by Niam Yaraghi https://www.brookings.edu/articles/generative-ai-in-health-care-opportunities-challenges-and-policy/#:~:text=While%20AI%20may%20have%20potential,and%20technological%20and%20practical%20limitations.
 55. Generative AI For Data Privacy: 5 AI Data Protection Abilities, 2024, BigID, Alexis Porter https://bigid.com/blog/5-ways-generative-ai-improves-data-privacy/
 56. Blackman, R. (2020). A Practical Guide to Building Ethical AI. Harvard Business Review. [online] 15 Oct. Available at: https://hbr.org/2020/10/a-practical-guide-to-building-ethical-ai.
-=======
 48. Leverhulme Centre for the Future of Intelligence. 12 Books to read about AI Ethics. http://lcfi.ac.uk/news-and-events/news/2021/jun/28/ai-ethics-book-list/
 49. Colema, J (2023) “AI’s Climate Impact Goes beyond Its Emissions”.
 50. Aimee van Wynsberghe (2021),” Sustainable AI: AI for sustainability and the sustainability of AI”
@@ -1309,5 +1317,4 @@ https://www.theguardian.com/technology/2017/jul/17/elon-musk-regulation-ai-comba
 59. Anderson, E. T., & Simester, D. (2018). A Step-by-Step Guide to Smart Business Experiments. Harvard Business Review.
 60. Al Jazeera English. (2023, August 19). Robot Sophia: 'Not a thing' could stop a robot takeover | Talk to Al Jazeera [Video]. YouTube. https://www.youtube.com/watch?v=3T8zpFbC7Mw
 61. AI, Automation, and the Future of Work: Ten Things to Solve For https://www.mckinsey.com/featured-insights/future-of-work/ai-automation-and-the-future-of-work-ten-things-to-solve-for 
-
->>>>>> c57f28559b0b0fa8e74e8bb02b41f8fe4dcd33bf
+62. Hiter, S. (2023). AI and Privacy Issues: What You Need to Know

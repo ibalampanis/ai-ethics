@@ -1303,18 +1303,8 @@ https://www.theguardian.com/technology/2017/jul/17/elon-musk-regulation-ai-comba
 54. Generative AI in health care: Opportunities, challenges, and policy (January 8, 2024) by Niam Yaraghi https://www.brookings.edu/articles/generative-ai-in-health-care-opportunities-challenges-and-policy/#:~:text=While%20AI%20may%20have%20potential,and%20technological%20and%20practical%20limitations.
 55. Generative AI For Data Privacy: 5 AI Data Protection Abilities, 2024, BigID, Alexis Porter https://bigid.com/blog/5-ways-generative-ai-improves-data-privacy/
 56. Blackman, R. (2020). A Practical Guide to Building Ethical AI. Harvard Business Review. [online] 15 Oct. Available at: https://hbr.org/2020/10/a-practical-guide-to-building-ethical-ai.
-48. Leverhulme Centre for the Future of Intelligence. 12 Books to read about AI Ethics. http://lcfi.ac.uk/news-and-events/news/2021/jun/28/ai-ethics-book-list/
-49. Colema, J (2023) “AI’s Climate Impact Goes beyond Its Emissions”.
-50. Aimee van Wynsberghe (2021),” Sustainable AI: AI for sustainability and the sustainability of AI”
-51. Knight, W. (2019, November 19). The Apple Card didn’t “See” gender—and that’s the problem. WIRED. https://www.wired.com/story/the-apple-card-didnt-see-genderand-thats-the-problem/
-52. Drapkin, A (2024) “An abstract render of AI in digital cyberspace.” https://tech.co/news/list-ai-failures-mistakes-errors
-53. The importance of sustainable AI, 2023-12-07, IEC Editorial Team https://www.iec.ch/blog/importance-sustainable-ai
-54. team, Aic. (2023). The role of AI in content moderation and censorship. https://aicontentfy.com/en/blog/role-of-ai-in-content-moderation-and-censorship
-55. The benefits of AI in healthcare (July 11, 2023) By IBM Education https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/
-56. Generative AI in health care: Opportunities, challenges, and policy (January 8, 2024) by Niam Yaraghi https://www.brookings.edu/articles/generative-ai-in-health-care-opportunities-challenges-and-policy/#:~:text=While%20AI%20may%20have%20potential,and%20technological%20and%20practical%20limitations.
-57. Generative AI For Data Privacy: 5 AI Data Protection Abilities, 2024, BigID, Alexis Porter https://bigid.com/blog/5-ways-generative-ai-improves-data-privacy/
-58. Morris, M. R. (2020). AI and accessibility. Communications of the ACM, 63(6), 35-37.
-59. Anderson, E. T., & Simester, D. (2018). A Step-by-Step Guide to Smart Business Experiments. Harvard Business Review.
-60. Al Jazeera English. (2023, August 19). Robot Sophia: 'Not a thing' could stop a robot takeover | Talk to Al Jazeera [Video]. YouTube. https://www.youtube.com/watch?v=3T8zpFbC7Mw
-61. AI, Automation, and the Future of Work: Ten Things to Solve For https://www.mckinsey.com/featured-insights/future-of-work/ai-automation-and-the-future-of-work-ten-things-to-solve-for 
-62. Hiter, S. (2023). AI and Privacy Issues: What You Need to Know
+57. Morris, M. R. (2020). AI and accessibility. Communications of the ACM, 63(6), 35-37.
+58. Anderson, E. T., & Simester, D. (2018). A Step-by-Step Guide to Smart Business Experiments. Harvard Business Review.
+59. Al Jazeera English. (2023, August 19). Robot Sophia: 'Not a thing' could stop a robot takeover | Talk to Al Jazeera [Video]. YouTube. https://www.youtube.com/watch?v=3T8zpFbC7Mw
+60. AI, Automation, and the Future of Work: Ten Things to Solve For https://www.mckinsey.com/featured-insights/future-of-work/ai-automation-and-the-future-of-work-ten-things-to-solve-for 
+61. Hiter, S. (2023). AI and Privacy Issues: What You Need to Know

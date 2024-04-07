@@ -474,7 +474,7 @@ The use of AI to enhance accessibility for opportunities and ethical considerati
 Addressing these ethical considerations in AI for accessibility ensures that advancements in technology translate into real-world benefits for all individuals, particularly those with disabilities. By fostering an inclusive, thoughtful approach to AI development, society can leverage these powerful tools to create a more accessible, equitable world.
 
 <p align="center">  
-  <img width="200" src="media/AI/ai_and_accessibility.jpg" alt="">
+  <img width="200" src="media/AI/ai_and_accessibility.png" alt="">
 </p>
 
 *Image icon made by DALL·E, OpenAI's text-to-image model.*

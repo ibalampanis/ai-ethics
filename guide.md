@@ -536,7 +536,7 @@ The deployment of AI technologies can indeed yield detrimental consequences, as 
 <p align="center">
   <img width="250" src="media/AI/ai-deepfakes.png" alt="">
 </p>
-*Image taken from [https:// https://www.mygreatlearning.com/] (https://www.mygreatlearning.com/blog/all-you-need-to-know-about-deepfake-ai/)*
+Image taken [here](https://www.mygreatlearning.com/blog/all-you-need-to-know-about-deepfake-ai/)
 
 
 

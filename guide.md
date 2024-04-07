@@ -44,6 +44,7 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
     - [AI in Ethical Decision-Making](#ai-in-ethical-decision-making)
     - [AI and Accessibility](#ai-and-accessibility)
     - [AI and Deepfakes](#ai-and-deepfakes)
+    -	[Ethical Considerations in AI and Gaming in the Future](#ethical-considerations-in-ai-and-gaming-in-the-future)
   - [Examples of Controversial AI Applications](#examples-of-controversial-ai-applications)
     - [Photo-scraping scandal of IBM](#photo-scraping-scandal-of-ibm)
     - [Google Nightingale Data Controversy](#google-nightingale-data-controversy)
@@ -539,6 +540,17 @@ The deployment of AI technologies can indeed yield detrimental consequences, as 
 **Voice Synthesis:** AI-powered voice synthesis techniques can generate realisting sounding speech base on textual input. Deepfake audio recording can be used to impersonate individuals spreading false information or commiting fraud.
 
 **Legal and Ethical Ramification:** Finally, the proliferation of deepfake technology raises complex legal and ethical questions regarding issues such as consent, defamation , and digital rights. Lawmakers and policymakers must grapplse with how to regulate deepfakes effectivel while upholding fundamental principles of privacy and freedom of expression
+
+### Ethical Considerations in AI and Gaming in the Future
+In an era characterized by the absolute integration of artificial intelligence (AI) into our daily activities, the gaming industry takes advantage of this technology to create captivating and engaging experiences for the users.
+Nonetheless, this rapid evolution gives rise to ethical considerations that demand our attention. In this chapter, we analyze the importance of artificial intelligence in gaming, and we also emphasize the need to face the ethical issues it brings forth.
+
+<p align="center">
+  <img width="200" src="ai-gaming.jpeg " alt="">
+</p>
+
+Experts agree that is difficult to provide the evolution of artificial intelligence in the future. However, they claim that AI will have an important impact in the game industry, in all stages of its lifecycle, including game development, dissemination and perception. In the development stage, AI is expected to appear during the ideation and production processes by generating the requisite code to implement images and texts. The narrative – focused games, like RPGs (Role – Playing game) and MMOs (Massively Multiplayer Online game) can benefit from AI’s capacity to tell stories and adjust players behavior. Also, games like Minecraft, that focus on biome creation or games that incorporate randomization can also benefit from AI’s capabilities, by designing more creative maps and levels and improving the coherence of game elements. Lastly, game industry experts believe that Virtual Reality (VR) technology hasn’t yet reached its full potential and AI will totally benefit it by making more realistic simulations and interactions.
+
 
 ## Examples of Controversial AI Applications
 
@@ -1274,5 +1286,6 @@ https://www.theguardian.com/technology/2017/jul/17/elon-musk-regulation-ai-comba
 58. Morris, M. R. (2020). AI and accessibility. Communications of the ACM, 63(6), 35-37.
 59. Anderson, E. T., & Simester, D. (2018). A Step-by-Step Guide to Smart Business Experiments. Harvard Business Review.
 60. Al Jazeera English. (2023, August 19). Robot Sophia: 'Not a thing' could stop a robot takeover | Talk to Al Jazeera [Video]. YouTube. https://www.youtube.com/watch?v=3T8zpFbC7Mw
+70. Melhart, D. The Ethics of AI in Games, Copenhagen, Denmark
 
 >>>>>> c57f28559b0b0fa8e74e8bb02b41f8fe4dcd33bf

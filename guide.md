@@ -616,7 +616,7 @@ In an era characterized by the absolute integration of artificial intelligence (
 Nonetheless, this rapid evolution gives rise to ethical considerations that demand our attention. In this chapter, we analyze the importance of artificial intelligence in gaming, and we also emphasize the need to face the ethical issues it brings forth.
 
 <p align="center">
-  <img width="200" src="ai-gaming.jpeg " alt="">
+  <img width="200" src="media/AI/ai-gaming.jpeg " alt="">
 </p>
 
 Experts agree that is difficult to provide the evolution of artificial intelligence in the future. However, they claim that AI will have an important impact in the game industry, in all stages of its lifecycle, including game development, dissemination and perception. In the development stage, AI is expected to appear during the ideation and production processes by generating the requisite code to implement images and texts. The narrative – focused games, like RPGs (Role – Playing game) and MMOs (Massively Multiplayer Online game) can benefit from AI’s capacity to tell stories and adjust players behavior. Also, games like Minecraft, that focus on biome creation or games that incorporate randomization can also benefit from AI’s capabilities, by designing more creative maps and levels and improving the coherence of game elements. Lastly, game industry experts believe that Virtual Reality (VR) technology hasn’t yet reached its full potential and AI will totally benefit it by making more realistic simulations and interactions.

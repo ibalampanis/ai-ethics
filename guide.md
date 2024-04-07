@@ -1276,6 +1276,8 @@ Paul Scharre - WW Norton & Company
 12. [A citizen’s guide to artificial intelligence](https://mitpress.mit.edu/9780262044813/)  
 John Zerilli, et al. – MIT Press
 13. [Towards a Code of Ethics for Artificial Intelligence](https://link.springer.com/book/10.1007/978-3-319-60648-4) Paula Boddington - Springer
+14. [An Overview of Artificial Intelligence Ethics](https://ieeexplore.ieee.org/abstract/document/9844014) Changwu Huang - IEEE Transactions on Artificial Intelligence
+15. [Incorporating Ethics into Artificial Intelligence](https://link.springer.com/article/10.1007/s10892-017-9252-2) Amitai Etzioni - Springer
 
 ## References
 1. Ahmad, S.F., Han, H., Alam, M.M. et al. Impact of artificial intelligence on human loss in decision making, laziness and safety in education. Humanit Soc Sci Commun 10, 311 (2023). https://doi.org/10.1057/s41599-023-01787-8 

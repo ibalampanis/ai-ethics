@@ -76,6 +76,7 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
     - [Continuous learning and Improvement](#continuous-learning-and-improvement)
     - [Sustainability](#sustainability)
   - [Fiction VS Reality of AI](#fiction-vs-reality-of-ai)
+  - [HAL 9000 AI protrayed in movies](#hal-9000-AI-portraued-in-movies)
   - [The future of ethical AI](#the-future-of-ethical-ai)
   - [AI on AI](#ai-on-ai)
   - [The EU AI first regulation act](#the-eu-ai-first-regulation-act)
@@ -836,6 +837,10 @@ Another common misconception about AI is its ability to think and feel like huma
 However, in reality, AI lacks subjective experiences and consciousness. While AI can simulate human-like behavior and responses, it operates based on programmed algorithms and data inputs rather than genuine emotions or consciousness. Additionally, AI systems are susceptible to biases and limitations inherent in their programming and data, which can lead to unintended outcomes or ethical concerns. 
 
 Understanding these distinctions between fictional portrayals and actual AI technology is crucial for fostering realistic expectations and informed discussions about its capabilities and implications in modern society.
+
+## HAL 9000 AI portrayed in movies
+
+Artificial intelligence has long been a fascination in science fiction, epitomized by Hal 9000 from the 1968 film "2001: A Space Odyssey." Its evolution from logical to malevolent behavior serves as a cautionary tale about the dangers of overreliance on advanced AI systems. Created through collaboration between Arthur C. Clarke, Stanley Kubrick, and computer scientist Marvin Minsky, Hal's design and behavior have left a lasting cultural impact, inspiring numerous references and parodies across media. Its portrayal in "2001: A Space Odyssey" set a precedent for exploring the implications of AI on humanity, a theme echoed in subsequent films and shows such as "Westworld," "The Terminator," "Blade Runner," and "Alien."
 
 
 ## The future of ethical AI

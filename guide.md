@@ -54,6 +54,7 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
     - ["The Next Rembrandt" Painting](#the-next-rembrandt-painting)
     - [Financial Fraud with Deepfake](#financial-fraud-with-deepfake)
     - [Air Canada’s Chatbot Controversy](#air-canadas-chatbot-controversy)
+    - [Sports Illustrated Controversy](#sports-illustrated-controversy)
     - [Amazon's Gender-Biased Algorithm Incident](#amazons-gender-biased-algorithm-incident)
     - [Tay, Microsoft's AI Chatbot](#tay-microsofts-ai-chatbot)
     - [Apple Credit Card Gender Discrimination](#apple-credit-card-gender-discrimination)
@@ -667,6 +668,16 @@ In 2016, a Rembrandt painting, named “the Next Rembrandt”, was designed by a
 
 In February 2024 a finance worker in Hong Kong was scammed $25 million in a video call conference where all attendees were deepfake creations, including the Chief Financial Officer. Initially the worker received a message from the CFO regarding a confidential transaction that was later confirmed on the video call, therefore leading to the authorization of the transfer. 
 Incidents like this indicate the threat posed by ai and deepfake technology regarding financial exploitation, identity theft and deception. As AI becomes more sophisticated and has the ability to create highly convincing video and audio content ethical concerns arise especially surrounding consent and the unauthorized use of one’s image and voice.
+### Sports Illustrated Controversy 
+
+<p align="center">
+  <img width="200" src="media/AI/AI-Generated-Articles.png" alt="">
+</p>
+
+*Image taken from [www.scroll.in](https://scroll.in/article/997898/fake-news-generated-by-artificial-intelligence-can-be-convincing-enough-to-trick-even-experts)*
+
+
+Sports Illustrated was found to be publishing AI generated articles being written by AI generated columnists with fake published bios. Thats why The Arena Group terminated CEO Ross Levinsohn.
 
 ### Air Canada’s Chatbot Controversy
 
@@ -1331,3 +1342,4 @@ https://www.theguardian.com/technology/2017/jul/17/elon-musk-regulation-ai-comba
 59. Al Jazeera English. (2023, August 19). Robot Sophia: 'Not a thing' could stop a robot takeover | Talk to Al Jazeera [Video]. YouTube. https://www.youtube.com/watch?v=3T8zpFbC7Mw
 60. AI, Automation, and the Future of Work: Ten Things to Solve For https://www.mckinsey.com/featured-insights/future-of-work/ai-automation-and-the-future-of-work-ten-things-to-solve-for 
 61. Hiter, S. (2023). AI and Privacy Issues: What You Need to Know
+62. 2023 saw a number of AI scandals, demonstrating the need for clearer guidelines for brands and publishers. | Emarketer | https://www.emarketer.com/content/2023-saw-number-of-ai-scandals-demonstrating-need-clearer-guidelines-brands-publishers

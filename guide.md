@@ -628,35 +628,35 @@ The Apple credit card, issued by Goldman Sachs, faced criticism for alleged gend
 <img width="300" src="media/AI/leaders/Satya_Nadella.jpg" alt="Satya Nadella">
 "We need to ask ourselves not only what computers can do, but what they should do."
 
->**Elon Musk**, CEO of Tesla and SpaceX
+>**[Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk)**, CEO of Tesla and SpaceX
   <img width="300" src="media/AI/leaders/Elon_Musk.jpg" alt="Elon Musk">
 "AI is a rare case where I think we need to be proactive in regulation instead of reactive."
 
->**Tim Cook**, CEO of Apple
+>**[Tim Cook](https://en.wikipedia.org/wiki/Tim_Cook)**, CEO of Apple
 
   <img width="300" src="media/AI/leaders/Tim_Cook.jpg" alt="Tim Cook">
 
 *"Technology's potential is, of course, limitless. But without values or direction, it could become a weapon."*
 
->**Kai-Fu Lee**, AI Expert, Chairman & CEO of Sinovation Ventures
+>**[Kai-Fu Lee](https://en.wikipedia.org/wiki/Kai-Fu_Lee)**, AI Expert, Chairman & CEO of Sinovation Ventures
 
 <img width="300" src="media/AI/leaders/Dr_Kaifu_Lee.jpg" alt="Kai-Fu Lee">
 
 *"I believe AI is going to change the world more than anything in the history of humanity. More than electricity. "*
 
->**Ginni Rometty**, CEO of IBM
+>**[Ginni Rometty](https://en.wikipedia.org/wiki/Ginni_Rometty)**, CEO of IBM
 
   <img width="300" src="media/AI/leaders/Ginni_Rometty.jpg" alt="Ginni Rometty">
 
 *"Ethics and responsibility need to be at the core of the AI we build. We need to ensure AI is transparent, explainable, and free from bias."*
 
->**Mark Zuckerberg**, CEO of Facebook
+>**[Mark Zuckerberg](https://en.wikipedia.org/wiki/Mark_Zuckerberg)**, CEO of Facebook
 
   <img width="300" src="media/AI/leaders/Mark_Zuckerberg.jpg" alt="Mark Zuckerberg">
 
 *"I'm optimistic about AI, but we need to ensure it's used for good and doesn't harm people."*
 
->**Bill Gates**, Co-founder of Microsoft
+>**[Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates)**, Co-founder of Microsoft
 
   <img width="300" src="media/AI/leaders/Bill_Gates.jpg" alt="Bill Gates">
 

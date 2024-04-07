@@ -142,7 +142,7 @@ As AI becomes more and more prevalent in our every day life, changing multiple i
 This chronology provides a broad overview of the evolution of AI, highlighting key developments and trends over time.
 
 1. **Pre-1950s: Origins of AI**  
-   * Early concepts and ideas about artificial intelligence emerged in the works of mathematicians and philosophers such as [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing), who proposed the Turing Test in 1950 as a measure of a machine's intelligence.
+   * Early concepts and ideas about artificial intelligence emerged in the works of mathematicians and philosophers such as [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing), who proposed the <detail><summary>Turing Test</summary>The Turing test, originally called the imitation game by Alan Turing in 1950,[2] is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human. Turing proposed that a human evaluator would judge natural language conversations between a human and a machine designed to generate human-like responses. </detail> in 1950 as a measure of a machine's intelligence.
 
 2. **1950s-1960s: Birth of AI**
    * The term "artificial intelligence" was coined by [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)) in 1956 at the Dartmouth Conference, marking the formal beginning of AI as a field of study.

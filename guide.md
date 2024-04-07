@@ -33,6 +33,7 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
     - [AI in Media](#ai-in-media)
       - [Social Media Content Moderation](#social-media-content-moderation)
     - [AI in Marketing](#ai-in-marketing)
+      - [Multi-stakeholder model of AI ethics in marketing](#multi-stakeholder-model-of-AI-ethics-in-marketing)
     - [AI in Automated vehicles](#ai-in-automated-vehicles)
       - [Technical issues and Responsibility](#technical-issues-and-responsibility)
       - [Ethical Rules and Automated vehicles](#ethical-rules-and-automated-vehicles)
@@ -402,6 +403,24 @@ AI has been the latest breakthrough in marketing with an increasing number of co
 <p align="center">
   <img width="200" src="media/AI/ai-marketing.jpg" alt="">
 </p>
+
+### Multi-stakeholder model of AI ethics in marketing 
+
+The creation, application, and consumption of AI-driven marketing technologies involve a wide range of stakeholders, each with unique interests and viewpoints, which are acknowledged by the multi-stakeholder model of AI ethics in marketing. In order to guarantee that AI applications in marketing are created and applied ethically, this paradigm places a strong emphasis on cooperation, openness, and accountability amongst various stakeholders.
+
+<p align="center">
+  <img width="200" src="media/AI/stakeholders_model.webp" alt="">
+</p>
+
+The key stakeholders and their responsibilities accordingly:
+
+*	Business and Marketers: Ensuring respectful and ethical development of AI applications.  
+*	Consumers: Advocacy for privacy and safety rights and fair treatment in marketing practices 
+*	Regulators and Policymakers: responsibility for creating and enforcing laws and regulations that protect consumer rights, prevent deceptive practices, and ensure compliance with data protection standards such as GDPR (General Data Protection Regulation)
+*	AI Developers and Researchers: Adherence to ethical guidelines and best practices in AI development, including fairness, transparency, accountability, and avoiding unintended biases or discrimination.
+*	Ethics Committees and Industry Associations: Development of codes of conduct, guidelines, and certification programs to ensure that businesses and marketers adhere to ethical principles in their AI-driven marketing strategies.
+*	Academic and Civil Society Organizations: Contribution to raise awareness about potential risks and ethical concerns associated with AI in marketing and foster public dialogue on the ethical implications of targeted advertising and data-driven marketing strategies.
+
 
 ### AI in Automated vehicles
 
@@ -1115,3 +1134,4 @@ https://www.theguardian.com/technology/2017/jul/17/elon-musk-regulation-ai-comba
 56. Generative AI in health care: Opportunities, challenges, and policy (January 8, 2024) by Niam Yaraghi https://www.brookings.edu/articles/generative-ai-in-health-care-opportunities-challenges-and-policy/#:~:text=While%20AI%20may%20have%20potential,and%20technological%20and%20practical%20limitations.
 57. Generative AI For Data Privacy: 5 AI Data Protection Abilities, 2024, BigID, Alexis Porter https://bigid.com/blog/5-ways-generative-ai-improves-data-privacy/
 58. Morris, M. R. (2020). AI and accessibility. Communications of the ACM, 63(6), 35-37.
+59. Anderson, E. T., & Simester, D. (2018). A Step-by-Step Guide to Smart Business Experiments. Harvard Business Review.

@@ -192,8 +192,10 @@ This chronology provides a broad overview of the evolution of AI, highlighting k
 5. **2010s: Deep Learning and Big Data**
    * Deep learning, a subfield of machine learning, flourished with the development of large-scale neural networks and access to vast amounts of data.
    * Breakthroughs in areas such as image recognition, speech recognition, and language translation showcased the power of deep learning.
+6. **2022: ChatGPT milestone**
+   * In November 2022, OpenAI released ChatGPT, a conversational AI model based on the GPT-3.5 architecture, which marked a significant advancement in natural language processing capabilities. ChatGPT gained widespread attention for its ability to generate coherent and contextually relevant text responses, simulating human-like conversation. This breakthrough highlighted the potential of AI in understanding and generating human language, setting a new benchmark for interactive AI systems
 
-6. **Present and Future: AI Integration and Ethical Concerns**
+7. **Present and Future: AI Integration and Ethical Concerns**
    * AI is increasingly integrated into various aspects of daily life, from virtual assistants and recommendation systems to autonomous vehicles and medical diagnosis.
    * Ethical concerns surrounding AI, including bias, privacy, job displacement, and the societal impact of automation, continue to be hot topics, leading to discussions about responsible AI development and regulation.
 
@@ -1288,6 +1290,8 @@ Paul Scharre - WW Norton & Company
 12. [A citizen’s guide to artificial intelligence](https://mitpress.mit.edu/9780262044813/)  
 John Zerilli, et al. – MIT Press
 13. [Towards a Code of Ethics for Artificial Intelligence](https://link.springer.com/book/10.1007/978-3-319-60648-4) Paula Boddington - Springer
+14. [An Overview of Artificial Intelligence Ethics](https://ieeexplore.ieee.org/abstract/document/9844014) Changwu Huang - IEEE Transactions on Artificial Intelligence
+15. [Incorporating Ethics into Artificial Intelligence](https://link.springer.com/article/10.1007/s10892-017-9252-2) Amitai Etzioni - Springer
 
 ## References
 1. Ahmad, S.F., Han, H., Alam, M.M. et al. Impact of artificial intelligence on human loss in decision making, laziness and safety in education. Humanit Soc Sci Commun 10, 311 (2023). https://doi.org/10.1057/s41599-023-01787-8 

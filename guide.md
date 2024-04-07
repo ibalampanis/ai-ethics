@@ -623,17 +623,14 @@ In 2016, Microsoft released an AI chatbot on Twitter with goal to pick up its le
 The Apple credit card, issued by Goldman Sachs, faced criticism for alleged gender-based discrepancies in credit limits, sparking outrage on social media and accusations of sexism. Despite assurances from Goldman Sachs that the algorithm was impartial and had undergone third-party scrutiny, doubts persisted regarding its transparency and fairness. Critics argued that algorithms, even when designed to be blind to gender, could still perpetuate biases through correlated variables or proxies. The controversy highlighted the need for active monitoring of protected attributes like gender and race to ensure algorithmic fairness, particularly in financial institutions where legal constraints further complicate bias detection due to regulatory restrictions on data collection. The incident underscores the importance of rigorous oversight and transparency in algorithmic decision-making to mitigate biases that undermine fairness and equality in consumer services.
 
 ## Global leaders quotes about AI
-<div>
 
 >**Satya Nadella**, CEO of Microsoft
-<img align="left" width="300" src="media/AI/leaders/Satya_Nadella.jpg" alt="Satya Nadella">
-"We need to ask ourselves not only what computers can do, but what they should do."
-</div> 
-<div align="left">
+<img width="300" src="media/AI/leaders/Satya_Nadella.jpg" alt="Satya Nadella">
+*"We need to ask ourselves not only what computers can do, but what they should do."*
+
 >**Elon Musk**, CEO of Tesla and SpaceX
-</div>
-  <img align ="left" width="300" src="media/AI/leaders/Elon_Musk.jpg" alt="Elon Musk">
-"AI is a rare case where I think we need to be proactive in regulation instead of reactive."</
+  <img width="300" src="media/AI/leaders/Elon_Musk.jpg" alt="Elon Musk">
+*"AI is a rare case where I think we need to be proactive in regulation instead of reactive."*
 
 >**Tim Cook**, CEO of Apple
 

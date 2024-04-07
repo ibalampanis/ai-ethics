@@ -88,7 +88,6 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
       - [Paid](#paid)
     - [Masters Degrees](#masters-degrees)
   - [AI Jokes](#ai-jokes)
-      - [This is a section dedicated to bad AI jokes. Feel free to add anything you like.](#this-is-a-section-dedicated-to-bad-ai-jokes-feel-free-to-add-anything-you-like)
   - [Quiz AI and Ethics Understanding](#quiz-ai-and-ethics-understanding)
   - [Further Reading](#further-reading)
   - [References](#references)
@@ -974,6 +973,12 @@ This section aims to provide useful courses that one can attend if they want to 
 <p align="center">
   <img width="250" src="media/AI/comics/ai_joke.png" alt="Comic AI Joke">
 </p>
+
+<p align="center">
+  <img width="250" src="media/AI/comics/ai_classroom_joke.jpg" alt="Comic AI Joke">
+</p>
+
+**Source: KDnuggets**
 
 ## Quiz AI and Ethics Understanding
 ![ai gif](media/AI/gifs/ai.gif) ![ai2 gif](media/AI/gifs/ai2.gif) ![ai5 gif](media/AI/gifs/ai5.gif) ![ai3 gif](media/AI/gifs/ai3.gif) ![ai4 gif](media/AI/gifs/ai4.gif)

@@ -912,6 +912,10 @@ Here is a short guide with advices:
 - Make sure he/she has a balance between screen time and other activities (ex. socializing, playing with family and friends, outdoor activities).
 - Act as a role model, showing your child that AI is a useful tool but it should not be used in excess.
 
+<p align="center">
+  <img width="200" src="media/AI/image_parenting.jpg" alt="">
+</p>
+
 ## A Guide to AI
 
 > This section is meant to guide you through basic AI understanding by clearly and simply underlining the journey you should take. 

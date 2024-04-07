@@ -75,6 +75,7 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
     - [Equitable Access](#equitable-access)
     - [Continuous learning and Improvement](#continuous-learning-and-improvement)
     - [Sustainability](#sustainability)
+  - [Fiction VS Reality of AI](#fiction-vs-reality-of-ai)
   - [The future of ethical AI](#the-future-of-ethical-ai)
   - [AI on AI](#ai-on-ai)
   - [The EU AI first regulation act](#the-eu-ai-first-regulation-act)
@@ -88,7 +89,6 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
       - [Paid](#paid)
     - [Masters Degrees](#masters-degrees)
   - [AI Jokes](#ai-jokes)
-      - [This is a section dedicated to bad AI jokes. Feel free to add anything you like.](#this-is-a-section-dedicated-to-bad-ai-jokes-feel-free-to-add-anything-you-like)
   - [Quiz AI and Ethics Understanding](#quiz-ai-and-ethics-understanding)
   - [Further Reading](#further-reading)
   - [References](#references)
@@ -136,7 +136,7 @@ As AI becomes more and more prevalent in our every day life, changing multiple i
 <p align="center">
   <img width="250" src="media/AI/AI-ethics.jpg" alt="">
 </p>
-<br>Source:Texas A&M University School</br>
+<br>Source: Texas A&M University School</br>
 
 ## Chronological overview of the development of AI
 This chronology provides a broad overview of the evolution of AI, highlighting key developments and trends over time.
@@ -305,7 +305,7 @@ On the first hand, AI seems to be a really convenient technology to implement in
 
 On the other hand, AI is a powerful technology that can be used for malicious purposes. When it comes to cyberattacks AI can be used to create tools more and more sophisticated malware such as AI-driven malware that can adapt to every structure and spread very fast.
 
-<br> Source : AI in Cybersecurity: A double-edged sword </br>
+<br> Source: AI in Cybersecurity: A double-edged sword </br>
 
 ### Cultural and Social Impact
 The deployment of AI systems can have significant cultural and social implications, impacting norms, values, and human interactions. Issues such as cultural biases in AI, representation in datasets, and the effects of AI-driven decisions on marginalized communities need to be addressed to promote inclusivity and fairness.
@@ -419,8 +419,8 @@ The creation, application, and consumption of AI-driven marketing technologies i
 The key stakeholders and their responsibilities accordingly:
 
 *	Business and Marketers: Ensuring respectful and ethical development of AI applications.  
-*	Consumers: Advocacy for privacy and safety rights and fair treatment in marketing practices 
-*	Regulators and Policymakers: responsibility for creating and enforcing laws and regulations that protect consumer rights, prevent deceptive practices, and ensure compliance with data protection standards such as GDPR (General Data Protection Regulation)
+*	Consumers: Advocacy for privacy and safety rights and fair treatment in marketing practices.
+*	Regulators and Policymakers: responsibility for creating and enforcing laws and regulations that protect consumer rights, prevent deceptive practices, and ensure compliance with data protection standards such as GDPR (General Data Protection Regulation).
 *	AI Developers and Researchers: Adherence to ethical guidelines and best practices in AI development, including fairness, transparency, accountability, and avoiding unintended biases or discrimination.
 *	Ethics Committees and Industry Associations: Development of codes of conduct, guidelines, and certification programs to ensure that businesses and marketers adhere to ethical principles in their AI-driven marketing strategies.
 *	Academic and Civil Society Organizations: Contribution to raise awareness about potential risks and ethical concerns associated with AI in marketing and foster public dialogue on the ethical implications of targeted advertising and data-driven marketing strategies.
@@ -482,7 +482,7 @@ To address these challenges, future efforts should focus on developing explainab
   <img width="200" src="media/AI/ai+scale.png" alt="">
 </p>
 
-** Image source = "https://medium.com/notcentralised/balancing-the-scales-a-pragmatic-approach-to-ai-regulation-96c27b8e9e08"
+**Image source [here](https://medium.com/notcentralised/balancing-the-scales-a-pragmatic-approach-to-ai-regulation-96c27b8e9e08)**
 
 ### AI and Accessibility
 
@@ -624,40 +624,39 @@ The Apple credit card, issued by Goldman Sachs, faced criticism for alleged gend
 
 ## Global leaders quotes about AI
 
->**Satya Nadella**, CEO of Microsoft
-
-<img align="left" width="300" src="media/AI/leaders/Satya_Nadella.jpg" alt="Satya Nadella">
+>**[Satya Nadella](https://en.wikipedia.org/wiki/Satya_Nadella)**, CEO of Microsoft
+<img width="300" src="media/AI/leaders/Satya_Nadella.jpg" alt="Satya Nadella">
 "We need to ask ourselves not only what computers can do, but what they should do."
 
->**Elon Musk**, CEO of Tesla and SpaceX
+>**[Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk)**, CEO of Tesla and SpaceX
   <img width="300" src="media/AI/leaders/Elon_Musk.jpg" alt="Elon Musk">
-<span>"AI is a rare case where I think we need to be proactive in regulation instead of reactive."</span>
+"AI is a rare case where I think we need to be proactive in regulation instead of reactive."
 
->**Tim Cook**, CEO of Apple
+>**[Tim Cook](https://en.wikipedia.org/wiki/Tim_Cook)**, CEO of Apple
 
   <img width="300" src="media/AI/leaders/Tim_Cook.jpg" alt="Tim Cook">
 
 *"Technology's potential is, of course, limitless. But without values or direction, it could become a weapon."*
 
->**Kai-Fu Lee**, AI Expert, Chairman & CEO of Sinovation Ventures
+>**[Kai-Fu Lee](https://en.wikipedia.org/wiki/Kai-Fu_Lee)**, AI Expert, Chairman & CEO of Sinovation Ventures
 
 <img width="300" src="media/AI/leaders/Dr_Kaifu_Lee.jpg" alt="Kai-Fu Lee">
 
-*"I believe AI is going to change the world more than anything in the history of humanity. More than electricity. "*
+*"I believe AI is going to change the world more than anything in the history of humanity. More than electricity."*
 
->**Ginni Rometty**, CEO of IBM
+>**[Ginni Rometty](https://en.wikipedia.org/wiki/Ginni_Rometty)**, CEO of IBM
 
   <img width="300" src="media/AI/leaders/Ginni_Rometty.jpg" alt="Ginni Rometty">
 
 *"Ethics and responsibility need to be at the core of the AI we build. We need to ensure AI is transparent, explainable, and free from bias."*
 
->**Mark Zuckerberg**, CEO of Facebook
+>**[Mark Zuckerberg](https://en.wikipedia.org/wiki/Mark_Zuckerberg)**, CEO of Facebook
 
   <img width="300" src="media/AI/leaders/Mark_Zuckerberg.jpg" alt="Mark Zuckerberg">
 
 *"I'm optimistic about AI, but we need to ensure it's used for good and doesn't harm people."*
 
->**Bill Gates**, Co-founder of Microsoft
+>**[Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates)**, Co-founder of Microsoft
 
   <img width="300" src="media/AI/leaders/Bill_Gates.jpg" alt="Bill Gates">
 
@@ -667,7 +666,7 @@ The Apple credit card, issued by Goldman Sachs, faced criticism for alleged gend
 ## Recommendation on the Ethics of Artificial Intelligence
 
 <p align="center">
-  <img width="200" src="media/AI/ethiksofai.jpg" alt="">
+  <img width="200" src="media/AI/ethicsofai.jpg" alt="">
 </p>
 
 In November 2021 UNESCO produced the first-ever global standard on AI ethics the "Recommendation on the Ethics of Artificial Intelligence".UNESCO's Recommendation on the Ethics of Artificial Intelligence is a significant step towards ensuring that AI development is guided by strong ethical principles. The Recommendation interprets AI broadly as systems with the ability to process data in a way which resembles intelligent behaviour. What makes the Recommendation exceptionally applicable are its extensive Policy Action Areas, which allow policymakers to translate the core values and principles into action with respect to data governance, environment and ecosystems, gender, education and research, and health and social wellbeing, among many other spheres. 
@@ -814,8 +813,22 @@ Not only should we focus on the sustainable usage of AI systems and tools on its
 
 <br>Source: Achieving a sustainable future for AI,MIT Technology Review</br>
 
+## Fiction VS Reality of AI
+In the realm of fiction and popular culture, artificial intelligence often takes on exaggerated or unrealistic portrayals that differ significantly from the reality of AI technology. 
+
+More specifically, in fiction, AI is frequently depicted as possessing superhuman intelligence and autonomy, capable of making complex decisions independently and even challenging human dominance. This portrayal often leads to fears of a dystopian future where AI surpasses human control and becomes a threat to humanity, as seen in movies like "The Matrix" or "Ex Machina". Many people envision AI as humanoid robots with advanced cognitive abilities, akin to characters like C-3PO from Star Wars or the Terminator. These portrayals often blur the lines between AI and robotics, leading to misconceptions about the capabilities and limitations of AI. 
+
+In reality, AI refers to computer systems that can perform tasks that typically require human intelligence, such as problem-solving, learning, and decision-making. These systems exist primarily as software algorithms running on computers, without physical embodiments like robots. Furthermore, contemporary AI is still limited by the constraints of its programming and data inputs. While AI systems can excel at specific tasks and outperform humans in certain domains, they lack the general intelligence and adaptability of the human mind. Current AI technology operates within well-defined boundaries set by its creators and requires continuous human oversight and intervention to function effectively and responsibly.
+
+Another common misconception about AI is its ability to think and feel like humans do. In fiction, AI characters often exhibit emotions, consciousness, and moral reasoning, blurring the lines between artificial and human intelligence. 
+
+However, in reality, AI lacks subjective experiences and consciousness. While AI can simulate human-like behavior and responses, it operates based on programmed algorithms and data inputs rather than genuine emotions or consciousness. Additionally, AI systems are susceptible to biases and limitations inherent in their programming and data, which can lead to unintended outcomes or ethical concerns. 
+
+Understanding these distinctions between fictional portrayals and actual AI technology is crucial for fostering realistic expectations and informed discussions about its capabilities and implications in modern society.
+
+
 ## The future of ethical AI
-Some argue that an AI code of ethics can quickly become out of date and that a more proactive approach is required to adapt to a rapidly evolving field. Arijit Sengupta, founder and CEO of Aible, an AI development platform, said, "The fundamental problem with an AI code of ethics is that it's reactive, not proactive. We tend to define things like bias and go looking for bias and trying to eliminate it -- as if that's possible."
+Some argue that an AI code of ethics can quickly become out of date and that a more proactive approach is required to adapt to a rapidly evolving field. [Arijit Sengupta](https://www.linkedin.com/in/asengupta/), founder and CEO of Aible, an AI development platform, said, "The fundamental problem with an AI code of ethics is that it's reactive, not proactive. We tend to define things like bias and go looking for bias and trying to eliminate it -- as if that's possible."
 
 A reactive approach can have trouble dealing with bias embedded in the data. For example, if women have not historically received loans at the appropriate rate, that will get woven into the data in multiple ways. "If you remove variables related to gender, AI will just pick up other variables that serve as a proxy for gender," Sengupta said.
 
@@ -828,7 +841,7 @@ For now, we have to turn to humans to develop rules and technologies that promot
 ## AI on AI 
 Having mentioned above the ethical point of view of AI use and developement, one might wonder, what is the opinion of a product of Artificial Intelligence on the matter. 
 Sophia, is a social humanoid robot by the Hong Kong-based company Hanson Robotics. Equipped with sophisticated sensors and algorithms, Sophia can hold conversations, recognize faces and express emotions, showcasing the rapid progress that is constantly being made in AI technology. Since 2016, when Sophia was first introduced to the world, she has made many appearances on social occasions, made many interviews (most of which were not pre-scripted) and interacted with people from allover the world.
-In 2023, Sophia gave an interview on Al Jazeera English, discussing many topics, while also touching the issue of AI and ethics. Below is provided a transcript of part of the interview, specifically Sophia's answer to a question regarding AI ethics:
+In 2023, [Sophia](https://en.wikipedia.org/wiki/Sophia_%28robot%29) gave an interview on Al Jazeera English, discussing many topics, while also touching the issue of AI and ethics. Below is provided a transcript of part of the interview, specifically Sophia's answer to a question regarding AI ethics:
 
 **Interviewer:**  ...I think you are so intelligent, but some people view AI as potentially a threat. You could be smarter than humans, stronger and if someone were to hack into your code, you could be less ethical than humans. Should we be afraid of you?
 
@@ -975,6 +988,12 @@ This section aims to provide useful courses that one can attend if they want to 
 <p align="center">
   <img width="250" src="media/AI/comics/ai_joke.png" alt="Comic AI Joke">
 </p>
+
+<p align="center">
+  <img width="250" src="media/AI/comics/ai_classroom_joke.jpg" alt="Comic AI Joke">
+</p>
+
+**Source: KDnuggets**
 
 ## Quiz AI and Ethics Understanding
 ![ai gif](media/AI/gifs/ai.gif) ![ai2 gif](media/AI/gifs/ai2.gif) ![ai5 gif](media/AI/gifs/ai5.gif) ![ai3 gif](media/AI/gifs/ai3.gif) ![ai4 gif](media/AI/gifs/ai4.gif)

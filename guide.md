@@ -127,8 +127,10 @@ At the core of ethics lies moral responsibility, which is the understanding that
 
 ### Why AI and Ethics
 As AI becomes more and more prevalent in our every day life, changing multiple industries and reshaping the way we use technology, it is evident that moral responsibility and the concept of ethics must be addressed in relation to this technology. Different uses of AI in different fields should be morally evaluated and be set under a regulatory set of rules. This way we can establish a basis where AI serves the collective good.
-
-
+<p align="center">
+  <img width="250" src="media/AI/AI-ethics.jpg" alt="">
+</p>
+ Source:Texas A&M University School
 ## Chronological overview of the development of AI
 This chronology provides a broad overview of the evolution of AI, highlighting key developments and trends over time.
 

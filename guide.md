@@ -75,7 +75,7 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
     - [Continuous learning and Improvement](#continuous-learning-and-improvement)
     - [Sustainability](#sustainability)
   - [The future of ethical AI](#the-future-of-ethical-ai)
-  - [The EU AI first regulation act](#the-eu-first-regulation-ai-act)
+  - [The EU AI first regulation act](#the-eu-ai-first-regulation-act)
   - [A Practical Guide to Building Ethical AI](#a-practical-guide-to-building-ethical-ai)
   - [Can AI Help Us In Making This World More Ethical?](#can-ai-help-us-in-making-this-world-more-ethical)
   - [A Guide to Parenting in the era of AI](#a-guide-to-parenting-in-the-ai-era)
@@ -812,7 +812,7 @@ Most people would agree that it is easier and more effective to teach children w
 
 For now, we have to turn to humans to develop rules and technologies that promote responsible AI. Shephard said this includes programming products and offers that protect human interests and are not biased against certain groups, such as minority groups, those with special needs and the poor. The latter is especially concerning as AI has the potential to spur massive social and economic warfare, furthering the divide between those who can afford technology (including human augmentation) and those who cannot.
 
-## The EU AI first regulation act 
+## The EU AI first regulation act
 The European Union (EU) has recently introduced the EU AI Act, marking a significant milestone in the regulation of artificial intelligence (AI) technologies. This  legislation aims to govern the development, deployment, and use of AI systems within the EU, addressing various ethical, legal, and technical aspects.
 
 The EU AI Act defines AI systems and lays out the scope of its application, ensuring that all relevant stakeholders understand the regulations. It distinguishes between different types of AI systems based on their risk levels, with higher-risk systems subject to stricter requirements.

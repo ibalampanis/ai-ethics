@@ -144,7 +144,7 @@ As AI becomes more and more prevalent in our every day life, changing multiple i
 This chronology provides a broad overview of the evolution of AI, highlighting key developments and trends over time.
 
 1. **Pre-1950s: Origins of AI**  
-   * Early concepts and ideas about artificial intelligence emerged in the works of mathematicians and philosophers such as [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing), who proposed the <detail><summary>Turing Test</summary>The Turing test, originally called the imitation game by Alan Turing in 1950,[2] is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human. Turing proposed that a human evaluator would judge natural language conversations between a human and a machine designed to generate human-like responses. </detail> in 1950 as a measure of a machine's intelligence.
+   * Early concepts and ideas about artificial intelligence emerged in the works of mathematicians and philosophers such as [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing), who proposed the Turing Test in 1950 as a measure of a machine's intelligence.
 
 2. **1950s-1960s: Birth of AI**
    * The term "artificial intelligence" was coined by [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)) in 1956 at the Dartmouth Conference, marking the formal beginning of AI as a field of study.
@@ -375,6 +375,28 @@ The dissemination of misinformation has the unfortunate effect of deepening soci
 *Image taken from [https://insidetelecom.com/](https://insidetelecom.com/are-we-living-under-the-impact-of-stereotyping/)*
 
 ### AI in Criminal Justice
+
+####  Basic legislations for AI usage
+
+
+| Legislation        | 
+| ------------- |
+| Data Protection and Privacy Laws    | 
+| Content Regulation and Moderation Laws | 
+| Consumer Protection Laws| 
+|Intellectual Property Laws|
+
+As of my last update in January 2022, there isn't a single comprehensive legislation specifically targeting AI in media across all jurisdictions. However, various existing laws and regulations may apply to the use of AI in media, covering aspects such as data protection, intellectual property, content moderation, consumer protection, and competition.
+
+Here are some key areas of legislation that may impact AI in media:
+
+Data Protection and Privacy Laws: Regulations such as the European Union's General Data Protection Regulation (GDPR) and similar laws in other regions impose requirements on how personal data is collected, processed, and used, including by AI systems used in media platforms.
+
+Content Regulation and Moderation Laws: Laws governing content moderation, such as the EU's Audiovisual Media Services Directive (AVMSD) and national regulations on hate speech, illegal content, and harmful content, may apply to AI systems used by media companies to filter or moderate content.
+
+Consumer Protection Laws: Regulations aimed at protecting consumers from deceptive advertising, unfair business practices, and other forms of exploitation may apply to AI-driven personalized content recommendations and targeted advertising in media.
+
+
 Presumably, if judiciary systems use AI, cases could be evaluated and justice could be applied in a better, faster, and more efficient way. AI methods can potentially have a huge impact in many areas, from the legal professions and the judiciary to aiding the decision-making of legislative and administrative public bodies. Lawyer efficiency and accuracy can be increased in both counseling and litigation and existing software systems for judges can be complemented and enhanced through AI tools in order to support them in drafting new decisions. It is argued that AI could help create a fairer criminal judicial system by making informed decisions devoid of any bias and subjectivity. However, there are many ethical challenges. Firstly, research suggests that the integration of AI in criminal justice may exacerbate existing biases and inequalities, leading to potential injustices in sentencing and policing practices. Furthermore, the opacity of AI algorithms and the lack of human oversight raise concerns about accountability and due process. In other words, there is the possibility that AI decisions are susceptible to inaccuracies, discriminatory outcomes, embedded or inserted bias. And, lastly, there are many concerns for fairness and risk for Human Rights and other fundamental values. Before widespread adoption of AI in criminal justice, careful consideration and robust safeguards are imperative. Ignoring these concerns could lead to unintended consequences and undermine public trust in the justice system. Therefore, it is essential to prioritize ethical design, rigorous testing, and ongoing monitoring to ensure that AI technologies in criminal justice uphold principles of fairness, transparency, and human rights.
 
 <p align="center"> 

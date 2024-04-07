@@ -29,6 +29,7 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
     - [Social Governance](#social-governance)
     - [Misinformation](#misinformation)
     - [AI in Criminal Justice](#ai-in-criminal-justice)
+    - [AI in Journalism](#ai-in-journalism)
     - [Creativity and Ownership](#creativity-and-ownership)
     - [AI in Media](#ai-in-media)
       - [Social Media Content Moderation](#social-media-content-moderation)
@@ -927,6 +928,10 @@ Here is a short guide with advices:
 - Introduce him/her to books, art, music, sports, hobbies and try to engage him/her in daily conversations about topics of interest to enhance creativity, critical thinking, problem-solving and other important skills.
 - Make sure he/she has a balance between screen time and other activities (ex. socializing, playing with family and friends, outdoor activities).
 - Act as a role model, showing your child that AI is a useful tool but it should not be used in excess.
+
+<p align="center">
+  <img width="200" src="media/AI/image_parenting.jpg" alt="">
+</p>
 
 ## A Guide to AI
 

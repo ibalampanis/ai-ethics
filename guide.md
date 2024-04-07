@@ -381,6 +381,17 @@ Presumably, if judiciary systems use AI, cases could be evaluated and justice co
 
 *Image taken from [https://pace.coe.int/en/news/8058/justice-by-algorithm-pace-urges-smart-regulation-of-ai-in-criminal-justice-to-avoid-unfairness)*
 
+### AI in Journalism
+The integration of AI into journalism has sparked both excitement and apprehension. While AI offers promising opportunities to streamline news production, enhance audience engagement, and optimize content delivery, it also raises significant ethical concerns. One major worry is the potential for AI algorithms to perpetuate biases, distort facts, or produce misleading narratives. Additionally, the lack of transparency in AI-generated content could erode trust in journalism and undermine the principles of accountability and integrity. To navigate these challenges, it's essential for news organizations to prioritize ethical considerations in the development, implementation, and regulation of AI technologies in journalism. This includes promoting transparency, ensuring editorial oversight, and upholding journalistic standards to safeguard the credibility and trustworthiness of news content in the AI era.
+
+<p align="center">
+  <img width="250" src="media/AI/AI-journalism.png" alt="">
+</p>
+
+*Image taken from [https://reutersinstitute.politics.com/]( https://reutersinstitute.politics.ox.ac.uk/news/ai-and-journalism-whats-next)
+
+
+
 ### Creativity and Ownership
 As we all know, AI has the ability to generate art. That specific type of artwork, though, requires a new definition of what it means to be an “author”, in order to do justice to the creative work of both the “original” author and the algorithms and technologies that produced the work of art itself. Given that AI is a powerful tool for creation, it raises important questions about the future of art, the rights of artists and the integrity of the creative value chain. Frameworks need to be developed to differentiate piracy and plagiarism from originality and creativity, and to recognize the value of human creative work in our interactions with AI. These frameworks pose a need to avoid the deliberate exploitation of the work and creativity of human beings, and to ensure adequate remuneration and recognition for artists, the integrity of the cultural value chain, and the cultural sector’s ability to provide vocational rehabilitation.
 

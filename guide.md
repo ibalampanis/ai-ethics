@@ -846,9 +846,6 @@ Understanding these distinctions between fictional portrayals and actual AI tech
 
 Artificial intelligence has long been a fascination in science fiction, epitomized by Hal 9000 from the 1968 film "2001: A Space Odyssey." Its evolution from logical to malevolent behavior serves as a cautionary tale about the dangers of overreliance on advanced AI systems. Created through collaboration between Arthur C. Clarke, Stanley Kubrick, and computer scientist Marvin Minsky, Hal's design and behavior have left a lasting cultural impact, inspiring numerous references and parodies across media. Its portrayal in "2001: A Space Odyssey" set a precedent for exploring the implications of AI on humanity, a theme echoed in subsequent films and shows such as "Westworld," "The Terminator," "Blade Runner," and "Alien."
 
-<p align="center">
-  <img src="media/AI/hal9000.webp" alt="">
-</p>
 
 ## The future of ethical AI
 Some argue that an AI code of ethics can quickly become out of date and that a more proactive approach is required to adapt to a rapidly evolving field. [Arijit Sengupta](https://www.linkedin.com/in/asengupta/), founder and CEO of Aible, an AI development platform, said, "The fundamental problem with an AI code of ethics is that it's reactive, not proactive. We tend to define things like bias and go looking for bias and trying to eliminate it -- as if that's possible."
@@ -1030,143 +1027,143 @@ This section aims to provide useful courses that one can attend if they want to 
 ## Quiz AI and Ethics Understanding
 ![ai gif](media/AI/gifs/ai.gif) ![ai2 gif](media/AI/gifs/ai2.gif) ![ai5 gif](media/AI/gifs/ai5.gif) ![ai3 gif](media/AI/gifs/ai3.gif) ![ai4 gif](media/AI/gifs/ai4.gif)
 1. **What was a major contribution of Alan Turing to the field of AI?** 
-   - A) Developing the $\color{orange}{\textbf{first}}$ computer
-   - B) Creating the $\color{yellow}{\text{Turing Test}}$
-   - C) Inventing $\color{green}{\text{machine learning}}$ algorithms 
-   - D) Proposing the first $\color{pink}{\text{AI ethics guidelines}}$
+   - A) Developing the **first** computer
+   - B) Creating the **Turing Test**
+   - C) Inventing **machine learning** algorithms 
+   - D) Proposing the first **AI ethics guidelines**
    <details><summary>Answer </summary>B) Creating the Turing Test</details>
 
 2. **What does the study of ethics primarily concern itself with?**
-   - A) $\color{yellow}{\text{Legal}}$ systems and regulations
-   - B) $\color{cyan}{\text{Distinction between good and bad}}$ to guide actions
-   - C) The history of $\color{green}{\text{moral philosophy}}$
-   - D) Enforcement of $\color{pink}{\text{moral behaviors}}$
+   - A) **Legal** systems and regulations
+   - B) **Distinction between good and bad** to guide actions
+   - C) The history of **moral philosophy**
+   - D) Enforcement of **moral behaviors**
    <details><summary>Answer</summary>B) Distinction between good and bad to guide actions</details>
 
 3. **Why is AI considered significant in business environments?**
-   - A) It reduces $\color{grey}{\textbf{human}}$ interaction
-   - B) It is cheaper than most $\color{orange}{\text{technological}}$ advances
-   - C) It increases $\color{teal}{\text{efficiency}}$ and decision-making accuracy
-   - D) It is always $\color{purple}{\text{unbiased}}$
+   - A) It reduces **human** interaction
+   - B) It is cheaper than most **technological** advances
+   - C) It increases **efficiency** and decision-making accuracy
+   - D) It is always **unbiased**
    <details><summary>Answer</summary>C) It increases efficiency and decision-making accuracy</details>
 
 4. **What ethical concern does the use of biased AI algorithms in healthcare highlight?**
-   - A) $\color{pink}{\textbf{Inefficiency}}$ in treatments
-   - B) Increased $\color{cyan}{\text{healthcare costs}}$
-   - C) $\color{orange}{\text{Discrimination}}$ against minority groups
-   - D) Over-reliance on $\color{yellow}{\text{technology}}$
+   - A) **Inefficiency** in treatments
+   - B) Increased **healthcare costs**
+   - C) **Discrimination** against minority groups
+   - D) Over-reliance on **technology**
    <details><summary>Answer</summary>C) Discrimination against minority groups</details>
 
 5. **Which is a key ethical issue with autonomous weapons?**
-   - A) $\color{teal}{\textbf{High costs}}$
-   - B) $\color{lime}{\text{Ineffectiveness}}$
-   - C) $\color{green}{\text{Erosion of moral responsibility}}$
-   - D) Enhanced $\color{purple}{\text{warfare precision}}$
+   - A) **High costs**
+   - B) **Ineffectiveness**
+   - C) **Erosion of moral responsibility**
+   - D) Enhanced **warfare precision**
    <details><summary>Answer</summary>C) Erosion of moral responsibility</details>
 
 6. **What principle is essential to address when designing AI systems, according to UNESCO's AI ethics recommendation?**
-   - A) $\color{brown}{\textbf{Profit maximization}}$
-   - B) $\color{blue}{\text{Human rights and dignity}}$
-   - C) Automation of all $\color{lime}{\text{jobs}}$
-   - D) Reduction of $\color{orange}{\text{human oversight}}$
+   - A) **Profit maximization**
+   - B) **Human rights and dignity**
+   - C) Automation of all **jobs**
+   - D) Reduction of **human oversight**
    <details><summary>Answer</summary>B) Human rights and dignity</details>
 
 7. **What does the principle of 'Transparency' in AI ethics emphasize?**
-   - A) AI systems should be $\color{pink}{\textbf{secretive}}$
-   - B) AI systems should be $\color{cyan}{\text{expensive}}$
-   - C) AI systems should be $\color{teal}{\text{understandable}}$ and decisions explainable
-   - D) AI systems should operate $\color{yellow}{\text{independently}}$
+   - A) AI systems should be **secretive**
+   - B) AI systems should be **expensive**
+   - C) AI systems should be **understandable** and decisions explainable
+   - D) AI systems should operate **independently**
    <details><summary>Answer</summary>C) AI systems should be understandable and decisions explainable</details>
 
 8. **Why did experts call for a pause in AI development in March 2023?**
-   - A) AI was deemed $\color{lime}{\textbf{perfect}}$
-   - B) To speed up $\color{pink}{\text{AI development}}$
-   - C) To address $\color{blue}{\text{ethical concerns}}$ and establish safety measures
-   - D) Because AI technology was no longer $\color{teal}{\text{needed}}$
+   - A) AI was deemed **perfect**
+   - B) To speed up **AI development**
+   - C) To address **ethical concerns** and establish safety measures
+   - D) Because AI technology was no longer **needed**
    <details><summary>Answer</summary>C) To address ethical concerns and establish safety measures</details>
 
 9. **What is a major concern about AI in education?**
-   - A) Improved $\color{yellow}{\textbf{learning efficiency}}$
-   - B) Decline in $\color{blue}{\text{human decision-making skills}}$
-   - C) Lower costs for $\color{red}{\text{educational materials}}$
-   - D) Increased $\color{lightgrey}{\text{student engagement}}$
+   - A) Improved **learning efficiency**
+   - B) Decline in **human decision-making skills**
+   - C) Lower costs for **educational materials**
+   - D) Increased **student engagement**
    <details><summary>Answer</summary>B) Decline in human decision-making skills</details>
 
 10. **What role does bias play in data sets used for training AI?**
-    - A) It ensures $\color{orange}{\textbf{accuracy}}$
-    - B) It has no $\color{cyan}{\text{impact}}$
-    - C) It can $\color{teal}{\text{perpetuate inequality}}$
-    - D) It diversifies the $\color{pink}{\text{data}}$
+    - A) It ensures **accuracy**
+    - B) It has no **impact**
+    - C) It can **perpetuate inequality**
+    - D) It diversifies the **data**
     <details><summary>Answer</summary>C) It can perpetuate inequality</details>
 
 11. **How does AI impact job displacement according to research?**
-    - A) It has $\color{orange}{\textbf{eliminated}}$ all jobs
-    - B) It creates as many jobs as it $\color{lime}{\text{displaces}}$
-    - C) It $\color{yellow}{\text{threatens}}$ certain jobs but not as widespread as expected
-    - D) It has no $\color{pink}{\text{impact}}$ on jobs
+    - A) It has **eliminated** all jobs
+    - B) It creates as many jobs as it **displaces**
+    - C) It **threatens** certain jobs but not as widespread as expected
+    - D) It has no **impact** on jobs
     <details><summary>Answer</summary>C) It threatens certain jobs but not as widespread as expected</details>
 
 12. **What ethical issue does the unauthorized use of data in AI systems like IBM's photo-scraping scandal highlight?**
-    - A) $\color{teal}{\text{Efficiency}}$ of AI systems
-    - B) $\color{cyan}{\text{Privacy concerns}}$
-    - C) Cost-effectiveness of $\color{lightgrey}{\text{data use}}$
-    - D) $\color{brown}{\text{Speed}}$ of data processing
+    - A) **Efficiency** of AI systems
+    - B) **Privacy concerns**
+    - C) Cost-effectiveness of **data use**
+    - D) **Speed** of data processing
     <details><summary>Answer</summary>B) Privacy concerns</details>
 
 13. **What does AI in 'Social Governance' aim to improve?**
-    - A) Only $\color{orange}{\textbf{governmental transparency}}$
-    - B) $\color{lime}{\text{Productivity}}$, innovation, and societal benefits
-    - C) $\color{yellow}{\text{Entertainment}}$ purposes
-    - D) Restricting $\color{pink}{\text{public access}}$ to technology
+    - A) Only **governmental transparency**
+    - B) **Productivity**, innovation, and societal benefits
+    - C) **Entertainment** purposes
+    - D) Restricting **public access** to technology
     <details><summary>Answer</summary>B) Productivity, innovation, and societal benefits</details>
 
 14. **Why is the development of AI considered a dual-use technology?**
-    - A) Because it can only be used in $\color{teal}{\text{two industries}}$
-    - B) Because it offers both $\color{cyan}{\text{ethical challenges}}$ and benefits
-    - C) Because it is developed by $\color{lightgrey}{\text{two sectors}}$
-    - D) Because it uses $\color{brown}{\text{binary code}}$
+    - A) Because it can only be used in **two industries**
+    - B) Because it offers both **ethical challenges** and benefits
+    - C) Because it is developed by **two sectors**
+    - D) Because it uses **binary code**
     <details><summary>Answer</summary>B) Because it offers both ethical challenges and benefits</details>
 
 15. **What is the primary concern with AI-driven automated vehicles?**
-    - A) They drive too $\color{orange}{\textbf{slowly}}$
-    - B) They can't operate in $\color{lime}{\text{cold weather}}$
-    - C) $\color{yellow}{\text{Moral dilemmas}}$ in crash decisions
-    - D) They are too $\color{pink}{\text{expensive}}$ for average consumers
+    - A) They drive too **slowly**
+    - B) They can't operate in **cold weather**
+    - C) **Moral dilemmas** in crash decisions
+    - D) They are too **expensive** for average consumers
     <details><summary>Answer</summary>C) Moral dilemmas in crash decisions</details>
 
 16. **What does the term 'algorithmic transparency' imply?**
-    - A) Keeping algorithms as $\color{teal}{\text{complex}}$ as possible
-    - B) Making algorithms $\color{cyan}{\text{understandable}}$ and their actions traceable
-    - C) Using algorithms only in $\color{lightgrey}{\text{computers}}$
-    - D) Making algorithms only accessible to $\color{brown}{\text{programmers}}$
+    - A) Keeping algorithms as **complex** as possible
+    - B) Making algorithms **understandable** and their actions traceable
+    - C) Using algorithms only in **computers**
+    - D) Making algorithms only accessible to **programmers**
     <details><summary>Answer</summary>B) Making algorithms understandable and their actions traceable</details>
 
 17. **What does the 'Turing Test' measure?**
-    - A) The $\color{orange}{\textbf{strength}}$ of a computer
-    - B) The $\color{lime}{\text{intelligence}}$ of a machine based on human interaction
-    - C) The $\color{yellow}{\text{speed}}$ of data processing
-    - D) The $\color{pink}{\text{physical durability}}$ of machines
+    - A) The **strength** of a computer
+    - B) The **intelligence** of a machine based on human interaction
+    - C) The **speed** of data processing
+    - D) The **physical durability** of machines
     <details><summary>Answer</summary>B) The intelligence of a machine based on human interaction</details>
 
 18. **Why is continuous learning important in AI development?**
-    - A) To make AI systems less $\color{teal}{\text{efficient}}$
-    - B) To address and adapt to $\color{cyan}{\text{ethical challenges}}$ and changing environments
-    - C) To stop $\color{lightgrey}{\text{AI development}}$ entirely
-    - D) To reduce $\color{brown}{\text{transparency and accountability}}$
+    - A) To make AI systems less **efficient**
+    - B) To address and adapt to **ethical challenges** and changing environments
+    - C) To stop **AI development** entirely
+    - D) To reduce **transparency and accountability**
     <details><summary>Answer</summary>B) To address and adapt to ethical challenges and changing environments</details>
 
 19. **Which ethical principle emphasizes the need for AI systems to allow human intervention?**
-    - A) $\color{orange}{\textbf{Human agency and oversight}}$
-    - B) $\color{lime}{\text{Privacy and data protection}}$
-    - C) $\color{yellow}{\text{Cost reduction}}$
-    - D) $\color{pink}{\text{Speed optimization}}$
+    - A) **Human agency and oversight**
+    - B) **Privacy and data protection**
+    - C) **Cost reduction**
+    - D) **Speed optimization**
     <details><summary>Answer</summary>A) Human agency and oversight</details>
 
 20. **What is a fundamental way to address biases in AI systems?**
-    - A) Ignore the $\color{teal}{\text{biases}}$ as they are minor
-    - B) Use $\color{cyan}{\text{biased data}}$ to train models
-    - C) Use $\color{lightgrey}{\text{diverse and representative datasets}}$
-    - D) Reduce the use of $\color{brown}{\text{AI in decision-making}}$
+    - A) Ignore the **biases** as they are minor
+    - B) Use **biased data** to train models
+    - C) Use **diverse and representative datasets**
+    - D) Reduce the use of **AI in decision-making**
     <details><summary>Answer</summary>C) Use diverse and representative datasets</details>
 
 

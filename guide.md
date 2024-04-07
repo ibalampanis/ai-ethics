@@ -75,6 +75,7 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
     - [Equitable Access](#equitable-access)
     - [Continuous learning and Improvement](#continuous-learning-and-improvement)
     - [Sustainability](#sustainability)
+  - [Fiction VS Reality of AI](#fiction-vs-reality-of-ai)
   - [The future of ethical AI](#the-future-of-ethical-ai)
   - [AI on AI](#ai-on-ai)
   - [The EU AI first regulation act](#the-eu-ai-first-regulation-act)
@@ -811,6 +812,20 @@ Not only should we focus on the sustainable usage of AI systems and tools on its
 </p>
 
 <br>Source: Achieving a sustainable future for AI,MIT Technology Review</br>
+
+## Fiction VS Reality of AI
+In the realm of fiction and popular culture, artificial intelligence often takes on exaggerated or unrealistic portrayals that differ significantly from the reality of AI technology. 
+
+More specifically, in fiction, AI is frequently depicted as possessing superhuman intelligence and autonomy, capable of making complex decisions independently and even challenging human dominance. This portrayal often leads to fears of a dystopian future where AI surpasses human control and becomes a threat to humanity, as seen in movies like "The Matrix" or "Ex Machina". Many people envision AI as humanoid robots with advanced cognitive abilities, akin to characters like C-3PO from Star Wars or the Terminator. These portrayals often blur the lines between AI and robotics, leading to misconceptions about the capabilities and limitations of AI. 
+
+In reality, AI refers to computer systems that can perform tasks that typically require human intelligence, such as problem-solving, learning, and decision-making. These systems exist primarily as software algorithms running on computers, without physical embodiments like robots. Furthermore, contemporary AI is still limited by the constraints of its programming and data inputs. While AI systems can excel at specific tasks and outperform humans in certain domains, they lack the general intelligence and adaptability of the human mind. Current AI technology operates within well-defined boundaries set by its creators and requires continuous human oversight and intervention to function effectively and responsibly.
+
+Another common misconception about AI is its ability to think and feel like humans do. In fiction, AI characters often exhibit emotions, consciousness, and moral reasoning, blurring the lines between artificial and human intelligence. 
+
+However, in reality, AI lacks subjective experiences and consciousness. While AI can simulate human-like behavior and responses, it operates based on programmed algorithms and data inputs rather than genuine emotions or consciousness. Additionally, AI systems are susceptible to biases and limitations inherent in their programming and data, which can lead to unintended outcomes or ethical concerns. 
+
+Understanding these distinctions between fictional portrayals and actual AI technology is crucial for fostering realistic expectations and informed discussions about its capabilities and implications in modern society.
+
 
 ## The future of ethical AI
 Some argue that an AI code of ethics can quickly become out of date and that a more proactive approach is required to adapt to a rapidly evolving field. [Arijit Sengupta](https://www.linkedin.com/in/asengupta/), founder and CEO of Aible, an AI development platform, said, "The fundamental problem with an AI code of ethics is that it's reactive, not proactive. We tend to define things like bias and go looking for bias and trying to eliminate it -- as if that's possible."

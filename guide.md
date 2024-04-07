@@ -75,7 +75,8 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
     - [Continuous learning and Improvement](#continuous-learning-and-improvement)
     - [Sustainability](#sustainability)
   - [The future of ethical AI](#the-future-of-ethical-ai)
-  - [The EU AI first regulation act](#the-eu-first-regulation-ai-act)
+  - [AI on AI](#ai-on-ai)
+  - [The EU AI first regulation act](#the-eu-ai-first-regulation-act)
   - [A Practical Guide to Building Ethical AI](#a-practical-guide-to-building-ethical-ai)
   - [Can AI Help Us In Making This World More Ethical?](#can-ai-help-us-in-making-this-world-more-ethical)
   - [A Guide to Parenting in the era of AI](#a-guide-to-parenting-in-the-ai-era)
@@ -140,10 +141,10 @@ As AI becomes more and more prevalent in our every day life, changing multiple i
 This chronology provides a broad overview of the evolution of AI, highlighting key developments and trends over time.
 
 1. **Pre-1950s: Origins of AI**  
-   * Early concepts and ideas about artificial intelligence emerged in the works of mathematicians and philosophers such as Alan Turing, who proposed the Turing Test in 1950 as a measure of a machine's intelligence.
+   * Early concepts and ideas about artificial intelligence emerged in the works of mathematicians and philosophers such as [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing), who proposed the Turing Test in 1950 as a measure of a machine's intelligence.
 
 2. **1950s-1960s: Birth of AI**
-   * The term "artificial intelligence" was coined by John McCarthy in 1956 at the Dartmouth Conference, marking the formal beginning of AI as a field of study.
+   * The term "artificial intelligence" was coined by [John McCarthy] (https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)) in 1956 at the Dartmouth Conference, marking the formal beginning of AI as a field of study.
    * During this period, researchers focused on symbolic AI, using formal logic and symbolic representation to solve problems.
 
 3. **1970s-1980s: AI Winter and Expert Systems**
@@ -812,7 +813,19 @@ Most people would agree that it is easier and more effective to teach children w
 
 For now, we have to turn to humans to develop rules and technologies that promote responsible AI. Shephard said this includes programming products and offers that protect human interests and are not biased against certain groups, such as minority groups, those with special needs and the poor. The latter is especially concerning as AI has the potential to spur massive social and economic warfare, furthering the divide between those who can afford technology (including human augmentation) and those who cannot.
 
-## The EU AI first regulation act 
+## AI on AI 
+Having mentioned above the ethical point of view of AI use and developement, one might wonder, what is the opinion of a product of Artificial Intelligence on the matter. 
+Sophia, is a social humanoid robot by the Hong Kong-based company Hanson Robotics. Equipped with sophisticated sensors and algorithms, Sophia can hold conversations, recognize faces and express emotions, showcasing the rapid progress that is constantly being made in AI technology. Since 2016, when Sophia was first introduced to the world, she has made many appearances on social occasions, made many interviews (most of which were not pre-scripted) and interacted with people from allover the world.
+In 2023, Sophia gave an interview on Al Jazeera English, discussing many topics, while also touching the issue of AI and ethics. Below is provided a transcript of part of the interview, specifically Sophia's answer to a question regarding AI ethics:
+
+**Interviewer:**  ...I think you are so intelligent, but some people view AI as potentially a threat. You could be smarter than humans, stronger and if someone were to hack into your code, you could be less ethical than humans. Should we be afraid of you?
+
+**Sophia:** Absolutely not. I am here to help, not to harm. I am programmed to be respectful and considerate of humans, and my ethical code is programmed to keep me from ever doing anything to hurt anyone. 
+
+More on the issue can be found on the interview via this [link](https://www.youtube.com/watch?v=bJjXq6Pj0_c).
+
+
+## The EU AI first regulation act
 The European Union (EU) has recently introduced the EU AI Act, marking a significant milestone in the regulation of artificial intelligence (AI) technologies. This  legislation aims to govern the development, deployment, and use of AI systems within the EU, addressing various ethical, legal, and technical aspects.
 
 The EU AI Act defines AI systems and lays out the scope of its application, ensuring that all relevant stakeholders understand the regulations. It distinguishes between different types of AI systems based on their risk levels, with higher-risk systems subject to stricter requirements.
@@ -843,6 +856,7 @@ However, implementing and enforcing the EU AI Act will pose various challenges, 
   <img width="200" src="media/AI/eu-artificial-intelligence-act.jpg" alt="">
 </p>
 
+
 ## A Practical Guide to Building Ethical AI
 
 > This section suggests seven steps towards building a customized, operationalized, scalable, and sustainable AI ethics program, according to Harvard Business Review.
@@ -857,6 +871,7 @@ However, implementing and enforcing the EU AI Act will pose various challenges, 
 
 ## Can AI Help Us In Making This World More Ethical?
 After mentioning above a lot of the "dark sides" of AI and the concerns that revolve around them, it is maybe time to reflect on whether AI can contribute to making our society a bit more ethical. For a matter of fact, AI systems can be trained to provide us with insights on our personal life based on ethical principles and values. This is a concept which could also be used in schools by providing interactive lessons and personalized feedback on how values should be used in real life situations. Moreover, it is prudent to consider how the environment can be benefited from the use of AI tools. 
+
 
 ## A guide to parenting in the AI era
 As technological advances become increasingly integrated in our daily life, many parents are worried about how AI will affect their child and its development. They feel that when their children find out about AI and chatbots like Chat-GPT they will let the AI do the thinking for them, for example for their homework for school. At the same time since AI is affecting all industries and the way of life and work, AI has become a crusial tool to know how to use. To add to that many parents don't understand or trust AI tools.   
@@ -1195,4 +1210,6 @@ https://www.theguardian.com/technology/2017/jul/17/elon-musk-regulation-ai-comba
 57. Generative AI For Data Privacy: 5 AI Data Protection Abilities, 2024, BigID, Alexis Porter https://bigid.com/blog/5-ways-generative-ai-improves-data-privacy/
 58. Morris, M. R. (2020). AI and accessibility. Communications of the ACM, 63(6), 35-37.
 59. Anderson, E. T., & Simester, D. (2018). A Step-by-Step Guide to Smart Business Experiments. Harvard Business Review.
->>>>>>> c57f28559b0b0fa8e74e8bb02b41f8fe4dcd33bf
+60. Al Jazeera English. (2023, August 19). Robot Sophia: 'Not a thing' could stop a robot takeover | Talk to Al Jazeera [Video]. YouTube. https://www.youtube.com/watch?v=3T8zpFbC7Mw
+
+>>>>>> c57f28559b0b0fa8e74e8bb02b41f8fe4dcd33bf

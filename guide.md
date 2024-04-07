@@ -611,8 +611,8 @@ The Apple credit card, issued by Goldman Sachs, faced criticism for alleged gend
 
 >**Satya Nadella**, CEO of Microsoft
 
-<img width="300" src="media/AI/leaders/Satya_Nadella.jpg" alt="Satya Nadella">
-<span>"We need to ask ourselves not only what computers can do, but what they should do."</span>
+<img align="left" width="300" src="media/AI/leaders/Satya_Nadella.jpg" alt="Satya Nadella">
+"We need to ask ourselves not only what computers can do, but what they should do."
 
 >**Elon Musk**, CEO of Tesla and SpaceX
   <img width="300" src="media/AI/leaders/Elon_Musk.jpg" alt="Elon Musk">

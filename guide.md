@@ -993,6 +993,11 @@ This section aims to provide useful courses that one can attend if they want to 
   <img width="250" src="media/AI/comics/ai_classroom_joke.jpg" alt="Comic AI Joke">
 </p>
 
+**Source: theweek**
+<p align="center">
+  <img width="250" src="media/AI/comics/ai-jokes.jpg" alt="Comic AI Joke">
+</p>
+
 **Source: KDnuggets**
 
 ## Quiz AI and Ethics Understanding

@@ -843,9 +843,6 @@ Understanding these distinctions between fictional portrayals and actual AI tech
 
 Artificial intelligence has long been a fascination in science fiction, epitomized by Hal 9000 from the 1968 film "2001: A Space Odyssey." Its evolution from logical to malevolent behavior serves as a cautionary tale about the dangers of overreliance on advanced AI systems. Created through collaboration between Arthur C. Clarke, Stanley Kubrick, and computer scientist Marvin Minsky, Hal's design and behavior have left a lasting cultural impact, inspiring numerous references and parodies across media. Its portrayal in "2001: A Space Odyssey" set a precedent for exploring the implications of AI on humanity, a theme echoed in subsequent films and shows such as "Westworld," "The Terminator," "Blade Runner," and "Alien."
 
-<p align="center">
-  <img src="media/AI/hal9000.webp" alt="">
-</p>
 
 ## The future of ethical AI
 Some argue that an AI code of ethics can quickly become out of date and that a more proactive approach is required to adapt to a rapidly evolving field. [Arijit Sengupta](https://www.linkedin.com/in/asengupta/), founder and CEO of Aible, an AI development platform, said, "The fundamental problem with an AI code of ethics is that it's reactive, not proactive. We tend to define things like bias and go looking for bias and trying to eliminate it -- as if that's possible."

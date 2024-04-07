@@ -29,6 +29,7 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
     - [Social Governance](#social-governance)
     - [Misinformation](#misinformation)
     - [AI in Criminal Justice](#ai-in-criminal-justice)
+    - [AI in Journalism](#ai-in-journalism)
     - [Creativity and Ownership](#creativity-and-ownership)
     - [AI in Media](#ai-in-media)
       - [Social Media Content Moderation](#social-media-content-moderation)

@@ -612,14 +612,11 @@ The Apple credit card, issued by Goldman Sachs, faced criticism for alleged gend
 >**Satya Nadella**, CEO of Microsoft
 
 <img width="300" src="media/AI/leaders/Satya_Nadella.jpg" alt="Satya Nadella">
-
-*"We need to ask ourselves not only what computers can do, but what they should do."*
+<span>"We need to ask ourselves not only what computers can do, but what they should do."</span>
 
 >**Elon Musk**, CEO of Tesla and SpaceX
-
   <img width="300" src="media/AI/leaders/Elon_Musk.jpg" alt="Elon Musk">
-
-  *"AI is a rare case where I think we need to be proactive in regulation instead of reactive."*
+<span>"AI is a rare case where I think we need to be proactive in regulation instead of reactive."</span>
 
 >**Tim Cook**, CEO of Apple
 

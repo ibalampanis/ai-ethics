@@ -533,6 +533,13 @@ The deployment of AI technologies can indeed yield detrimental consequences, as 
 
 **Legal and Ethical Ramification:** Finally, the proliferation of deepfake technology raises complex legal and ethical questions regarding issues such as consent, defamation , and digital rights. Lawmakers and policymakers must grapplse with how to regulate deepfakes effectivel while upholding fundamental principles of privacy and freedom of expression
 
+<p align="center">
+  <img width="250" src="media/AI/ai-deepfakes.png" alt="">
+</p>
+*Image taken from [https:// https://www.mygreatlearning.com/] (https://www.mygreatlearning.com/blog/all-you-need-to-know-about-deepfake-ai/)*
+
+
+
 ## Examples of Controversial AI Applications
 
 This section aims to provide real-life examples of applications and tools that are powered by AI across industries and display morally gray or/and legally undefined territories. These examples showcase the pressing need for ethical considerations and clear regulations in the rapidly evolving and difficult to control field of artificial intelligence. It is important to emphasize that artificial intelligence should work for the common good and to help people and their lives rather than make them question the morality, law compliance or/and safety of its usage which is the case in the examples presented down below.  

@@ -1145,7 +1145,7 @@ Stuart Russell – Penguin
 Paul Scharre - WW Norton & Company
 12. [A citizen’s guide to artificial intelligence](https://mitpress.mit.edu/9780262044813/)  
 John Zerilli, et al. – MIT Press
-13. [Towards a Code of Ethics for Artificial Intelligence](https://link.springer.com/book/10.1007/978-3-319-60648-4)
+13. [Towards a Code of Ethics for Artificial Intelligence](https://link.springer.com/book/10.1007/978-3-319-60648-4) 
 Paula Boddington - Springer
 
 ## References

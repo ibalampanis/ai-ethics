@@ -22,6 +22,7 @@
   * [17. Organic Farming and Local Sourcing](#17-organic-farming-and-local-sourcing)
   * [18. Sustainability For Pet-Owners](#18-sustainability--for-pet-owners)
   * [19. Minimalism](#19-minimalism)
+  * [20. Green Personal Care](#20-green-personal-care)
 * [What are the benefits of Green Living?](#what-are-the-benefits-of-green-living)
 * [Why is it hard for people to adopt greener habits?](#why-is-it-hard-for-people-to-adopt-greener-habits)
 * [Budget-Friendly Tips for Green Living](#budget-friendly-tips-for-green-living)
@@ -194,6 +195,9 @@ Following there are some practical tips to adopt a minimalist lifestyle:
 13. **If it can be digitized, don’t keep the physical copy**
 14. **The 20/20 rule**
 
+## 20. Green Personal Care
+
+Embracing green living extends into the realm of personal care, where the products we use on our bodies and in our homes can have profound environmental impacts. Choosing personal care items that are free from harmful chemicals, packaged in biodegradable or recyclable materials, and produced by ethical companies goes a long way in reducing our ecological footprint. This includes items like shampoos, soaps, toothpaste, and cosmetics. Additionally, many are turning to DIY alternatives, utilizing natural ingredients such as baking soda, vinegar, and essential oils to create homemade beauty remedies that forgo the need for plastic packaging altogether. By incorporating these green practices into our daily routines, we can promote healthier living and a cleaner, more sustainable world.
 
 # What are the benefits of Green Living?
 * Make a difference in pollution by following the above habits.
@@ -331,3 +335,4 @@ Specifically, here some examples of initiatives and practices that contribute to
 17. [Green Technology and its effect on the modern world (2017)](https://www.theseus.fi/handle/10024/125459)
 18. [“Green” standards will ensure safe living environment](https://www.matec-conferences.org/articles/matecconf/pdf/2018/55/matecconf_rsp2018_04022.pdf)
 19. [Jacobs, Michael,October 2012,"“Green” standards will ensure safe living environment"](https://www.cccep.ac.uk/wp-content/uploads/2015/10/WP92-green-growth-economic-theory-political-discourse.pdf)
+20. [Kleiner, J. (2024, February 23). "Green cosmetics: The push for sustainable beauty"](https://www.acme-hardesty.com/green-cosmetics-sustainable-beauty/)

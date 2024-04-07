@@ -195,8 +195,6 @@ Following there are some practical tips to adopt a minimalist lifestyle:
 13. **If it can be digitized, don’t keep the physical copy**
 14. **The 20/20 rule**
 
-* 
-
 ## 20. Green Personal Care
 
 Embracing green living extends into the realm of personal care, where the products we use on our bodies and in our homes can have profound environmental impacts. Choosing personal care items that are free from harmful chemicals, packaged in biodegradable or recyclable materials, and produced by ethical companies goes a long way in reducing our ecological footprint. This includes items like shampoos, soaps, toothpaste, and cosmetics. Additionally, many are turning to DIY alternatives, utilizing natural ingredients such as baking soda, vinegar, and essential oils to create homemade beauty remedies that forgo the need for plastic packaging altogether. By incorporating these green practices into our daily routines, we can promote healthier living and a cleaner, more sustainable world.

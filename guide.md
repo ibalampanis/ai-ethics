@@ -73,6 +73,7 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
     - [Continuous learning and Improvement](#continuous-learning-and-improvement)
     - [Sustainability](#sustainability)
   - [The future of ethical AI](#the-future-of-ethical-ai)
+  - [A Practical Guide to Building Ethical AI](#a-practical-guide-to-building-ethical-ai)
   - [Can AI Help Us In Making This World More Ethical?](#can-ai-help-us-in-making-this-world-more-ethical)
   - [A Guide to AI](#a-guide-to-ai)
   - [Courses on AI and Ethics](#courses-on-ai-and-ethics)
@@ -765,6 +766,18 @@ Most people would agree that it is easier and more effective to teach children w
 
 For now, we have to turn to humans to develop rules and technologies that promote responsible AI. Shephard said this includes programming products and offers that protect human interests and are not biased against certain groups, such as minority groups, those with special needs and the poor. The latter is especially concerning as AI has the potential to spur massive social and economic warfare, furthering the divide between those who can afford technology (including human augmentation) and those who cannot.
 
+## A Practical Guide to Building Ethical AI
+
+> This section suggests seven steps towards building a customized, operationalized, scalable, and sustainable AI ethics program, according to Harvard Business Review.
+
+1. Utilizing existing infrastructure such as a data governance board is essential for establishing an AI ethics program. This ensures that concerns from various stakeholders, including product owners and managers, can be addressed and elevated to relevant executives. 
+2. Crafting a tailored data and AI ethical risk framework specific to the industry is crucial. This framework should outline the company's ethical standards and detail how it will adapt to changing circumstances. It's important to establish KPIs and quality assurance measures to assess the effectiveness of the strategy.
+3. Drawing insights from the healthcare industry's approach to ethical risk mitigation, is also useful. Lessons from healthcare, where concerns like privacy and informed consent have been extensively addressed, can inform ethical practices in data and AI contexts.
+4. Providing detailed guidance and tools for product managers is essential too. Customized tools can aid product managers in making informed decisions based on specific project requirements and regulatory considerations.
+5. Fostering organizational awareness of AI ethics requires comprehensive education and upskilling of employees across departments. This entails creating a culture where employees understand and prioritize ethical considerations in their work.
+6. Incentivizing employees to identify and address AI ethical risks is crucial for upholding organizational values. Financial incentives play a significant role in encouraging ethical behavior and ensuring that ethics programs are effectively implemented and sustained.
+7. Finally, monitoring the impacts of data and AI products on the market is essential, even after initial development and procurement. 
+
 ## Can AI Help Us In Making This World More Ethical?
 After mentioning above a lot of the "dark sides" of AI and the concerns that revolve around them, it is maybe time to reflect on whether AI can contribute to making our society a bit more ethical. For a matter of fact, AI systems can be trained to provide us with insights on our personal life based on ethical principles and values. This is a concept which could also be used in schools by providing interactive lessons and personalized feedback on how values should be used in real life situations. Moreover, it is prudent to consider how the environment can be benefited from the use of AI tools. 
 
@@ -1072,3 +1085,4 @@ https://www.theguardian.com/technology/2017/jul/17/elon-musk-regulation-ai-comba
 53. The benefits of AI in healthcare (July 11, 2023) By IBM Education https://www.ibm.com/blog/the-benefits-of-ai-in-healthcare/
 54. Generative AI in health care: Opportunities, challenges, and policy (January 8, 2024) by Niam Yaraghi https://www.brookings.edu/articles/generative-ai-in-health-care-opportunities-challenges-and-policy/#:~:text=While%20AI%20may%20have%20potential,and%20technological%20and%20practical%20limitations.
 55. Generative AI For Data Privacy: 5 AI Data Protection Abilities, 2024, BigID, Alexis Porter https://bigid.com/blog/5-ways-generative-ai-improves-data-privacy/
+56. Blackman, R. (2020). A Practical Guide to Building Ethical AI. Harvard Business Review. [online] 15 Oct. Available at: https://hbr.org/2020/10/a-practical-guide-to-building-ethical-ai.

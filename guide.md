@@ -533,13 +533,6 @@ The deployment of AI technologies can indeed yield detrimental consequences, as 
 
 **Legal and Ethical Ramification:** Finally, the proliferation of deepfake technology raises complex legal and ethical questions regarding issues such as consent, defamation , and digital rights. Lawmakers and policymakers must grapplse with how to regulate deepfakes effectivel while upholding fundamental principles of privacy and freedom of expression
 
-<p align="center">
-  <img width="250" src="media/AI/ai-deepfakes.png" alt="">
-</p>
-Image taken [here](https://www.mygreatlearning.com/blog/all-you-need-to-know-about-deepfake-ai/)
-
-
-
 ## Examples of Controversial AI Applications
 
 This section aims to provide real-life examples of applications and tools that are powered by AI across industries and display morally gray or/and legally undefined territories. These examples showcase the pressing need for ethical considerations and clear regulations in the rapidly evolving and difficult to control field of artificial intelligence. It is important to emphasize that artificial intelligence should work for the common good and to help people and their lives rather than make them question the morality, law compliance or/and safety of its usage which is the case in the examples presented down below.  
@@ -850,6 +843,9 @@ Understanding these distinctions between fictional portrayals and actual AI tech
 
 Artificial intelligence has long been a fascination in science fiction, epitomized by Hal 9000 from the 1968 film "2001: A Space Odyssey." Its evolution from logical to malevolent behavior serves as a cautionary tale about the dangers of overreliance on advanced AI systems. Created through collaboration between Arthur C. Clarke, Stanley Kubrick, and computer scientist Marvin Minsky, Hal's design and behavior have left a lasting cultural impact, inspiring numerous references and parodies across media. Its portrayal in "2001: A Space Odyssey" set a precedent for exploring the implications of AI on humanity, a theme echoed in subsequent films and shows such as "Westworld," "The Terminator," "Blade Runner," and "Alien."
 
+<p align="center">
+  <img src="media/AI/hal9000.webp" alt="">
+</p>
 
 ## The future of ethical AI
 Some argue that an AI code of ethics can quickly become out of date and that a more proactive approach is required to adapt to a rapidly evolving field. [Arijit Sengupta](https://www.linkedin.com/in/asengupta/), founder and CEO of Aible, an AI development platform, said, "The fundamental problem with an AI code of ethics is that it's reactive, not proactive. We tend to define things like bias and go looking for bias and trying to eliminate it -- as if that's possible."

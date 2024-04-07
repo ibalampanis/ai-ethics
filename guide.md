@@ -10,6 +10,7 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
     - [Why do we use AI?](#why-do-we-use-ai)
     - [Understanding Ethics](#understanding-ethics)
     - [Why AI and Ethics](#why-ai-and-ethics)
+    - [AI Terminology](#ai-terminology)
   - [Chronological overview of the development of AI](#chronological-overview-of-the-development-of-ai)
   - [Ethical Concerns](#ethical-concerns)
     - [Bias and Fairness](#bias-and-fairness)
@@ -20,6 +21,7 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
     - [Algorithmic Transparency](#algorithmic-transparency)
     - [Data Modification](#data-modification)
     - [Environmental Impact](#environmental-impact)
+    - [Impact on Employment](#impact-on-employment)
     - [Security](#security)
     - [Cultural and Social Impact](#cultural-and-social-impact)
     - [Responsibility](#responsibility)
@@ -53,6 +55,7 @@ $\textbf{\color{red}{A}\color{orange}{r}\color{yellow}{t}\color{green}{i}\color{
     - ["The Next Rembrandt" Painting](#the-next-rembrandt-painting)
     - [Financial Fraud with Deepfake](#financial-fraud-with-deepfake)
     - [Air Canada’s Chatbot Controversy](#air-canadas-chatbot-controversy)
+    - [Sports Illustrated Controversy](#sports-illustrated-controversy)
     - [Amazon's Gender-Biased Algorithm Incident](#amazons-gender-biased-algorithm-incident)
     - [Tay, Microsoft's AI Chatbot](#tay-microsofts-ai-chatbot)
     - [Apple Credit Card Gender Discrimination](#apple-credit-card-gender-discrimination)
@@ -146,11 +149,33 @@ As AI becomes more and more prevalent in our every day life, changing multiple i
 </p>
 <br>Source: Texas A&M University School</br>
 
+### AI Terminology
+    
+  * **Artificial Intelligence (AI):** The simulation of human intelligence processes by machines, especially computer systems. These processes include learning, reasoning, and self-correction.
+
+  * **Machine Learning (ML):** A subset of AI that involves training a machine to learn from data, allowing it to improve its performance on a specific task over time without being explicitly programmed.
+
+  * **Deep Learning:** An advanced subset of machine learning that uses layered neural networks to analyze various factors in large volumes of data. Deep learning is key to many AI capabilities, such as speech recognition and image analysis.
+
+  * **Neural Network:** A computer system modeled on the human brain's network of neurons. It consists of layers of nodes that process inputs and can learn to perform tasks by analyzing data.
+
+  * **Natural Language Processing (NLP):** A branch of AI that gives machines the ability to read, understand, and derive meaning from human languages.
+
+  * **Computer Vision:** An AI field that trains computers to interpret and understand the visual world. Machines can accurately identify and classify objects — and then react to what they "see" — through images from cameras, videos, and deep learning models.
+
+  * **Algorithm:** A set of rules or instructions given to an AI, ML model, or other computer programs to help it learn from data and make decisions or predictions.
+
+  * **Bias in AI:** Refers to systematic and unfair discrimination in the outcomes of AI systems. This can stem from biased training data or flawed algorithmic design, leading to unethical or unfair results.
+
+  * **Reinforcement Learning:** A type of machine learning technique that enables an algorithm to learn through trial and error using feedback from its own actions and experiences.
+
+  * **Ethics in AI:** The branch of ethics that examines the moral aspects of technology use, focusing on creating and using AI in ways that ensure fairness, accountability, and transparency.
+
 ## Chronological overview of the development of AI
 This chronology provides a broad overview of the evolution of AI, highlighting key developments and trends over time.
 
 1. **Pre-1950s: Origins of AI**  
-   * Early concepts and ideas about artificial intelligence emerged in the works of mathematicians and philosophers such as [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing), who proposed the <detail><summary>Turing Test</summary>The Turing test, originally called the imitation game by Alan Turing in 1950,[2] is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human. Turing proposed that a human evaluator would judge natural language conversations between a human and a machine designed to generate human-like responses. </detail> in 1950 as a measure of a machine's intelligence.
+   * Early concepts and ideas about artificial intelligence emerged in the works of mathematicians and philosophers such as [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing), who proposed the Turing Test in 1950 as a measure of a machine's intelligence.
 
 2. **1950s-1960s: Birth of AI**
    * The term "artificial intelligence" was coined by [John McCarthy](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)) in 1956 at the Dartmouth Conference, marking the formal beginning of AI as a field of study.
@@ -233,6 +258,16 @@ The vast amounts of data required for AI applications raise concerns about priva
 - **Anonimazation**:
 	Whenever possible, personal data should be anonymized to protect individual's privacy. This involves techniques that remove or encrypte identifying information so that individuals cannot be directly or indirectly identified. Common techniques for anonymization include: Generalazation, Randomization, Masking
 
+- **Unauthorized incorporation of user data**
+	On the usual scenario where a user feeds a generative AI some input-data in the form of a query, there's some chance, that the query will be used later  as a part of the training set of the AI. That means that the same data, can later be displayed on a entirely different user, issuing many problems. The problem scales even faster when the end-user isn't informed about the specific usage of his queries.
+
+- **Limited regulatory bodies and safeguards**
+	Many organizations that work on AI technologies, even when practising safe use policies, hold no responsibility when it comes to standards about their development and use of the AI tools. So the vendors get to decide their own storage and security rules without the slightles interference and in many cases causing IP violations.
+
+- **Limited built-in security features for AI models**
+	Because of the lack of regulations and global standards in the development of AI technologies, many models don't have native cybersecurity safeguards. This makes it easy for evil-users to access sensitive data such as PII
+
+
 <p align="center">
   <img width="200" src="media/AI/privacy.png" alt="">
 </p>
@@ -294,6 +329,17 @@ It is however very challenging to calculate the exact impact of AI in the enviro
 </p>
 
 *Icon made by juicy_fish from [www.flaticon.com](https://www.flaticon.com/)*
+
+### Impact on Employment
+
+In recent years, Artificial Intelligence (AI) has transformed the landscape of employment and the nature of work itself. The automation of routine tasks, once the domain of human labor, has led to significant efficiency gains but also raises concerns about job displacement and the shifting demands of the labor market. As AI continues to evolve, its influence extends beyond simple task automation, affecting highly skilled professions by augmenting decision-making processes and creating new opportunities for innovation and collaboration.
+
+However, this shift comes with its challenges. The potential for AI to replace human jobs has sparked debates on the future of work, emphasizing the need for societies to adapt to these changes. It highlights the importance of reskilling and upskilling initiatives to prepare the workforce for the jobs of tomorrow. Moreover, it underscores the necessity for policymakers and businesses to consider the implications of AI on employment, ensuring that the transition towards an AI-driven economy is inclusive and equitable.
+
+Addressing these issues requires a multi-faceted approach, involving stakeholders from various sectors to implement educational programs, develop new policy frameworks, and foster a culture of continuous learning and adaptation.
+
+As AI becomes increasingly integrated into our daily lives, its impact on employment and the future of work remains a critical area of consideration. By acknowledging these challenges and taking proactive steps, we can harness the potential of AI to enhance productivity and innovation, while also safeguarding the livelihoods of workers across the globe.
+
 
 ### Security
 AI systems can be vulnerable to attacks such as data poisoning, adversarial attacks, and model stealing. Ensuring robust cybersecurity measures is crucial to prevent malicious actors from exploiting AI systems for their gain, which can have wide-ranging consequences on privacy, safety, and trust.
@@ -383,6 +429,28 @@ The dissemination of misinformation has the unfortunate effect of deepening soci
 *Image taken from [https://insidetelecom.com/](https://insidetelecom.com/are-we-living-under-the-impact-of-stereotyping/)*
 
 ### AI in Criminal Justice
+
+####  Basic legislations for AI usage
+
+
+| Legislation        | 
+| ------------- |
+| Data Protection and Privacy Laws    | 
+| Content Regulation and Moderation Laws | 
+| Consumer Protection Laws| 
+|Intellectual Property Laws|
+
+As of my last update in January 2022, there isn't a single comprehensive legislation specifically targeting AI in media across all jurisdictions. However, various existing laws and regulations may apply to the use of AI in media, covering aspects such as data protection, intellectual property, content moderation, consumer protection, and competition.
+
+Here are some key areas of legislation that may impact AI in media:
+
+Data Protection and Privacy Laws: Regulations such as the European Union's General Data Protection Regulation (GDPR) and similar laws in other regions impose requirements on how personal data is collected, processed, and used, including by AI systems used in media platforms.
+
+Content Regulation and Moderation Laws: Laws governing content moderation, such as the EU's Audiovisual Media Services Directive (AVMSD) and national regulations on hate speech, illegal content, and harmful content, may apply to AI systems used by media companies to filter or moderate content.
+
+Consumer Protection Laws: Regulations aimed at protecting consumers from deceptive advertising, unfair business practices, and other forms of exploitation may apply to AI-driven personalized content recommendations and targeted advertising in media.
+
+
 Presumably, if judiciary systems use AI, cases could be evaluated and justice could be applied in a better, faster, and more efficient way. AI methods can potentially have a huge impact in many areas, from the legal professions and the judiciary to aiding the decision-making of legislative and administrative public bodies. Lawyer efficiency and accuracy can be increased in both counseling and litigation and existing software systems for judges can be complemented and enhanced through AI tools in order to support them in drafting new decisions. It is argued that AI could help create a fairer criminal judicial system by making informed decisions devoid of any bias and subjectivity. However, there are many ethical challenges. Firstly, research suggests that the integration of AI in criminal justice may exacerbate existing biases and inequalities, leading to potential injustices in sentencing and policing practices. Furthermore, the opacity of AI algorithms and the lack of human oversight raise concerns about accountability and due process. In other words, there is the possibility that AI decisions are susceptible to inaccuracies, discriminatory outcomes, embedded or inserted bias. And, lastly, there are many concerns for fairness and risk for Human Rights and other fundamental values. Before widespread adoption of AI in criminal justice, careful consideration and robust safeguards are imperative. Ignoring these concerns could lead to unintended consequences and undermine public trust in the justice system. Therefore, it is essential to prioritize ethical design, rigorous testing, and ongoing monitoring to ensure that AI technologies in criminal justice uphold principles of fairness, transparency, and human rights.
 
 <p align="center"> 
@@ -612,6 +680,16 @@ In 2016, a Rembrandt painting, named “the Next Rembrandt”, was designed by a
 
 In February 2024 a finance worker in Hong Kong was scammed $25 million in a video call conference where all attendees were deepfake creations, including the Chief Financial Officer. Initially the worker received a message from the CFO regarding a confidential transaction that was later confirmed on the video call, therefore leading to the authorization of the transfer. 
 Incidents like this indicate the threat posed by ai and deepfake technology regarding financial exploitation, identity theft and deception. As AI becomes more sophisticated and has the ability to create highly convincing video and audio content ethical concerns arise especially surrounding consent and the unauthorized use of one’s image and voice.
+### Sports Illustrated Controversy 
+
+<p align="center">
+  <img width="200" src="media/AI/AI-Generated-Articles.png" alt="">
+</p>
+
+*Image taken from [www.scroll.in](https://scroll.in/article/997898/fake-news-generated-by-artificial-intelligence-can-be-convincing-enough-to-trick-even-experts)*
+
+
+Sports Illustrated was found to be publishing AI generated articles being written by AI generated columnists with fake published bios. Thats why The Arena Group terminated CEO Ross Levinsohn.
 
 ### Air Canada’s Chatbot Controversy
 
@@ -1260,7 +1338,6 @@ John Zerilli, et al. – MIT Press
 46. Khan, I (2024) “An abstract render of AI in digital cyberspace.”  https://www.cnet.com/tech/computing/chatgpt-glossary-42-ai-terms-that-everyone-should-know/ 
 47. Samuel Gibbs (2017) Elon Musk: regulate AI to combat 'existential threat' before it's too late, The Guardian
 https://www.theguardian.com/technology/2017/jul/17/elon-musk-regulation-ai-combat-existential-threat-tesla-spacex-ceo
-<<<<<<< HEAD
 46. Leverhulme Centre for the Future of Intelligence. 12 Books to read about AI Ethics. http://lcfi.ac.uk/news-and-events/news/2021/jun/28/ai-ethics-book-list/
 47. Colema, J (2023) “AI’s Climate Impact Goes beyond Its Emissions”.
 48. Aimee van Wynsberghe (2021),” Sustainable AI: AI for sustainability and the sustainability of AI”
@@ -1272,6 +1349,7 @@ https://www.theguardian.com/technology/2017/jul/17/elon-musk-regulation-ai-comba
 54. Generative AI in health care: Opportunities, challenges, and policy (January 8, 2024) by Niam Yaraghi https://www.brookings.edu/articles/generative-ai-in-health-care-opportunities-challenges-and-policy/#:~:text=While%20AI%20may%20have%20potential,and%20technological%20and%20practical%20limitations.
 55. Generative AI For Data Privacy: 5 AI Data Protection Abilities, 2024, BigID, Alexis Porter https://bigid.com/blog/5-ways-generative-ai-improves-data-privacy/
 56. Blackman, R. (2020). A Practical Guide to Building Ethical AI. Harvard Business Review. [online] 15 Oct. Available at: https://hbr.org/2020/10/a-practical-guide-to-building-ethical-ai.
+<<<<<<< HEAD
 =======
 48. Leverhulme Centre for the Future of Intelligence. 12 Books to read about AI Ethics. http://lcfi.ac.uk/news-and-events/news/2021/jun/28/ai-ethics-book-list/
 49. Colema, J (2023) “AI’s Climate Impact Goes beyond Its Emissions”.
@@ -1289,3 +1367,11 @@ https://www.theguardian.com/technology/2017/jul/17/elon-musk-regulation-ai-comba
 70. Melhart, D. The Ethics of AI in Games, Copenhagen, Denmark
 
 >>>>>> c57f28559b0b0fa8e74e8bb02b41f8fe4dcd33bf
+=======
+57. Morris, M. R. (2020). AI and accessibility. Communications of the ACM, 63(6), 35-37.
+58. Anderson, E. T., & Simester, D. (2018). A Step-by-Step Guide to Smart Business Experiments. Harvard Business Review.
+59. Al Jazeera English. (2023, August 19). Robot Sophia: 'Not a thing' could stop a robot takeover | Talk to Al Jazeera [Video]. YouTube. https://www.youtube.com/watch?v=3T8zpFbC7Mw
+60. AI, Automation, and the Future of Work: Ten Things to Solve For https://www.mckinsey.com/featured-insights/future-of-work/ai-automation-and-the-future-of-work-ten-things-to-solve-for 
+61. Hiter, S. (2023). AI and Privacy Issues: What You Need to Know
+62. 2023 saw a number of AI scandals, demonstrating the need for clearer guidelines for brands and publishers. | Emarketer | https://www.emarketer.com/content/2023-saw-number-of-ai-scandals-demonstrating-need-clearer-guidelines-brands-publishers
+>>>>>>> ab38a486008911a56b3bee2661591677032206c2

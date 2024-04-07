@@ -482,7 +482,7 @@ To address these challenges, future efforts should focus on developing explainab
   <img width="200" src="media/AI/ai+scale.png" alt="">
 </p>
 
-** Image source [here](https://medium.com/notcentralised/balancing-the-scales-a-pragmatic-approach-to-ai-regulation-96c27b8e9e08) **
+**Image source [here](https://medium.com/notcentralised/balancing-the-scales-a-pragmatic-approach-to-ai-regulation-96c27b8e9e08)**
 
 ### AI and Accessibility
 
@@ -666,7 +666,7 @@ The Apple credit card, issued by Goldman Sachs, faced criticism for alleged gend
 ## Recommendation on the Ethics of Artificial Intelligence
 
 <p align="center">
-  <img width="200" src="media/AI/ethiksofai.jpg" alt="">
+  <img width="200" src="media/AI/ethicsofai.jpg" alt="">
 </p>
 
 In November 2021 UNESCO produced the first-ever global standard on AI ethics the "Recommendation on the Ethics of Artificial Intelligence".UNESCO's Recommendation on the Ethics of Artificial Intelligence is a significant step towards ensuring that AI development is guided by strong ethical principles. The Recommendation interprets AI broadly as systems with the ability to process data in a way which resembles intelligent behaviour. What makes the Recommendation exceptionally applicable are its extensive Policy Action Areas, which allow policymakers to translate the core values and principles into action with respect to data governance, environment and ecosystems, gender, education and research, and health and social wellbeing, among many other spheres. 

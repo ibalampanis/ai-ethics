@@ -136,7 +136,7 @@ As AI becomes more and more prevalent in our every day life, changing multiple i
 <p align="center">
   <img width="250" src="media/AI/AI-ethics.jpg" alt="">
 </p>
-<br>Source:Texas A&M University School</br>
+<br>Source: Texas A&M University School</br>
 
 ## Chronological overview of the development of AI
 This chronology provides a broad overview of the evolution of AI, highlighting key developments and trends over time.
@@ -305,7 +305,7 @@ On the first hand, AI seems to be a really convenient technology to implement in
 
 On the other hand, AI is a powerful technology that can be used for malicious purposes. When it comes to cyberattacks AI can be used to create tools more and more sophisticated malware such as AI-driven malware that can adapt to every structure and spread very fast.
 
-<br> Source : AI in Cybersecurity: A double-edged sword </br>
+<br> Source: AI in Cybersecurity: A double-edged sword </br>
 
 ### Cultural and Social Impact
 The deployment of AI systems can have significant cultural and social implications, impacting norms, values, and human interactions. Issues such as cultural biases in AI, representation in datasets, and the effects of AI-driven decisions on marginalized communities need to be addressed to promote inclusivity and fairness.
@@ -419,8 +419,8 @@ The creation, application, and consumption of AI-driven marketing technologies i
 The key stakeholders and their responsibilities accordingly:
 
 *	Business and Marketers: Ensuring respectful and ethical development of AI applications.  
-*	Consumers: Advocacy for privacy and safety rights and fair treatment in marketing practices 
-*	Regulators and Policymakers: responsibility for creating and enforcing laws and regulations that protect consumer rights, prevent deceptive practices, and ensure compliance with data protection standards such as GDPR (General Data Protection Regulation)
+*	Consumers: Advocacy for privacy and safety rights and fair treatment in marketing practices.
+*	Regulators and Policymakers: responsibility for creating and enforcing laws and regulations that protect consumer rights, prevent deceptive practices, and ensure compliance with data protection standards such as GDPR (General Data Protection Regulation).
 *	AI Developers and Researchers: Adherence to ethical guidelines and best practices in AI development, including fairness, transparency, accountability, and avoiding unintended biases or discrimination.
 *	Ethics Committees and Industry Associations: Development of codes of conduct, guidelines, and certification programs to ensure that businesses and marketers adhere to ethical principles in their AI-driven marketing strategies.
 *	Academic and Civil Society Organizations: Contribution to raise awareness about potential risks and ethical concerns associated with AI in marketing and foster public dialogue on the ethical implications of targeted advertising and data-driven marketing strategies.
@@ -482,7 +482,7 @@ To address these challenges, future efforts should focus on developing explainab
   <img width="200" src="media/AI/ai+scale.png" alt="">
 </p>
 
-** Image source = "https://medium.com/notcentralised/balancing-the-scales-a-pragmatic-approach-to-ai-regulation-96c27b8e9e08"
+** Image source [here](https://medium.com/notcentralised/balancing-the-scales-a-pragmatic-approach-to-ai-regulation-96c27b8e9e08) **
 
 ### AI and Accessibility
 
@@ -642,7 +642,7 @@ The Apple credit card, issued by Goldman Sachs, faced criticism for alleged gend
 
 <img width="300" src="media/AI/leaders/Dr_Kaifu_Lee.jpg" alt="Kai-Fu Lee">
 
-*"I believe AI is going to change the world more than anything in the history of humanity. More than electricity. "*
+*"I believe AI is going to change the world more than anything in the history of humanity. More than electricity."*
 
 >**[Ginni Rometty](https://en.wikipedia.org/wiki/Ginni_Rometty)**, CEO of IBM
 
